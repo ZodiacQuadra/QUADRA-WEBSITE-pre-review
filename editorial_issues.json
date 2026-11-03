@@ -1,0 +1,965 @@
+[
+  {
+    "id": "source-recovery",
+    "practice": "Cross-practice",
+    "source_section": "CSG pages 5–7; Google Cloud pages 4–6",
+    "issue": "The supplied csg.txt and gcp_content.txt contain inline truncation markers that omit substantive pages.",
+    "handling": "Recovered and read the omitted text from the complete local JSON payloads the complete source extraction and the complete source extraction. Coverage uses the complete text; no external research or source-file changes.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "source-date",
+    "practice": "Azure",
+    "source_section": "Document version and source manifest",
+    "issue": "The Azure file has a 27 October modification date but the extraction is unchanged from the earlier snapshot.",
+    "handling": "Use the exact source filename and treat this as the same submitted content, not a newly authored version.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "absent-refreshes",
+    "practice": "EAICG",
+    "source_section": "Source scope",
+    "issue": "Refreshed AWS, HCDW and EAICG drafts are absent.",
+    "handling": "AWS and HCDW updates now incorporated. EAICG scope input remains pending; no technical practice scope invented.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "navigation-contract",
+    "practice": "Cross-practice",
+    "source_section": "Recommended information architecture",
+    "issue": "Source drafts request dropdowns, product pages and vendor-led expansions that do not override the approved site plan.",
+    "handling": "Use mockup IDs only. Preserve the six-block practices structure, four connected outcome routes, Platforms & IP under Solutions and Happy Customers. Hub parents are technology; Azure and both Microsoft hubs use microsoft. No CoE-floor routes or new global vendor/IP tabs.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "csg-microsoft-boundary",
+    "practice": "CSG",
+    "source_section": "Page 1 / Why Quadra; Page 3 / Hero; Page 5 / Hero",
+    "issue": "The new draft includes Microsoft in CSG delivery lists, including the recovered CNAPP text. This conflicts with the reconfirmed separation.",
+    "handling": "Removed Microsoft delivery from all CSG copy. CSG remains non-Microsoft. Simple contextual links lead to the separate Microsoft Security page; Microsoft Security delivery remains ISPG. This does not determine shared BluForge brand ownership.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "bluforge-classification",
+    "practice": "CSG / ISPG / AIG / Google Cloud",
+    "source_section": "CSG Page 7; ISPG Intelligent Threat Protection & BluForge; AIG section 4; Google Cloud IP and security sections",
+    "issue": "CSG v2 describes BluForge as an operating model and names Ops/Pulse/Assist/Shield. ISPG describes a managed SOC and cybersecurity platform; AIG describes IntelliGuard and a read-only Microsoft Security Copilot investigation assistant; Google Cloud proposes integrations. These are not reconciled definitions.",
+    "handling": "Retained scoped CSG service components without asserting a new exclusive owner, proprietary-software class, cross-cloud readiness or shared component availability. No separate BluForge page created. Parent should mark the shared brand/component classification OWNER-VALIDATION and reconcile capabilities, commercial scope, product boundaries and ownership before publication.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "defenceiq-classification",
+    "practice": "CSG",
+    "source_section": "Page 8: Cyber Risk, Intelligence & Advisory - DefenceIQ",
+    "issue": "DefenceIQ is a newly submitted advisory proposition, not evidenced proprietary software.",
+    "handling": "Represented as a scoped commercial advisory offer. No software/IP claim or new global navigation entry; confirm offer scope, commercial packaging and public naming.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "csg-slugs",
+    "practice": "CSG",
+    "source_section": "Recommended Website Architecture and page metadata",
+    "issue": "v2 proposes /technology/cyber-security; the historical reference is /technology/cybersecurity. Zero Trust slug changes are also proposed.",
+    "handling": "IDs only; neither a migration nor redirect/canonical policy was selected. Keep the existing URL reference intact until the site owner approves a documented migration decision.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "credential-proof",
+    "practice": "Cross-practice",
+    "source_section": "Azure Proof panel; CSG Credentials, Certifications & Awards; AIG Trust Signals; Google Cloud Credentials Strip",
+    "issue": "Partner tiers, certification counts, awards, customer totals, delivery geography and years of recognition are internal assertions not verified in this task. Sources also conflict: CSG 47 global/54 national/20 years versus Google Cloud 90+ awards and 25 years, with other aggregates.",
+    "handling": "Omitted proof strips, badge claims and numeric credentials. Request dated centrally approved evidence, scope, validity and logo permissions; reconcile corporate versus practice-specific figures before publication.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "csg-oem-evidence",
+    "practice": "CSG",
+    "source_section": "Validated Delivery Expertise; Cybersecurity Awards & Recognition",
+    "issue": "A heading saying Validated is not independent validation. Zscaler DSA, CrowdStrike tiers/certifications, Sophos awards/TAM status, Fortinet certification labels and Barracuda status all need current evidence.",
+    "handling": "Retained supported technology contexts without asserting certifications, programme status, award titles or tier. Marketing and practice owners validate exact programmes, dates, geography and approved artwork.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "aig-certifications",
+    "practice": "AIG",
+    "source_section": "Trust Signals; Independent Management-System Validation; Why Quadra AIG / Independent certification",
+    "issue": "ISO/IEC 42001:2023, ISO/IEC 27001 and ISO 9001 certification claims, AWS Premier/AI competency and Google Premier positioning are unverified.",
+    "handling": "No certification or partner-tier claim appears in copy or SEO. Governance principles remain; require certificates, covered legal entity/scope, validity and approved wording.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "microsoft-brand-terms",
+    "practice": "ISPG",
+    "source_section": "Intelligent Workplace Transformation – Copilot / Changes 1–4",
+    "issue": "The source requests Premier-to-Frontier Partner, 21 years, specialisation badges and Modern Work-to-AI Business Solutions. These are proposed vendor/credential changes, not navigation approval.",
+    "handling": "Kept Microsoft Modern Workplace as the mockup label. Omitted the badge/year claims and proposed practice rename pending current external naming and internal credential evidence.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "microsoft-emerging-products",
+    "practice": "ISPG / Azure / AIG",
+    "source_section": "Frontier Transformation; Cognitive Security and Compliance; Azure strategic topics",
+    "issue": "M365 E7/ME7, Agent 365, Defender for AI and new Microsoft feature names/status are not independently verified here. Foundry, Fabric Data Agents, Fabric apps and ontology also require release-time naming/availability checks.",
+    "handling": "Omitted unverified new SKU/feature assertions and used stable capability wording. Microsoft Foundry is retained from the Azure source as a review-draft label for external reconciliation; no product-renaming claim or preview-to-GA assertion.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "google-product-naming",
+    "practice": "Google Cloud",
+    "source_section": "Pages 1–10 / product names, technology lists and FAQs",
+    "issue": "Source claims Vertex AI is now Gemini Enterprise Agent Platform; uses Data Studio, Gemini Notebook Enterprise, Agent Studio, Managed Agents API, Agent Inbox, Workflow Builder, Agentic Data Cloud and Antigravity-related assertions. Status and naming may differ.",
+    "handling": "Avoided the rename FAQ and unsupported current-name/availability assertions. Used Google Cloud AI services, Gemini, BigQuery and capability-level descriptions pending the separate external-validation agent. No vendor naming change drives global navigation.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "google-security-integration",
+    "practice": "Google Cloud",
+    "source_section": "Page 8 Security & Governance; Accelerating Outcomes with Quadra IP",
+    "issue": "Wiz, Model Armor, Google Threat Intelligence/Mandiant and BluForge integration statements may imply validated packaging, authorisation or delivery readiness.",
+    "handling": "Retained supported security architecture scope while omitting unverified integration readiness and provider partnership assertions. Confirm selected products, licences, availability and implementation evidence; no ownership decision inferred.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "migration-assurances",
+    "practice": "Google Cloud / ISPG",
+    "source_section": "Google Cloud Zero-Downtime Delivery, infrastructure and proof sections; IntelliCloud migration result lines",
+    "issue": "Zero downtime, no disruption, no surprises and on-schedule delivery are presented too broadly.",
+    "handling": "Replaced with dependency assessment, phased execution, validation and agreed cutover/interruption windows. Source-specific customer results were not generalised or rewritten.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "ai-quality-assurances",
+    "practice": "Google Cloud / AIG",
+    "source_section": "AI challenge, outcomes and governance sections",
+    "issue": "Grounding, agents or safety features cannot substantiate no hallucinations, perfect accuracy, automatic audit readiness or guaranteed governance.",
+    "handling": "Used evaluation, approved context, access controls, monitoring and human-review language. No zero-hallucination or unconditional safety promise; confirm evaluation methods for any future quantified claim.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "cost-performance-assurances",
+    "practice": "Google Cloud / Azure / AIG",
+    "source_section": "Business Outcomes; database hero; FinOps; release-cycle claims",
+    "issue": "Predictable cost, eliminated licence cost, lower TCO, faster releases and ROI cannot be guaranteed by the technology choice alone.",
+    "handling": "Retained cost visibility, model/workload selection, right-sizing, performance tuning and baseline-based measurement. Omitted guaranteed savings, universal availability and fixed improvement figures.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "service-commitments",
+    "practice": "CSG / ISPG / Google Cloud / Azure",
+    "source_section": "Managed services, MDR/MXDR and response sections",
+    "issue": "24/7 coverage, SLA-backed response, continuous response authority and fully automated remediation are not independently established.",
+    "handling": "No invented SLA or universal 24/7 promise. Defined scope, coverage, escalation and authorisation as engagement dependencies; distinguished monitoring, recommendation and approved response.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "commercial-promotions",
+    "practice": "Google Cloud / ISPG / AIG",
+    "source_section": "Google Cloud managed final CTA; IntelliCloud readiness CTA; AI Advisory & Architecture",
+    "issue": "The sources propose one month complimentary managed coverage, a free hybrid assessment and a typical three-week AIM assessment. Eligibility, inclusions and capacity are unconfirmed.",
+    "handling": "Removed free/automatic-eligibility and fixed-duration claims. CTAs request a scope discussion. Owner must approve offer terms and delivery commitments before any timed or free programme is advertised.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "launchpad-offer-boundary",
+    "practice": "Azure",
+    "source_section": "Azure AI Launchpad: 1:1 Discovery to Solution Roadmap",
+    "issue": "The submitted Azure copy frames Launchpad as 1:1 discovery; historical structural evidence mentions a two-day Marketplace workshop. These are not automatically the same commercial offer.",
+    "handling": "Kept discovery outputs without importing historical duration, pricing, funding or Marketplace eligibility. Confirm one approved offer definition and CTA target before publishing.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "legal-readiness",
+    "practice": "CSG / AIG / Google Cloud / ISPG",
+    "source_section": "Compliance, DPDPA/DPDP and EU AI Act sections",
+    "issue": "Audit-ready, automatically compliant or certified outcomes require qualified legal and control context.",
+    "handling": "Retained readiness, control mapping, evidence and remediation language. Applicable requirements depend on customer role, jurisdiction and use case. No legal certification or automatic compliance claim.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "customer-proof-immutable",
+    "practice": "AIG / Google Cloud / Azure",
+    "source_section": "AIG section 7 outcome table; Google Cloud Featured Success Stories and proof points; Azure case-study pattern",
+    "issue": "Submitted customer narratives and numerical outcomes need evidence and publication permission; the user requires existing Happy Customers records and naming untouched.",
+    "handling": "Excluded customer story paragraphs, anonymous rewritten proof and metrics from practice pages. Linked only the existing Happy Customers library by mockup ID. No original case record read-modified, rewritten or invented; request exact approved record links separately.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "aig-ip-boundaries",
+    "practice": "AIG",
+    "source_section": "Platforms, Products and New IP Portfolio",
+    "issue": "Intellient, IntelliLink, IntelliSphere, IntelliAssure and IntelliXperience have draft descriptions but no reconciled maturity/ownership/availability register. AIR and Customer Zero are mixed into the same portfolio.",
+    "handling": "Use the supplied v1.3 platform descriptions after the user closed the referenced decisions. AIR now uses the innovation-engine description in AIG copy. Other product maturity and publication evidence checks remain separate; no independent capability verification is implied.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "ispg-ip-boundaries",
+    "practice": "ISPG",
+    "source_section": "MigrationX; ThreatDoctor; DefendX; SCCMInsightsX; IntelliCloud",
+    "issue": "The source names these items without sufficient product specifications, proof of ownership, maturity or approved commercial definitions.",
+    "handling": "Retained contextual names without inventing functionality, software ownership, standalone product pages or new menu entries. Confirm naming, category, deliverables and relationships to existing offerings.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "governance-distinction",
+    "practice": "AIG / CSG / ISPG",
+    "source_section": "IntelliSphere; CSG AI Security & Governance; Microsoft Security",
+    "issue": "Similar governance and security language could collapse three different scopes.",
+    "handling": "AIG content covers AI identity, policy, evaluation, observability and lifecycle; CSG covers non-Microsoft cyber exposure and controls; Microsoft-specific security links to ISPG. Shared naming, especially BluForge components, still needs owner reconciliation.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "aig-editorial-structure",
+    "practice": "AIG",
+    "source_section": "Sections 5–7; duplicated Quadra AIR and BluForge IntelliGuard descriptions",
+    "issue": "Section 6 repeats the reference-architecture title but contains governance. Section 7 is labelled Governance, Security and Responsible AI but contains customer proof. AIR and IntelliGuard repeat with varying descriptions.",
+    "handling": "Mapped by substantive content rather than treating erroneous titles as new capabilities. Deduplicated conceptual content; withheld proof and flagged contradictory IntelliGuard/platform descriptions for owner validation.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "ispg-screenshots",
+    "practice": "ISPG",
+    "source_section": "Copilot change notes; Cognitive Security; Intelligent Threat Protection & BluForge",
+    "issue": "The extraction references screenshots and a separate SOC mockup. The image-only text and linked mockup were not supplied as readable content for this task.",
+    "handling": "Used the text submission only; did not infer badge details or hidden image copy. Verify these visuals and referenced material before final publication; no fetched external content.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "startup-eligibility",
+    "practice": "Google Cloud",
+    "source_section": "Google Cloud for Startups",
+    "issue": "Programme credits, partner status and passing enterprise due diligence are not entitlements or assured outcomes.",
+    "handling": "Retained programme navigation, architecture, AI development, cost and support scope. Provider eligibility and terms qualify programme access; no credit amount, acceptance guarantee or partner-tier assertion.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "brand-tone",
+    "practice": "Cross-practice",
+    "source_section": "Hero, outcomes and marketing superlatives",
+    "issue": "Agentic-everywhere, superhuman, machine-speed, industry-first and superlative proof can obscure practical value or exceed evidence.",
+    "handling": "Used ambitious outcome-led headlines with technical delivery, operating continuity and relevant controls. No invented testimonials, awards or universal superiority claims. Architecting Ambition / Building Intelligent Enterprises / Cloud. AI. Security. One Architect. retain their distinct masterbrand roles in the parent shell.",
+    "needs_owner_confirmation": false
+  },
+  {
+    "id": "max-it-category",
+    "practice": "Azure / Google Cloud",
+    "source_section": "Managed services; Accelerating Outcomes with Quadra IP",
+    "issue": "Max-IT is used both as a managed-service name and a software/platform description. Quadra AIMS in Google Cloud and Quadra AIM in AIG are also distinct source strings.",
+    "handling": "Managed-service copy uses Max-IT without inventing platform functions. No silent AIM/AIMS merge; the Google Cloud AIMS card is deferred to the portfolio-definition review.",
+    "needs_owner_confirmation": true
+  },
+  {
+    "id": "aig-v1.3-D-01",
+    "practice": "AIG",
+    "source_document": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+    "issue": "AI Security & Unified SecOps capability scope",
+    "handling": "User confirmed D-01 to D-06 are sorted out; apply supplied replacement copy. No missing closing line invented and no subpages deleted.",
+    "needs_owner_confirmation": false,
+    "status": "closed_by_user"
+  },
+  {
+    "id": "aig-v1.3-D-02",
+    "practice": "AIG",
+    "source_document": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+    "issue": "BluForge IntelliGuard as unified security platform",
+    "handling": "User confirmed D-01 to D-06 are sorted out; apply supplied replacement copy. No missing closing line invented and no subpages deleted.",
+    "needs_owner_confirmation": false,
+    "status": "closed_by_user"
+  },
+  {
+    "id": "aig-v1.3-D-03",
+    "practice": "AIG",
+    "source_document": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+    "issue": "AIR as an innovation/validation engine",
+    "handling": "User confirmed D-01 to D-06 are sorted out; apply supplied replacement copy. No missing closing line invented and no subpages deleted.",
+    "needs_owner_confirmation": false,
+    "status": "closed_by_user"
+  },
+  {
+    "id": "aig-v1.3-D-05",
+    "practice": "AIG",
+    "source_document": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+    "issue": "Multi-cloud closing line",
+    "handling": "User confirmed D-01 to D-06 are sorted out; apply supplied replacement copy. No missing closing line invented and no subpages deleted.",
+    "needs_owner_confirmation": false,
+    "status": "closed_by_user"
+  },
+  {
+    "id": "aig-v1.3-D-06",
+    "practice": "AIG",
+    "source_document": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+    "issue": "Retain or consolidate detail pages",
+    "handling": "User confirmed D-01 to D-06 are sorted out; apply supplied replacement copy. No missing closing line invented and no subpages deleted.",
+    "needs_owner_confirmation": false,
+    "status": "closed_by_user"
+  },
+  {
+    "id": "AWS-01",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra helps organizations plan, migrate, modernize, secure, and operate their AWS environments. Our certified cloud professionals combine architecture expertise, automation, managed operations, data capabilities, and Agentic AI to help customers achieve faster transformation and sustained business value.",
+    "replacement": "Quadra helps organizations plan, migrate, modernize, secure, and operate their AWS environments. Our cloud professionals combine architecture expertise, automation, managed operations, data capabilities, and Agentic AI to help customers achieve faster transformation and sustained business value.",
+    "reason": "Certification wording held pending owner evidence; service scope and architecture-to-operations continuity retained.",
+    "target_id": "aws",
+    "section_id": null,
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-02",
+    "type": "owner_verification",
+    "source_excerpt": "4 AWS Competencies",
+    "replacement": null,
+    "reason": "Not independently validated. Keep out of marketing copy until the AWS practice owner provides current, applicable evidence.",
+    "target_id": "aws",
+    "section_id": null,
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-03",
+    "type": "owner_verification",
+    "source_excerpt": "4 AWS Partner Programs",
+    "replacement": null,
+    "reason": "Not independently validated. Keep out of marketing copy until the AWS practice owner provides current, applicable evidence.",
+    "target_id": "aws",
+    "section_id": null,
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-04",
+    "type": "owner_verification",
+    "source_excerpt": "120+ AWS Certifications",
+    "replacement": null,
+    "reason": "Not independently validated. Keep out of marketing copy until the AWS practice owner provides current, applicable evidence.",
+    "target_id": "aws",
+    "section_id": null,
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-05",
+    "type": "grammar_edit",
+    "source_excerpt": "Sustained application value reduced technical debt, improved performance, and continuous alignment with business priorities.",
+    "replacement": "Sustained application value, reduced technical debt, improved performance, and continuous alignment with business priorities.",
+    "reason": "Repair missing comma; retain all stated outcomes.",
+    "target_id": "aws-apps",
+    "section_id": "aws-apps-continuous-modernization",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-06",
+    "type": "copy_edit",
+    "source_excerpt": "Traditional assistants can answer questions, but complex business processes require AI that can reason, maintain context, use approved tools, and execute coordinated actions. Quadra helps organizations design secure and governed AI solutions that connect enterprise knowledge, applications, people, and workflows.",
+    "replacement": "Traditional assistants can answer questions, but complex business processes require AI that can reason, maintain context, use approved tools, and execute coordinated actions. Quadra helps organizations design secure and governed AI solutions that connect enterprise knowledge, applications, people, and workflows. Actions are constrained by tool permissions and approval requirements.",
+    "reason": "Make authorization boundaries explicit without implying unrestricted agent actions.",
+    "target_id": "aws",
+    "section_id": "aws-capability-agentic-ai",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-07",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra helps organizations move beyond standalone chatbots and assistants by building secure, context-aware AI agents capable of understanding goals, using approved tools, and coordinating multi-step actions.",
+    "replacement": "Quadra helps organizations move beyond standalone chatbots and assistants by building secure, context-aware AI agents capable of understanding goals, using approved tools, and coordinating multi-step actions. Agents operate within defined permissions, approval requirements and monitoring controls.",
+    "reason": "Make approved-tool, permission and human-control boundaries explicit.",
+    "target_id": "aws-agentic-ai",
+    "section_id": null,
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-08",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra builds intelligent agents that connect with authorized enterprise knowledge, applications, APIs, databases, and business tools to reason, maintain context, support decisions, and execute governed actions.",
+    "replacement": "Quadra builds intelligent agents that connect with authorized enterprise knowledge, applications, APIs, databases, and business tools to reason, maintain context, support decisions, and execute governed actions. Tool use and system changes stay within authorized permissions and required human approvals.",
+    "reason": "Scope agent actions to approved tools, permissions and human approvals.",
+    "target_id": "aws-agentic-ai",
+    "section_id": "aws-agentic-ai-connected-agents",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-09",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra designs coordinated agentic workflows where specialized agents work together across different tasks while retaining human approvals for high-risk, regulated, or business-critical decisions.",
+    "replacement": "Quadra designs coordinated agentic workflows where specialized agents work together across different tasks while retaining human approvals for high-risk, regulated, or business-critical decisions. Tool use and system changes stay within authorized permissions and required human approvals.",
+    "reason": "Scope agent actions to approved tools, permissions and human approvals.",
+    "target_id": "aws-agentic-ai",
+    "section_id": "aws-agentic-ai-workflow-automation",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-10",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra introduces AI-powered and agentic experiences across business and engineering workflows, helping employees access knowledge, analyze information, create business deliverables, initiate workflows, develop applications, test solutions, and automate repetitive activities.",
+    "replacement": "Quadra introduces AI-powered and agentic experiences across business and engineering workflows, helping employees access knowledge, analyze information, create business deliverables, initiate workflows, develop applications, test solutions, and automate repetitive activities. Tool use and system changes stay within authorized permissions and required human approvals.",
+    "reason": "Scope agent actions to approved tools, permissions and human approvals.",
+    "target_id": "aws-agentic-ai",
+    "section_id": "aws-agentic-ai-employee-engineering-productivity",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-11",
+    "type": "owner_verification",
+    "source_excerpt": "Always On. Always Optimizing.",
+    "replacement": "Operate Reliably. Keep Optimizing.",
+    "reason": "Removed unconditional always-on promise; operations coverage requires an agreed service scope.",
+    "target_id": "aws",
+    "section_id": "aws-capability-managed",
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-12",
+    "type": "owner_verification",
+    "source_excerpt": "Cloud environments require continuous monitoring, optimization, governance, and operational improvement. Quadra combines certified cloud expertise, intelligent automation, proactive operations, and AI-driven analysis to improve service reliability, security, performance, and cost efficiency.",
+    "replacement": "Cloud environments require continuous monitoring, optimization, governance, and operational improvement. Quadra combines cloud expertise, intelligent automation, proactive operations, and AI-driven analysis to improve service reliability, security, performance, and cost efficiency.",
+    "reason": "Certification status requires owner verification; retain Max-IT as the source service brand, not an owned software product.",
+    "target_id": "aws",
+    "section_id": "aws-capability-managed",
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-13",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra combines 24x7 operations, certified cloud expertise, automation, Agentic AI, security, resilience, and cost management to help customers operate AWS environments reliably and efficiently.",
+    "replacement": "Quadra combines cloud operations, cloud expertise, automation, Agentic AI, security, resilience, and cost management to help customers operate AWS environments reliably and efficiently. Monitoring, response, escalation and authorized actions are defined by the agreed service scope.",
+    "reason": "Hold 24x7 and certified claims for owner verification; retain architecture-to-operations service intent without a universal SLA.",
+    "target_id": "aws-managed",
+    "section_id": null,
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-14",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra provides continuous monitoring, incident response, patching, backup management, operational governance and automated remediation. Service levels and escalation procedures provide accountability for availability and response.",
+    "replacement": "Quadra provides monitoring, incident response, patching, backup management, operational governance and approved automated remediation within the agreed service scope. Coverage, service levels, response targets and escalation procedures are agreed for the supported environment.",
+    "reason": "Continuous service and SLA wording requires coverage, response and escalation terms; remediation must be authorized.",
+    "target_id": "aws-managed",
+    "section_id": "aws-managed-cloudops",
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-15",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra delivers continuous security monitoring, risk prioritization, vulnerability management, incident coordination, compliance tracking, and remediation guidance.",
+    "replacement": "Quadra delivers security monitoring within agreed coverage, risk prioritization, vulnerability management, incident coordination, compliance tracking, and remediation guidance.",
+    "reason": "Do not imply universal continuous staffed service; coverage belongs in the service agreement.",
+    "target_id": "aws-managed",
+    "section_id": "aws-managed-secops",
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-16",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra monitors cloud consumption, investigates unusual spending, identifies idle and oversized resources, evaluates commitment options and provides actionable monthly recommendations.",
+    "replacement": "Quadra monitors cloud consumption, investigates unusual spending, identifies idle and oversized resources, evaluates commitment options and provides actionable recommendations at an agreed cadence.",
+    "reason": "Confirm reporting cadence with the service owner rather than publishing a universal monthly commitment.",
+    "target_id": "aws-managed",
+    "section_id": "aws-managed-finops",
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-17",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra implements continuous monitoring and intelligent correlation to identify suspicious activity, connect related events, support investigations, and initiate approved response workflows.",
+    "replacement": "Quadra implements continuous monitoring and intelligent correlation to identify suspicious activity, connect related events, support investigations, and initiate approved response workflows. Monitoring coverage and escalation responsibilities are agreed for the supported environment.",
+    "reason": "Keep monitoring implementation distinct from an unqualified always-on managed response promise.",
+    "target_id": "aws-security",
+    "section_id": "aws-security-threat-detection-response",
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-18",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra helps organizations begin with proven AI patterns and adapt them to their processes, data, applications, controls, and operational requirements.",
+    "replacement": "Explore nine proposed AI workflow opportunities. Quadra can adapt these patterns to customer processes, data, rules, applications, integrations, controls and operational requirements, with human review. Scope and suitability are assessed before implementation.",
+    "reason": "Remove unsupported proven/readiness claim; clearly frame all nine as proposed, customer-specific opportunities, not shipped products.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": null,
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-19",
+    "type": "heading_edit",
+    "source_excerpt": "Ready-to-Deploy AI Solutions",
+    "replacement": "AI Solutions for Business Workflows",
+    "reason": "Readiness not independently established. Preserve all nine examples under a non-product, non-readiness heading.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": null,
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-20",
+    "type": "heading_edit",
+    "source_excerpt": "Accelerate Adoption with Business-Ready Use Cases",
+    "replacement": "Accelerate Adoption with Business Workflow Opportunities",
+    "reason": "Business-ready would imply validated deployment readiness; proposed opportunities preserve source ambition.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": null,
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-21",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra automates repeatable onboarding activities while maintaining appropriate validation and human approval for exceptions and risk-sensitive decisions.",
+    "replacement": "Quadra automates repeatable onboarding activities while maintaining appropriate validation and human approval for exceptions and risk-sensitive decisions. Connected tools and system updates operate only within authorized permissions and approval requirements.",
+    "reason": "Make permission boundaries and approvals explicit for workflow actions.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": "aws-ai-use-cases-merchant-onboarding",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-22",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra extracts and organizes information from submissions, supporting documents, and approved data sources to provide underwriters with a structured view for assessment.",
+    "replacement": "Quadra extracts and organizes information from submissions, supporting documents, and approved data sources to provide underwriters with a structured view for assessment. The workflow supports human underwriters; eligibility, risk assessment and final decisions remain with authorized humans. It does not make autonomous eligibility or credit-scoring decisions.",
+    "reason": "Protect consequential insurance and lending decisions: extraction and organization support human review, never automated approval or scoring.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": "aws-ai-use-cases-insurance-underwriting",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-23",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra extracts, organizes, validates, and summarizes applicant information for review while keeping final approval with authorized decision-makers.",
+    "replacement": "Quadra extracts, organizes, validates, and summarizes applicant information for review while keeping final approval with authorized decision-makers. The workflow supports human underwriters; eligibility, risk assessment and final decisions remain with authorized humans. It does not make autonomous eligibility or credit-scoring decisions.",
+    "reason": "Protect consequential insurance and lending decisions: extraction and organization support human review, never automated approval or scoring.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": "aws-ai-use-cases-loan-underwriting",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-24",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra automates repeatable onboarding and access activities based on approved roles and policies while maintaining approvals and audit records.",
+    "replacement": "Quadra automates repeatable onboarding and access activities based on approved roles and policies while maintaining approvals and audit records. Connected tools and system updates operate only within authorized permissions and approval requirements.",
+    "reason": "Make permission boundaries and approvals explicit for workflow actions.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": "aws-ai-use-cases-employee-onboarding",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-25",
+    "type": "copy_edit",
+    "source_excerpt": "Quadra introduces secure AI-powered work experiences that help employees use enterprise information, perform analysis, prepare content, and initiate approved workflows.",
+    "replacement": "Quadra introduces secure AI-powered work experiences that help employees use enterprise information, perform analysis, prepare content, and initiate approved workflows. Connected tools and system updates operate only within authorized permissions and approval requirements.",
+    "reason": "Make permission boundaries and approvals explicit for workflow actions.",
+    "target_id": "aws-ai-use-cases",
+    "section_id": "aws-ai-use-cases-work-automation",
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-26",
+    "type": "editorial_convention",
+    "source_excerpt": "Faster data center exits, reduced migration complexity, lower operational risk, and a secure AWS foundation ready for growth.",
+    "replacement": "Outcomes to work toward: Faster data center exits, reduced migration complexity, lower operational risk, and a secure AWS foundation ready for growth.",
+    "reason": "Apply the same outcome prefix to every overview and detail outcome statement. Outcomes remain source-faithful ambitions, not guarantees, customer proof or measured results.",
+    "target_id": "aws",
+    "section_id": null,
+    "status": "review_edit",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-27",
+    "type": "owner_verification",
+    "source_excerpt": "Quadra uses an in-house assessment accelerator to evaluate cloud environments against architecture best practices across operations, security, reliability, performance, cost and sustainability.",
+    "replacement": "Retained as an assessment method, without a new product name or ownership assertion.",
+    "reason": "Confirm method availability and delivery scope with the service owner; do not recast as a separately owned software product.",
+    "target_id": "aws-managed",
+    "section_id": "aws-managed-architecture-assessment",
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "AWS-28",
+    "type": "owner_verification",
+    "source_excerpt": "Managed Services | Max-IT",
+    "replacement": "Managed Services | Max-IT",
+    "reason": "Retain the supplied service brand. Validate naming and service scope with its owner; no assumption of proprietary software or commercial product readiness.",
+    "target_id": "aws-managed",
+    "section_id": null,
+    "status": "owner_verification_required",
+    "source_document": "AWS Web Site Content Update - Oct2026 Ver1.2.docx"
+  },
+  {
+    "id": "HCDW-01",
+    "practice": "HCDW",
+    "shared_practices": [],
+    "type": "source_provenance",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "Document metadata",
+    "issue": "The core creation timestamp is 2026-11-02T04:03:00Z, later than the modification timestamp 2026-11-02T01:42:00Z and the current receipt context.",
+    "handling": "Use received 2 November 2026 as provenance. The full original Word document and supplied text were read; neither metadata timestamp is used to infer chronology.",
+    "needs_owner_confirmation": false,
+    "status": "resolved_in_draft",
+    "proposed_decision_owners": [
+      "Content owner"
+    ],
+    "question": "Retain the receipt date in the source manifest.",
+    "evidence_requested": "Original input filename and receipt context.",
+    "decision_needed": "Record source_received_date=2026-11-02; do not silently choose the creation timestamp.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-infrastructure",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-02",
+    "practice": "HCDW",
+    "shared_practices": [],
+    "type": "architecture_classification",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "2.3; section 3 suggested placement",
+    "issue": "Four blueprint pillars and three vendor tabs could be mistaken for new practices, global navigation branches or proprietary products.",
+    "handling": "Retain four existing page IDs and parents; add only three capability detail pages under hcdw-resilience. The fourth pillar links into resilience. HCDW is a practice; the six details are capabilities; vendor products are OEM platforms; assessments are scoped commercial engagements; managed services are a delivery model.",
+    "needs_owner_confirmation": false,
+    "status": "resolved_in_draft",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "Website owner"
+    ],
+    "question": "Confirm labels and final URL/redirect policy without changing the agreed navigation hierarchy.",
+    "evidence_requested": "Approved site map and any existing public URLs to preserve.",
+    "decision_needed": "Use real links/deep views, not decorative pretend tabs; no new global navigation or Quadra IP label. canonical_candidate remains null.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-infrastructure",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-03",
+    "practice": "HCDW",
+    "shared_practices": [],
+    "type": "corporate_claims",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "2.5 The Quadra Advantage",
+    "issue": "Certified depth, AWS Managed Service Provider Competency, broad sector outcomes and same-team operations are supplied claims without independently verified Quadra evidence.",
+    "handling": "Retain requirements-led comparison and governed architecture-to-operation continuity. Omit credentials, fixed staffing continuity and sector proof. Do not infer Quadra status from OEM documentation or AWS baseline marketing copy.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "Alliance owner",
+      "Corporate marketing"
+    ],
+    "question": "Who approves each public credential and sector-delivery statement, and what current entity-specific evidence supports it?",
+    "evidence_requested": "Current programme record with exact designation, legal entity, scope and expiry; personnel credential evidence; customer permission and case records for any claimed sector delivery.",
+    "decision_needed": "Approve dated exact wording or keep omitted; do not use vendor validation as Quadra certification evidence.",
+    "output_page_ids": [
+      "hcdw"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-04",
+    "practice": "HCDW",
+    "shared_practices": [],
+    "type": "oem_names_and_availability",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "3.1–3.3; 4.2; 5.2",
+    "issue": "Several supplied platform and AI feature names, acquisitions and version-specific capabilities need external OEM verification; a portfolio announcement does not establish general availability or integrated entitlement.",
+    "handling": "Applied all 14 safe directions in hcdw_validation.json. Corrected naming; explicit early-access/preview status; narrowed Claude scope; held unverified Commvault forest/Okta and Data Activate GA; removed Druva BYOK/no-DC-restart claims. Exact workload, region, licence and deployment checks remain before commitment. No new external calls.",
+    "needs_owner_confirmation": true,
+    "status": "bounded_oem_validation_applied_remaining_scope_checks",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "Alliance/product owners"
+    ],
+    "question": "Which exact current names, GA dates, editions, regions and supported integrations are approved for each candidate?",
+    "evidence_requested": "Reconfirm current scope at proposal/go-live: IDRecover early-access availability; Commvault forest-level/Okta recovery and Data Activate GA/regions; DataAI module preview/GA and Veeam Agent Commander; edition eligibility for v13.1 and Recovery Orchestrator; Druva object/API/region matrices; workspace OS features; VCF entitlements. Keep Quadra credentials separate.",
+    "decision_needed": "Use corrected names and availability qualifications already applied. Do not promote announced/preview candidates to GA without current supporting documentation.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-infrastructure",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-05",
+    "practice": "HCDW",
+    "shared_practices": [
+      "CSG",
+      "ISPG"
+    ],
+    "type": "shared_ownership",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "2.3 fourth pillar; 3.1/3.2/3.3 identity; 4.2 Zero Trust",
+    "issue": "Identity backup/recovery overlaps operationally with directory administration, identity threat response and Microsoft security controls, but does not transfer practice ownership.",
+    "handling": "HCDW describes recoverability of AD/Entra/Okta workloads; ISPG retains Microsoft Security; CSG retains non-Microsoft security controls. The copy requires explicit decision rights.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "ISPG",
+      "CSG",
+      "Customer identity owner"
+    ],
+    "question": "Who leads AD/Entra forest or tenant recovery, who authorises privilege/credential changes, and who signs off trusted identity state before application restart?",
+    "evidence_requested": "One RACI covering backup administration, directory restoration, control configuration, emergency access, containment and acceptance; supported object/relationship/forest test evidence.",
+    "decision_needed": "Approve a joint identity-recovery operating boundary and escalation path without moving Microsoft Security to HCDW or redefining CSG.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-06",
+    "practice": "HCDW",
+    "shared_practices": [
+      "CSG",
+      "ISPG"
+    ],
+    "type": "shared_ownership",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "4.2 UEM, Zero Trust, NetScaler, file sharing, DEX; 5.2 NSX",
+    "issue": "Workspace and infrastructure delivery share controls with CSG SASE/app security, ISPG Microsoft endpoint/identity integration and existing workplace operations.",
+    "handling": "Keep HCDW persona-led delivery, UEM options, DEX, NetScaler delivery and infrastructure segmentation. Link security workstreams and avoid claiming enterprise security programme ownership.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "CSG",
+      "ISPG",
+      "Workplace service owner"
+    ],
+    "question": "Who owns access policies, Microsoft Entra integrations, non-Microsoft security controls, NetScaler/WAF changes, micro-segmentation, DEX telemetry and each incident queue?",
+    "evidence_requested": "Platform/OS feature matrix; control and service RACI; incident-routing map; employee-telemetry privacy rules; handoff examples for ISPG hybrid/managed services and CSG Zero Trust.",
+    "decision_needed": "Approve implementation versus policy ownership and one escalation path per control; preserve existing ISPG/CSG content and boundaries.",
+    "output_page_ids": [
+      "hcdw-infrastructure",
+      "hcdw-workspace"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-07",
+    "practice": "HCDW",
+    "shared_practices": [
+      "CSG",
+      "ISPG",
+      "AIG"
+    ],
+    "type": "shared_ownership",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "2.3 fourth pillar; 3.1 Protect & Leverage AI; 3.2 Governance; 3.3 AI Resilience",
+    "issue": "AI-workload protection, DSPM and access controls intersect AIG lifecycle/governance and CSG/ISPG security; restoration alone does not prove AI trustworthiness.",
+    "handling": "HCDW owns the scoped recovery contribution, not AI governance. Require AI-owner restart validation and data-use approval. Do not change or reopen AIG D-01–D-06, Quadra AIR or BluForge IntelliGuard definitions.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "AIG",
+      "CSG",
+      "ISPG",
+      "Customer data owner"
+    ],
+    "question": "Who approves restored dataset/model/connector integrity, resumed machine access and reuse of backup data for AI, and which practice operates each control?",
+    "evidence_requested": "Joint recovery-to-AI-restart checklist; dataset/model/version dependencies; supported AI objects and APIs; data-use rights; lifecycle/security/recovery responsibility matrix.",
+    "decision_needed": "Approve only the new operational interface and evidence handoff. AIG governance and all closed AIG definition decisions remain intact.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-08",
+    "practice": "HCDW",
+    "shared_practices": [
+      "CSG",
+      "ISPG",
+      "AIG"
+    ],
+    "type": "operating_model",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "2.5 Build-and-run; 3 Cyber Recovery; 4.3; 5.3",
+    "issue": "The source can imply fixed coverage, same staff, automatic containment or guaranteed recovery despite different customer, OEM and specialist responsibilities.",
+    "handling": "Use coherent governed handoff, scoped managed delivery, customer approvals and incident decision rights. No fixed support hours, response SLA or staff-continuity promise is introduced.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW service owner",
+      "CSG",
+      "ISPG",
+      "AIG",
+      "Commercial owner"
+    ],
+    "question": "Who is incident lead, who declares containment, who authorises restoration, and which party provides each support window and response commitment?",
+    "evidence_requested": "Service catalogue/SOW, OEM support terms, incident RACI, escalation/approval runbooks, staffing and on-call evidence for any future time-bound claims.",
+    "decision_needed": "Approve hours, entitlements, exclusions and authorised actions per engagement; distinguish Quadra managed delivery from OEM SaaS operations and separate incident-response retainers.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-infrastructure",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-09",
+    "practice": "HCDW",
+    "shared_practices": [
+      "CSG",
+      "ISPG",
+      "AIG"
+    ],
+    "type": "compliance_and_evidence",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "3.2 Compliance/Privacy; 3.3 eDiscovery & Compliance",
+    "issue": "Framework counts, automatic compliance, tamper-proof evidence and forensically sound collection claims exceed what a platform feature alone establishes.",
+    "handling": "Present control mapping, automated-check/report candidates, preservation, chain-of-custody and legal review as requirements and evidence inputs. No blanket compliance or evidentiary-admissibility promise.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "CSG",
+      "ISPG",
+      "AIG",
+      "Legal/privacy owner"
+    ],
+    "question": "Which obligations apply to the customer and which practice produces, retains and approves each control or eDiscovery evidence item?",
+    "evidence_requested": "Applicable-law assessment; data-flow/residency map; retention/hold requirements; exact product evidence and legal process; approved mapping to DPDP, sector expectations or other named frameworks.",
+    "decision_needed": "Approve a scoped control/evidence mapping and legal owner; do not promise all regulations are met or reuse unsupported 100+ framework counts.",
+    "output_page_ids": [
+      "hcdw-resilience",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-10",
+    "practice": "HCDW",
+    "shared_practices": [],
+    "type": "absolute_and_numeric_claims",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "2.1; 3.1–3.3; 4.1–4.3; 5.1–5.3",
+    "issue": "Source absolutes and numeric promotions include whatever happens, clean recovery every time, instantly, zero impact, continuous uptime, any device/network, 3x TCO, 40% savings, 26 regions and a $10M guarantee.",
+    "handling": "Replace with design objectives, supported-platform checks, representative tests, explicit dependencies and customer-specific economics. Remove percentage/multiple/guarantee/region-count claims from page copy.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "Commercial owner",
+      "Legal owner"
+    ],
+    "question": "Are any omitted commercial claims needed at all, and if so what customer-specific terms and evidence support exact qualified wording?",
+    "evidence_requested": "Current vendor legal terms and eligibility; independent cost assumptions and customer baseline; recovery/performance test records; current region matrix.",
+    "decision_needed": "Default is omission. Any future quantified promise requires approval; vendor promotions are not Quadra guarantees.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-infrastructure",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-11",
+    "practice": "HCDW",
+    "shared_practices": [],
+    "type": "commercial_offer",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "2.1 CTAs; assessment and managed scope across the draft",
+    "issue": "A resilience readiness assessment is proposed but the source does not establish a free offer, fixed deliverables, duration or managed entitlement.",
+    "handling": "Use a scoped commercial assessment with access, outputs, timing and terms agreed before work starts. Added deliverables are proposed engagement outputs, not unverified existing product commitments.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "Commercial owner"
+    ],
+    "question": "Who owns the assessment offer and which outputs, access assumptions, pricing and exclusions can be committed?",
+    "evidence_requested": "Approved assessment SOW/template, delivery capacity, pricing/eligibility and managed-service catalogue.",
+    "decision_needed": "Approve the commercial offer and operational scope; do not add free, fixed-duration or fixed-coverage promises without evidence.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-infrastructure",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  },
+  {
+    "id": "HCDW-12",
+    "practice": "HCDW",
+    "shared_practices": [],
+    "type": "measurement_and_approval",
+    "source_document": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+    "source_section": "Author-added scoping and validation content",
+    "issue": "The source lacked detailed acceptance criteria, RTO/RPO, dependency sequencing, cost assumptions and operating artefacts.",
+    "handling": "Add explicit practical scoping and deliverables as editorial recommendations, marked in coverage. Customer-facing copy uses scoped outputs and objectives rather than historic proof.",
+    "needs_owner_confirmation": true,
+    "status": "owner_evidence_needed",
+    "proposed_decision_owners": [
+      "HCDW practice lead",
+      "Service delivery owner"
+    ],
+    "question": "Which proposed outputs and recovery-test methods match the actual delivery service and who signs off acceptance?",
+    "evidence_requested": "Approved service templates; test plans; sample anonymised deliverables; acceptance and exception-management process.",
+    "decision_needed": "Approve or refine author-added scope without removing the distinction between objectives, achieved test results and contractual commitments.",
+    "output_page_ids": [
+      "hcdw",
+      "hcdw-infrastructure",
+      "hcdw-workspace",
+      "hcdw-resilience",
+      "hcdw-commvault",
+      "hcdw-veeam",
+      "hcdw-druva"
+    ],
+    "safe_content_blocked": false
+  }
+]

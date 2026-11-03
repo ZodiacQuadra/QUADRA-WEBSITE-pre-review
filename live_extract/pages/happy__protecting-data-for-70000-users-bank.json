@@ -1,0 +1,116 @@
+{
+ "path": "/happy/protecting-data-for-70000-users-bank",
+ "url": "https://www.quadrasystems.net/happy/protecting-data-for-70000-users-bank",
+ "title": "Integrated Security Fabric Case Study | Quadra",
+ "description": "Architected and deployed a comprehensive, integrated security solution that provided unified threat visibility, eliminated shadow IT, and secured applications and data for 70,000+ users.",
+ "ogImage": "https://framerusercontent.com/images/pfF7zzo4GtxhYH9keXaSgSlTEM.jpeg?width=6016&height=4016",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Integrated Security Fabric for a Leading Private Sector Bank"
+    },
+    {
+     "t": "p",
+     "text": "BFSI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pfF7zzo4GtxhYH9keXaSgSlTEM.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading private sector bank in India, providing financial services to millions of customers and managing over 70,000 internal users."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To modernize their security posture by moving from a collection of siloed, on-premise tools to a unified, cloud-native security platform."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a comprehensive, integrated security solution that provided unified threat visibility, eliminated shadow IT, and secured applications and data for 70,000+ users."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading private sector bank in India, providing financial services to millions of customers and managing over 70,000 internal users."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The primary challenge was complexity and lack of visibility. Their existing security solutions, including firewalls and proxies, operated in silos, making it impossible to get a unified view of the threat landscape. Endpoints were not adequately protected, leading to risks from 'shadow IT' (unauthorized SaaS applications) and potential data leakage. In a highly regulated industry, this fragmented approach was a significant compliance and security risk."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The bank's ambition was to establish a modern, agile, and intelligent security posture that could protect their sensitive financial data and millions of customers against sophisticated threats. They needed to move away from a fragmented security model to a unified framework that provided complete visibility and control, especially as more applications and data moved to the cloud."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The integrated security fabric transformed the bank's security operations. Their IT and security teams now have complete control and visibility over all users, devices, apps, and data. Advanced encryption and data loss prevention technologies ensure that sensitive customer and financial data is protected at all times. By consolidating multiple point solutions into a single, intelligent platform, we not only heightened their security posture but also reduced administrative complexity and total cost of ownership."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unified Security Management from a Single Pane of Glass"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated 'Shadow IT' & Controlled Application Usage"
+    },
+    {
+     "t": "p",
+     "text": "Secured Data and Apps for 70,000+ Users"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Regulatory Compliance Posture"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

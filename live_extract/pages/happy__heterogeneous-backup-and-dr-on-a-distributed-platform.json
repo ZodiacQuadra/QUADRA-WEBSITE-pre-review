@@ -1,0 +1,116 @@
+{
+ "path": "/happy/heterogeneous-backup-and-dr-on-a-distributed-platform",
+ "url": "https://www.quadrasystems.net/happy/heterogeneous-backup-and-dr-on-a-distributed-platform",
+ "title": "Resilient Backup & DR Platform Case Study | Quadra",
+ "description": "Architected and deployed a robust, high-performance backup solution that provided a unified view of critical data across disparate platforms and brought peace of mind to their mission-critical operations.",
+ "ogImage": "https://framerusercontent.com/images/7S2st54qKo9hwQHDRk678uVyi2U.jpeg?width=5184&height=2920",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Resilient Backup & DR Platform for a Leading Bank"
+    },
+    {
+     "t": "p",
+     "text": "Banking"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7S2st54qKo9hwQHDRk678uVyi2U.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading BFSI entity in India, responsible for the financial security of millions of customers across the country."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To implement a high-performance, unified backup and disaster recovery solution capable of protecting a complex, heterogeneous environment and meeting intense regulatory scrutiny."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a robust, high-performance backup solution that provided a unified view of critical data across disparate platforms and brought peace of mind to their mission-critical operations."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading BFSI entity in India, responsible for the financial security of millions of customers across the country."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The primary challenge was the heterogeneity of their environment. Critical applications resided on different platforms with different architectures—from Unix to Windows—making it impossible to obtain a unified view of application data for protection. This fragmentation posed a significant risk to their business continuity and their ability to meet demanding compliance measures."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "In an industry where credibility and business growth are at stake with every transaction, the client's ambition was to operate with a foolproof data protection and disaster recovery capability. They needed a modern solution that could handle their fragmented environment and provide a single, unified view of all application data."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The result was a high-performance backup solution that met the customer's demanding goals for reliability and backup window performance. The unified view of their critical data greatly eased their data management pains and satisfied regulatory requirements. The robust and scalable solution brought peace of mind and security to their mission-critical data, supporting their industry-leading status as an innovative user of technology."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unified Data Protection Across a Heterogeneous, Multi-Platform Environment"
+    },
+    {
+     "t": "p",
+     "text": "Ensured Reliability for Mission-Critical Banking Applications"
+    },
+    {
+     "t": "p",
+     "text": "Met Demanding Compliance & Regulatory Requirements"
+    },
+    {
+     "t": "p",
+     "text": "Delivered a Scalable Solution for Future Growth"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

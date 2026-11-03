@@ -1,0 +1,96 @@
+{
+ "path": "/social",
+ "url": "https://www.quadrasystems.net/social",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Testimonials",
+   "blocks": [
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/company/quadrasys/?viewAsMember=true",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/SQ2CiK6Ne40r2HRGa2Z1HVgRZCs.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "LinkedIn"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.instagram.com/quadra_systems/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/ob1EVIaPgR1p45hqhiTFdwPvU.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Instagram"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.facebook.com/quadrasys/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/haEELEvXK2ocncu9XvEzKxPPww.webp",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Facebook"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.youtube.com/@quadra_systems",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/xvYAAPK2su1FtHap19N0T6XNobE.webp",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "YouTube"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://x.com/quadrasys",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/6XI7Z37HxoAz1YsbeT2LmcSWs.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "X"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,116 @@
+{
+ "path": "/happy/migrating-etms-vehicle-tracking-to-gcp",
+ "url": "https://www.quadrasystems.net/happy/migrating-etms-vehicle-tracking-to-gcp",
+ "title": "Multi-Cloud Strategy Case Study | Quadra",
+ "description": "Architected and executed a seamless migration of their core applications to Google Cloud, providing greater control, improving resilience, and achieving significant cost savings.",
+ "ogImage": "https://framerusercontent.com/images/NANSGVXUK18NCYQ3fePYCh7bOU.jpeg?width=5184&height=3456",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Multi-Cloud Strategy for a Mission-Critical Logistics Platform"
+    },
+    {
+     "t": "p",
+     "text": "Logistics"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NANSGVXUK18NCYQ3fePYCh7bOU.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A provider of Employee Transportation Management Systems (ETMS) and real-time vehicle tracking applications."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To mitigate the business risks of vendor lock-in by adopting a multi-cloud strategy for their mission-critical fleet management applications."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and executed a seamless migration of their core applications to Google Cloud, providing greater control, improving resilience, and achieving significant cost savings."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A provider of Employee Transportation Management Systems (ETMS) and real-time vehicle tracking applications."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Relying solely on a single cloud provider posed significant risks of pricing changes, technology deprecation, or outages that could impact their entire operation. Their existing cloud vendor could not provide the level of control over the application infrastructure that they required to innovate and operate with confidence."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to build a resilient and future-proof infrastructure for their mission-critical applications. They needed to have more control over their technology stack and pricing, and avoid the risks associated with being dependent on a single cloud provider."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The migration to Google Cloud was a strategic success. It immediately addressed their core challenge of vendor lock-in, providing greater resilience and business continuity. The move also delivered significant cost savings without compromising performance, thanks to Google Cloud's cost-effective offerings and our resource management strategies. The new environment gave them the control and flexibility they needed to continue innovating."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Mitigated Business Risk by Adopting a Multi-Cloud Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Achieved Significant Cost Savings without Compromising Performance"
+    },
+    {
+     "t": "p",
+     "text": "Increased Control & Flexibility over Application Infrastructure"
+    },
+    {
+     "t": "p",
+     "text": "Ensured Business Continuity for Mission-Critical Applications"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

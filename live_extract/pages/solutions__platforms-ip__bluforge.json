@@ -1,0 +1,172 @@
+{
+ "path": "/solutions/platforms-ip/bluforge",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/bluforge",
+ "title": "BluForge: AI-Powered Managed SOC & Cybersecurity Platform | Quadra",
+ "description": "BluForge is Quadra's AI-powered cybersecurity platform offering 24/7 managed SOC operations, continuous threat intelligence, security architecture hardening, and rapid incident response for enterprises.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/AMpY7ZKMXO9BV23RksHhgosQM.png",
+     "alt": "Real-time threat vectors.",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "BluForge: AI-Powered Managed SOC & Cybersecurity Platform"
+    },
+    {
+     "t": "p",
+     "text": "Quadra BluForge™ unifies our expert-led managed SOC with a powerful AI-driven security platform. Built on the Microsoft Security ecosystem and designed for the multi-cloud enterprise, it delivers continuous visibility, intelligent correlation, and rapid response so you can operate with confidence."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The BluForge™ Cybersecurity Services Suite"
+    },
+    {
+     "t": "p",
+     "text": "We architect a paradigm shift in your security operations. BluForge™ is a modular suite of services designed to meet you where you are and take you where you need to be—from foundational monitoring to advanced threat hunting and incident response"
+    },
+    {
+     "t": "card",
+     "href": "./bluforge/bluforge-ops",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "BluForge Ops™ (Managed SOC)"
+      },
+      {
+       "t": "p",
+       "text": "Your fully managed 24/7 Security Operations Center. We provide real-time threat detection, triage, and management using our Microsoft-native platform and AI automation, giving you enterprise-grade vigilance without the overhead."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./bluforge/bluforge-pulse",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "BluForge Pulse™ (MXDR & Threat Hunting)"
+      },
+      {
+       "t": "p",
+       "text": "Our co-managed MXDR service designed to augment your existing team. We partner with your experts to provide advanced, human-led threat hunting, custom rule tuning, and shared incident response capabilities."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./bluforge/bluforge-assist",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "BluForge Assist™ (Incident Response Retainer)"
+      },
+      {
+       "t": "p",
+       "text": "Your expert response team on immediate standby. This retainer service provides SLA-backed access to our top incident response and forensics experts to ensure rapid containment and remediation when a critical event occurs."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./bluforge/bluforge-shield",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "BluForge Shield™ (Advisory & Implementation)"
+      },
+      {
+       "t": "p",
+       "text": "Our expert-led advisory and implementation service. We help you proactively enhance your security posture by architecting and deploying the full suite of modern security tools."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Defend Smarter. Respond Smarter."
+    },
+    {
+     "t": "p",
+     "text": "Proven Security Delivery at Scale"
+    },
+    {
+     "t": "p",
+     "text": "A track record of securing 100+ enterprises with rapid onboarding and a greater than 95% accuracy rate in alert triage"
+    },
+    {
+     "t": "p",
+     "text": "Deep Optimization, Higher ROI"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft-Native, Multi-Cloud Ready"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mNK7vxTwSq3A8jHl7YxiClvNLNg.jpeg",
+     "alt": "five person by table watching turned on white iMac",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Proven Security Delivery at Scale"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Confident Defense?"
+    },
+    {
+     "t": "p",
+     "text": "Schedule a strategic session with our security architects to assess your current posture and design the BluForge™ blueprint that\\u0027s right for you."
+    },
+    {
+     "t": "link",
+     "text": "Book a BluForge Security Briefing",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,114 @@
+{
+ "path": "/technology/aws/microsite/glue",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/glue",
+ "title": "Aws Glue Etl Data Pipeline Integration | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Glue"
+    },
+    {
+     "t": "h1",
+     "text": "Architect the Intelligent Flow of Enterprise Data"
+    },
+    {
+     "t": "p",
+     "text": "We architect and deploy modern, interactive Business Intelligence (BI) solutions with Amazon QuickSight. We transform your complex data into clear, intuitive, and actionable dashboards that empower your business users to make faster, data-driven decisions."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Great Analytics Require Great Data. But Data is Often a Mess"
+    },
+    {
+     "t": "p",
+     "text": "Your data is spread across dozens of different databases, SaaS applications, and streaming sources. It's inconsistent and siloed. Leaders are asking: \"How do we efficiently bring all our data together? How do we ensure our data is clean, trusted, and ready for analytics? And how do we do it without managing complex infrastructure?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dsiHaLkbKYN9YWL5BD2STAUwZ8.jpeg",
+     "alt": "a group of people sitting around a wooden table",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/x7aMImiDmAkXeGFbq0kXqkCo9mQ.jpeg",
+     "alt": "Two people sitting across from each other in an office working on a Surface laptop",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Unified Data Fabric"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to architect an automated, serverless data integration factory. We use AWS Glue to build a modern data fabric that connects all your data sources. Our blueprint focuses on creating a centralized Glue Data Catalog to serve as a single source of truth for all your data assets, and building resilient, automated ETL jobs that transform raw data into analytics-ready information."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Data Integration Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Serverless ETL & ELT"
+    },
+    {
+     "t": "p",
+     "text": "Architecting automated data pipelines with AWS Glue for both batch and streaming data"
+    },
+    {
+     "t": "p",
+     "text": "Centralized Data Catalog"
+    },
+    {
+     "t": "p",
+     "text": "Data Quality Management"
+    },
+    {
+     "t": "p",
+     "text": "Visual, No-Code Data Preparation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iRmA7sc7LrYZH15gJCqNTETnLhQ.jpeg",
+     "alt": "a woman giving a presentation to a group of people",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Serverless ETL & ELT"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect Your Data Foundation?"
+    },
+    {
+     "t": "link",
+     "text": "Design Your Data Pipeline",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

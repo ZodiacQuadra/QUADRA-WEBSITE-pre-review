@@ -1,0 +1,118 @@
+{
+ "path": "/technology/google-cloud/database-modernization",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/database-modernization",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on"
+    },
+    {
+     "t": "h1",
+     "text": "Build Your Modern Data Estate"
+    },
+    {
+     "t": "p",
+     "text": "We help you migrate and modernize your databases on Google Cloud, moving from costly, restrictive legacy systems to scalable, open, and intelligent data platforms"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Is Your Database a Performance Engine or a Pain Point?"
+    },
+    {
+     "t": "p",
+     "text": "Traditional, on-premise databases are often plagued by high license costs, performance bottlenecks, and significant management overhead. They can become the single biggest anchor holding back your application performance and agility."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/p0CwBbcJNoJDHV3KeM2E9UWiMDc.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7afJRxRcvbYHgNEkZmNJ4KcBovY.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "A Blueprint for Database Freedom & Performance"
+    },
+    {
+     "t": "p",
+     "text": "We provide a strategic roadmap for your data. Our blueprint involves a thorough assessment of your workloads to determine the best path: migrating existing commercial databases to Google Cloud for better performance, or modernizing to Google's powerful, managed, cloud-native databases like Cloud SQL and Spanner to eliminate licensing and management burdens entirely."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Full Spectrum of Your Modern Data Estate"
+    },
+    {
+     "t": "p",
+     "text": "We architect your transition from costly, restrictive legacy systems to scalable, open, and intelligent data platforms on Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Managed Relational Databases (Cloud SQL)"
+    },
+    {
+     "t": "p",
+     "text": "We migrate and manage your MySQL, PostgreSQL, and SQL Server databases on Cloud SQL, eliminating the burden of patching and administration while delivering enterprise-grade high availability and performance."
+    },
+    {
+     "t": "p",
+     "text": "Global Scalability with Spanner"
+    },
+    {
+     "t": "p",
+     "text": "High-Performance NoSQL Databases"
+    },
+    {
+     "t": "p",
+     "text": "Secure & Seamless Database Migration"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gwTZcGArd1xkYZgpaxknHVKrbY.jpg",
+     "alt": "a woman's hand on a laptop",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Managed Relational Databases (Cloud SQL)"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your Data's Future"
+    },
+    {
+     "t": "link",
+     "text": "Plan Your Database Migration",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

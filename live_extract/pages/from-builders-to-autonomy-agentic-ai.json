@@ -1,0 +1,162 @@
+{
+ "path": "/from-builders-to-autonomy-agentic-ai",
+ "url": "https://www.quadrasystems.net/from-builders-to-autonomy-agentic-ai",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "From Builders to Autonomy"
+    },
+    {
+     "t": "h2",
+     "text": "Agentic AI for Bharat's Startups"
+    },
+    {
+     "t": "link",
+     "text": "Register Now",
+     "href": "https://forms.office.com/pages/responsepage.aspx?id=YR6aqZzWWESbyrmFfiWHch7JeYHPkPVLg-CwTUCf9Y5URDY5RkhGOU9UVTFVNDM2V0JOWUgxQkhPQS4u&route=shorturl"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/JI2k3rTF0cvu7l48DmdFVdZSII.jpg",
+     "alt": "Business professionals collaborating around a conference table.",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "29 April 2026, Wednesday"
+    },
+    {
+     "t": "h5",
+     "text": "Radisson Blu Mumbai International Airport"
+    },
+    {
+     "t": "h5",
+     "text": "6.00 pm onwards"
+    }
+   ]
+  },
+  {
+   "name": "About",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "About the event"
+    },
+    {
+     "t": "p",
+     "text": "Inspirational India's builders are no longer just coding apps — they're deploying intelligent agents that think, act, and scale. Join us to discover how Agentic AI on AWS is turning Bharat's startups into autonomous, future-ready enterprises."
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Agenda"
+    },
+    {
+     "t": "link",
+     "text": "Register Now",
+     "href": "https://forms.office.com/pages/responsepage.aspx?id=YR6aqZzWWESbyrmFfiWHch7JeYHPkPVLg-CwTUCf9Y5URDY5RkhGOU9UVTFVNDM2V0JOWUgxQkhPQS4u&route=shorturl"
+    },
+    {
+     "t": "h5",
+     "text": "Registration"
+    },
+    {
+     "t": "p",
+     "text": "6.00 PM On wards"
+    },
+    {
+     "t": "h5",
+     "text": "Welcome Note & Introduction"
+    },
+    {
+     "t": "p",
+     "text": "AWS Leadership"
+    },
+    {
+     "t": "p",
+     "text": "6.30 PM to 6.35 PM"
+    },
+    {
+     "t": "h5",
+     "text": "AI Agents from POC to production with Amazon Bedrock AgentCore"
+    },
+    {
+     "t": "p",
+     "text": "AWS Solution Architect"
+    },
+    {
+     "t": "p",
+     "text": "6.35 PM to 7.00 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Customer Voice"
+    },
+    {
+     "t": "p",
+     "text": "7.00 PM to 7.10 PM"
+    },
+    {
+     "t": "h5",
+     "text": "The Next frontier: Building the agentic future with Quadra"
+    },
+    {
+     "t": "p",
+     "text": "Prabhu Rajan"
+    },
+    {
+     "t": "p",
+     "text": "7.10 PM to 7.30 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Quadra Services"
+    },
+    {
+     "t": "p",
+     "text": "Senthil Kumar M"
+    },
+    {
+     "t": "p",
+     "text": "7.30 PM to 7.40 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Networking & Dinner"
+    },
+    {
+     "t": "p",
+     "text": "8.00 PM On wards"
+    },
+    {
+     "t": "h5",
+     "text": "Gamification & Quiz"
+    },
+    {
+     "t": "p",
+     "text": "Sanchit S"
+    },
+    {
+     "t": "p",
+     "text": "7.40 PM to 8.00 PM"
+    },
+    {
+     "t": "h6",
+     "text": "Winners take home exciting rewards — you'll want to stay for this one"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

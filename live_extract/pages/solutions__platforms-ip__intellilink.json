@@ -1,0 +1,164 @@
+{
+ "path": "/solutions/platforms-ip/intellilink",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/intellilink",
+ "title": "IntelliLink: Conversational AI for Enterprise System Integration | Quadra",
+ "description": "IntelliLink is Quadra's conversational AI integration platform that connects enterprise systems through natural language, enabling seamless data flow, intelligent automation, and unified operational intelligence.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/e0BRCbJJDSUzcJOU6CtctpHBJc.png",
+     "alt": "",
+     "w": 1870
+    },
+    {
+     "t": "h2",
+     "text": "Conversational AI for Enterprise System Integration"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Your most valuable data is trapped in powerful but siloed enterprise systems like SAP, Salesforce, and ServiceNow. Accessing it requires your teams to constantly switch contexts, draining productivity and slowing down critical business processes"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/QcvqwPFNiIc9hDvDv3DsjJp9Bw.jpg",
+     "alt": "a man sitting at a desk",
+     "w": 1870
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/j5J6laQIOxbFRoj8qGQGVG0js.jpg",
+     "alt": "a man and a woman sitting at a table high fiving each other",
+     "w": 1870
+    },
+    {
+     "t": "h2",
+     "text": "Our Solution"
+    },
+    {
+     "t": "h5",
+     "text": "The IntelliLink Family of Copilot Agents"
+    },
+    {
+     "t": "p",
+     "text": "IntelliLink is a family of secure, pre-built and custom Copilot agents that bring your enterprise data into the flow of work. Let your employees trigger actions, get insights, and automate tasks in your most critical business systems, directly from a conversation in Microsoft Teams."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key Capabilities"
+    },
+    {
+     "t": "h5",
+     "text": "IntelliLink Connect™"
+    },
+    {
+     "t": "p",
+     "text": "Secure, single-system conversational agents that allow users to interact directly with applications like SAP®, ServiceNow®, Oracle HCM®, and Salesforce®"
+    },
+    {
+     "t": "h5",
+     "text": "IntelliLink Nexus™"
+    },
+    {
+     "t": "p",
+     "text": "A powerful multi-agent orchestrator that can coordinate several Connect™ agents, passing context between them to answer complex, multi-system queries."
+    },
+    {
+     "t": "h5",
+     "text": "IntelliLink Accelerators™"
+    },
+    {
+     "t": "p",
+     "text": "Pre-packaged, outcome-focused bundles like our SmartOnboard Accelerator that combine multiple agents to automate entire business processes."
+    },
+    {
+     "t": "link",
+     "text": "Schedule an IntelliLink Demo",
+     "href": "../../contact-us"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/e58gl4Q19JYxwNCSkoMk5fLYY0.jpeg",
+     "alt": "a man and a woman sitting at a table high fiving each other",
+     "w": 1870
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "IntelliLink Demos Our Solutions in Action"
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/6VVWQZ9qceY/maxresdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/gB0jFZjptvg/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/OL99-_g666g/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/yQPZZ616trg/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/uzit7gSyAtI/maxresdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/WplX75qRUQY/maxresdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/SnxgnzpJzHc/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/06QrrAZgGhI/sddefault.webp",
+     "alt": "",
+     "w": null
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

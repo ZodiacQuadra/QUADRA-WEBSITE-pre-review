@@ -1,0 +1,116 @@
+{
+ "path": "/happy/cloud-native-modern-devops-fuelling-innovation-on-aws",
+ "url": "https://www.quadrasystems.net/happy/cloud-native-modern-devops-fuelling-innovation-on-aws",
+ "title": "Modern DevOps & Serverless Platform Case Study | Quadra",
+ "description": "Architected and implemented a fully automated CI/CD pipeline and serverless environment on AWS, which accelerated the development cycle by 50% and reduced operational overhead by 80%.",
+ "ogImage": "https://framerusercontent.com/images/I3BNGHhgQBB049pZiPfePdRpnX8.jpeg?width=4000&height=6000",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern DevOps & Serverless Platform for a Pharma Services Innovator"
+    },
+    {
+     "t": "p",
+     "text": "Pharmaceuticals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/I3BNGHhgQBB049pZiPfePdRpnX8.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A Global Capability Centre providing specialized, customer-centric services for the pharmaceutical industry."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To transform their software development lifecycle from a slow, manual process to a modern, automated DevOps model to accelerate innovation and delivery."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and implemented a fully automated CI/CD pipeline and serverless environment on AWS, which accelerated the development cycle by 50% and reduced operational overhead by 80%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A Global Capability Centre providing specialized, customer-centric services for the pharmaceutical industry."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their software delivery was crippled by the absence of an automated release process. The entire Software Development Life Cycle (SDLC)—from build and test to deployment—was manual. This resulted in month-long delays, with feature updates limited to once every 3-4 months. Furthermore, their reliance on traditional server-based infrastructure created significant management overhead, diverting focus from application development."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate with the agility of a modern technology company. They needed to dramatically reduce their software release timelines to respond faster to business needs, deliver more frequent feature updates, and improve the overall user experience of their applications."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new platform completely transformed their ability to innovate. The fully automated CI/CD pipeline eradicated the risk of manual errors and accelerated their development cycle by 50%. By moving to a serverless model, they reduced their infrastructure management overhead by a massive 80%. This allowed their developers to focus on product engineering and delivering new features, increasing their productivity by 70% and establishing a new benchmark for operational excellence."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Accelerated Development Cycle by 50%"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Infrastructure Operational Overhead by 80%"
+    },
+    {
+     "t": "p",
+     "text": "Increased Developer Productivity by 70%"
+    },
+    {
+     "t": "p",
+     "text": "Transformed Application to a Modern Serverless Architecture"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

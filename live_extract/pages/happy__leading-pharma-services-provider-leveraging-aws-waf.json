@@ -1,0 +1,116 @@
+{
+ "path": "/happy/leading-pharma-services-provider-leveraging-aws-waf",
+ "url": "https://www.quadrasystems.net/happy/leading-pharma-services-provider-leveraging-aws-waf",
+ "title": "Advanced Web Application Firewall Case Study | Quadra",
+ "description": "Architected and deployed AWS WAF, which reduced application layer attacks by 90% and cut operational costs related to security management by 30%.",
+ "ogImage": "https://framerusercontent.com/images/XWYcQ1tw8pfzP3dNCOjWXWBTfvY.jpeg?width=6720&height=4480",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Advanced Web Application Firewall for a Pharma Services Leader"
+    },
+    {
+     "t": "p",
+     "text": "Pharmaceuticals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/XWYcQ1tw8pfzP3dNCOjWXWBTfvY.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A Global Capability Centre providing specialized, customer-centric services for the pharmaceutical industry."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To implement an additional, powerful layer of security to protect their modernized, public-facing serverless applications from web-based threats."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed AWS WAF, which reduced application layer attacks by 90% and cut operational costs related to security management by 30%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A Global Capability Centre providing specialized, customer-centric services for the pharmaceutical industry."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "While they had a third-party firewall in place, it was not effectively monitoring or controlling web traffic reaching their newly modernized serverless applications. Their applications were accessed via a content delivery network, and they needed a security service that could seamlessly integrate at this layer to inspect and filter traffic before it ever reached their application logic."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "Having modernized their applications on a serverless architecture, the client's ambition was to ensure their new, agile platform was protected by an equally modern and intelligent security layer. They needed to meet stringent security requirements to protect their applications and data, and maintain the trust of their global pharma clients."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The AWS WAF solution had a dramatic and measurable impact. It immediately began blocking approximately 300 malicious requests per day, reducing their overall application layer attacks by 90%. The automated monitoring and blocking capabilities significantly reduced the time and effort required from their security team by 50%. This proactive defense greatly enhanced their overall security posture and business reliability at a lower operational cost."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Application Layer Attacks by 90%"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Security Operational Costs by 30%"
+    },
+    {
+     "t": "p",
+     "text": "Decreased Incident Response Time by 85%"
+    },
+    {
+     "t": "p",
+     "text": "Proactively Blocked ~300 Malicious Requests Per Day"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

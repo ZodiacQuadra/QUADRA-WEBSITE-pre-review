@@ -1,0 +1,116 @@
+{
+ "path": "/happy/building-custom-communication-platform-low-code",
+ "url": "https://www.quadrasystems.net/happy/building-custom-communication-platform-low-code",
+ "title": "Low-Code Communications Platform Case Study | Quadra",
+ "description": "Architected and rapidly developed a high-quality application on a low-code platform that streamlined internal communications, reduced email clutter, and provided full auditability, all at a low cost and in a short timeframe.",
+ "ogImage": "https://framerusercontent.com/images/FHbM3AcNQmz7ASd7MepBYc6KxD8.jpg?width=3908&height=4885",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Custom Internal Communications Platform Using a Low-Code Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Research & Development"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/FHbM3AcNQmz7ASd7MepBYc6KxD8.jpg",
+     "alt": "turned-on monitor displaying digital products",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A world-leading provider of design and technology services with a user base of over ten thousand."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To create a dedicated, modern internal communication platform to ensure all employees receive and acknowledge crucial business information in a timely and reliable manner."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and rapidly developed a high-quality application on a low-code platform that streamlined internal communications, reduced email clutter, and provided full auditability, all at a low cost and in a short timeframe."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A world-leading provider of design and technology services with a user base of over ten thousand."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Email was proving to be an unreliable channel for critical internal announcements, leading to missed information. However, the use case did not warrant a full-fledged, expensive, and time-consuming custom software development project. They needed a solution that was fast to deploy, easy to maintain, and cost-effective."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to solve a critical business problem: ensuring important internal communications were not lost in the daily flood of emails. They needed a dedicated, secure, and user-friendly platform that could manage the creation, approval, and dissemination of group messages, complete with read-receipts and acknowledgements."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The low-code platform allowed us to deliver a high-quality, enterprise-grade application in a fraction of the time and cost of traditional development. The new platform has successfully reduced mailbox clutter and ensures that all employees receive and acknowledge critical communications. The familiar user interface meant there was no learning curve, and the automated workflows have drastically reduced the manual effort involved in managing internal announcements."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Delivered a High-Quality App with a Low-Code Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Drastically Reduced Email Clutter for Critical Communications"
+    },
+    {
+     "t": "p",
+     "text": "Automated Approval & Dissemination Workflows"
+    },
+    {
+     "t": "p",
+     "text": "Achieved Rapid Time-to-Value at a Low Cost"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

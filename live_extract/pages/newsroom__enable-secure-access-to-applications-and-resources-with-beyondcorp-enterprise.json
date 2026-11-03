@@ -1,0 +1,209 @@
+{
+ "path": "/newsroom/enable-secure-access-to-applications-and-resources-with-beyondcorp-enterprise",
+ "url": "https://www.quadrasystems.net/newsroom/enable-secure-access-to-applications-and-resources-with-beyondcorp-enterprise",
+ "title": "Enable secure access to applications and resources with BeyondCorp Enterprise",
+ "description": "The rise of digital technology has revolutionized the way we work, but it has also introduced new security risks. As companies rely more heavily on digital technology and data, they must also ensure that their data is protected from malicious actors.",
+ "ogImage": "https://framerusercontent.com/images/qsId4qurHrdK2gzJEXPe4tmxT8.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Enable secure access to applications and resources with BeyondCorp Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Enable secure access to applications and resources with BeyondCorp Enterprise"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/qsId4qurHrdK2gzJEXPe4tmxT8.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "The rise of digital technology has revolutionized the way we work, but it has also introduced new security risks. As companies rely more heavily on digital technology and data, they must also ensure that their data is protected from malicious actors."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "h4",
+     "text": "Introduction"
+    },
+    {
+     "t": "p",
+     "text": "To address this problem, Google developed BeyondCorp Enterprise, a cloud-based security framework that provides secure remote access to applications and data."
+    },
+    {
+     "t": "p",
+     "text": "In this blog, you will know:"
+    },
+    {
+     "t": "p",
+     "text": "The concept of BeyondCorp"
+    },
+    {
+     "t": "p",
+     "text": "How it can revolutionize the way organizations approach enterprise security."
+    },
+    {
+     "t": "p",
+     "text": "How it reduces the risk of security breaches"
+    },
+    {
+     "t": "p",
+     "text": "Variety of different scenarios where BeyondCorp Enterprise can be used"
+    },
+    {
+     "t": "p",
+     "text": "Whether you are just starting to explore BeyondCorp or are looking for ways to implement it in your organization, we hope that you will find our content helpful."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "BeyondCorp Enterprise"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ojW3QYOmQeZEl9XWH8tp3BJdHo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A cloud-based security framework that provides secure remote access to applications and data, without the need for a traditional VPN."
+    },
+    {
+     "t": "p",
+     "text": "It leverages Zero Trust Network Access (ZTNA) and identity-aware access control policies to protect corporate data from malicious actors."
+    },
+    {
+     "t": "p",
+     "text": "ZTNA requires all users to be authenticated before they can gain access, while identity-aware access control policies ensure that only authenticated users with the appropriate permissions can access corporate data."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Benefits of BeyondCorp Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "It provides numerous benefits to companies looking to protect their data and resources."
+    },
+    {
+     "t": "p",
+     "text": "Firstly, it improves security for users and the company by leveraging ZTNA and identity-aware access control policies to ensure that only authenticated users are granted access to critical apps and services."
+    },
+    {
+     "t": "p",
+     "text": "It also increases productivity by enabling users to securely access corporate data from any device or location. This eliminates the need to travel to an office in order to access data, saving time and increasing productivity."
+    },
+    {
+     "t": "p",
+     "text": "BeyondCorp Enterprise provides an Agentless approach that simplifies the user experience by eliminating the need to manage multiple user accounts and passwords, as well as the need to use a VPN. This simplifies the user experience and reduces the burden on IT staff."
+    },
+    {
+     "t": "p",
+     "text": "Increases visibility into unsafe user activity & improve your security posture with a modern zero trust platform"
+    },
+    {
+     "t": "p",
+     "text": "Lastly, it can help companies save money by reducing costs associated with maintenance, support, and training."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Use Cases for BeyondCorp Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Allow non-employees to utilise a VPN to access a single web application deployed on Google Cloud or other cloud services platforms."
+    },
+    {
+     "t": "p",
+     "text": "Allow non-employees to access data from personal or mobile devices as long as they fulfill baseline security requirements."
+    },
+    {
+     "t": "p",
+     "text": "Ensure individuals aren't copying and pasting sensitive documents into emails or storing it to personal storage services like Google Drive."
+    },
+    {
+     "t": "p",
+     "text": "Allow only enterprise-managed devices access to critical systems."
+    },
+    {
+     "t": "p",
+     "text": "Provide DLP protections for company data."
+    },
+    {
+     "t": "p",
+     "text": "Access to a gate based on a user's location."
+    },
+    {
+     "t": "p",
+     "text": "Protect applications in hybrid deployments that combine Google Cloud, other cloud platforms, and on-premises resources."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Conclusion"
+    },
+    {
+     "t": "p",
+     "text": "In conclusion, BeyondCorp Enterprise is a revolutionary approach to enterprise security that focuses on the user rather than the device. By leveraging identity-based access controls and zero-trust networks, companies can securely enable remote work and protect against cyber threats. With the growing trend of remote work and the need for strong security measures, it is a valuable solution for modern businesses looking to protect their data and assets."
+    },
+    {
+     "t": "p",
+     "text": "By prioritizing user identity and access controls, companies can ensure that only authorized individuals have access to sensitive information and resources. Overall, BeyondCorp Enterprise is a powerful tool for increasing security and enabling remote work in the modern enterprise."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

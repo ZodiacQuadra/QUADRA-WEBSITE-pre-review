@@ -1,0 +1,116 @@
+{
+ "path": "/happy/global-fashion-house-looks-to-the-cloud-for-erp",
+ "url": "https://www.quadrasystems.net/happy/global-fashion-house-looks-to-the-cloud-for-erp",
+ "title": "High-Performance Cloud ERP Platform Case Study | Quadra",
+ "description": "Architected and migrated their ERP database to a managed cloud PaaS solution, which eliminated downtime, provided a 99.99% SLA, and saved significant upfront investment in DR infrastructure.",
+ "ogImage": "https://framerusercontent.com/images/NANSGVXUK18NCYQ3fePYCh7bOU.jpeg?width=5184&height=3456",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a High-Performance Cloud ERP Platform for a Global Fashion House"
+    },
+    {
+     "t": "p",
+     "text": "Apparel"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NANSGVXUK18NCYQ3fePYCh7bOU.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global apparel production leader with 20+ production locations worldwide, catering to leading brands."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To migrate their mission-critical, on-premise ERP system to a modern, high-performance, and resilient cloud platform."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and migrated their ERP database to a managed cloud PaaS solution, which eliminated downtime, provided a 99.99% SLA, and saved significant upfront investment in DR infrastructure."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global apparel production leader with 20+ production locations worldwide, catering to leading brands."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their on-premise ERP database had no high availability or disaster recovery, a massive risk for their global operations. Building out a proper DR site would incur a huge capital investment. Furthermore, the on-premise deployment was prone to performance bottlenecks, and the overhead of maintaining, scaling, and patching the database was a constant drain on IT resources."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As an early adopter of technology, the client's ambition was to ensure their core ERP system, used by over 1000 people globally, was running on a platform that was as modern and agile as their business. They needed a solution that could guarantee high availability and performance without the high cost and complexity of a traditional on-premise setup."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "Moving to the cloud was a remarkable turning point. The 99.99% SLA resolved the critical issue of service availability, and the built-in HA and DR features saved the customer several lakhs of rupees in upfront investment. Since the underlying infrastructure was fully managed by the cloud provider, the need for an internal infrastructure management team was eliminated. The user experience improved manifold, and the cloud solution provided a scalable, resilient platform for their continued growth."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Achieved 99.99% SLA for a Mission-Critical ERP System"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated the Need for a Costly On-Premise DR Site"
+    },
+    {
+     "t": "p",
+     "text": "Reduced IT Management Overhead with a PaaS Solution"
+    },
+    {
+     "t": "p",
+     "text": "Improved User Experience & Application Performance"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

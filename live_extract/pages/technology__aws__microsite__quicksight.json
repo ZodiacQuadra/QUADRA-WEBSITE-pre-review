@@ -1,0 +1,114 @@
+{
+ "path": "/technology/aws/microsite/quicksight",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/quicksight",
+ "title": "AWS QuickSight BI Analytics | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS QuickSight"
+    },
+    {
+     "t": "h1",
+     "text": "Business Intelligence & Analytics at Scale"
+    },
+    {
+     "t": "p",
+     "text": "We architect and deploy modern, interactive Business Intelligence (BI) solutions with Amazon QuickSight. We transform your complex data into clear, intuitive, and actionable dashboards that empower your business users to make faster, data-driven decisions."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Data Has a Story to Tell. Can Your Team Read It?"
+    },
+    {
+     "t": "p",
+     "text": "Traditional reporting is slow, static, and creates a bottleneck for your business teams who need immediate answers. Leaders are asking: \"How do we empower our teams with self-service analytics? How do we move from static reports to interactive, real-time insights? And how do we do it at scale without complex licensing?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/OKBSBml5kS89NEbeXG0796TbpI.jpeg",
+     "alt": "a group of people sitting around a wooden table",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/juXtkc5UJ0oNlsMN5w2KyZvOCfQ.jpeg",
+     "alt": "Two people sitting across from each other in an office working on a Surface laptop",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for Insights at Scale"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to democratize data. We architect a BI environment with Amazon QuickSight that is serverless, scalable, and deeply integrated with your AWS data sources. Our blueprint focuses on creating a unified semantic layer for your data, building intuitive dashboards that answer key business questions, and enabling powerful features like natural language querying (Amazon QuickSight Q) to make data accessible to everyone."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our BI Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Interactive Dashboard Development"
+    },
+    {
+     "t": "p",
+     "text": "Architecting rich, interactive dashboards and reports for at-a-glance business insights."
+    },
+    {
+     "t": "p",
+     "text": "Serverless, Embedded Analytics"
+    },
+    {
+     "t": "p",
+     "text": "Natural Language Querying (QuickSight Q)"
+    },
+    {
+     "t": "p",
+     "text": "Paginated Reporting"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Z365GgWR5bFeEqvMIEsH3pE9sB4.jpeg",
+     "alt": "a woman giving a presentation to a group of people",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Interactive Dashboard Development"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect a Data-Driven Culture?"
+    },
+    {
+     "t": "link",
+     "text": "Schedule a BI Workshop",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

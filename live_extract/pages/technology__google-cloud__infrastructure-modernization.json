@@ -1,0 +1,122 @@
+{
+ "path": "/technology/google-cloud/infrastructure-modernization",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/infrastructure-modernization",
+ "title": "Google Cloud Infrastructure: Architect an Agile Cloud Foundation | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on"
+    },
+    {
+     "t": "h1",
+     "text": "Architect an Agile Cloud Foundation"
+    },
+    {
+     "t": "p",
+     "text": "We help you modernize your core infrastructure, migrating and optimizing workloads on Google's secure, global network to build a foundation that is resilient, cost-effective, and built for innovation."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Is Your Infrastructure a Bottleneck to Your Ambition?"
+    },
+    {
+     "t": "p",
+     "text": "Legacy infrastructure is often costly, rigid, and slow. It hinders your ability to respond to market changes, deploy new applications quickly, and leverage the full power of modern technologies like AI."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/QKFmfHBjXhF5ILe8T52Rcw3nJw.jpg",
+     "alt": "rectangular brown wooden table",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VPwj7xuhxjP9ktjGQdvnrPwwLw.jpg",
+     "alt": "person using macbook pro on black table",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "A Blueprint for Seamless Migration & Modernization"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is a strategic journey, not just a \"lift and shift.\" We architect a modernization roadmap that aligns with your business goals, leveraging the power of open-source with Google Kubernetes Engine (GKE) and ensuring continuous cost optimization with a robust FinOps framework."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Full Spectrum of Modern Infrastructure"
+    },
+    {
+     "t": "p",
+     "text": "We architect and build modern infrastructure on Google Cloud, from scalable compute to automated, container-native platforms, ensuring your foundation is resilient and built for innovation."
+    },
+    {
+     "t": "p",
+     "text": "Cloud Migration & Foundation"
+    },
+    {
+     "t": "p",
+     "text": "We architect your seamless migration to Google Compute Engine (GCE), building a secure, scalable, and high-performance foundation for your enterprise workloads on Google's global, carbon-neutral network."
+    },
+    {
+     "t": "p",
+     "text": "Containerization & Orchestration with GKE"
+    },
+    {
+     "t": "p",
+     "text": "VMware Modernization"
+    },
+    {
+     "t": "p",
+     "text": "Infrastructure as Code (IaC) & Automation"
+    },
+    {
+     "t": "p",
+     "text": "FinOps & Cost Optimization"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/N2doRjdF9ik1lZkEbTB7ApMV9o.jpg",
+     "alt": "woman in white shirt using Microsoft Surface Laptop 3 in Platinum ",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Cloud Migration & Foundation"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your Modern Foundation"
+    },
+    {
+     "t": "link",
+     "text": "Schedule a Foundation Assessment",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,87 @@
+{
+ "path": "/ai-careerguide",
+ "url": "https://www.quadrasystems.net/ai-careerguide",
+ "title": "Quadra AI Career Guide | AI-powered career discovery platform helping students.",
+ "description": "Quadra AI Career Guide helps students and professionals discover the best career opportunities through AI-powered recommendations, skill analysis, and personalized guidance.",
+ "ogImage": "https://framerusercontent.com/assets/Iakwg9bXPV5m5WJVVvFoXq6K3gM.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "The AI Era Career Guide."
+    },
+    {
+     "t": "h1",
+     "text": "Built from 25 years on the hiring floor."
+    },
+    {
+     "t": "p",
+     "text": "Three skills. Five actions. One framework. What companies are screening for — and almost no placement programme covers."
+    },
+    {
+     "t": "h5",
+     "text": "25+"
+    },
+    {
+     "t": "h5",
+     "text": "Years in tech"
+    },
+    {
+     "t": "h5",
+     "text": "3,000+"
+    },
+    {
+     "t": "h5",
+     "text": "Engagements"
+    },
+    {
+     "t": "h5",
+     "text": "750+"
+    },
+    {
+     "t": "h5",
+     "text": "Certifications"
+    }
+   ]
+  },
+  {
+   "name": "Form",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Claim your free copy"
+    },
+    {
+     "t": "p",
+     "text": "Takes 60 seconds. Guide is yours immediately."
+    },
+    {
+     "t": "p",
+     "text": "College / Institution"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Just 60 seconds and the guide is yours."
+    },
+    {
+     "t": "p",
+     "text": "Free. No login. No payment. No expiry. Share it with your batch before placement season."
+    },
+    {
+     "t": "link",
+     "text": "Claim your copy",
+     "href": "./ai-careerguide#contact-form"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

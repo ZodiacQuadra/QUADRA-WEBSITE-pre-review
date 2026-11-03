@@ -1,0 +1,233 @@
+[
+  {
+    "id": "HCDW-01",
+    "addressed_to": "HCDW practice lead",
+    "priority": "publication_gate",
+    "question": "Which resilience capabilities can HCDW deliver now, and what tested scope supports each partner-specific claim?",
+    "why_it_matters": "HCDW source §§2.3 and 3 promises AD/Entra/Okta recovery, AI resilience and clean recovery; §3.2 says 'Clean recovery, every time.' Product positioning does not establish Quadra delivery readiness.",
+    "needed_response": "A short deliverable-now/pilot/not-offered matrix for the promoted workloads, supported versions/licences, one recovery-test evidence link, acceptance conditions and accountable delivery role. Identify backup/recovery hand-offs to ISPG or CSG without reallocating ownership.",
+    "interim_handling": "Stage outcome-led backup and recovery copy; withhold universal recovery, compliance and AI-feature assurances. Treat vendor-feature currency as a separate research check, not a new questionnaire for the lead.",
+    "affected_pages": ["hcdw", "hcdw-resilience", "hcdw-workspace"],
+    "already_decided_do_not_reopen": "HCDW can cover AD/Entra backup and recovery; Microsoft Security remains ISPG and CSG remains non-Microsoft."
+  },
+  {
+    "id": "HCDW-02",
+    "addressed_to": "HCDW practice lead; AWS practice lead for credential evidence",
+    "priority": "publication_gate",
+    "question": "What exact operating commitment and credential relevance can support the HCDW build-and-run statement?",
+    "why_it_matters": "HCDW source §2.5 says 'The team that designs your environment also operates and supports it' and cites 'AWS Managed Service Provider Competency'. Neither the personnel promise nor coverage of Citrix, Omnissa, VMware and recovery services follows from that credential alone.",
+    "needed_response": "Approved continuity wording, actual supported platforms/hours, escalation and action authority, and the current AWS credential title, entity, scope and evidence link. Cross-reference AWS-01 rather than duplicate evidence.",
+    "interim_handling": "Recommend continuity through shared architecture records and accountable hand-offs, not the same people throughout. Omit the credential from HCDW advantage copy until relevance is established; no blanket managed-service promise.",
+    "affected_pages": ["hcdw", "hcdw-infrastructure", "hcdw-workspace", "how-we-work"],
+    "already_decided_do_not_reopen": "One Architect means connected specialist accountability, not a promise that one individual or unchanged team performs every phase."
+  },
+  {
+    "id": "HCDW-03",
+    "addressed_to": "HCDW practice lead",
+    "priority": "can_progress",
+    "question": "What does a customer receive from the proposed Resilience Readiness Assessment, and which first engagement can the team currently accept?",
+    "why_it_matters": "HCDW source §2.1 proposes 'Take a Resilience Readiness Assessment'; §§4.3 and 5.3 promise build/run and managed operation without an assessment package or acceptance capacity.",
+    "needed_response": "Entry criteria, customer inputs, included workloads, tangible output, exclusions, commercial basis, delivery/approval role and earliest feasible delivery window; one redacted sample output if available.",
+    "interim_handling": "Proceed with 'Discuss your resilience priorities' and a scope conversation. Do not advertise a free, fixed-duration or automatically available assessment before the package is approved.",
+    "affected_pages": ["hcdw", "hcdw-resilience", "contact"],
+    "already_decided_do_not_reopen": "The new HCDW source is available; its stale 'awaiting_source' status is not a request to resubmit the document."
+  },
+  {
+    "id": "CSG-01",
+    "addressed_to": "CSG practice lead; shared BluForge portfolio approver",
+    "priority": "publication_gate",
+    "question": "Which BluForge Ops, Pulse, Assist and Shield components are presently sellable, and who can approve each non-Microsoft service commitment?",
+    "why_it_matters": "Master csg-managed, 'Four connected service components', lists all four; 'Make the operation visible' describes L1/L2/L3 roles. The reader needs a real service boundary, not assumed staffing or shared-brand availability.",
+    "needed_response": "One row per component: available/pilot/planned, supported platforms, staffing/coverage, incident-retainer limits, customer approval authority, delivery role, commercial approver and a service-description or runbook evidence link.",
+    "interim_handling": "Keep scoped service descriptions and agreed-authority wording. Do not infer 24/7 response, unrestricted containment, availability on every cloud or exclusive ownership of the shared brand.",
+    "affected_pages": ["csg-managed", "csg-endpoint", "platforms-ip", "secure"],
+    "already_decided_do_not_reopen": "CSG is non-Microsoft. AIG D-02's approved BluForge IntelliGuard platform description is closed; this asks only about CSG component packaging and current delivery."
+  },
+  {
+    "id": "CSG-02",
+    "addressed_to": "CSG practice lead",
+    "priority": "can_progress",
+    "question": "What is the smallest approved DefenceIQ engagement a customer can buy or request now?",
+    "why_it_matters": "Master csg-advisory describes 'an advisory engagement' spanning maturity, penetration testing, privacy readiness, architecture and tabletop work; its CTA says 'Start a cyber risk assessment'. This can otherwise read as one all-inclusive offer.",
+    "needed_response": "Select the initial package, inclusions/exclusions, authorisation prerequisites, customer deliverables, commercial basis, delivery capacity and accountable approver; link one approved scope or redacted output.",
+    "interim_handling": "Keep DefenceIQ as a scoped advisory commercial offer and the breadth as selectable capabilities, not a bundled entitlement or software product. A scope conversation can proceed.",
+    "affected_pages": ["csg-advisory", "csg", "contact"],
+    "already_decided_do_not_reopen": "No new global navigation category or proprietary-software claim is required for DefenceIQ."
+  },
+  {
+    "id": "ISPG-01",
+    "addressed_to": "ISPG practice lead",
+    "priority": "publication_gate",
+    "question": "What customer-facing role, maturity and accountable owner should each ISPG named asset have?",
+    "why_it_matters": "Master ispg-migration discusses MigrationX; microsoft-security names ThreatDoctor/DefendX; ispg-hybrid names IntelliCloud/SCCMInsightsX. The ledger's ispg-ip-boundaries entry records missing product and commercial definitions.",
+    "needed_response": "Five compact rows: approved wording, applicable seven-type classification, what the customer receives, relationship to underlying tools, current availability, delivery/approval role and evidence URL. Mark a service framework as such rather than assuming owned software.",
+    "interim_handling": "Retain contextual references only where supportable; no standalone product pages, IP ownership or ready-to-buy implications until confirmed.",
+    "affected_pages": ["ispg-migration", "microsoft-security", "ispg-hybrid", "platforms-ip"],
+    "already_decided_do_not_reopen": "Microsoft Security stays in ISPG; this register does not redefine AIG's approved platform portfolio."
+  },
+  {
+    "id": "ISPG-02",
+    "addressed_to": "ISPG practice lead; HCDW and Azure delivery leads for hand-offs",
+    "priority": "publication_gate",
+    "question": "For a workplace/identity engagement, what is the approved hand-off from implementation and adoption to security response, backup recovery and continuing support?",
+    "why_it_matters": "Master ispg-managed promises a 'unified support model'; microsoft-workplace connects Copilot, adoption and controls. HCDW's incoming identity-recovery scope makes escalation and authority important without changing practice ownership.",
+    "needed_response": "One real operating path: supported services and licensing prerequisites, customer acceptance/adoption output, coverage, recovery-versus-security responsibilities, authorised actions and escalation roles. Link the approved service scope and confirm delivery capacity.",
+    "interim_handling": "Preserve separate Microsoft Security and HCDW recovery responsibilities with coordinated links. Keep extended-hours, specialisation/badge and automatic feature-entitlement claims withheld pending evidence.",
+    "affected_pages": ["microsoft-workplace", "microsoft-security", "ispg-hybrid", "ispg-managed", "hcdw-resilience"],
+    "already_decided_do_not_reopen": "Backup of Active Directory or Entra is not a reassignment of Microsoft identity/security practice ownership."
+  },
+  {
+    "id": "AIG-01",
+    "addressed_to": "AIG practice lead; shared portfolio approver",
+    "priority": "publication_gate",
+    "question": "What current readiness and deployment evidence supports the already-approved AIG platforms and AIR validation pathway?",
+    "why_it_matters": "Master aig, 'Our Enterprise AI Platforms', contains the approved Intellient, IntelliLink, IntelliSphere, BluForge IntelliGuard and Quadra AIR descriptions. Approval of wording is separate from evidence of available components and production readiness.",
+    "needed_response": "A compact release register: component/version, available/pilot/internal/planned status, supported integrations and environments, exact accountable delivery/approval role, dated evidence and customer-use restrictions. For AIR, provide validation-to-deployment criteria and one releasable example; distinguish Customer Zero from external customer proof.",
+    "interim_handling": "Preserve approved descriptions; gate only unsupported availability, maturity and performance implications. Align repeated portfolio references to the approved master, not superseded ledger questions.",
+    "affected_pages": ["aig", "aig-engineering", "aig-governance", "platforms-ip", "intellient"],
+    "already_decided_do_not_reopen": "D-01–D-06 are closed, including BluForge IntelliGuard's approved platform scope and AIR as the innovation/validation engine. Do not ask whether AIR is a different category or revert its definition."
+  },
+  {
+    "id": "AIG-02",
+    "addressed_to": "AIG practice lead",
+    "priority": "can_progress",
+    "question": "Which one current customer workflow best demonstrates the route from AIM discovery to governed production and managed AI?",
+    "why_it_matters": "Master aig-advisory promises a value case and roadmap; aig-managed connects evaluation, observability and operations. The landing page's broad 'measurable business outcomes' needs one concrete, supportable journey rather than another capability list.",
+    "needed_response": "Business constraint and growth/operating objective, AIM outputs and commercial boundary, chosen cloud/model rationale, human approval point, acceptance measure, run owner/capacity and a permitted evidence or unchanged Happy Customers link. State if it is only a demonstrator.",
+    "interim_handling": "Draft the journey as an illustrative pattern until evidenced; use no invented results, assessment duration or guaranteed ROI. Keep cross-hyperscaler and independent-lab choice visible without promising every combination is delivered.",
+    "affected_pages": ["aig", "aig-advisory", "aig-automation", "aig-managed", "transform"],
+    "already_decided_do_not_reopen": "Approved AIG replacement copy and retained detail pages remain intact; AIG is cross-hyperscaler and includes independent frontier labs."
+  },
+  {
+    "id": "AZURE-01",
+    "addressed_to": "Azure practice lead",
+    "priority": "can_progress",
+    "question": "What is the single current Azure AI Launchpad offer that the website should route customers into?",
+    "why_it_matters": "Master azure-data-ai, 'Start with Azure AI Launchpad', describes focused discovery; ledger launchpad-offer-boundary distinguishes this from a historical two-day Marketplace workshop.",
+    "needed_response": "Approved discovery format, eligibility, customer inputs and outputs, commercial/funding basis, availability, delivery/approval role and correct enquiry destination. Identify a separate workshop only if it is genuinely a separate current offer.",
+    "interim_handling": "Keep the scoped discovery description and roadmap CTA; do not add free, funded, two-day or Marketplace eligibility claims. Editorial work need not wait for a promotional package.",
+    "affected_pages": ["azure-data-ai", "azure", "contact"],
+    "already_decided_do_not_reopen": "Do not merge historical and current offers merely because they share the Launchpad name."
+  },
+  {
+    "id": "AZURE-02",
+    "addressed_to": "Azure practice lead; ISPG and AIG delivery leads for interfaces",
+    "priority": "publication_gate",
+    "question": "Which of the seven Max-IT Azure service areas are supportable now, and what is the actual service-review and specialist hand-off commitment?",
+    "why_it_matters": "Master azure-managed lists seven service areas and says 'Quarterly roadmaps'; azure-security links broader Microsoft security to ISPG. The breadth and fixed cadence are operational promises, even without a numeric SLA.",
+    "needed_response": "Coverage/availability by tower, supported platform limits, review cadence, authority and escalation roles, interfaces to ISPG security and AIG AI lifecycle work, plus one approved scope and redacted service-review output.",
+    "interim_handling": "Stage the connected model; qualify unsupported towers and replace a universal quarterly commitment with an agreed cadence until confirmed. Keep Max-IT a service brand, not an inferred software product.",
+    "affected_pages": ["azure-managed", "azure-security", "azure-data-ai", "how-we-work"],
+    "already_decided_do_not_reopen": "Azure implementation can coordinate with ISPG without moving Microsoft Security out of ISPG."
+  },
+  {
+    "id": "AWS-01",
+    "addressed_to": "AWS practice lead; central credential approver",
+    "priority": "publication_gate",
+    "question": "What dated evidence supports the submitted AWS counts and the exact MSP credential used in the HCDW submission?",
+    "why_it_matters": "Ledger AWS-02–04 quotes '4 AWS Competencies', '4 AWS Partner Programs' and '120+ AWS Certifications'; these are withheld in v0.4. HCDW §2.5 introduces an additional MSP credential assertion.",
+    "needed_response": "Exact programme/credential titles, entity and geographic scope, current validity, counting method and as-of date, approved badge-use rights and evidence URLs. Distinguish certification awards from uniquely certified people and AWS evidence from HCDW capability evidence.",
+    "interim_handling": "Keep numeric/tier/credential claims out until approved. Reuse the same evidence for HCDW-02 without treating an AWS designation as proof of all hybrid/workspace operations.",
+    "affected_pages": ["aws", "partners", "recognition", "hcdw"],
+    "already_decided_do_not_reopen": "AWS v1.2 is already incorporated; the request is evidence, not another content submission. Vendor attribution remains off the homepage."
+  },
+  {
+    "id": "AWS-02",
+    "addressed_to": "AWS practice lead; Max-IT service approver",
+    "priority": "publication_gate",
+    "question": "What approved Max-IT AWS scope supports the operations, automation and in-house architecture-assessment promises?",
+    "why_it_matters": "Master aws-managed offers CloudOps through strategic advisory; 'Automated Architecture Assessment' says 'in-house assessment accelerator'. Ledger AWS-13–17 and AWS-27–28 retain coverage and method-availability checks.",
+    "needed_response": "Supported services, staffed coverage, response/approval authority, recovery-test and reporting cadence, accountable service role and a signed scope. State the accelerator's present delivery use and provide a redacted output, without inventing a new product identity.",
+    "interim_handling": "Retain agreed-scope language; withhold blanket 24x7, fixed response and proprietary-product implications. Confirm how security and recovery incidents reach the relevant specialist practices.",
+    "affected_pages": ["aws-managed", "aws-security", "aws-migration", "how-we-work"],
+    "already_decided_do_not_reopen": "Max-IT remains the submitted service brand; no automatic equivalence with a proprietary platform is implied."
+  },
+  {
+    "id": "AWS-03",
+    "addressed_to": "AWS practice lead; AIG lead for shared engineering evidence",
+    "priority": "publication_gate",
+    "question": "Which two or three of the nine AWS workflow opportunities are most ready for a customer conversation, and what can actually be demonstrated or delivered?",
+    "why_it_matters": "Master aws-ai-use-cases explicitly says 'nine proposed AI workflow opportunities'; ledger AWS-18–20 withheld 'proven' and 'Ready-to-Deploy' claims. The current title does not certify packaged-product readiness.",
+    "needed_response": "A short status for all nine, detailed evidence only for the priority two or three: customer inputs/integrations, ready versus bespoke scope, human decision boundaries, acceptance criteria, delivery role and permitted demo or proof link.",
+    "interim_handling": "Keep all nine as proposed opportunities, not finished products. Use selected examples to show Cloud/AI/Security working together; preserve human underwriting, risk assessment and final decision responsibility.",
+    "affected_pages": ["aws-ai-use-cases", "aws-agentic-ai", "aws"],
+    "already_decided_do_not_reopen": "The v0.4 opportunity framing and human-approval controls remain; this is a readiness check, not a request to rewrite the nine descriptions."
+  },
+  {
+    "id": "GCP-01",
+    "addressed_to": "Google Cloud practice lead",
+    "priority": "publication_gate",
+    "question": "Which Gemini/Google Cloud AI experience and security integration can the practice demonstrate and deliver today under actual customer entitlements?",
+    "why_it_matters": "Master gcp-gemini says connector scope is 'agreed for the environment' and offers a demonstration; gcp-security similarly conditions integrations and coverage. Public product availability is not evidence of an implemented Quadra package.",
+    "needed_response": "One priority use case with tested connectors, edition/region prerequisites, permission and approval controls, delivery owner/capacity and a dated demo or implementation evidence link. State any proposed-only BluForge integration explicitly.",
+    "interim_handling": "Retain current corrected source treatment and scoped capability copy. Do not revive withdrawn integration-readiness or automatic-entitlement claims; product naming checks are separate release research.",
+    "affected_pages": ["google-cloud", "gcp-ai", "gcp-gemini", "gcp-security"],
+    "already_decided_do_not_reopen": "The reattached GCP file is unchanged. Do not reset prior corrections or reopen AIG's approved cross-platform definitions."
+  },
+  {
+    "id": "GCP-02",
+    "addressed_to": "Google Cloud practice lead; Max-IT service approver",
+    "priority": "can_progress",
+    "question": "What current entry package links Google Cloud assessment or startup onboarding to a genuinely supported Max-IT service?",
+    "why_it_matters": "Master gcp-managed separates Quadra and provider support responsibilities; gcp-startups conditions programme access on provider terms. Ledger commercial-promotions withheld a complimentary month of managed coverage.",
+    "needed_response": "Actual onboarding outputs, supported operations/hours, customer/provider/Quadra responsibilities, service-review output, commercial basis, eligibility and delivery role/capacity. Confirm any promotional offer only if presently approved.",
+    "interim_handling": "Use scope discussions, provider-qualified programme language and agreed coverage. No free month, guaranteed credits or platform-wide support claim. Add exact unchanged customer-story links only after permission checks.",
+    "affected_pages": ["gcp-managed", "gcp-startups", "google-cloud", "contact"],
+    "already_decided_do_not_reopen": "Max-IT is not automatically software IP; AIMS and AIG's AIM must not be silently merged."
+  },
+  {
+    "id": "EAICG-01",
+    "addressed_to": "EAICG lead; central commercial journey owner",
+    "priority": "can_progress",
+    "question": "Which commercial customer journeys should EAICG support, and where should each enquiry go within the existing site?",
+    "why_it_matters": "PRACTICE_STATUS and source_manifest still await EAICG input; no technical charter is supplied. Master contact already distinguishes architecture, licensing/quotation and existing-customer help.",
+    "needed_response": "Confirm whether licensing/quotation, renewals, commercial advisory and existing-customer enquiries fall within EAICG's actual remit; give the correct receiving role/channel and hand-off boundary for each applicable journey.",
+    "interim_handling": "Keep existing site structure and generic commercial enquiry wording. Do not invent a new technical practice, capability catalogue, acronym expansion or navigation branch.",
+    "affected_pages": ["contact", "solutions", "how-we-work"],
+    "already_decided_do_not_reopen": "Missing EAICG input is not permission to assign EAICG a new technical ownership charter."
+  },
+  {
+    "id": "EAICG-02",
+    "addressed_to": "EAICG lead; central commercial journey owner",
+    "priority": "publication_gate",
+    "question": "What useful response can a customer expect after a commercial enquiry, and who has capacity and authority to provide it?",
+    "why_it_matters": "Master contact says 'Reach the team that can help with commercial requirements' but supplies no intake/output/response contract. A live CTA needs accountable handling, not an invented SLA.",
+    "needed_response": "Minimum enquiry inputs, first deliverable such as requirements triage or quotation next steps, routing/escalation role, approved response wording, available capacity and any eligibility or exclusions.",
+    "interim_handling": "A non-live preview can progress. Do not activate a new production commercial route or promise response time until the receiving process is tested with the web owner.",
+    "affected_pages": ["contact", "azure-data-ai", "gcp-startups"],
+    "already_decided_do_not_reopen": "This clarifies customer-facing commercial service, not practice architecture; existing support must not be silently redirected."
+  },
+  {
+    "id": "CENTRAL-01",
+    "addressed_to": "Central DMG/content owner; nominated practice approval roles",
+    "priority": "publication_gate",
+    "question": "Who can approve the shared evidence register and final copy, and what realistic review capacity/date can each practice commit?",
+    "why_it_matters": "The master homepage retains '21 Years of Global Recognition' and existing customer-result excerpts; ledger credential-proof records conflicting corporate totals. AIG's closed wording decisions do not independently clear certificates, case permissions or measured-result evidence.",
+    "needed_response": "One approval roster and dated evidence register covering corporate/practice credentials, delivery geography, claimed results and unchanged Happy Customers links/rights. Identify the approving role, review date and escalation route; link existing evidence rather than commission new essays.",
+    "interim_handling": "Keep the review master and customer records unchanged; withhold unsupported new claims and gate publication of unresolved retained claims. Mark superseded ledger questions closed rather than recirculating them.",
+    "affected_pages": ["home", "partners", "recognition", "happy-customers", "platforms-ip", "technology"],
+    "already_decided_do_not_reopen": "AIG D-01–D-06 are closed; Happy Customers records/naming stay unchanged. Global brand hierarchy and homepage vendor-name exclusion remain fixed."
+  },
+  {
+    "id": "CENTRAL-02",
+    "addressed_to": "Central DMG/content owner; CoE experience lead; AIG experience lead",
+    "priority": "can_progress",
+    "question": "What can a visitor actually book at the physical CoE and digitally through IntelliXperience?",
+    "why_it_matters": "Master coe is 'structure_only'; platforms-ip says IntelliXperience's 'physical and digital boundaries require confirmation'. Floor themes are already explicitly not solution categories.",
+    "needed_response": "Physical versus remote experiences available now, intended audience and customer takeaway, approved demos/data permissions, booking capacity, venue/session owner and receiving CTA role; note shared versus distinct experiences.",
+    "interim_handling": "Retain an experience-venue introduction and generic enquiry. Do not claim a digital platform, self-service lab, bookable session or new solution route without evidence.",
+    "affected_pages": ["coe", "platforms-ip", "aig-engineering", "why-quadra", "contact"],
+    "already_decided_do_not_reopen": "Ambition, Trust, Continuity and Intelligence are CoE floor themes, not four additional website routes."
+  },
+  {
+    "id": "CENTRAL-03",
+    "addressed_to": "Central web owner; Framer project administrator; form/CRM owner",
+    "priority": "staging_blocker",
+    "question": "Which actual Framer project, schema and access can be used to test the import and customer routes, and who owns the production release gate?",
+    "why_it_matters": "PRACTICE_STATUS puts 'Framer-ready export mapped to actual components/CMS' before staging. Master contact is only form_preview; homepage Compass and newsletter also describe behaviours, not verified integrations.",
+    "needed_response": "Project identifier and staging URL; field/component/CMS schema including repeaters, references, slugs and collections; authorised editor access through normal invitation; current pricing/subscription plan and relevant limits; existing case collection/redirect mapping; form destinations, consent and analytics requirements; test and production approver roles.",
+    "interim_handling": "Content and generic CSV preparation can progress, but label it prepared/unmapped—not import-tested. No production changes. Test contact/newsletter routing, Compass source/fallback behaviour, links, accessibility, consent and analytics in staging before explicit production approval.",
+    "affected_pages": ["home", "contact", "happy-customers", "privacy", "terms", "technology", "solutions"],
+    "already_decided_do_not_reopen": "A prepared CSV is not a tested Framer import. Preserve existing customer records and canonical routes unless the web owner separately approves a documented migration."
+  }
+]

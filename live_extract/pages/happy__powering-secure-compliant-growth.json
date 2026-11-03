@@ -1,0 +1,116 @@
+{
+ "path": "/happy/powering-secure-compliant-growth",
+ "url": "https://www.quadrasystems.net/happy/powering-secure-compliant-growth",
+ "title": "Zero Trust Compliance Framework Case Study | Quadra",
+ "description": "Architected and deployed a holistic, cloud-native security and compliance platform that minimized insider risk, prevented data loss, and provided a unified defense.",
+ "ogImage": "https://framerusercontent.com/images/SD2fXxQCgHUkNTIfhHmNXFD3k.jpeg?width=6016&height=4016",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Zero Trust Security & Compliance Framework for a Global Services Leader"
+    },
+    {
+     "t": "p",
+     "text": "IT-Enabled Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SD2fXxQCgHUkNTIfhHmNXFD3k.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A provider of end-to-end global capability services, supporting Fortune 500 companies in over eighty centers."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To elevate their security posture from a standard setup to an advanced, integrated framework that could meet the stringent compliance demands of their enterprise clients."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a holistic, cloud-native security and compliance platform that minimized insider risk, prevented data loss, and provided a unified defense."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A provider of end-to-end global capability services, supporting Fortune 500 companies in over eighty centers."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "While already on a cloud productivity platform, they were not leveraging its advanced security and compliance features. Their existing security model was not sufficient to prevent sensitive information from being transferred externally or to manage privileged access effectively. They needed to move from a traditional security model to a modern Zero Trust framework without adding the cost and complexity of multiple point solutions."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to be the undisputed trusted partner for their Fortune 500 clients. This required a security and compliance posture that was not just good, but world-class. They needed to implement a formal, auditable authorization process based on the principle of 'least privilege access' to protect sensitive client data and meet diverse, complex business compliance requirements."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new integrated framework transformed their security and compliance capabilities. They now have a robust system to manage and minimize insider risk, a critical requirement for their business. The unified solution provided a layered defense and deep visibility, all while reducing the cost and complexity associated with managing multiple point products. They can now confidently meet the most stringent client audits, turning their security posture into a powerful competitive advantage."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Implemented a Modern Zero Trust Security Model"
+    },
+    {
+     "t": "p",
+     "text": "Minimized Insider Risk with Privileged Identity Management"
+    },
+    {
+     "t": "p",
+     "text": "Prevented Data Loss with Integrated DLP"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Cost & Complexity by Consolidating Security Tools"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

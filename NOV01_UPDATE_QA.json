@@ -1,0 +1,66 @@
+{
+  "status": "pass",
+  "version": "0.4",
+  "pages": 71,
+  "aws_pages": 8,
+  "new_page_ids": [
+    "aws-agentic-ai",
+    "aws-ai-use-cases",
+    "aws-apps"
+  ],
+  "changed_existing_ids": [
+    "technology",
+    "aws",
+    "aws-migration",
+    "aws-data-ai",
+    "aws-security",
+    "aws-managed"
+  ],
+  "source_topics_covered": 64,
+  "source_topics_missing": 0,
+  "use_case_examples": 9,
+  "aig_unchanged": true,
+  "gcp_unchanged": true,
+  "home_and_happy_customers_unchanged": true,
+  "security_practice_boundary_preserved": true,
+  "dropdown_script_unchanged": true,
+  "all_existing_page_ids_preserved": true,
+  "source_attachment_hashes": {
+    "AWS Web Site Content Update - Oct2026 Ver1.2.docx": "c4486f98ddbfac2c9e9c73f5263f6117112c8085147b1f481b5c9ade41ec634d",
+    "Quadra GCP Website Content - Oct 2026.docx": "cf00aa4b3f2803f328ddf239baf77c215466dedf27e2894e2569b082e9697a3b"
+  },
+  "metadata_lengths": {
+    "aws": {
+      "title": 41,
+      "description": 152
+    },
+    "aws-migration": {
+      "title": 30,
+      "description": 132
+    },
+    "aws-apps": {
+      "title": 49,
+      "description": 148
+    },
+    "aws-data-ai": {
+      "title": 46,
+      "description": 143
+    },
+    "aws-agentic-ai": {
+      "title": 23,
+      "description": 153
+    },
+    "aws-ai-use-cases": {
+      "title": 48,
+      "description": 146
+    },
+    "aws-managed": {
+      "title": 38,
+      "description": 140
+    },
+    "aws-security": {
+      "title": 34,
+      "description": 147
+    }
+  }
+}

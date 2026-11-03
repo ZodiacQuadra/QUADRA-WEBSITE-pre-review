@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-IN" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quadra Website — Content Review</title>
+  <meta name="color-scheme" content="light">
+  <style>
+    :root {
+      --color-bg: #ffffff; --color-fg: #111827;
+      --color-muted: #6b7280; --color-accent: #2563eb;
+      --color-border: #e5e7eb;
+      color-scheme: light;
+      --space: 1rem;
+      --max-width: 56rem;
+    }
+    /* Off-preview viewers on a dark OS get dark colors via this query. The
+       preview shim overrides documentElement.style.colorScheme directly and
+       does not consult the media query, so this is preview-inert. */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --color-bg: #0b1220; --color-fg: #f3f4f6;
+        --color-muted: #9ca3af; --color-accent: #60a5fa;
+        --color-border: #1f2937;
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: var(--color-bg);
+      color: var(--color-fg);
+      font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      text-align: start;
+    }
+    .page {
+      max-width: var(--max-width);
+      margin-inline: auto;
+      padding-block: calc(var(--space) * 2);
+      padding-inline: var(--space);
+    }
+    h1, h2, h3 { line-height: 1.25; }
+    a { color: var(--color-accent); }
+    .muted { color: var(--color-muted); }
+    hr { border: 0; border-block-start: 1px solid var(--color-border); margin-block: var(--space); }
+    table { border-collapse: collapse; width: 100%; }
+    th, td {
+      text-align: start;
+      padding: 0.5rem 0.75rem;
+      border-block-end: 1px solid var(--color-border);
+    }
+    th { color: var(--color-muted); font-weight: 600; }
+    @media print {
+      :root {
+        --color-bg: #fff; --color-fg: #000;
+        --color-muted: #555; --color-border: #999;
+      }
+      @page { margin: 0.75in; }
+      tr, td, th { page-break-inside: avoid; }
+      .no-print { display: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+  <header>
+    <h1>Quadra Website — Content Review</h1>
+<p class="muted">Simple content and structure mockup · 27 October 2026</p>    <p class="muted">
+    </p>
+  </header>
+  <hr>
+  </main>
+</body>
+</html>

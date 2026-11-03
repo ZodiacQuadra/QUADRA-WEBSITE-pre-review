@@ -1,0 +1,116 @@
+{
+ "path": "/happy/automating-active-directory-migration-for-solar-pioneer",
+ "url": "https://www.quadrasystems.net/happy/automating-active-directory-migration-for-solar-pioneer",
+ "title": "Automated IT Integration Case Study | Quadra",
+ "description": "Architected and executed a fully automated, tool-based migration that completed the complex merger in just 20 days with zero errors and no end-user disruption.",
+ "ogImage": "https://framerusercontent.com/images/ukzELss5jvhp3d2TQPZbyCYjw.jpeg?width=4608&height=3456",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Automated IT Integration for a Solar Energy Pioneer"
+    },
+    {
+     "t": "p",
+     "text": "Energy"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ukzELss5jvhp3d2TQPZbyCYjw.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A pioneer and industry leader in solar energy in India, part of a multi-billion dollar conglomerate."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To execute a complex merger of Active Directory forests between two group companies to establish a unified identity management system."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and executed a fully automated, tool-based migration that completed the complex merger in just 20 days with zero errors and no end-user disruption."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A pioneer and industry leader in solar energy in India, part of a multi-billion dollar conglomerate."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Merging multiple Active Directory forests is an incredibly complex, time-consuming, and high-risk exercise. A manual migration was estimated to take several man-months and would be highly exposed to errors and data inconsistencies, which could have potentially disastrous consequences for user access and productivity."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As part of a strategic move to achieve operational efficiency, the client's ambition was to seamlessly merge the IT operations of two distinct group companies. A successful integration required a flawless merger of their core identity systems to create a single, unified organization."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The project was a stunning success. The entire complex migration was completed within a stringent deadline of just 20 days. The automated process was completely transparent to end-users, who saw no impact on their day-to-day operations. The migration was completed with zero errors, a feat nearly impossible with a manual approach. Our experience in large, demanding migration projects enabled us to deliver a fast, efficient, and completely risk-free outcome."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Completed a Complex AD Forest Merger in Just 20 Days"
+    },
+    {
+     "t": "p",
+     "text": "Achieved a Zero-Error, Zero End-User Disruption Migration"
+    },
+    {
+     "t": "p",
+     "text": "Mitigated Significant Business Risk with an Automated Approach"
+    },
+    {
+     "t": "p",
+     "text": "Enabled a Successful & Timely M&A Integration"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

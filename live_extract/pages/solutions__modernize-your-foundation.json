@@ -1,0 +1,258 @@
+{
+ "path": "/solutions/modernize-your-foundation",
+ "url": "https://www.quadrasystems.net/solutions/modernize-your-foundation",
+ "title": "Enterprise Cloud Migration Services | Azure, AWS & GCP | Quadra",
+ "description": "Quadra empowers enterprises with secure Azure, AWS & GCP migration services, infrastructure modernization, and hybrid cloud architecture designed for performance, flexibility, and innovation.",
+ "ogImage": "https://framerusercontent.com/assets/WP7JZejCWH8DvUzou4xo2HYPU.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Modernize Your"
+    },
+    {
+     "t": "h1",
+     "text": "Foundation with Strategic Cloud Migration"
+    },
+    {
+     "t": "p",
+     "text": "We design and build the agile, secure, and cost-efficient cloud infrastructure that serves as the bedrock for your enterprise ambition—powering resilience, enabling innovation, and maximizing value from every technology investment."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Is Your Infrastructure an Accelerator or an Anchor?"
+    },
+    {
+     "t": "p",
+     "text": "We partner with leaders who are asking the tough but essential questions about their technology foundation."
+    },
+    {
+     "t": "h6",
+     "text": "Our cloud bills are unpredictable and soaring"
+    },
+    {
+     "t": "p",
+     "text": "You need clear visibility and control to eliminate waste and ensure your cloud spend is directly fueling growth, not just consumption."
+    },
+    {
+     "t": "h6",
+     "text": "Our legacy systems are holding back innovation"
+    },
+    {
+     "t": "p",
+     "text": "Your infrastructure should enable, not inhibit, your ability to deploy new applications, leverage AI, and respond to market changes with speed and agility."
+    },
+    {
+     "t": "h6",
+     "text": "I'm worried about security and compliance in a multi-cloud world"
+    },
+    {
+     "t": "p",
+     "text": "You need a consistent, unified security posture and governance framework that protects your assets and ensures compliance across all environments, without stifling productivity."
+    },
+    {
+     "t": "h6",
+     "text": "Managing our complex environment is draining our best talent"
+    },
+    {
+     "t": "p",
+     "text": "Your expert teams should be focused on strategic initiatives and innovation, not on routine maintenance, firefighting, and managing infrastructure complexity."
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Modern Foundation"
+    },
+    {
+     "t": "p",
+     "text": "We don't just migrate; we architect. Our approach ensures your cloud foundation is purpose-built to deliver on your strategic objectives"
+    },
+    {
+     "t": "p",
+     "text": "Start"
+    },
+    {
+     "t": "p",
+     "text": "Design"
+    },
+    {
+     "t": "p",
+     "text": "Execute"
+    },
+    {
+     "t": "h2",
+     "text": "We Start with a Business-First Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Our engagement begins with your ambition. We conduct a thorough assessment—aligned with frameworks like the Microsoft CAF—to create a holistic cloud strategy and modernization roadmap that is inextricably linked to your business goals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/aBdGidOrLb1aDack633X5hDOM8.jpg",
+     "alt": "man and woman sitting side by side by the table",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Capabilities Required to Build Your Foundation"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Migration & Modernization"
+    },
+    {
+     "t": "p",
+     "text": "Seamlessly migrate and modernize workloads, including complex applications like SAP, from on-premise data centers to the cloud"
+    },
+    {
+     "t": "p",
+     "text": "Multi-Cloud Architecture & Governance"
+    },
+    {
+     "t": "p",
+     "text": "FinOps & Cloud Cost Management"
+    },
+    {
+     "t": "p",
+     "text": "Managed Infrastructure Services"
+    },
+    {
+     "t": "p",
+     "text": "Disaster Recovery & Resilience Planning"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xU3jFqQZ6OLs4T1UGi2KELwyJQ.jpg",
+     "alt": "five person by table watching turned on white iMac",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Cloud Migration & Modernization"
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "h2",
+     "text": "Modernizing a Global Pharmaceutical Leader"
+    },
+    {
+     "t": "p",
+     "text": "A leading pharma giant was facing escalating costs and compliance challenges with its aging data center. We architected and executed a seamless migration of 350+ mission-critical VMs to AWS, ensuring zero business disruption and 100% GxP compliance."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GvnJydjAXSJHMLix0UoytoM61s.jpg",
+     "alt": "a woman sitting on a bed using a laptop",
+     "w": 1200
+    },
+    {
+     "t": "h3",
+     "text": "40%"
+    },
+    {
+     "t": "p",
+     "text": "Reduction in infrastructure management efforts"
+    },
+    {
+     "t": "h3",
+     "text": "62%"
+    },
+    {
+     "t": "p",
+     "text": "Increase in IT staff productivity"
+    },
+    {
+     "t": "h3",
+     "text": "99.5%"
+    },
+    {
+     "t": "p",
+     "text": "Uptime SLA achieved"
+    },
+    {
+     "t": "link",
+     "text": "View More Customer Stories",
+     "href": "../happy"
+    }
+   ]
+  },
+  {
+   "name": "FAQ",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Foundation for the AI Era"
+    },
+    {
+     "t": "p",
+     "text": "An intelligent enterprise can only be built on an intelligent foundation. Here is how we help leaders answer the critical infrastructure questions of the AI era."
+    },
+    {
+     "t": "p",
+     "text": "What technology investments, for example in data infrastructure, should now be prioritized?"
+    },
+    {
+     "t": "p",
+     "text": "The single most important investment is in creating an AI-Ready Foundation. You cannot build a skyscraper on sand. Before you scale AI, you must architect a modern, scalable cloud infrastructure and a unified data estate. This means prioritizing a cloud-native architecture that can handle intensive compute needs, building a \"data fabric\" that breaks down silos to provide clean fuel for your AI models, and establishing robust governance from day one. This foundational investment prevents costly rework and is the only path to successful, enterprise-scale AI"
+    },
+    {
+     "t": "p",
+     "text": "And what are the risks, for example to security and compliance?"
+    },
+    {
+     "t": "p",
+     "text": "How does a 'modernized foundation' translate into real business agility, not just better IT?"
+    },
+    {
+     "t": "p",
+     "text": "Our business is unique. How do you ensure our foundation isn't a one-size-fits-all solution?"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Is Your Foundation Ready for Your Ambition?"
+    },
+    {
+     "t": "p",
+     "text": "Let's design a blueprint for a modern, secure, and efficient infrastructure that accelerates your business goals."
+    },
+    {
+     "t": "link",
+     "text": "Schedule a Foundation Assessment",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

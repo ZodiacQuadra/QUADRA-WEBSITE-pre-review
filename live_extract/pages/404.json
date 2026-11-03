@@ -1,0 +1,33 @@
+{
+ "path": "/404",
+ "url": "https://www.quadrasystems.net/404",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "noindex",
+ "sections": [
+  {
+   "name": "404 Section",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Oops!"
+    },
+    {
+     "t": "h1",
+     "text": "404"
+    },
+    {
+     "t": "p",
+     "text": "This architecture does not exist."
+    },
+    {
+     "t": "link",
+     "text": "Back to home",
+     "href": "./"
+    }
+   ]
+  }
+ ],
+ "status": 404
+}

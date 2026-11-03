@@ -1,0 +1,143 @@
+{
+ "path": "/solutions/platforms-ip/bluforge/bluforge-ops",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/bluforge/bluforge-ops",
+ "title": "BluForge Ops: 24/7 Managed SOC & Security Operations | Quadra",
+ "description": "BluForge Ops delivers 24/7 AI-powered managed SOC operations, providing enterprises with continuous threat detection, incident triage, investigation, and response across hybrid and cloud environments.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "BluForge Ops"
+    },
+    {
+     "t": "h1",
+     "text": "24/7 Managed SOC & Security Operations"
+    },
+    {
+     "t": "p",
+     "text": "BluForge Ops™ is your fully managed, 24x7 Security Operations Center. We provide real-time threat detection, triage, and management using our powerful, AI-driven platform, giving you enterprise-grade vigilance without the high cost and complexity of building your own SOC."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Unwinnable Race Against Time"
+    },
+    {
+     "t": "p",
+     "text": "A modern threat landscape never sleeps, but your team has to. Building and staffing a 24x7 SOC is prohibitively expensive and requires a constant, competitive search for scarce expert talent. How can you ensure continuous, expert-led monitoring without breaking your budget?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xWGnYGgiOlJzfAXIrLhtKn5sWI.jpeg",
+     "alt": "Dashboard showing real-time threat vectors in BluForge",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Team, Extended. Your Defense, Uninterrupted."
+    },
+    {
+     "t": "p",
+     "text": "We act as a seamless extension of your team. Our blueprint for managed SOC is built on three core principles"
+    },
+    {
+     "t": "h6",
+     "text": "AI-Powered Platform"
+    },
+    {
+     "t": "p",
+     "text": "We leverage a platform built on Microsoft Sentinel and Defender, using its native AI and automation to correlate trillions of signals into prioritized, high-fidelity incidents."
+    },
+    {
+     "t": "h6",
+     "text": "Human-Led Expertise"
+    },
+    {
+     "t": "p",
+     "text": "Our team of Microsoft-certified analysts provides the crucial layer of human intelligence. They manage the platform, triage every alert, and orchestrate containment 24x7x365."
+    },
+    {
+     "t": "h6",
+     "text": "Complete Transparency"
+    },
+    {
+     "t": "p",
+     "text": "You receive monthly executive reports, custom dashboards, and continuous monitoring of all environments, giving you complete visibility into your security posture."
+    },
+    {
+     "t": "h6",
+     "text": "AI-Powered Platform"
+    },
+    {
+     "t": "h6",
+     "text": "Human-Led Expertise"
+    },
+    {
+     "t": "h6",
+     "text": "AI-Powered Platform"
+    },
+    {
+     "t": "h6",
+     "text": "Human-Led Expertise"
+    },
+    {
+     "t": "h6",
+     "text": "AI-Powered Platform"
+    },
+    {
+     "t": "h6",
+     "text": "Human-Led Expertise"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Continuous 24x7 Monitoring by Microsoft-Certified Analysts"
+    },
+    {
+     "t": "p",
+     "text": "Deep Integration with Microsoft Defender XDR & Sentinel"
+    },
+    {
+     "t": "p",
+     "text": "Alert Triage, Enrichment, and Escalation"
+    },
+    {
+     "t": "p",
+     "text": "Custom Detection Rule & Playbook Management"
+    },
+    {
+     "t": "p",
+     "text": "Monthly Executive Reporting & Dashboards"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/04Mz44npU1pqGACPpJNXzQcBXQ.jpeg",
+     "alt": "Dashboard showing real-time threat vectors in BluForge",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,223 @@
+{
+ "path": "/technology/cyber-security",
+ "url": "https://www.quadrasystems.net/technology/cyber-security",
+ "title": "Enterprise Cybersecurity Services: Architect Your Resilience | Quadra",
+ "description": "Quadra delivers end-to-end enterprise cybersecurity services across Zero Trust, threat and endpoint protection, network and application security, cloud-native security, and AI-powered managed security operations.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Resilient Defense"
+    },
+    {
+     "t": "p",
+     "text": "We are your strategic cybersecurity partner. We architect a holistic, resilient defense by integrating best-of-breed security technologies to create a single, unified, and fortified enterprise."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Unmatched Expertise Across the Security Landscape"
+    },
+    {
+     "t": "h2",
+     "text": "Best-Fit Architecture, Not a Forced Fit"
+    },
+    {
+     "t": "p",
+     "text": "In today’s interconnected enterprise, a one-size-fits-all approach from a single vendor is a strategy for the past. Our philosophy is to be your vendor-agnostic architect. We leverage our premier partnerships with the world's leading cybersecurity innovators—from Zscaler and Crowdstrike to Fortinet and Sophos—to select and integrate the right technology for your specific challenge."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/UQZHopBFApoSz6lPTRi8fALfA.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Our Premier Security Partner"
+    },
+    {
+     "t": "p",
+     "text": "Our dedicated team holds elite certifications including Zscaler Digital Transformation Engineer, CrowdStrike Certified Falcon Administrator, Sophos Architect, and Fortinet Network Security Architect."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Unified Enterprise Defense"
+    },
+    {
+     "t": "p",
+     "text": "Our practice is built on integrated pillars that deliver enterprise-wide protection from your users to your cloud"
+    },
+    {
+     "t": "card",
+     "href": "./cyber-security/zero_trust",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Zero Trust & Secure Access"
+      },
+      {
+       "t": "p",
+       "text": "We architect a modern, identity-first defense for your hybrid workforce, ensuring secure access from anywhere, on any device."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./cyber-security/threat-endpoint-protection",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Advanced Threat Defense for Endpoints"
+      },
+      {
+       "t": "p",
+       "text": "We architect an intelligent defense for your endpoints and servers with industry-leading EDR and XDR platforms"
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./cyber-security/network-application-security",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Network & Application Security"
+      },
+      {
+       "t": "p",
+       "text": "We architect a fortified perimeter, protecting your web applications, APIs, and email gateways from sophisticated attacks"
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./cyber-security/cloud-native-security",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Cloud-Native Security (CNAPP)"
+      },
+      {
+       "t": "p",
+       "text": "We architect security into the fabric of your cloud, protecting your entire application lifecycle from code to productio"
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./cyber-security/managed-security-operations",
+     "blocks": [
+      {
+       "t": "h3",
+       "text": "Managed Security Operations (BluForge™)"
+      },
+      {
+       "t": "p",
+       "text": "We are your 24/7 defense partner, delivering our premier managed SOC and MXDR services through our proprietary BluForge™ platform"
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Quadra Advantage in Cybersecurity"
+    },
+    {
+     "t": "p",
+     "text": "In a world of fragmented tools and overwhelming complexity, our value lies in providing clarity, integration, and unwavering partnership."
+    },
+    {
+     "t": "p",
+     "text": "Vendor-Agnostic, Business-First Architecture"
+    },
+    {
+     "t": "p",
+     "text": "We are not aligned with a single vendor; we are aligned with your business outcome. Our deep, multi-vendor expertise allows us to recommend and architect the most effective solution for your specific challenge, not just the one in a particular catalog."
+    },
+    {
+     "t": "p",
+     "text": "Holistic Integration Expertise"
+    },
+    {
+     "t": "p",
+     "text": "A Stable Team of Certified Security Architects"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/H3dftT4XNMFJQkBkiZuxRmVc.jpg",
+     "alt": "two people sitting at a table with laptops",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Vendor-Agnostic, Business-First Architecture"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Resilient Enterprise."
+    },
+    {
+     "t": "p",
+     "text": "Schedule a strategic session with our security architects to assess your current posture and design a blueprint for a more secure and resilient future"
+    },
+    {
+     "t": "link",
+     "text": "Book a Security Posture Assessment",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

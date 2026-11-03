@@ -1,0 +1,116 @@
+{
+ "path": "/happy/secure-high-performance-app-delivery",
+ "url": "https://www.quadrasystems.net/happy/secure-high-performance-app-delivery",
+ "title": "High-Performance App Delivery Case Study | Quadra",
+ "description": "Architected and deployed a secure, cloud-native application delivery solution that eliminated client-side dependencies, guaranteed high performance, and enhanced security with single sign-on.",
+ "ogImage": "https://framerusercontent.com/images/8YkG5joXFONi1LLU8hEQ2Fenok.jpg?width=5760&height=3840",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Secure, High-Performance Application Delivery Platform for a Global Energy Software Leader"
+    },
+    {
+     "t": "p",
+     "text": "Oil & Marine"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/8YkG5joXFONi1LLU8hEQ2Fenok.jpg",
+     "alt": "woman in black jacket sitting beside woman in white blazer",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global provider of cloud energy trading, risk management, and fuel management software for the oil and marine industries."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To securely deliver a mission-critical, legacy thick-client Windows application to a global user base with high performance and high availability."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a secure, cloud-native application delivery solution that eliminated client-side dependencies, guaranteed high performance, and enhanced security with single sign-on."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global provider of cloud energy trading, risk management, and fuel management software for the oil and marine industries."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their core business application was a traditional thick-client Windows application, which was not designed for the cloud era. Delivering it securely and with high performance to users across the globe was a major challenge. They also needed to simplify the user provisioning process and enhance security with single sign-on integration with their core directory services."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to provide their global customers with a flawless user experience for their core trading and risk management application. It was paramount that the application's performance never be impacted, as this could directly affect their customers' business. They needed a modern delivery architecture that could ensure high availability, robust security, and simplified user management."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new platform transformed their application delivery. The user experience was greatly enhanced, with consistently high performance regardless of location. The auto-scaling cloud infrastructure ensured zero degradation in performance under any condition. The seamless single sign-on and centralized management of trading reports and client data vastly improved both security and reporting capabilities, providing their customers with a world-class, modern application experience."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Ensured High Performance for a Mission-Critical Application"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Secure 'Work from Anywhere' Access"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Security with Single Sign-On"
+    },
+    {
+     "t": "p",
+     "text": "Vastly Improved Reporting & Data Management"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

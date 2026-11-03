@@ -1,0 +1,114 @@
+{
+ "path": "/technology/aws/microsite/modernization",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/modernization",
+ "title": "AWS Application Modernization: Build Cloud-Native, Scale | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Application Modernization"
+    },
+    {
+     "t": "h1",
+     "text": "Build Cloud-Native, Scalable Apps"
+    },
+    {
+     "t": "p",
+     "text": "We help you transform your legacy applications into agile, resilient, and scalable cloud-native services on AWS, accelerating your development cycles and your ability to innovate."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Are Your Applications Built for the Pace of Modern Business?"
+    },
+    {
+     "t": "p",
+     "text": "Monolithic legacy applications are often slow to update, difficult to scale, and expensive to maintain. In a world that demands agility, you need an application architecture that can evolve as fast as your business, but choosing the right modernization path is a complex architectural decision."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/2QQ2s4gnE5lmxy4rn0CHMgcfjPM.jpg",
+     "alt": "man in black crew neck long sleeve shirt sitting beside man in black crew neck shirt",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/y9hfOMzgE8lW3evQ50EwkL1BV3U.jpg",
+     "alt": "three men sitting while using laptops and watching man beside whiteboard",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for Agile, Scalable Applications."
+    },
+    {
+     "t": "p",
+     "text": "We architect a pragmatic path from monolith to microservices. Our blueprint focuses on leveraging AWS's powerful serverless and container platforms to build applications that are more resilient, easier to update, and infinitely scalable. We integrate this with a modern DevOps practice to create a high-velocity, secure software delivery lifecycle."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Modernization Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Application Portfolio Assessment"
+    },
+    {
+     "t": "p",
+     "text": "Analyzing your applications to define the right strategy for each—from re-platforming to re-architecting."
+    },
+    {
+     "t": "p",
+     "text": "Containerization (Amazon ECS, EKS)"
+    },
+    {
+     "t": "p",
+     "text": "Serverless Re-architecture (AWS Lambda)"
+    },
+    {
+     "t": "p",
+     "text": "DevOps & DevSecOps Automation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yFYLyx8lLdeCvizV2goHJZvQ6OI.jpg",
+     "alt": "people inside room",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Application Portfolio Assessment"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Accelerate Your Innovation?"
+    },
+    {
+     "t": "link",
+     "text": "Start Your Modernization Journey",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

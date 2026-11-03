@@ -1,0 +1,116 @@
+{
+ "path": "/happy/cloud-iaas-enables-it-major",
+ "url": "https://www.quadrasystems.net/happy/cloud-iaas-enables-it-major",
+ "title": "High-Performance IaaS Platform Case Study | Quadra",
+ "description": "Architected and migrated their LOB applications from a costly, underperforming on-premise environment to a scalable and resilient public cloud IaaS platform, improving performance and optimizing costs.",
+ "ogImage": "https://framerusercontent.com/images/xe7T6nceO5P9siIUSxxPBsbB3Mc.jpeg?width=4004&height=6000",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a High-Performance IaaS Platform for a Global IT Services Leader"
+    },
+    {
+     "t": "p",
+     "text": "IT-Enabled Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xe7T6nceO5P9siIUSxxPBsbB3Mc.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global IT services and solution provider with a Fortune 500 client base and a culture focused on execution excellence."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To ensure their portfolio of critical Line-of-Business (LOB) applications could be delivered with high performance and high availability to thousands of users across the globe."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and migrated their LOB applications from a costly, underperforming on-premise environment to a scalable and resilient public cloud IaaS platform, improving performance and optimizing costs."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global IT services and solution provider with a Fortune 500 client base and a culture focused on execution excellence."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their on-premise hosted applications were slow, unresponsive, and delivered inconsistent performance for their global users. The significant investment in redundant on-premise infrastructure to ensure high availability was complex and extremely expensive. Troubleshooting performance issues was draining a significant amount of time and energy from their IT team."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to deliver services at peak productivity and efficiency to their global clients. This required their internal LOB applications to be always-on and high-performing, regardless of where their employees were accessing them from."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The benefits were tangible and visible from day one. Application performance improved dramatically and was consistent for all users, regardless of region. The architecture was scalable on demand, allowing them to optimize costs without compromising performance. The inherent HA and DR capabilities of the public cloud provided peace of mind and eliminated the need for complex, expensive on-premise setups. The secure, locked-down deployment ensured their data was always protected."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Dramatically Improved Global Application Performance"
+    },
+    {
+     "t": "p",
+     "text": "Achieved High Availability & Resilience for LOB Apps"
+    },
+    {
+     "t": "p",
+     "text": "Optimized TCO Compared to On-Premise Infrastructure"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Data Security & Availability in the Cloud"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

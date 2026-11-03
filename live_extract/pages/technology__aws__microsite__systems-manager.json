@@ -1,0 +1,114 @@
+{
+ "path": "/technology/aws/microsite/systems-manager",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/systems-manager",
+ "title": "AWS Systems Manager: Unified & Automated Cloud Operatio | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Systems Manager"
+    },
+    {
+     "t": "h1",
+     "text": "Unified & Automated Cloud Operations"
+    },
+    {
+     "t": "p",
+     "text": "We leverage AWS Systems Manager to provide a single, unified interface for managing your entire hybrid and multi-cloud infrastructure. We architect a framework to automate operational tasks, ensuring your environment is secure, compliant, and efficient at scale."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "\"Keeping the Lights On\" is Draining Your Innovation Budget"
+    },
+    {
+     "t": "p",
+     "text": "In a sprawling hybrid environment, your best people are often bogged down with manual, repetitive operational tasks like patching, configuration management, and troubleshooting. Leaders are asking: \"How do we automate these routine tasks? How do we get a unified view of our entire server fleet? How do we free our team to focus on strategic, value-added work?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YhVgux1CoWHl6dde5H1X6AkyVyo.jpeg",
+     "alt": "a group of people sitting around a wooden table",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yk9xubpEeMtZAycpzPGcI2C1h0.jpeg",
+     "alt": "Two people sitting across from each other in an office working on a Surface laptop",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for Intelligent, Automated Operations"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to architect a centralized, automated operational hub. We use AWS Systems Manager to transform your manual processes into a streamlined, software-defined operation. Our blueprint focuses on automating patch management for compliance, centralizing configuration management for consistency, and providing a unified console for secure, auditable access to your entire server fleet."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Cloud Operations Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Automated Patch Management"
+    },
+    {
+     "t": "p",
+     "text": "Architecting automated workflows to ensure your Windows and Linux instances are always up-to-date and compliant"
+    },
+    {
+     "t": "p",
+     "text": "Unified Fleet & Configuration Management"
+    },
+    {
+     "t": "p",
+     "text": "Secure, Auditable Access (Session Manager)"
+    },
+    {
+     "t": "p",
+     "text": "Operational Automation (Run Command)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/oT1TZOcC9uObqHVbiMaRXL1XA.jpeg",
+     "alt": "a woman giving a presentation to a group of people",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Automated Patch Management"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect a Smarter Way to Operate?"
+    },
+    {
+     "t": "link",
+     "text": "Discuss Our Automation Services",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,116 @@
+{
+  "source_document": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+  "source_date": "2026-10-29",
+  "review_date": "2026-10-30",
+  "requests": [
+    {
+      "request": "CR-01",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Restored requested hero and subheadline."
+    },
+    {
+      "request": "CR-02",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Restored positioning statement; no market statistics added."
+    },
+    {
+      "request": "CR-03",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Restored both paragraphs, security, three hyperscalers and modernization."
+    },
+    {
+      "request": "CR-04",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Restored heading, opening, all five barriers and closing sentence."
+    },
+    {
+      "request": "CR-05",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Added Assess/Architect/Build/Govern/Scale to overview in requested order."
+    },
+    {
+      "request": "CR-06",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Applied all five requested capability names. Managed AI remains a detail destination; no page deletion requested."
+    },
+    {
+      "request": "CR-07",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Applied multi-agent and human-oversight wording plus Intellient to overview and engineering page."
+    },
+    {
+      "request": "CR-08",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Applied requested advisory, integration/IntelliLink and governance descriptions to the correct cards."
+    },
+    {
+      "request": "CR-09",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Applied all five requested entries, including the supplied BluForge IntelliGuard and AIR descriptions, after user closed D references. Removed the superseded AIR delivery definition from AIG copy."
+    },
+    {
+      "request": "CR-10",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Consistent platform descriptions in target subpages and shared portfolio. Existing attribution/maturity checks remain."
+    },
+    {
+      "request": "CR-11",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Applied heading and named ecosystems with current OEM brands. Omitted the absent closing sentence; no replacement wording invented."
+    },
+    {
+      "request": "CR-12",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Used the nine requested overview industries. Kept established AIR continuity description separately; no customer-case retagging."
+    },
+    {
+      "request": "CR-13",
+      "status": "applied",
+      "source": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "handling": "Restored closing headline and paragraph; retained existing CTA and destination."
+    }
+  ],
+  "decisions_not_supplied": [],
+  "held_changes": [],
+  "external_naming_adjustments": [
+    {
+      "requested": "AWS Bedrock",
+      "used": "Amazon Bedrock on AWS",
+      "source": "https://aws.amazon.com/bedrock/"
+    },
+    {
+      "requested": "Google Vertex AI",
+      "used": "Gemini Enterprise Agent Platform on Google Cloud (formerly Vertex AI)",
+      "source": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/vertex-ai-name-changes"
+    },
+    {
+      "requested": "Microsoft Azure AI",
+      "used": "Microsoft Azure — Microsoft Foundry",
+      "source": "https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry"
+    }
+  ],
+  "preserved": [
+    "Homepage",
+    "Happy Customers and case records",
+    "Non-AIG practice copy",
+    "All existing page IDs and subpages",
+    "Separate CSG and Microsoft Security practice scope",
+    "Menu dismissal fix",
+    "Source attachment"
+  ],
+  "new_claims_verified": false,
+  "publication_status": "not_published_to_production",
+  "decision_resolution": "User confirmed D-01 to D-06 have been sorted out and instructed us to ignore those references, 30 October 2026."
+}

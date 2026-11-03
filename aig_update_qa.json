@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "requests_reviewed": 13,
+  "fully_applied": 13,
+  "partially_applied": 0,
+  "pending_decisions": [],
+  "changed_page_ids": [
+    "platforms-ip",
+    "intellient",
+    "aig",
+    "aig-engineering",
+    "aig-managed",
+    "aig-governance"
+  ],
+  "page_count_preserved": 68,
+  "homepage_and_cases_unchanged": true,
+  "non_aig_practices_unchanged": true,
+  "menu_fix_unchanged": true,
+  "source_document_unchanged": "a43cb9207ed8fcf0cebcaadd56584c36e0099d7eb9b471221bd179c7cd4588e5",
+  "metadata_lengths": {
+    "aig": {
+      "title": 47,
+      "description": 153
+    },
+    "aig-governance": {
+      "title": 33,
+      "description": 156
+    }
+  }
+}

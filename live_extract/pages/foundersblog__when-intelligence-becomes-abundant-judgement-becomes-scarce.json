@@ -1,0 +1,474 @@
+{
+ "path": "/foundersblog/when-intelligence-becomes-abundant-judgement-becomes-scarce",
+ "url": "https://www.quadrasystems.net/foundersblog/when-intelligence-becomes-abundant-judgement-becomes-scarce",
+ "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+ "description": "AI has made it extraordinarily easy to produce a polished email; a persuasive presentation; a sophisticated spreadsheet; a detailed proposal. All in a fraction of the time it once took.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Founders Blogs"
+    },
+    {
+     "t": "p",
+     "text": ">"
+    },
+    {
+     "t": "p",
+     "text": "When Intelligence Becomes Abundant, Judgement Becomes Scarce"
+    },
+    {
+     "t": "h2",
+     "text": "When Intelligence Becomes Abundant, Judgement Becomes Scarce"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/DNLLIDHLv0cEGKtbYkLrNr8aCQQ.jpg",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "p",
+       "text": "Prashanth Subramanian"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Sep 24, 2026"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fLvyojCxbpOirPO0g8iZXRYM6MI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "AI has made it extraordinarily easy to produce a polished email; a persuasive presentation; a sophisticated spreadsheet; a detailed proposal. All in a fraction of the time it once took."
+    },
+    {
+     "t": "p",
+     "text": "That is a tremendous advantage. All of us have saved countless hours of manual drudgery."
+    },
+    {
+     "t": "p",
+     "text": "But it introduces a less visible risk: our output can become better while our understanding becomes shallower."
+    },
+    {
+     "t": "p",
+     "text": "Something can look complete before the thinking behind it is complete. An argument can sound convincing even when its assumptions have not been examined. A recommendation can appear authoritative when nobody is quite sure why it is the right one."
+    },
+    {
+     "t": "p",
+     "text": "The biggest risk of workplace AI may not be bad output."
+    },
+    {
+     "t": "p",
+     "text": "It may be good-looking output that nobody has properly thought through."
+    },
+    {
+     "t": "p",
+     "text": "As AI becomes more capable, the differentiator will not simply be who can use the latest tools. It will be who can frame the right problem, exercise judgement, challenge a plausible answer and take responsibility for the result."
+    },
+    {
+     "t": "p",
+     "text": "In other words, we need to place thinking skills over tool skills."
+    },
+    {
+     "t": "p",
+     "text": "This does not mean tool skills are unimportant. Nor does it mean we should use AI cautiously or reluctantly. We should use it extensively."
+    },
+    {
+     "t": "p",
+     "text": "But the value of AI depends increasingly on the quality of the person working with it."
+    },
+    {
+     "t": "p",
+     "text": "At Quadra, we often express this as:"
+    },
+    {
+     "t": "p",
+     "text": "You + AI = Superhuman"
+    },
+    {
+     "t": "p",
+     "text": "The important word in that equation is You."
+    },
+    {
+     "t": "h3",
+     "text": "AI can generate. Humans must judge."
+    },
+    {
+     "t": "p",
+     "text": "AI can give us answers, ideas, analysis, recommendations, code and content almost instantly."
+    },
+    {
+     "t": "p",
+     "text": "When intelligence becomes readily available, what becomes more valuable is knowing:"
+    },
+    {
+     "t": "p",
+     "text": "what problem is worth solving;"
+    },
+    {
+     "t": "p",
+     "text": "what matters and what does not;"
+    },
+    {
+     "t": "p",
+     "text": "what information to trust;"
+    },
+    {
+     "t": "p",
+     "text": "which answer is relevant;"
+    },
+    {
+     "t": "p",
+     "text": "what trade-off to make;"
+    },
+    {
+     "t": "p",
+     "text": "and what we should actually do."
+    },
+    {
+     "t": "p",
+     "text": "AI can assist with every one of these questions. But it cannot assume responsibility for the decision."
+    },
+    {
+     "t": "p",
+     "text": "Here are five principles that I believe can help us use AI without outsourcing the thinking that gives our work value."
+    },
+    {
+     "t": "h3",
+     "text": "1. Think before you delegate the thinking"
+    },
+    {
+     "t": "p",
+     "text": "Before handing a problem to AI, form your own initial view."
+    },
+    {
+     "t": "p",
+     "text": "You do not need a finished answer. But you should understand the problem, the objective, your assumptions and what you believe matters. A few rough sentences containing your actual thinking are often more valuable than several pages of polished AI-generated prose."
+    },
+    {
+     "t": "p",
+     "text": "Here's a trick that I use: when I see a beautiful document, my first instinct is to ask for the prompt that produced it. That helps me to save time and truly decide if what's produced is relevant or not."
+    },
+    {
+     "t": "p",
+     "text": "Instead of asking:"
+    },
+    {
+     "t": "p",
+     "text": "“Create a strategy for this customer.”"
+    },
+    {
+     "t": "p",
+     "text": "Try:"
+    },
+    {
+     "t": "p",
+     "text": "“Here is how I understand the customer’s problem. These are my assumptions. This is what I think matters most. What am I missing?”"
+    },
+    {
+     "t": "p",
+     "text": "In the first case, AI is doing the framing."
+    },
+    {
+     "t": "p",
+     "text": "In the second, AI is improving yours."
+    },
+    {
+     "t": "p",
+     "text": "This distinction matters because whoever frames the problem often determines the range of possible answers. If we delegate the framing without thinking, we may receive an excellent response to the wrong question :)."
+    },
+    {
+     "t": "h3",
+     "text": "2. Let AI expand your thinking"
+    },
+    {
+     "t": "p",
+     "text": "We should use AI aggressively to generate alternatives, explore scenarios, analyse information, identify patterns, create first drafts, simplify complexity and accelerate repetitive work."
+    },
+    {
+     "t": "p",
+     "text": "There is nothing wrong with AI producing the first idea or the first draft."
+    },
+    {
+     "t": "p",
+     "text": "But generation and judgement are different activities."
+    },
+    {
+     "t": "p",
+     "text": "AI can produce ten options in ten seconds. Well, almost. Your value lies in recognising which one matters, which one is realistic and which one should never leave the screen."
+    },
+    {
+     "t": "p",
+     "text": "The objective is not to prove that we can do everything ourselves. It is to use AI to widen the field of possibilities while retaining responsibility for the choice."
+    },
+    {
+     "t": "p",
+     "text": "AI should increase the range of our thinking, not replace it."
+    },
+    {
+     "t": "h3",
+     "text": "3. Use AI to challenge you, not merely agree with you"
+    },
+    {
+     "t": "p",
+     "text": "Many people use AI as a polishing machine."
+    },
+    {
+     "t": "p",
+     "text": "They provide an idea and ask the system to make it clearer, stronger or more persuasive. The result often looks impressive, but it may simply reinforce the original assumptions."
+    },
+    {
+     "t": "p",
+     "text": "A better use of AI is to ask it to challenge the thinking itself."
+    },
+    {
+     "t": "p",
+     "text": "Instead of:"
+    },
+    {
+     "t": "p",
+     "text": "“Make this better.”"
+    },
+    {
+     "t": "p",
+     "text": "Ask:"
+    },
+    {
+     "t": "p",
+     "text": "“Tell me why this may be wrong.”"
+    },
+    {
+     "t": "p",
+     "text": "Then go further:"
+    },
+    {
+     "t": "p",
+     "text": "What assumptions am I making?"
+    },
+    {
+     "t": "p",
+     "text": "What evidence would contradict my conclusion?"
+    },
+    {
+     "t": "p",
+     "text": "What have I overlooked?"
+    },
+    {
+     "t": "p",
+     "text": "What would a sceptical customer challenge?"
+    },
+    {
+     "t": "p",
+     "text": "What is the strongest argument for doing the opposite?"
+    },
+    {
+     "t": "p",
+     "text": "Under what circumstances would this recommendation fail?"
+    },
+    {
+     "t": "p",
+     "text": "Treat AI as a training partner, not a gift-wrapping machine for weak thinking."
+    },
+    {
+     "t": "p",
+     "text": "If every interaction with AI makes you more confident in what you already believed, you may not be using it rigorously enough."
+    },
+    {
+     "t": "h3",
+     "text": "4. Protect the human judgement point"
+    },
+    {
+     "t": "p",
+     "text": "The more polished an AI-generated answer appears, the easier it becomes to stop questioning it."
+    },
+    {
+     "t": "p",
+     "text": "The presentation looks complete. The analysis feels comprehensive. The recommendation sounds decisive. We move from examining the answer to approving it."
+    },
+    {
+     "t": "p",
+     "text": "That is the moment at which human judgement can quietly disappear from the process."
+    },
+    {
+     "t": "p",
+     "text": "For important work, we need a deliberate judgement point. Step away from the generated output and ask:"
+    },
+    {
+     "t": "p",
+     "text": "What do I actually believe?"
+    },
+    {
+     "t": "p",
+     "text": "What is the most important point?"
+    },
+    {
+     "t": "p",
+     "text": "What do I disagree with?"
+    },
+    {
+     "t": "p",
+     "text": "Which option would I choose independently?"
+    },
+    {
+     "t": "p",
+     "text": "Can I explain why?"
+    },
+    {
+     "t": "p",
+     "text": "What would change my mind?"
+    },
+    {
+     "t": "p",
+     "text": "The purpose is not to disregard the AI’s contribution. It is to make sure that a human decision still exists beneath the polished output."
+    },
+    {
+     "t": "p",
+     "text": "AI can recommend."
+    },
+    {
+     "t": "p",
+     "text": "Humans must decide."
+    },
+    {
+     "t": "h3",
+     "text": "5. Own everything you send"
+    },
+    {
+     "t": "p",
+     "text": "If your name is on the work, you own it."
+    },
+    {
+     "t": "p",
+     "text": "You should be able to explain what it means, why it is included, where the facts and numbers came from, what assumptions were made and why you agree with the conclusion."
+    },
+    {
+     "t": "p",
+     "text": "The answer to:"
+    },
+    {
+     "t": "p",
+     "text": "“Why are we recommending this?”"
+    },
+    {
+     "t": "p",
+     "text": "can never be:"
+    },
+    {
+     "t": "p",
+     "text": "“That is what the AI suggested.”"
+    },
+    {
+     "t": "p",
+     "text": "We cannot delegate accountability to a model."
+    },
+    {
+     "t": "p",
+     "text": "This is especially important as AI becomes embedded in everyday work. The assistance may become less visible, but the responsibility does not become less real."
+    },
+    {
+     "t": "p",
+     "text": "AI can contribute to the work."
+    },
+    {
+     "t": "p",
+     "text": "Accountability remains human."
+    },
+    {
+     "t": "h3",
+     "text": "This is also a leadership question"
+    },
+    {
+     "t": "p",
+     "text": "The responsibility does not rest only with individual users."
+    },
+    {
+     "t": "p",
+     "text": "Leaders need to examine what their organisations reward."
+    },
+    {
+     "t": "p",
+     "text": "Do we reward the volume of work produced or the quality of the thinking behind it?"
+    },
+    {
+     "t": "p",
+     "text": "Do we celebrate polished output without asking how the conclusion was reached?"
+    },
+    {
+     "t": "p",
+     "text": "Do our reviews examine assumptions, evidence and trade-offs, or only formatting, completeness and speed?"
+    },
+    {
+     "t": "p",
+     "text": "Are people comfortable disagreeing with an AI-generated recommendation, particularly when it appears authoritative?"
+    },
+    {
+     "t": "p",
+     "text": "If an organisation rewards speed and polish without testing reasoning, employees will naturally use AI to produce more material faster."
+    },
+    {
+     "t": "p",
+     "text": "If it rewards clarity of thought, intellectual honesty and ownership, people will use AI to improve the quality of their decisions."
+    },
+    {
+     "t": "p",
+     "text": "AI adoption, therefore, is not simply a technology programme. It is also a management and cultural challenge."
+    },
+    {
+     "t": "h3",
+     "text": "Better output is not the goal. Better thinking is."
+    },
+    {
+     "t": "p",
+     "text": "As AI takes over more execution, our contribution must move upwards."
+    },
+    {
+     "t": "p",
+     "text": "If AI creates the spreadsheet, question the assumptions."
+    },
+    {
+     "t": "p",
+     "text": "If AI builds the presentation, decide what the audience genuinely needs to understand."
+    },
+    {
+     "t": "p",
+     "text": "If AI drafts the proposal, decide why the customer should believe it."
+    },
+    {
+     "t": "p",
+     "text": "If AI recommends the answer, decide whether it is right."
+    },
+    {
+     "t": "p",
+     "text": "Technical fluency will continue to matter. But familiarity with tools will not, by itself, create better judgement."
+    },
+    {
+     "t": "p",
+     "text": "The organisations that distinguish themselves will not necessarily be those that produce the most with AI. They will be those in which people think more clearly, test their assumptions more rigorously and make better decisions because they have AI."
+    },
+    {
+     "t": "p",
+     "text": "That is the real opportunity. Not artificial intelligence replacing human thought."
+    },
+    {
+     "t": "p",
+     "text": "But human judgement becoming more capable because intelligence is no longer scarce."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

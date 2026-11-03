@@ -1,0 +1,116 @@
+{
+ "path": "/happy/integrated-backup-mitigates-risk-and-drives-compliance",
+ "url": "https://www.quadrasystems.net/happy/integrated-backup-mitigates-risk-and-drives-compliance",
+ "title": "Architecting a Unified Data Protection Strategy for a Global Financial Services Firm",
+ "description": "Architected and deployed a single-window, integrated backup system that optimized performance across a diverse environment, improved recovery times, and provided a unified view for compliance.",
+ "ogImage": "https://framerusercontent.com/images/h6NEQWggpcsWVI8n4pdQnsm6Gec.jpeg?width=4480&height=6720",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified Data Protection Strategy for a Global Financial Services Firm"
+    },
+    {
+     "t": "p",
+     "text": "Financial Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/h6NEQWggpcsWVI8n4pdQnsm6Gec.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A large financial services organization providing risk management and payment solutions to thousands of institutions across 80 countries."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To standardize their disparate data availability solutions onto a single, unified backup platform to mitigate risk, improve performance, and drive compliance."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a single-window, integrated backup system that optimized performance across a diverse environment, improved recovery times, and provided a unified view for compliance."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A large financial services organization providing risk management and payment solutions to thousands of institutions across 80 countries."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their existing backup solutions were fragmented point products. This made it impossible to get an integrated view of the safety and compliance of their data. They were also burdened by poor performance that stretched backup windows into production time, impacting business operations. They needed a unified solution that could handle their heterogeneous IT environment."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate with a world-class, fully compliant data protection strategy. They needed a single source of truth to manage and verify the safety of their data across multiple silos and locations, ensuring business continuity and meeting the stringent demands of the financial services industry."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The transition to a single-window, integrated backup system was a complete success. The new platform optimized backup and recovery times and improved performance across their diverse hardware and software systems. The meticulous project planning and execution ensured the project was delivered on time and within budget, providing them with a robust, compliant, and manageable data protection framework."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unified a Fragmented, Multi-Location Backup Environment"
+    },
+    {
+     "t": "p",
+     "text": "Provided a Single-Pane-of-Glass View for Compliance & Management"
+    },
+    {
+     "t": "p",
+     "text": "Optimized Performance to Meet Shrinking Backup Windows"
+    },
+    {
+     "t": "p",
+     "text": "Mitigated Business Risk for Mission-Critical Financial Data"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

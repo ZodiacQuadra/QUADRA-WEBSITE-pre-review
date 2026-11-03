@@ -1,0 +1,116 @@
+{
+ "path": "/happy/accelerating-research-to-deliver-improved-quality-of-life",
+ "url": "https://www.quadrasystems.net/happy/accelerating-research-to-deliver-improved-quality-of-life",
+ "title": "Life Sciences R&D IT Backbone Case Study | Quadra",
+ "description": "Architected and deployed a revamped IT backbone with a centralized database, intranet portal, and enterprise search, which dramatically reduced information retrieval times and increased productivity.",
+ "ogImage": "https://framerusercontent.com/images/mj3ntbiuIfTsPL9DZfwtYOt0Q7k.jpeg?width=6033&height=4022",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern IT Backbone to Accelerate Life Sciences R&D"
+    },
+    {
+     "t": "p",
+     "text": "Life Sciences"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mj3ntbiuIfTsPL9DZfwtYOt0Q7k.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A life sciences company grappling with growth and competitive pressures, highlighting the need for rapid and sustained innovation."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To eliminate inefficiencies from their R&D and production processes by moving from paper-based systems to a modern, integrated, and collaborative IT infrastructure."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a revamped IT backbone with a centralized database, intranet portal, and enterprise search, which dramatically reduced information retrieval times and increased productivity."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A life sciences company grappling with growth and competitive pressures, highlighting the need for rapid and sustained innovation."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The primary challenges were a lack of effective collaboration and the difficulty of working with unstructured data from a huge variety of sources. Paper-based systems for production planning were slow, inaccurate, and difficult to monitor. The lack of a centralized information repository made it a significant challenge for their researchers to collaborate effectively, hindering overall employee productivity."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to sustain their growth and accelerate their time-to-market, which is critical in the life sciences industry where each day of delay can be expensive in terms of revenue. They needed to eliminate the inefficiencies of paper-based systems and unstructured data sources to foster a more agile and innovative research environment."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new infrastructure delivered a quantum boost in productivity. The enterprise search functionality led to a drastic reduction in information search and retrieval times. Electronic workflows replaced inefficient paper-based systems, and shared workspaces helped teams to better collaborate and structure information interchange. The reliable backup system and robust security unburdened management from data loss and security woes, allowing the company to focus on its core mission of innovation."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Dramatically Reduced Information Search & Retrieval Times"
+    },
+    {
+     "t": "p",
+     "text": "Replaced Inefficient Paper-Based Systems with Digital Workflows"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Collaboration & Structured Information Interchange"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Security for Critical R&D Data"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

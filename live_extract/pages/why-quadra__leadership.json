@@ -1,0 +1,103 @@
+{
+ "path": "/why-quadra/leadership",
+ "url": "https://www.quadrasystems.net/why-quadra/leadership",
+ "title": "Leadership Team | Quadra Systems",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Quadra Leadership"
+    },
+    {
+     "t": "h1",
+     "text": "The Visionary Team Architecting Your Future"
+    },
+    {
+     "t": "p",
+     "text": "Our leadership team is comprised of hands-on strategists and visionaries who are deeply committed to our culture of partnership and obsessed with our clients' success"
+    }
+   ]
+  },
+  {
+   "name": "Testimonial Section",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Message from Our Founders"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/K9kY2q0TDWO9xi7hK0RwhvyDk0.jpg",
+     "alt": "a group of people sitting at a table with computers",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4iDJRkBeLgy1Px3PBeFkaVBqMhA.png",
+     "alt": "",
+     "w": 100
+    },
+    {
+     "t": "h6",
+     "text": "For 25 years, our guiding principle has been to serve as a true partner to our clients. Today, in the age of AI, that principle is more vital than ever. The role of a partner is not to sell technology, but to provide clarity, architect strategy, and build the foundations for ambitious growth. Our entire team is dedicated to that single purpose: to architecting your ambition and ensuring your success is built to last"
+    },
+    {
+     "t": "p",
+     "text": "Prashanth Subramanian"
+    },
+    {
+     "t": "link",
+     "text": "Read our Founders’ Blog",
+     "href": "../foundersblog"
+    },
+    {
+     "t": "h6",
+     "text": "A visionary blueprint is only as strong as the foundation it's built upon. My focus for 25 years has been ensuring that Quadra's foundation is unshakeable. Through a deep-seated culture of operational excellence, rigorous financial discipline, and an unwavering commitment to compliance, we ensure that every solution we architect is not just innovative, but also resilient, secure, and built to deliver enduring value. Our partners trust us with their most critical ambitions because we have built a business worthy of that trust"
+    },
+    {
+     "t": "p",
+     "text": "Nagaraj Ponnuswamy"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1qyuWHuMiZAhXfIk3MeOFpJHkTU.jpg",
+     "alt": "a group of people sitting at a table with computers",
+     "w": 1440
+    },
+    {
+     "t": "link",
+     "text": "Read our Founders’ Blog",
+     "href": "../foundersblog"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Partner with a"
+    },
+    {
+     "t": "h2",
+     "text": "Visionary Team"
+    },
+    {
+     "t": "p",
+     "text": "Discover how our leadership's vision and our team's deep expertise can help you architect your enterprise ambition"
+    },
+    {
+     "t": "link",
+     "text": "Start a Strategic Dialogue",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

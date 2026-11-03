@@ -1,0 +1,420 @@
+{
+ "path": "/technology/microsoft/azure",
+ "url": "https://www.quadrasystems.net/technology/microsoft/azure",
+ "title": "Microsoft Azure | Quadra",
+ "description": "Quadra delivers end-to-end Microsoft Azure services — from cloud migration and app modernization to data and AI, security, and managed operations — helping enterprises build resilient, intelligent, and cost-optimized Azure environments.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Microsoft Azure"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Intelligent Enterprise Cloud"
+    },
+    {
+     "t": "p",
+     "text": "We don't just migrate you to Azure; we architect your future on it. We leverage the full power of Microsoft Azure—from its scalable infrastructure to its cutting-edge AI services—to build the secure, intelligent, and resilient foundation your enterprise ambition demands"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Azure is Powerful and Complex"
+    },
+    {
+     "t": "p",
+     "text": "We partner with leaders to answer the most critical questions about their Azure journey"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iNybHyn2ecySOW7eNCg1SPLRFw.jpg",
+     "alt": "people sitting near table with laptop computer",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "How do we move from AI hype to real ROI on Azure?"
+    },
+    {
+     "t": "p",
+     "text": "You need a clear strategy to leverage Azure's powerful AI and OpenAI services, connecting them to your unique business data to solve real-world problems."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/P7qChx43b6H53RQy453RfmFJqg.jpg",
+     "alt": "person wearing long-sleeve top working on laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we modernize our legacy apps, not just 'lift-and-shift' them?"
+    },
+    {
+     "t": "p",
+     "text": "The true value of Azure lies in cloud-native services. You need a roadmap to evolve your applications and databases to be more agile, scalable, and intelligent."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lDIJpcJxZEYVFqlgtjGUgxoTR0.jpg",
+     "alt": "a man sitting in front of a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we control our Azure costs and manage this sprawling environment?"
+    },
+    {
+     "t": "p",
+     "text": "Without a robust governance and FinOps framework, cloud spend can quickly spiral. You need a partner who can architect for cost-efficiency from day one."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/G7wZmso17YSyOkk5VpuqJMVUsqU.jpg",
+     "alt": "woman placing sticky notes on wall",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we ensure our expanding Azure estate is secure and compliant?"
+    },
+    {
+     "t": "p",
+     "text": "As you adopt more services, your attack surface grows. You need an architectural approach that bakes in security and compliance from the start, not as an afterthought."
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Quadra Blueprint for Azure Success"
+    },
+    {
+     "t": "p",
+     "text": "Our Azure practice is architected around your strategic goals. Explore our core capability areas to see how we build a comprehensive, future-ready cloud for your enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Migration and Modernization"
+    },
+    {
+     "t": "p",
+     "text": "Digital & App Innovation"
+    },
+    {
+     "t": "p",
+     "text": "Data & AI"
+    },
+    {
+     "t": "p",
+     "text": "Security"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT™"
+    },
+    {
+     "t": "h2",
+     "text": "Migration and Modernization"
+    },
+    {
+     "t": "p",
+     "text": "We architect your seamless journey to the cloud. We build your Azure Landing Zone and execute complex migrations for Windows Server, SQL, VMware, and SAP, ensuring your foundation is secure and optimized from day one."
+    },
+    {
+     "t": "link",
+     "text": "Explore Migration & Modernization",
+     "href": "./azure/migration-and-modernization"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0FBQ5f5Rvddc7LaEk5k9UnxBd0.jpg",
+     "alt": "a person sitting at a table with a laptop",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our credentials on Microsoft Azure"
+    },
+    {
+     "t": "p",
+     "text": "Solution Partner"
+    },
+    {
+     "t": "p",
+     "text": "Data and AI"
+    },
+    {
+     "t": "p",
+     "text": "Solution Partner"
+    },
+    {
+     "t": "p",
+     "text": "Digital & App Innovation"
+    },
+    {
+     "t": "p",
+     "text": "Solution Partner"
+    },
+    {
+     "t": "p",
+     "text": "Infrastructure"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Specialization"
+    },
+    {
+     "t": "p",
+     "text": "Analytics on Microsoft Azure"
+    },
+    {
+     "t": "p",
+     "text": "Infra and Database Migration to Microsoft Azure"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Azure Virtual Desktop"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Fabric Featured Partner"
+    },
+    {
+     "t": "p",
+     "text": "Azure Accelerate Program Partner"
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized Architecting an"
+    },
+    {
+     "t": "h2",
+     "text": "Intelligent Manufacturing Platform on Azure"
+    },
+    {
+     "t": "p",
+     "text": "For a leading global apparel manufacturer with over 30,000 employees, the ambition was to transform their operations with real-time, data-driven intelligence. We architected a cutting-edge data lakehouse platform on Microsoft Azure to provide unprecedented visibility into their material consumption and supply chain"
+    },
+    {
+     "t": "h4",
+     "text": "15-20%"
+    },
+    {
+     "t": "p",
+     "text": "reduction in material wastage, delivering major cost savings"
+    },
+    {
+     "t": "h4",
+     "text": "12%"
+    },
+    {
+     "t": "p",
+     "text": "drop in inventory carrying costs through just-in-time planning"
+    },
+    {
+     "t": "h4",
+     "text": "40%"
+    },
+    {
+     "t": "p",
+     "text": "faster cost planning via automated, real-time insights"
+    },
+    {
+     "t": "link",
+     "text": "Explore More Azure Case Studies",
+     "href": "../../happy"
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Answering Your Strategic Questions on Azure"
+    },
+    {
+     "t": "p",
+     "text": "How do we move beyond AI hype to get real business value from Azure AI?"
+    },
+    {
+     "t": "p",
+     "text": "The key is moving from generic AI tools to bespoke intelligent systems. Quadra architects the bridge between Azure's powerful AI services and your unique business context. Our value is in: 1) Strategic Co-ideation: We start with your business problems, not the technology, identifying high-ROI use cases for Azure OpenAI Service. 2) Secure Data Integration: We architect the data pipelines to securely connect your proprietary business data to AI models using platforms like Microsoft Fabric. 3) Solution Engineering: We build the custom applications and copilots that turn this intelligence into a tangible, productive tool for your enterprise. We transform Azure's potential into your specific competitive advantage."
+    },
+    {
+     "t": "p",
+     "text": "How do we effectively control and optimize our costs on Azure?"
+    },
+    {
+     "t": "p",
+     "text": "Beyond 'lift-and-shift,' what does a true application modernization roadmap on Azure look like?"
+    },
+    {
+     "t": "p",
+     "text": "With Azure Arc, what is the real value of a hybrid cloud architecture today?"
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Scale of the Ambitions We Architect"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0YczDvjwpwN80wyyW0HHaSg0VA.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "AI & Machine Learning"
+    },
+    {
+     "t": "p",
+     "text": "We architect and deploy intelligent solutions using Azure OpenAI Service, Azure AI Studio, and Cognitive Services to automate processes and uncover new insights."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/F8bRxnZXtathTlYe6oa9P55kjsY.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Data & Analytics"
+    },
+    {
+     "t": "p",
+     "text": "We build your unified data estate with Microsoft Fabric, Azure Synapse Analytics, and Power BI, transforming disparate data into your most valuable strategic asset."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iL1g2JceXoecOESZCnxxGh4SA.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Application Modernization & DevOps"
+    },
+    {
+     "t": "p",
+     "text": "We modernize your applications using Azure App Service, Azure Kubernetes Service (AKS), and Azure Functions, and implement robust CI/CD pipelines with Azure DevOps."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WWbcr9xA8ezJ0nrGh99vBWXbBs.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Infrastructure Migration & Modernization"
+    },
+    {
+     "t": "p",
+     "text": "We architect your seamless cloud journey with Azure Migrate, specializing in complex Windows Server, SQL Server, and SAP on Azure migrations. We also design and manage hybrid solutions with Azure Arc."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3T8vswzOiWNPxJn88d0s762Hzj8.jpg",
+     "alt": "selective focus photography of people sits in front of table inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Security & Governance"
+    },
+    {
+     "t": "p",
+     "text": "We fortify your environment using Microsoft Defender for Cloud and implement enterprise-wide governance and compliance with Azure Policy."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Sf97dEN1pHBIV8HqNBQojQw.jpeg",
+     "alt": "selective focus photography of people sits in front of table inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Managed Services"
+    },
+    {
+     "t": "p",
+     "text": "In the era of digital transformation, businesses are rapidly transitioning to cloud environments. However, managing and optimizing these environments can be a complex task. That’s where Max-IT – Quadra’s Azure Managed services comes into play. Max-IT offers a comprehensive solution, tailored specifically to meet your growing business needs, enabling you to leverage the full potential of Microsoft Azure while simplifying cloud infrastructure management. With our expertise, dedication and 24/7 support, we ensure that your Azure environment is efficiently managed, allowing you to focus on your core business objectives."
+    },
+    {
+     "t": "h4",
+     "text": "Data & Analytics"
+    },
+    {
+     "t": "h4",
+     "text": "Managed Services"
+    },
+    {
+     "t": "h4",
+     "text": "Data & Analytics"
+    },
+    {
+     "t": "h4",
+     "text": "Managed Services"
+    },
+    {
+     "t": "h4",
+     "text": "Data & Analytics"
+    },
+    {
+     "t": "h4",
+     "text": "Managed Services"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Azure Ambition"
+    },
+    {
+     "t": "p",
+     "text": "Schedule a strategic session with our Microsoft Azure architects to design the blueprint for your secure, intelligent, and future-ready cloud."
+    },
+    {
+     "t": "link",
+     "text": "Book an Azure Strategy Session",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

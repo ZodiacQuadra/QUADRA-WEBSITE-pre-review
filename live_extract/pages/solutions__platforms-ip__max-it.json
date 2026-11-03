@@ -1,0 +1,109 @@
+{
+ "path": "/solutions/platforms-ip/max-it",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/max-it",
+ "title": "MaxIT: Cloud Cost Clarity, Control & Efficiency Platform | Quadra",
+ "description": "MaxIT is Quadra's cloud cost intelligence platform delivering real-time FinOps visibility, optimization recommendations, and governance controls to help enterprises eliminate waste and maximize cloud ROI.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "MaxIT: Cloud Cost Clarity, Control & Cost-Efficiency Platform"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The cloud promised agility, but delivered complexity. Managing multiple platforms, controlling spiraling costs, and ensuring a consistent security posture across your entire estate is a significant challenge for even the most capable IT teams"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xfHkJW4TONkXvGeGSnZXacmEz4.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Nm4nftjVXWpsVJALG0pzmj3tok.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Our Solution"
+    },
+    {
+     "t": "h5",
+     "text": "The Max-IT Platform"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT is an AI-infused, intelligent multi-cloud platform that provides a single pane of glass for your entire cloud journey. We architect a framework for continuous optimization, from assessment and migration to governance and security, freeing you to focus on business outcomes."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key Capabilities"
+    },
+    {
+     "t": "h5",
+     "text": "Unified Governance & Compliance"
+    },
+    {
+     "t": "p",
+     "text": "Deploy a unified framework with drift detection to ensure your multi-cloud environment is always compliant"
+    },
+    {
+     "t": "h5",
+     "text": "Continuous Cost Optimization (FinOps)"
+    },
+    {
+     "t": "p",
+     "text": "Leverage AI-driven insights to right-size resources, eliminate waste, and achieve up to 30% in cloud cost savings."
+    },
+    {
+     "t": "h5",
+     "text": "Proactive Security Posture Management"
+    },
+    {
+     "t": "p",
+     "text": "Automate security monitoring and remediation to reduce security incidents by up to 50%."
+    },
+    {
+     "t": "h5",
+     "text": "Accelerated Assessment & Migration"
+    },
+    {
+     "t": "p",
+     "text": "Utilize our proven tools and frameworks to speed up your cloud adoption journey."
+    },
+    {
+     "t": "link",
+     "text": "Request a Max-IT Demo",
+     "href": "../../contact-us"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zq4bD5fRUhQdRaY5Uy5v3QKdXw.jpeg",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

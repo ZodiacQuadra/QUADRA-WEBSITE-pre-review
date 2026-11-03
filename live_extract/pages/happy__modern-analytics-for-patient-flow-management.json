@@ -1,0 +1,116 @@
+{
+ "path": "/happy/modern-analytics-for-patient-flow-management",
+ "url": "https://www.quadrasystems.net/happy/modern-analytics-for-patient-flow-management",
+ "title": "Patient Flow Analytics Platform Case Study | Quadra",
+ "description": "Architected and deployed a serverless data analytics and visualization pipeline on AWS that delivered 60% faster decision-making and improved operational efficiency by 50%.",
+ "ogImage": "https://framerusercontent.com/images/tPuVAGJPIEVlwtJdl55ehY5MoU.jpeg?width=4289&height=2412",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern Analytics Platform to Optimize Patient Flow"
+    },
+    {
+     "t": "p",
+     "text": "Healthcare"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tPuVAGJPIEVlwtJdl55ehY5MoU.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "One of the largest community eye care providers in India, operating ten super specialty hospitals and performing over 150,000 free surgeries annually."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To leverage modern data analytics to reduce patient waiting times, improve operational efficiency, and enhance overall patient satisfaction."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a serverless data analytics and visualization pipeline on AWS that delivered 60% faster decision-making and improved operational efficiency by 50%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "One of the largest community eye care providers in India, operating ten super specialty hospitals and performing over 150,000 free surgeries annually."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The lack of robust data analytics practices was a major hurdle. Their patient management data was stored in a NoSQL database with a nested structure, making it extremely cumbersome to query and analyze. This deficiency led to significant delays in gaining insights, impacting their ability to make timely, informed decisions to optimize patient flow and hospital operations."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As a not-for-profit charitable trust, the client's ambition was to serve as many people as possible with the highest quality of care. A key part of this was improving the patient experience by reducing the time spent waiting at various service stations (reception, scans, pharmacy, etc.). They needed to transform their raw operational data into actionable insights."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new platform empowered the hospital's stakeholders to make faster, better decisions. The interactive dashboards provided clear insights into operational bottlenecks, leading to a 50% improvement in operational efficiency and better patient outcomes. The serverless, pay-as-you-go model also resulted in a 30% reduction in user license costs compared to other visualization tools, allowing them to achieve their ambition in a highly cost-effective manner."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Enabled 60% Faster, Data-Driven Decision-Making"
+    },
+    {
+     "t": "p",
+     "text": "Improved Operational Efficiency by 50%"
+    },
+    {
+     "t": "p",
+     "text": "Reduced User License Costs by 30%"
+    },
+    {
+     "t": "p",
+     "text": "Delivered Actionable Insights to Enhance Patient Care"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

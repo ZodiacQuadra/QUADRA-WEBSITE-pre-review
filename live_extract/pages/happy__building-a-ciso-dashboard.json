@@ -1,0 +1,116 @@
+{
+ "path": "/happy/building-a-ciso-dashboard",
+ "url": "https://www.quadrasystems.net/happy/building-a-ciso-dashboard",
+ "title": "Unified CISO Dashboard Case Study | Quadra",
+ "description": "Architected and deployed a rich, ML-infused dashboard that provided a unified view of their entire threat landscape, enabling them to identify risks and remediate threats in real time.",
+ "ogImage": "https://framerusercontent.com/images/kowsLNxnpQclOQJjDCjUkZkX0yw.jpg?width=2426&height=1728",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified CISO Dashboard for a Global ER&D Leader"
+    },
+    {
+     "t": "p",
+     "text": "Research & Development"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/kowsLNxnpQclOQJjDCjUkZkX0yw.jpg",
+     "alt": "laptop computer on glass-top table",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global leader in engineering and R&D services with over seventeen-thousand IT users."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To consolidate data from disparate security solutions into a single, intelligent, and actionable CISO dashboard to monitor and manage their global security posture in real time."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a rich, ML-infused dashboard that provided a unified view of their entire threat landscape, enabling them to identify risks and remediate threats in real time."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global leader in engineering and R&D services with over seventeen-thousand IT users."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their security solutions were all operating in silos. This made it impossible to get a consolidated view of their threat environment. They needed a way to ingest data from all these sources, correlate it, and present it in a way that was not just informative but actionable. The dashboard needed to be accessible anytime, anywhere, including on mobile devices."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate a truly proactive, data-driven security organization. They needed to move from a siloed view of security to a holistic one, providing their information security team and C-suite with a single source of truth to monitor their posture, identify risks, and make faster, more informed decisions."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The CISO dashboard transformed their security operations. They now have a complete, real-time solution to monitor, trace, and remediate any security incident anywhere in the world, right from their smartphones. The integration of their siloed solutions provides a powerful, all-round view of their threat environment. The use of AI and ML features augments their human monitoring, sharply reducing the possibility of missing small but vital security signals that could have been costly lapses."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Created a Unified, Single-Pane-of-Glass View of Security"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Real-Time Threat Monitoring & Remediation"
+    },
+    {
+     "t": "p",
+     "text": "Augmented Human Analysis with AI & ML Insights"
+    },
+    {
+     "t": "p",
+     "text": "Leveraged Existing Security Investments to Reduce Costs"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

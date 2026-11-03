@@ -1,0 +1,198 @@
+{
+ "path": "/solutions",
+ "url": "https://www.quadrasystems.net/solutions",
+ "title": "Enterprise Cloud & AI Solutions | Quadra",
+ "description": "Quadra's enterprise cloud and AI solutions help organizations modernize infrastructure, accelerate AI-driven innovation, strengthen cybersecurity defenses, and empower their workforce with intelligent digital tools.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Enterprise Solutions"
+    },
+    {
+     "t": "h1",
+     "text": "Cloud, AI, Security & Modern Workplace"
+    },
+    {
+     "t": "p",
+     "text": "We don't sell technology; we architect solutions. Our entire approach is designed to solve your most critical business challenges and transform your enterprise ambition into a tangible, measurable advantage. Explore the blueprints that power the Intelligent Enterprise."
+    }
+   ]
+  },
+  {
+   "name": "Bento",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Every Great Ambition"
+    },
+    {
+     "t": "h2",
+     "text": "Starts with a Critical Question"
+    },
+    {
+     "t": "p",
+     "text": "We partner with leaders to solve the most complex challenges of the AI era. Find the challenge that is top of mind for your enterprise and explore our architectural blueprint for solving it"
+    },
+    {
+     "t": "p",
+     "text": "Modernize Your Foundation"
+    },
+    {
+     "t": "h5",
+     "text": "Is our current infrastructure an accelerator or an anchor? How do we build an agile, secure, and cost-efficient foundation that is ready for the future, especially for the demands of AI?"
+    },
+    {
+     "t": "p",
+     "text": "We architect a modern, resilient, and optimized cloud foundation that powers your operations and enables innovation."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DF2gzPqqVW8QGp7Jxwp1y5257xk.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1200
+    },
+    {
+     "t": "link",
+     "text": "Explore the Modernization Blueprint",
+     "href": "./solutions/modernize-your-foundation"
+    },
+    {
+     "t": "p",
+     "text": "Innovate with AI & Data"
+    },
+    {
+     "t": "h5",
+     "text": "How do we move beyond AI hype to real ROI? How do we transform our siloed data from a complex liability into our most powerful strategic asset for growth?"
+    },
+    {
+     "t": "p",
+     "text": "We architect a data-driven advantage, building intelligent solutions that drive innovation and create new paths to market leadership."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/FMrayQPZhwcqehKdEm3NCEdN1ek.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1200
+    },
+    {
+     "t": "link",
+     "text": "Explore the Innovation Blueprint",
+     "href": "./solutions/fortify-your-defenses"
+    },
+    {
+     "t": "p",
+     "text": "Fortify Your Defenses"
+    },
+    {
+     "t": "h5",
+     "text": "Is our security posture keeping pace with our ambition? How do we move beyond a collection of reactive tools to an integrated, proactive defense that can handle a complex, multi-cloud world?"
+    },
+    {
+     "t": "p",
+     "text": "We architect enterprise resilience, building a confident, intelligent, and compliant security posture that protects your most critical assets"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fatU8r6ZUyOYqUTE5ZJUNKVzts.jpeg",
+     "alt": "two men shaking hands in a conference room",
+     "w": 1200
+    },
+    {
+     "t": "link",
+     "text": "Explore the Resilience Blueprint",
+     "href": "./solutions/innovate-with-ai-data"
+    },
+    {
+     "t": "p",
+     "text": "Empower Your Workforce"
+    },
+    {
+     "t": "h5",
+     "text": "Is our workplace truly unlocking our people's potential? How do we solve the challenges of hybrid work and eliminate the digital friction that hinders productivity and collaboration?"
+    },
+    {
+     "t": "p",
+     "text": "We architect an intelligent workplace that empowers your people to do their best work, fostering a culture of purposeful collaboration"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mIZUrGI0U77Iwh9SsrvOrgQaVnQ.jpeg",
+     "alt": "two men sitting at a table with a laptop",
+     "w": 1200
+    },
+    {
+     "t": "link",
+     "text": "Explore the Workplace Blueprint",
+     "href": "./solutions/empower-your-workforce"
+    }
+   ]
+  },
+  {
+   "name": "Content",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Partnership Built on an Architectural Approach"
+    },
+    {
+     "t": "p",
+     "text": "Our solutions are not just a collection of services; they are the outcome of a proven, strategic methodology."
+    },
+    {
+     "t": "p",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "Advantage"
+    },
+    {
+     "t": "h2",
+     "text": "We Start with Your Ambition"
+    },
+    {
+     "t": "p",
+     "text": "Every engagement begins with a strategic dialogue to understand your business goals, not our technology stack."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3yxuzgXrKVRKAbqUQdzL5DFhzeI.jpg",
+     "alt": "woman in white shirt writing on white paper",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Design"
+    },
+    {
+     "t": "h2",
+     "text": "Your Blueprint?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about your challenges and architect a solution that is perfectly tailored to your enterprise ambition"
+    },
+    {
+     "t": "link",
+     "text": "Talk to Our Architects",
+     "href": "./contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,116 @@
+{
+ "path": "/happy/integrated-data-management-solution-for-pharmaceuticals-manufacturer",
+ "url": "https://www.quadrasystems.net/happy/integrated-data-management-solution-for-pharmaceuticals-manufacturer",
+ "title": "Architecting an Integrated Data Protection Strategy for a Global Pharma Manufacturer",
+ "description": "Architected and deployed a centralized, flexible data protection solution that provided a single-pane-of-glass view, improved backup success rates, and ensured peace of mind for mission-critical data.",
+ "ogImage": "https://framerusercontent.com/images/eth6BrLFxca5uFC1Q2hiJcEEdY.jpg?width=5184&height=3456",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Integrated Data Protection Strategy for a Global Pharma Manufacturer"
+    },
+    {
+     "t": "p",
+     "text": "Pharmaceuticals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/eth6BrLFxca5uFC1Q2hiJcEEdY.jpg",
+     "alt": "person wearing lavatory gown with green stethoscope on neck using phone while standing",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading Indian pharmaceutical manufacturer and bio-drugs major with a global presence through organic growth and acquisitions."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To consolidate their fragmented data backup systems onto a single, enterprise-class data management platform that could scale with their global growth."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a centralized, flexible data protection solution that provided a single-pane-of-glass view, improved backup success rates, and ensured peace of mind for mission-critical data."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading Indian pharmaceutical manufacturer and bio-drugs major with a global presence through organic growth and acquisitions."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their existing tools were falling short. They had no reliable, organization-wide reports on their backup status, a significant compliance risk. They struggled with multiple, disconnected backup windows. The extended backup times were impacting the performance of production servers during work hours, affecting productivity."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As they expanded globally, the client's ambition was to operate with a unified and reliable data management strategy. They needed a single, scalable platform that could protect exploding data volumes across multiple branches and ensure compliance."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The solution transformed their data management, moving them from manual logs to automated reports and from multiple, disconnected windows to a single view of their global data protection status. This simplified daily tasks, automated routine work, and eliminated the business risks associated with data loss. We also helped optimize their licensing model, which eased compliance and provided a better TCO."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unified Data Protection Across a Global, Multi-Site Environment"
+    },
+    {
+     "t": "p",
+     "text": "Achieved a Single-Pane-of-Glass Management View"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated Production Performance Impact from Backups"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Business Risk & Eased Compliance Burden"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,213 @@
+{
+ "path": "/newsroom/cloud-firewall-standard-protect-your-google-cloud-network-from-advanced-threats",
+ "url": "https://www.quadrasystems.net/newsroom/cloud-firewall-standard-protect-your-google-cloud-network-from-advanced-threats",
+ "title": "Cloud Firewall Standard: Protect Your Google Cloud Network from Advanced Threats",
+ "description": "Google Cloud's Cloud Firewall Standard, a fully distributed firewall service provides granular control over network traffic to and from your Google Cloud resources. ",
+ "ogImage": "https://framerusercontent.com/images/Bt8TQKB7NaxgLevyRFhLvOMpE.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Cloud Firewall Standard: Protect Your Google Cloud Network from Advanced Threats"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Firewall Standard: Protect Your Google Cloud Network from Advanced Threats"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Bt8TQKB7NaxgLevyRFhLvOMpE.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Google Cloud's Cloud Firewall Standard, a fully distributed firewall service provides granular control over network traffic to and from your Google Cloud resources."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "In today's digital landscape, cloud-based environments have become the backbone of organizations, enabling them to scale and streamline their operations efficiently."
+    },
+    {
+     "t": "p",
+     "text": "However, as businesses increasingly rely on the cloud, ensuring robust security measures becomes crucial to safeguard sensitive data and prevent advanced cyber threats."
+    },
+    {
+     "t": "p",
+     "text": "Cloud Firewall is a stateful firewall, which means that it remembers the state of each connection and can allow or deny traffic based on that state."
+    },
+    {
+     "t": "p",
+     "text": "This makes Cloud Firewall a powerful tool for protecting your cloud resources from a variety of threats."
+    },
+    {
+     "t": "h4",
+     "text": "Benefits of using Cloud Firewall Standard."
+    },
+    {
+     "t": "h5",
+     "text": "1. Advanced Threat Intelligence for VPC Networks:"
+    },
+    {
+     "t": "p",
+     "text": "With Cloud Firewall Standard, you can integrate your Virtual Private Cloud (VPC) Network with Google's threat intelligence feeds. By doing so, you gain the ability to block traffic from known malicious sources."
+    },
+    {
+     "t": "p",
+     "text": "This proactive approach helps prevent attackers from gaining unauthorized access to your network, significantly reducing the risk of security breaches."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h5",
+     "text": "2. Filtering Traffic Based on FQDNs (Fully Qualified Domain Names):"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Firewall Standard allows you to filter traffic based on the fully qualified domain names (FQDNs) of the source or destination hosts. This feature empowers you to block traffic from known malicious domains or specific URLs associated with security threats."
+    },
+    {
+     "t": "p",
+     "text": "By creating a firewall rule that specifies the FQDNs you want to block, such as \"example.com,\" you can easily enhance the security of your network."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h5",
+     "text": "3. Micro-Segmentation using IAM-governed tags:"
+    },
+    {
+     "t": "p",
+     "text": "Firewall policies and IAM-governed tags can be used to implement micro-segmentation. Firewall policies can be used to define the rules that govern traffic between different segments."
+    },
+    {
+     "t": "p",
+     "text": "This helps to ensure that only authorized users can make changes to the firewall policies, which helps to prevent unauthorized access."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "An example of how you could use micro-segmentation to protect your network:"
+    },
+    {
+     "t": "p",
+     "text": "1. You could create a firewall policy that allows traffic between two segments that contain web servers."
+    },
+    {
+     "t": "p",
+     "text": "2. You could then use IAM-governed tags to bind the firewall policy to the web servers in those segments. This would ensure that only users who are authorized to access the web servers in those segments can make changes to the firewall policy."
+    },
+    {
+     "t": "p",
+     "text": "3. You could also create firewall policies that allow traffic between other segments, such as segments that contain databases or application servers."
+    },
+    {
+     "t": "p",
+     "text": "4. By using micro-segmentation, you can create a more secure network that is more difficult for attackers to breach."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Using Geo-Location Objects:"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Firewall Standard introduces the concept of Geo-Location Objects, which enables filtering traffic based on the geographic location of source or destination hosts."
+    },
+    {
+     "t": "p",
+     "text": "This feature is especially valuable when you want to block traffic from specific countries or regions with a higher likelihood of cyber threats originating."
+    },
+    {
+     "t": "p",
+     "text": "To leverage Geo-Location filtering in Cloud Firewall Standard, you can create a firewall rule specifying the desired geo-location objects. For instance, you can establish a rule to block traffic from all hosts located in China."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Cloud Firewall Standard Pricing."
+    },
+    {
+     "t": "p",
+     "text": "The cost of Cloud Firewall Standard is determined by two primary factors: the number of attributes in your firewall rules and the number of virtual machines (VMs) covered by your firewall policies."
+    },
+    {
+     "t": "p",
+     "text": "Let's understand this with an example:"
+    },
+    {
+     "t": "p",
+     "text": "Scenario 1: A firewall policy with 200 attributes covering 200 VMs will cost $200/month."
+    },
+    {
+     "t": "p",
+     "text": "Scenario 2: A firewall policy with 600 attributes covering 200 VMs will cost $300/month."
+    },
+    {
+     "t": "p",
+     "text": "The pricing structure allows for flexibility, enabling organizations to choose the level of protection based on their specific needs and budget."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Cloud Firewall Essentials and Standard summarized."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/q4acwf0LPAnOqGIcBQl7YuNeP4c.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Conclusion"
+    },
+    {
+     "t": "p",
+     "text": "In today's digital landscape, securing your cloud infrastructure is crucial to protect your organization from cyber threats. Google Cloud Firewall Standard provides robust security features, such as advanced threat intelligence, FQDN-based filtering, micro-segmentation using IAM-governed tags, and geo-location-based filtering."
+    },
+    {
+     "t": "p",
+     "text": "As a trusted partner, Quadra can help you implement Google Cloud Firewall Standard effectively, ensuring your cloud resources are well-protected. Reach out to Quadra today and take advantage of our expertise to maintain a secure and resilient cloud environment for your organization."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

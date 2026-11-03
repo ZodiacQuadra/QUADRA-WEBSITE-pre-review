@@ -1,0 +1,1451 @@
+{
+  "pages": [
+    {
+      "id": "home",
+      "title": "Home",
+      "kind": "approved_modules",
+      "stage": "prior_review_copy",
+      "modules": [
+        {
+          "id": "hero",
+          "order": 1,
+          "kind": "hero",
+          "fields": {
+            "eyebrow": "Architecting Ambition",
+            "heading": "Building Intelligent Enterprises",
+            "body": "Run a stronger business today. Create new possibilities for tomorrow. Quadra connects cloud, AI and security with infrastructure and workplace expertise to modernize operations, turn data into opportunity and build new sources of growth."
+          },
+          "actions": [
+            {
+              "id": "primary",
+              "label": "Talk to an Architect",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/contact-us"
+            },
+            {
+              "id": "secondary",
+              "label": "Explore Solutions",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/solutions"
+            }
+          ]
+        },
+        {
+          "id": "recognition",
+          "order": 2,
+          "kind": "recognition",
+          "fields": {
+            "heading": "21 Years of Global Recognition"
+          },
+          "actions": [
+            {
+              "id": "explore",
+              "label": "Explore Our Recognition",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/awards"
+            }
+          ]
+        },
+        {
+          "id": "compass",
+          "order": 3,
+          "kind": "compass",
+          "fields": {
+            "heading": "The Compass",
+            "body": "Start with the question on your mind. Our AI-powered website guide finds answers about Quadra’s solutions, expertise and customer work, with links to the pages behind them.",
+            "input_label": "Ask about Quadra",
+            "placeholder": "What would you like to know?",
+            "submit_label": "Ask The Compass",
+            "starter_label": "Try a question",
+            "privacy_helper": "AI answers can be incomplete. Check the linked pages. Please don’t share personal or confidential information.",
+            "loading": "Looking through Quadra’s website…",
+            "answer_label": "What we found",
+            "source_label": "Explore the source pages",
+            "fallback": "I couldn’t find enough information on Quadra’s website to answer that. Try a more specific question, explore our solutions or talk to an architect."
+          },
+          "items": [
+            {
+              "id": "starter_1",
+              "order": 1,
+              "kind": "starter",
+              "fields": {
+                "question": "How can Quadra help us bring cloud costs under control?"
+              }
+            },
+            {
+              "id": "starter_2",
+              "order": 2,
+              "kind": "starter",
+              "fields": {
+                "question": "How does Quadra take AI pilots into production?"
+              }
+            },
+            {
+              "id": "starter_3",
+              "order": 3,
+              "kind": "starter",
+              "fields": {
+                "question": "How can Quadra strengthen security across cloud and on-premises systems?"
+              }
+            },
+            {
+              "id": "starter_4",
+              "order": 4,
+              "kind": "starter",
+              "fields": {
+                "question": "How can Quadra help our people get more from workplace technology?"
+              }
+            },
+            {
+              "id": "starter_5",
+              "order": 5,
+              "kind": "starter",
+              "fields": {
+                "question": "Show me Quadra’s work with life sciences businesses."
+              }
+            }
+          ],
+          "actions": [
+            {
+              "id": "fallback_solutions",
+              "label": "Explore Solutions",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/solutions"
+            },
+            {
+              "id": "fallback_contact",
+              "label": "Talk to an Architect",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/contact-us"
+            }
+          ]
+        },
+        {
+          "id": "solutions",
+          "order": 4,
+          "kind": "routes",
+          "fields": {
+            "heading": "Where will your ambition take you?",
+            "body": "Start with the change that matters most. We connect the expertise around it, whether you are solving one pressing challenge or reshaping the business."
+          },
+          "items": [
+            {
+              "id": "modernize",
+              "order": 1,
+              "kind": "route",
+              "fields": {
+                "heading": "Modernize Your Foundation",
+                "question": "Is your technology estate moving you forward or holding you back?",
+                "body": "Decide what to retain, modernize or move. Strengthen infrastructure and applications across cloud and on-premises environments, with reliability, cost control and room to grow designed in."
+              },
+              "actions": [
+                {
+                  "id": "explore",
+                  "label": "Explore Foundation Modernization",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/solutions/modernize-your-foundation"
+                }
+              ]
+            },
+            {
+              "id": "transform",
+              "order": 2,
+              "kind": "route",
+              "fields": {
+                "heading": "Transform with AI & Data",
+                "question": "What could your business do that it cannot do today?",
+                "body": "Put AI and data to work on both performance and growth: sharper decisions, redesigned processes, new products and services, and new revenue models. Move from promising pilots to production with evaluation, governance and human oversight built in."
+              },
+              "actions": [
+                {
+                  "id": "explore",
+                  "label": "Explore AI & Data",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/solutions/innovate-with-ai-data"
+                }
+              ]
+            },
+            {
+              "id": "secure",
+              "order": 3,
+              "kind": "route",
+              "fields": {
+                "heading": "Secure Your Enterprise",
+                "question": "Can your security keep pace with the business?",
+                "body": "Connect protection across identities, devices, data and workloads. Address gaps across cloud and on-premises systems, strengthen detection and response, and make resilience part of how your business operates."
+              },
+              "actions": [
+                {
+                  "id": "explore",
+                  "label": "Explore Enterprise Security",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/solutions/fortify-your-defenses"
+                }
+              ]
+            },
+            {
+              "id": "empower",
+              "order": 4,
+              "kind": "route",
+              "fields": {
+                "heading": "Empower Your Workforce",
+                "question": "How do you turn workplace investment into everyday advantage?",
+                "body": "Give people a secure, connected way to work. Bring collaboration, applications, devices and adoption together so teams can spend less time navigating friction and more time contributing, wherever work happens."
+              },
+              "actions": [
+                {
+                  "id": "explore",
+                  "label": "Explore Workforce Solutions",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/solutions/empower-your-workforce"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "one_architect",
+          "order": 5,
+          "kind": "proposition",
+          "fields": {
+            "heading": "One Architect. A connected path from ambition to execution.",
+            "body": "Your business does not stop at a technology boundary. Neither should its architecture. Quadra brings specialist teams together around your goals and your estate, choosing platforms and models for the work ahead rather than forcing every need into one stack.\n\nFrom design through delivery and the transition into operations, we carry forward the intent behind each decision, the context behind each trade-off and clear responsibility for the work. Specialist depth, without losing sight of the whole."
+          },
+          "actions": [
+            {
+              "id": "why",
+              "label": "Why Quadra",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/why-quadra"
+            }
+          ]
+        },
+        {
+          "id": "expertise",
+          "order": 6,
+          "kind": "expertise_strip",
+          "fields": {
+            "heading": "Depth where it matters. Connected where it counts.",
+            "body": "Cloud and hybrid infrastructure · Application modernization · Data and AI · Cybersecurity · Digital workplace · Managed operations"
+          },
+          "actions": [
+            {
+              "id": "explore",
+              "label": "Explore Technology Practices",
+              "type": "open_menu",
+              "target": "technology-practices"
+            }
+          ]
+        },
+        {
+          "id": "happy_customers",
+          "order": 7,
+          "kind": "proof",
+          "fields": {
+            "heading": "Happy Customers",
+            "body": "Ambition takes shape in real work. See how businesses have modernized operations, applied AI and strengthened the systems their people depend on."
+          },
+          "items": [
+            {
+              "id": "cloud_updates",
+              "order": 1,
+              "kind": "customer_proof",
+              "fields": {
+                "heading": "Cloud update management at scale",
+                "body": "A diversified conglomerate centralized patch management across 3,500+ servers."
+              },
+              "actions": [
+                {
+                  "id": "read",
+                  "label": "Read the Story",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/happy/modernizing-patch-management-with-azure"
+                }
+              ]
+            },
+            {
+              "id": "contract_intelligence",
+              "order": 2,
+              "kind": "customer_proof",
+              "fields": {
+                "heading": "Faster access to contract knowledge",
+                "body": "A life sciences organisation reduced document retrieval time by 96% with GenAI-assisted contract intelligence."
+              },
+              "actions": [
+                {
+                  "id": "read",
+                  "label": "Read the Story",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/happy/accelerating-contract-intelligence"
+                }
+              ]
+            },
+            {
+              "id": "hybrid_protection",
+              "order": 3,
+              "kind": "customer_proof",
+              "fields": {
+                "heading": "Protection across a hybrid estate",
+                "body": "An analytics business unified workload protection across its cloud and on-premises environments."
+              },
+              "actions": [
+                {
+                  "id": "read",
+                  "label": "Read the Story",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/happy/integrated-security-solution-for-analytics-provider"
+                }
+              ]
+            },
+            {
+              "id": "desktop_value",
+              "order": 4,
+              "kind": "customer_proof",
+              "fields": {
+                "heading": "More value from existing desktops",
+                "body": "An apparel brand used desktop virtualization to support its ERP rollout while extending the value of existing desktops."
+              },
+              "actions": [
+                {
+                  "id": "read",
+                  "label": "Read the Story",
+                  "type": "link",
+                  "url": "https://www.quadrasystems.net/happy/desktop-virtualization-enables-apparel-major-erp"
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "id": "explore",
+              "label": "Explore Happy Customers",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/happy"
+            }
+          ]
+        },
+        {
+          "id": "founder",
+          "order": 8,
+          "kind": "perspectives",
+          "fields": {
+            "heading": "Perspective beyond the next technology cycle",
+            "body": "The next announcement is not a strategy. Explore our founder’s perspectives on business judgement, technology choices and the discipline of turning ambition into execution."
+          },
+          "actions": [
+            {
+              "id": "read",
+              "label": "Read Founder Perspectives",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/newsroom"
+            }
+          ]
+        },
+        {
+          "id": "conversation",
+          "order": 9,
+          "kind": "call_to_action",
+          "fields": {
+            "heading": "Bring your ambition. Let’s design the next move.",
+            "body": "A stronger foundation. A new source of growth. A business ready for what comes next. Tell us what you want to achieve and what stands in the way. We’ll help you turn that ambition into a clear direction and a practical first step."
+          },
+          "actions": [
+            {
+              "id": "contact",
+              "label": "Talk to an Architect",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/contact-us"
+            }
+          ]
+        },
+        {
+          "id": "newsletter",
+          "order": 10,
+          "kind": "newsletter",
+          "fields": {
+            "heading": "Stay in the conversation",
+            "body": "Perspectives, customer successes and what’s next at Quadra.",
+            "email_label": "Your email address"
+          },
+          "actions": [
+            {
+              "id": "subscribe",
+              "label": "Subscribe",
+              "type": "form",
+              "target": "existing-newsletter-form"
+            }
+          ]
+        },
+        {
+          "id": "footer",
+          "order": 11,
+          "kind": "footer",
+          "fields": {
+            "brand": "Quadra",
+            "tagline": "Cloud. AI. Security. One Architect."
+          }
+        }
+      ],
+      "seo": {
+        "slug": "home",
+        "url": "https://www.quadrasystems.net/",
+        "seo_title": "Quadra | Cloud, AI & Security | Architecting Ambition",
+        "meta_description": "Build an intelligent enterprise with Quadra. Connect cloud, AI, security and workplace expertise to strengthen operations and create new sources of growth."
+      },
+      "source_document": "Quadra Homepage 2026 — Refreshed Content.docx",
+      "source_sections": [
+        "Rebuilt polished homepage, 11 October 2026"
+      ],
+      "parent": null
+    },
+    {
+      "id": "happy-customers",
+      "title": "Happy Customers",
+      "kind": "approved_modules",
+      "stage": "prior_review_copy",
+      "modules": [
+        {
+          "id": "hero",
+          "order": 1,
+          "kind": "hero",
+          "fields": {
+            "eyebrow": "Happy Customers",
+            "heading": "Ambition, Realized.",
+            "body": "Explore Quadra customer case studies across cloud modernization, AI and data, cybersecurity, and the digital workplace. Discover the business challenges behind the work, the approaches customers chose, and the outcomes documented in each case study."
+          }
+        },
+        {
+          "id": "discovery",
+          "order": 2,
+          "kind": "collection_controls",
+          "fields": {
+            "heading": "Find the work that speaks to your ambition",
+            "body": "Start with the challenge in front of you. Browse by industry or business priority, or search for a technology or topic. Follow the work most relevant to your organization, from modernizing the foundation to helping your people do more.",
+            "search_label": "Search case studies",
+            "search_placeholder": "Search by challenge, technology or keyword",
+            "industry_label": "Industry",
+            "industry_default": "All industries",
+            "priority_label": "Business priority",
+            "priority_default": "All priorities",
+            "clear_filters": "Clear filters"
+          },
+          "items": [
+            {
+              "id": "modernize",
+              "order": 1,
+              "kind": "priority_option",
+              "fields": {
+                "label": "Modernize Your Foundation"
+              }
+            },
+            {
+              "id": "transform",
+              "order": 2,
+              "kind": "priority_option",
+              "fields": {
+                "label": "Transform with AI & Data"
+              }
+            },
+            {
+              "id": "secure",
+              "order": 3,
+              "kind": "priority_option",
+              "fields": {
+                "label": "Secure Your Enterprise"
+              }
+            },
+            {
+              "id": "empower",
+              "order": 4,
+              "kind": "priority_option",
+              "fields": {
+                "label": "Empower Your Workforce"
+              }
+            }
+          ]
+        },
+        {
+          "id": "results",
+          "order": 3,
+          "kind": "existing_case_collection",
+          "fields": {
+            "card_cta": "Read the Case Study",
+            "card_accessible_label": "Read the case study: {case_title}",
+            "results_singular": "{count} case study",
+            "results_plural": "{count} case studies",
+            "load_more": "Load More Case Studies",
+            "loading": "Loading case studies…",
+            "no_results_heading": "Let’s widen the search",
+            "no_results_body": "Try fewer filters or a different search term. If you have a particular challenge in mind, talk to an architect about where to start.",
+            "reset_label": "Show All Case Studies"
+          },
+          "actions": [
+            {
+              "id": "no_results_contact",
+              "label": "Talk to an Architect",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/contact-us"
+            }
+          ]
+        },
+        {
+          "id": "solution_navigation",
+          "order": 4,
+          "kind": "solution_links",
+          "fields": {
+            "heading": "Build on what you’ve seen",
+            "body": "Your starting point is your own. Explore the solutions behind your next priority and see how cloud, AI, security and the digital workplace can connect to your business ambition. These priorities can overlap; your next step should reflect the whole picture."
+          },
+          "actions": [
+            {
+              "id": "modernize_solution",
+              "label": "Modernize Your Foundation",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/solutions/modernize-your-foundation"
+            },
+            {
+              "id": "transform_solution",
+              "label": "Transform with AI & Data",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/solutions/innovate-with-ai-data"
+            },
+            {
+              "id": "secure_solution",
+              "label": "Secure Your Enterprise",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/solutions/fortify-your-defenses"
+            },
+            {
+              "id": "empower_solution",
+              "label": "Empower Your Workforce",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/solutions/empower-your-workforce"
+            }
+          ]
+        },
+        {
+          "id": "final_cta",
+          "order": 5,
+          "kind": "contact_cta",
+          "fields": {
+            "heading": "What will your ambition look like in action?",
+            "body": "Bring us the challenge, the context and what you want to achieve. Let’s connect your ambition to a practical next step, with a clear view of the decisions, dependencies and responsibilities ahead."
+          },
+          "actions": [
+            {
+              "id": "talk_to_architect",
+              "label": "Talk to an Architect",
+              "type": "link",
+              "url": "https://www.quadrasystems.net/contact-us"
+            }
+          ]
+        }
+      ],
+      "existing_case_sample": [
+        {
+          "title": "Architecting a Cloud-Native Update Management Strategy for a Diversified Conglomerate",
+          "body": "Architected and deployed a centralized solution on Azure Update Management, achieving greater agility, reduced risk, and simplified operations across a massive, heterogeneous server estate.",
+          "url": "https://www.quadrasystems.net/happy/modernizing-patch-management-with-azure"
+        },
+        {
+          "title": "Architecting a First-of-its-Kind GenAI Platform for a Global Life Sciences Leader",
+          "body": "Architected a pioneering Intelligent Document Management System using Generative AI that reduced document retrieval time by 96% and improved data extraction accuracy by over 93%.",
+          "url": "https://www.quadrasystems.net/happy/accelerating-contract-intelligence"
+        },
+        {
+          "title": "Architecting an Integrated Security Posture for a Global Analytics Leader",
+          "body": "Architected and deployed an integrated, SaaS-based cloud workload protection solution that provided complete visibility and consistent security across their on-premise and cloud environments.",
+          "url": "https://www.quadrasystems.net/happy/integrated-security-solution-for-analytics-provider"
+        },
+        {
+          "title": "Architecting a Cost-Effective ERP Rollout for a National Apparel Brand",
+          "body": "Architected an innovative Hosted Shared Desktop (HSD) solution that enabled a speedy ERP rollout, saved significant capital expenditure, and extended the life of their existing IT investments.",
+          "url": "https://www.quadrasystems.net/happy/desktop-virtualization-enables-apparel-major-erp"
+        }
+      ],
+      "seo": {
+        "slug": "happy",
+        "url": "https://www.quadrasystems.net/happy",
+        "name": "Happy Customers",
+        "seo_title": "Happy Customers | Cloud, AI & Security Case Studies | Quadra",
+        "meta_description": "Explore Quadra customer case studies in cloud, AI, security and the digital workplace. Find relevant challenges, approaches and documented outcomes.",
+        "social_title": "Happy Customers. Ambition, Realized. | Quadra",
+        "social_description": "Explore the challenges, approaches and documented outcomes behind Quadra customer case studies. Find inspiration for your next business priority."
+      },
+      "source_document": "Quadra Happy Customers 2026 — Refreshed Content.docx; unchanged existing public case summaries",
+      "source_sections": [
+        "Landing-page copy and representative collection entries"
+      ],
+      "parent": null
+    },
+    {
+      "id": "modernize",
+      "title": "Modernize Your Foundation",
+      "heading": "Is your technology estate moving you forward or holding you back?",
+      "intro": "Decide what to retain, modernize or move. Strengthen infrastructure and applications across cloud and on-premises environments, with reliability, cost control and room to grow designed in.",
+      "sections": [
+        {
+          "heading": "The expertise behind this priority",
+          "body": "A business priority can draw on more than one practice. Explore the relevant expertise, then connect it around your operating environment."
+        }
+      ],
+      "parent": "solutions",
+      "stage": "review_draft",
+      "source_document": "Approved homepage solution route copy",
+      "source_sections": [],
+      "seo": {
+        "title": "Modernize Your Foundation | Quadra",
+        "description": "Decide what to retain, modernize or move. Strengthen infrastructure and applications across cloud and on-premises environments, with reliability, cost control and room to grow designed in.",
+        "canonical_candidate": "https://www.quadrasystems.net/solutions/modernize-your-foundation"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      },
+      "related": [
+        "azure",
+        "aws",
+        "google-cloud",
+        "hcdw",
+        "ispg-hybrid"
+      ]
+    },
+    {
+      "id": "transform",
+      "title": "Transform with AI & Data",
+      "heading": "What could your business do that it cannot do today?",
+      "intro": "Put AI and data to work on both performance and growth: sharper decisions, redesigned processes, new products and services, and new revenue models. Move from promising pilots to production with evaluation, governance and human oversight built in.",
+      "sections": [
+        {
+          "heading": "The expertise behind this priority",
+          "body": "A business priority can draw on more than one practice. Explore the relevant expertise, then connect it around your operating environment."
+        }
+      ],
+      "parent": "solutions",
+      "stage": "review_draft",
+      "source_document": "Approved homepage solution route copy",
+      "source_sections": [],
+      "seo": {
+        "title": "Transform with AI & Data | Quadra",
+        "description": "Put AI and data to work on both performance and growth: sharper decisions, redesigned processes, new products and services, and new revenue models. Move from promising pilots to production with evaluation, governance and human oversight built in.",
+        "canonical_candidate": "https://www.quadrasystems.net/solutions/innovate-with-ai-data"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      },
+      "related": [
+        "aig",
+        "azure-data-ai",
+        "gcp-ai",
+        "gcp-data"
+      ]
+    },
+    {
+      "id": "secure",
+      "title": "Secure Your Enterprise",
+      "heading": "Can your security keep pace with the business?",
+      "intro": "Connect protection across identities, devices, data and workloads. Address gaps across cloud and on-premises systems, strengthen detection and response, and make resilience part of how your business operates.",
+      "sections": [
+        {
+          "heading": "The expertise behind this priority",
+          "body": "A business priority can draw on more than one practice. Explore the relevant expertise, then connect it around your operating environment."
+        },
+        {
+          "heading": "Distinct expertise. A connected security outcome.",
+          "body": "Explore the dedicated Cybersecurity practice for specialist non-Microsoft security technologies, or Microsoft Security for Microsoft-specific implementation. The practices remain distinct and can contribute to a coordinated customer engagement."
+        }
+      ],
+      "parent": "solutions",
+      "stage": "review_draft",
+      "source_document": "Approved homepage solution route copy",
+      "source_sections": [],
+      "seo": {
+        "title": "Secure Your Enterprise | Quadra",
+        "description": "Connect protection across identities, devices, data and workloads. Address gaps across cloud and on-premises systems, strengthen detection and response, and make resilience part of how your business operates.",
+        "canonical_candidate": "https://www.quadrasystems.net/solutions/fortify-your-defenses"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      },
+      "related": [
+        "csg",
+        "microsoft-security",
+        "azure-security",
+        "gcp-security"
+      ]
+    },
+    {
+      "id": "empower",
+      "title": "Empower Your Workforce",
+      "heading": "How do you turn workplace investment into everyday advantage?",
+      "intro": "Give people a secure, connected way to work. Bring collaboration, applications, devices and adoption together so teams can spend less time navigating friction and more time contributing, wherever work happens.",
+      "sections": [
+        {
+          "heading": "The expertise behind this priority",
+          "body": "A business priority can draw on more than one practice. Explore the relevant expertise, then connect it around your operating environment."
+        }
+      ],
+      "parent": "solutions",
+      "stage": "review_draft",
+      "source_document": "Approved homepage solution route copy",
+      "source_sections": [],
+      "seo": {
+        "title": "Empower Your Workforce | Quadra",
+        "description": "Give people a secure, connected way to work. Bring collaboration, applications, devices and adoption together so teams can spend less time navigating friction and more time contributing, wherever work happens.",
+        "canonical_candidate": "https://www.quadrasystems.net/solutions/empower-your-workforce"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      },
+      "related": [
+        "microsoft-workplace",
+        "hcdw",
+        "gcp-gemini",
+        "aig"
+      ]
+    },
+    {
+      "id": "solutions",
+      "title": "Solutions",
+      "heading": "Where will your ambition take you?",
+      "intro": "Start with the change that matters most. Connect the capabilities, practices and offers that help you move forward.",
+      "sections": [
+        {
+          "heading": "Business priorities",
+          "cards": [
+            {
+              "title": "Modernize Your Foundation",
+              "body": "Decide what to retain, modernize or move. Strengthen infrastructure and applications across cloud and on-premises environments, with reliability, cost control and room to grow designed in.",
+              "target": "modernize"
+            },
+            {
+              "title": "Transform with AI & Data",
+              "body": "Put AI and data to work on both performance and growth: sharper decisions, redesigned processes, new products and services, and new revenue models. Move from promising pilots to production with evaluation, governance and human oversight built in.",
+              "target": "transform"
+            },
+            {
+              "title": "Secure Your Enterprise",
+              "body": "Connect protection across identities, devices, data and workloads. Address gaps across cloud and on-premises systems, strengthen detection and response, and make resilience part of how your business operates.",
+              "target": "secure"
+            },
+            {
+              "title": "Empower Your Workforce",
+              "body": "Give people a secure, connected way to work. Bring collaboration, applications, devices and adoption together so teams can spend less time navigating friction and more time contributing, wherever work happens.",
+              "target": "empower"
+            }
+          ]
+        },
+        {
+          "heading": "Platforms & IP",
+          "body": "Explore Quadra’s reusable technology and frameworks in the context of the work they support.",
+          "cards": [
+            {
+              "title": "Platforms & IP",
+              "body": "A distinct portfolio, connected to the relevant solutions and practices.",
+              "target": "platforms-ip"
+            }
+          ]
+        }
+      ],
+      "parent": null,
+      "stage": "review_draft",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Solutions | Quadra",
+        "description": "Start with the change that matters most. Connect the capabilities, practices and offers that help you move forward.",
+        "canonical_candidate": "https://www.quadrasystems.net/solutions"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "technology",
+      "title": "Technology Practices",
+      "heading": "Specialist depth. Connected delivery.",
+      "intro": "Find expertise in the platforms you use and the disciplines that connect them.",
+      "sections": [
+        {
+          "heading": "Platform expertise",
+          "cards": [
+            {
+              "title": "Microsoft",
+              "body": "Azure, workplace and Microsoft security expertise.",
+              "target": "microsoft"
+            },
+            {
+              "title": "AWS",
+              "body": "Platform practice; refreshed submission pending.",
+              "target": "aws"
+            },
+            {
+              "title": "Google Cloud",
+              "body": "Data, AI, modernization, security and operations.",
+              "target": "google-cloud"
+            }
+          ]
+        },
+        {
+          "heading": "Specialist practices",
+          "cards": [
+            {
+              "title": "Cybersecurity",
+              "body": "The standalone non-Microsoft security practice.",
+              "target": "csg"
+            },
+            {
+              "title": "Hybrid Cloud & Digital Work",
+              "body": "Existing estates, digital workspaces and resilience.",
+              "target": "hcdw"
+            },
+            {
+              "title": "Enterprise AI Engineering",
+              "body": "AIG’s cross-platform approach to enterprise AI execution.",
+              "target": "aig"
+            }
+          ]
+        }
+      ],
+      "parent": null,
+      "stage": "review_draft",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Technology Practices | Quadra",
+        "description": "Find expertise in the platforms you use and the disciplines that connect them.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "microsoft",
+      "title": "Microsoft",
+      "heading": "Connected expertise for your Microsoft estate",
+      "intro": "Explore the depth behind your cloud, workplace and security priorities.",
+      "sections": [
+        {
+          "heading": "Practice routes",
+          "cards": [
+            {
+              "title": "Microsoft Azure",
+              "body": "Modernize infrastructure, applications and data, then operate for continuing value.",
+              "target": "azure"
+            },
+            {
+              "title": "Microsoft 365 & Workplace",
+              "body": "Secure productivity, collaboration, migration and adoption.",
+              "target": "microsoft-workplace"
+            },
+            {
+              "title": "Microsoft Security",
+              "body": "Microsoft-specific security expertise within ISPG, distinct from CSG.",
+              "target": "microsoft-security"
+            }
+          ]
+        }
+      ],
+      "parent": "technology",
+      "stage": "review_draft",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Microsoft | Quadra",
+        "description": "Explore the depth behind your cloud, workplace and security priorities.",
+        "canonical_candidate": "https://www.quadrasystems.net/technology/microsoft"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "aws",
+      "title": "AWS",
+      "heading": "AWS",
+      "intro": "Updated practice content is awaited. This destination is retained so the agreed navigation and cross-practice connections can be reviewed.",
+      "sections": [
+        {
+          "heading": "Review status",
+          "body": "No replacement capabilities, credentials, service commitments or customer results have been invented for this page."
+        }
+      ],
+      "parent": "technology",
+      "stage": "awaiting_source",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "AWS | Quadra",
+        "description": "Updated practice content is awaited. This destination is retained so the agreed navigation and cross-practice connections can be reviewed.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "hcdw",
+      "title": "Hybrid Cloud & Digital Work",
+      "heading": "Hybrid Cloud & Digital Work",
+      "intro": "Updated practice content is awaited. This destination is retained so the agreed navigation and cross-practice connections can be reviewed.",
+      "sections": [
+        {
+          "heading": "Review status",
+          "body": "No replacement capabilities, credentials, service commitments or customer results have been invented for this page."
+        }
+      ],
+      "parent": "technology",
+      "stage": "awaiting_source",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Hybrid Cloud & Digital Work | Quadra",
+        "description": "Updated practice content is awaited. This destination is retained so the agreed navigation and cross-practice connections can be reviewed.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "aws-migration",
+      "title": "AWS Migration & Modernization",
+      "heading": "AWS Migration & Modernization",
+      "intro": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+      "sections": [],
+      "parent": "aws",
+      "stage": "awaiting_source",
+      "source_document": "User-supplied current technology-practice menu screenshot, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "AWS Migration & Modernization | Quadra",
+        "description": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "aws-data-ai",
+      "title": "AWS Data, Analytics & AI",
+      "heading": "AWS Data, Analytics & AI",
+      "intro": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+      "sections": [],
+      "parent": "aws",
+      "stage": "awaiting_source",
+      "source_document": "User-supplied current technology-practice menu screenshot, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "AWS Data, Analytics & AI | Quadra",
+        "description": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "aws-security",
+      "title": "AWS Security & Governance",
+      "heading": "AWS Security & Governance",
+      "intro": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+      "sections": [],
+      "parent": "aws",
+      "stage": "awaiting_source",
+      "source_document": "User-supplied current technology-practice menu screenshot, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "AWS Security & Governance | Quadra",
+        "description": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "aws-managed",
+      "title": "AWS Managed Services",
+      "heading": "AWS Managed Services",
+      "intro": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+      "sections": [],
+      "parent": "aws",
+      "stage": "awaiting_source",
+      "source_document": "User-supplied current technology-practice menu screenshot, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "AWS Managed Services | Quadra",
+        "description": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "hcdw-infrastructure",
+      "title": "Hybrid Cloud Infrastructure",
+      "heading": "Hybrid Cloud Infrastructure",
+      "intro": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+      "sections": [],
+      "parent": "hcdw",
+      "stage": "awaiting_source",
+      "source_document": "User-supplied current technology-practice menu screenshot, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Hybrid Cloud Infrastructure | Quadra",
+        "description": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "hcdw-workspace",
+      "title": "Digital Workspace & Security",
+      "heading": "Digital Workspace & Security",
+      "intro": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+      "sections": [],
+      "parent": "hcdw",
+      "stage": "awaiting_source",
+      "source_document": "User-supplied current technology-practice menu screenshot, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Digital Workspace & Security | Quadra",
+        "description": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "hcdw-resilience",
+      "title": "Data Resilience & Business Continuity",
+      "heading": "Data Resilience & Business Continuity",
+      "intro": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+      "sections": [],
+      "parent": "hcdw",
+      "stage": "awaiting_source",
+      "source_document": "User-supplied current technology-practice menu screenshot, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Data Resilience & Business Continuity | Quadra",
+        "description": "This established navigation branch is retained. Its updated copy will be added when the practice submission is available.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "platforms-ip",
+      "title": "Platforms & IP",
+      "heading": "The intelligence inside the architecture",
+      "intro": "A shared portfolio connects reusable technology to customer needs. Its named assets have one home, with links from the practices and solutions they support.",
+      "sections": [
+        {
+          "heading": "Portfolio entries under review",
+          "cards": [
+            {
+              "title": "Intellient",
+              "body": "Enterprise AI proposition; retain a concise Quadra entry and an explicit handoff to the separate destination.",
+              "target": "intellient"
+            },
+            {
+              "title": "IntelliLink",
+              "body": "Enterprise integration and orchestration, described in the AIG submission.",
+              "target": "aig"
+            },
+            {
+              "title": "IntelliSphere",
+              "body": "AI governance and lifecycle controls, distinct from cybersecurity response.",
+              "target": "aig"
+            },
+            {
+              "title": "BluForge",
+              "body": "Managed-security proposition; suite, platform and service-model relationships require owner confirmation.",
+              "target": "csg-managed"
+            },
+            {
+              "title": "IntelliAssure",
+              "body": "Security assurance proposition; scope and readiness require owner validation.",
+              "target": "aig"
+            },
+            {
+              "title": "IntelliXperience",
+              "body": "Experience environment; physical and digital boundaries require confirmation.",
+              "target": "coe"
+            }
+          ]
+        }
+      ],
+      "parent": "solutions",
+      "stage": "classification_review",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Platforms & IP | Quadra",
+        "description": "A shared portfolio connects reusable technology to customer needs. Its named assets have one home, with links from the practices and solutions they support.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "intellient",
+      "title": "Intellient",
+      "heading": "Intellient",
+      "intro": "This portfolio entry will connect to the separate Intellient destination without duplicating its website. Attribution and the precise handoff remain to be confirmed.",
+      "sections": [],
+      "parent": "platforms-ip",
+      "stage": "classification_review",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Intellient | Quadra",
+        "description": "This portfolio entry will connect to the separate Intellient destination without duplicating its website. Attribution and the precise handoff remain to be confirmed.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "why-quadra",
+      "title": "Why Quadra",
+      "heading": "One Architect. Connected around your ambition.",
+      "intro": "Quadra brings specialist expertise together around your goals, your operating context and the work ahead.",
+      "sections": [
+        {
+          "heading": "What connects the relationship",
+          "cards": [
+            {
+              "title": "How We Work",
+              "body": "Continuity of intent, context and responsibility.",
+              "target": "how-we-work"
+            },
+            {
+              "title": "People, Culture & Leadership",
+              "body": "Trust and institutional knowledge, with current company content to confirm.",
+              "target": "people"
+            },
+            {
+              "title": "Partner Ecosystem",
+              "body": "Platform depth without a predetermined stack.",
+              "target": "partners"
+            },
+            {
+              "title": "Centre of Excellence",
+              "body": "Explore technology in the context of real enterprise work.",
+              "target": "coe"
+            },
+            {
+              "title": "Awards & Recognition",
+              "body": "Recognition and its attribution are presented here, behind the homepage link.",
+              "target": "recognition"
+            }
+          ]
+        }
+      ],
+      "parent": null,
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Why Quadra | Quadra",
+        "description": "Quadra brings specialist expertise together around your goals, your operating context and the work ahead.",
+        "canonical_candidate": "https://www.quadrasystems.net/why-quadra"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "how-we-work",
+      "title": "How We Work",
+      "heading": "One Architect. A connected path from ambition to execution.",
+      "intro": "Your business does not stop at a technology boundary. Neither should its architecture. Quadra brings specialist teams together around your goals and your estate, choosing platforms and models for the work ahead rather than forcing every need into one stack.\n\nFrom design through delivery and the transition into operations, we carry forward the intent behind each decision, the context behind each trade-off and clear responsibility for the work. Specialist depth, without losing sight of the whole.",
+      "sections": [
+        {
+          "heading": "From intent to implementation",
+          "body": "Align the outcome, understand the work and connect the relevant expertise. Retain the context behind decisions through delivery and the agreed transition into operations."
+        }
+      ],
+      "parent": "why-quadra",
+      "stage": "review_draft",
+      "source_document": "Approved homepage continuity copy",
+      "source_sections": [],
+      "seo": {
+        "title": "How We Work | Quadra",
+        "description": "Your business does not stop at a technology boundary. Neither should its architecture. Quadra brings specialist teams together around your goals and your estate, choosing platforms and models for the work ahead rather than forcing every need into one stack.\n\nFrom design through delivery and the transition into operations, we carry forward the intent behind each decision, the context behind each trade-off and clear responsibility for the work. Specialist depth, without losing sight of the whole.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "partners",
+      "title": "Partner Ecosystem",
+      "heading": "Expertise across an evolving ecosystem",
+      "intro": "Hyperscalers, specialist security and infrastructure vendors, and independent frontier labs support different customer needs. Partner credentials and tiers will be included only when current evidence is confirmed.",
+      "sections": [],
+      "parent": "why-quadra",
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Partner Ecosystem | Quadra",
+        "description": "Hyperscalers, specialist security and infrastructure vendors, and independent frontier labs support different customer needs. Partner credentials and tiers will be included only when current evidence is confirmed.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "coe",
+      "title": "Centre of Excellence",
+      "heading": "Experience the possibilities. Examine the foundations.",
+      "intro": "The CoE offers a setting to explore enterprise technology and its practical implications. Ambition, Trust, Continuity and Intelligence are its floor themes—not separate website solution categories.",
+      "sections": [],
+      "parent": "why-quadra",
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Centre of Excellence | Quadra",
+        "description": "The CoE offers a setting to explore enterprise technology and its practical implications. Ambition, Trust, Continuity and Intelligence are its floor themes—not separate website solution categories.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "recognition",
+      "title": "Awards & Recognition",
+      "heading": "21 Years of Global Recognition",
+      "intro": "Microsoft attribution belongs on this recognition destination, not in the customer-focused homepage message.",
+      "sections": [],
+      "parent": "why-quadra",
+      "stage": "release_gated",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Awards & Recognition | Quadra",
+        "description": "Microsoft attribution belongs on this recognition destination, not in the customer-focused homepage message.",
+        "canonical_candidate": "https://www.quadrasystems.net/awards"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "people",
+      "title": "People, Culture & Leadership",
+      "heading": "People, Culture & Leadership",
+      "intro": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+      "sections": [],
+      "parent": "why-quadra",
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "People, Culture & Leadership | Quadra",
+        "description": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "insights",
+      "title": "Insights",
+      "heading": "Insights",
+      "intro": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+      "sections": [],
+      "parent": null,
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Insights | Quadra",
+        "description": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "founder",
+      "title": "Founder Perspectives",
+      "heading": "Founder Perspectives",
+      "intro": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+      "sections": [],
+      "parent": "insights",
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Founder Perspectives | Quadra",
+        "description": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "newsroom",
+      "title": "Newsroom",
+      "heading": "Newsroom",
+      "intro": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+      "sections": [],
+      "parent": "insights",
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Newsroom | Quadra",
+        "description": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "careers",
+      "title": "Careers",
+      "heading": "Careers",
+      "intro": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+      "sections": [],
+      "parent": null,
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Careers | Quadra",
+        "description": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy",
+      "heading": "Privacy",
+      "intro": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+      "sections": [],
+      "parent": null,
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Privacy | Quadra",
+        "description": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "terms",
+      "title": "Terms",
+      "heading": "Terms",
+      "intro": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+      "sections": [],
+      "parent": null,
+      "stage": "structure_only",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Terms | Quadra",
+        "description": "Existing content will be retained or refreshed after source review. This placeholder preserves the intended destination without adding unverified copy.",
+        "canonical_candidate": null
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "heading": "Talk to an Architect",
+      "intro": "Tell us what you want to achieve, what is holding you back and where you need to start.",
+      "sections": [
+        {
+          "heading": "Choose the right conversation",
+          "cards": [
+            {
+              "title": "Architecture and transformation",
+              "body": "Discuss a business priority, technology decision or delivery need."
+            },
+            {
+              "title": "Licensing or quotation",
+              "body": "Reach the team that can help with commercial requirements."
+            },
+            {
+              "title": "Existing-customer help",
+              "body": "Use the established support and account channels for your engagement."
+            }
+          ]
+        }
+      ],
+      "parent": null,
+      "stage": "form_preview",
+      "source_document": "Agreed website structure and discussions, 11 October 2026",
+      "source_sections": [],
+      "seo": {
+        "title": "Contact | Quadra",
+        "description": "Tell us what you want to achieve, what is holding you back and where you need to start.",
+        "canonical_candidate": "https://www.quadrasystems.net/contact-us"
+      },
+      "cta": {
+        "label": "Talk to an Architect",
+        "target": "contact"
+      }
+    }
+  ],
+  "case_policy": "Exact existing public card titles and summaries; four-entry review sample, not complete collection export."
+}

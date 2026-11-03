@@ -1,0 +1,2007 @@
+{
+ "source": "https://www.quadrasystems.net",
+ "extractedAt": "2026-11-02T12:17:39.362Z",
+ "note": "Read-only extraction of the published Framer site. Desktop view; navigation and footer removed.",
+ "pages": [
+  {
+   "path": "/",
+   "file": "pages/home.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 8,
+   "blocks": 64
+  },
+  {
+   "path": "/2026",
+   "file": "pages/2026.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 5,
+   "blocks": 30
+  },
+  {
+   "path": "/404",
+   "file": "pages/404.json",
+   "status": 404,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 1,
+   "blocks": 4
+  },
+  {
+   "path": "/ai-careerguide",
+   "file": "pages/ai-careerguide.json",
+   "status": 200,
+   "title": "Quadra AI Career Guide | AI-powered career discovery platform helping students.",
+   "sections": 3,
+   "blocks": 15
+  },
+  {
+   "path": "/awards",
+   "file": "pages/awards.json",
+   "status": 200,
+   "title": "Awards & Recognition | 20+ Years Microsoft Excellence | Quadra",
+   "sections": 6,
+   "blocks": 38
+  },
+  {
+   "path": "/aws-migration-modernization",
+   "file": "pages/aws-migration-modernization.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 4,
+   "blocks": 40
+  },
+  {
+   "path": "/blogs",
+   "file": "pages/blogs.json",
+   "status": 200,
+   "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+   "sections": 1,
+   "blocks": 10
+  },
+  {
+   "path": "/careers",
+   "file": "pages/careers.json",
+   "status": 200,
+   "title": "Career Opportunities | Quadra Systems",
+   "sections": 6,
+   "blocks": 61
+  },
+  {
+   "path": "/coe-microsoft-ai-security",
+   "file": "pages/coe-microsoft-ai-security.json",
+   "status": 200,
+   "title": "Quadra CoE for Microsoft AI & Security",
+   "sections": 2,
+   "blocks": 21
+  },
+  {
+   "path": "/contact-us",
+   "file": "pages/contact-us.json",
+   "status": 200,
+   "title": "Contact Quadra | Enterprise Cloud & AI Consulting Services",
+   "sections": 6,
+   "blocks": 96
+  },
+  {
+   "path": "/edm",
+   "file": "pages/edm.json",
+   "status": 200,
+   "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+   "sections": 1,
+   "blocks": 8
+  },
+  {
+   "path": "/foundersblog",
+   "file": "pages/foundersblog.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 4,
+   "blocks": 69
+  },
+  {
+   "path": "/foundersblog/a-new-economics-of-winning-in-ai",
+   "file": "pages/foundersblog__a-new-economics-of-winning-in-ai.json",
+   "status": 200,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+   "sections": 1,
+   "blocks": 61
+  },
+  {
+   "path": "/foundersblog/architecting-ambition-why-purpose-and-curiosity-define-the-ai-era",
+   "file": "pages/foundersblog__architecting-ambition-why-purpose-and-curiosity-define-the-ai-era.json",
+   "status": 200,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+   "sections": 1,
+   "blocks": 31
+  },
+  {
+   "path": "/foundersblog/the-ai-takeover-is-a-myth-the-future-is-human-ai-partnership",
+   "file": "pages/foundersblog__the-ai-takeover-is-a-myth-the-future-is-human-ai-partnership.json",
+   "status": 200,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+   "sections": 1,
+   "blocks": 19
+  },
+  {
+   "path": "/foundersblog/the-most-underrated-enterprise-asset-of-2026",
+   "file": "pages/foundersblog__the-most-underrated-enterprise-asset-of-2026.json",
+   "status": 200,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+   "sections": 1,
+   "blocks": 35
+  },
+  {
+   "path": "/foundersblog/the-overlooked-human-skill-that-can-10x-your-ai-productivity",
+   "file": "pages/foundersblog__the-overlooked-human-skill-that-can-10x-your-ai-productivity.json",
+   "status": 200,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+   "sections": 1,
+   "blocks": 72
+  },
+  {
+   "path": "/foundersblog/the-overlooked-human-skill-that-can-10x-your-ai-productivity-copy",
+   "file": "pages/foundersblog__the-overlooked-human-skill-that-can-10x-your-ai-productivity-copy.json",
+   "status": 200,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+   "sections": 1,
+   "blocks": 42
+  },
+  {
+   "path": "/foundersblog/when-intelligence-becomes-abundant-judgement-becomes-scarce",
+   "file": "pages/foundersblog__when-intelligence-becomes-abundant-judgement-becomes-scarce.json",
+   "status": 200,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+   "sections": 1,
+   "blocks": 111
+  },
+  {
+   "path": "/from-builders-to-autonomy-agentic-ai",
+   "file": "pages/from-builders-to-autonomy-agentic-ai.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 3,
+   "blocks": 33
+  },
+  {
+   "path": "/from-builders-to-autonomy-agentic-ai-chennai",
+   "file": "pages/from-builders-to-autonomy-agentic-ai-chennai.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 6,
+   "blocks": 38
+  },
+  {
+   "path": "/happy",
+   "file": "pages/happy.json",
+   "status": 200,
+   "title": "Customer Success Stories | Cloud & AI Case Studies | Quadra",
+   "sections": 5,
+   "blocks": 84
+  },
+  {
+   "path": "/happy/accelerating-contract-intelligence",
+   "file": "pages/happy__accelerating-contract-intelligence.json",
+   "status": 200,
+   "title": "First-of-its-Kind GenAI Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/accelerating-digital-transformation-for-fintech",
+   "file": "pages/happy__accelerating-digital-transformation-for-fintech.json",
+   "status": 200,
+   "title": "Internal Transformation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/accelerating-growth-retail-multi-account",
+   "file": "pages/happy__accelerating-growth-retail-multi-account.json",
+   "status": 200,
+   "title": "Centralized Cloud Governance Framework Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/accelerating-research-to-deliver-improved-quality-of-life",
+   "file": "pages/happy__accelerating-research-to-deliver-improved-quality-of-life.json",
+   "status": 200,
+   "title": "Life Sciences R&D IT Backbone Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/automated-software-deployment-eliminates-risk",
+   "file": "pages/happy__automated-software-deployment-eliminates-risk.json",
+   "status": 200,
+   "title": "Zero-Disruption OS Migration Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/automating-active-directory-migration-for-solar-pioneer",
+   "file": "pages/happy__automating-active-directory-migration-for-solar-pioneer.json",
+   "status": 200,
+   "title": "Automated IT Integration Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/azure-managed-services-for-financial-infra",
+   "file": "pages/happy__azure-managed-services-for-financial-infra.json",
+   "status": 200,
+   "title": "Resilient & Optimized Managed Cloud Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/azure-vmware-solution-modernization-pharma",
+   "file": "pages/happy__azure-vmware-solution-modernization-pharma.json",
+   "status": 200,
+   "title": "Azure VMware Solution Hybrid Cloud Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/b2c-portal-drives-forward-and-horizontal-integration",
+   "file": "pages/happy__b2c-portal-drives-forward-and-horizontal-integration.json",
+   "status": 200,
+   "title": "Strategic eCommerce Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/building-a-ciso-dashboard",
+   "file": "pages/happy__building-a-ciso-dashboard.json",
+   "status": 200,
+   "title": "Unified CISO Dashboard Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/building-custom-communication-platform-low-code",
+   "file": "pages/happy__building-custom-communication-platform-low-code.json",
+   "status": 200,
+   "title": "Low-Code Communications Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/cloud-collaboration-for-general-insurance-major",
+   "file": "pages/happy__cloud-collaboration-for-general-insurance-major.json",
+   "status": 200,
+   "title": "Modern Collaboration Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/cloud-iaas-enables-it-major",
+   "file": "pages/happy__cloud-iaas-enables-it-major.json",
+   "status": 200,
+   "title": "High-Performance IaaS Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/cloud-iaas-saas-enables-financial-services-provider",
+   "file": "pages/happy__cloud-iaas-saas-enables-financial-services-provider.json",
+   "status": 200,
+   "title": "Hybrid Cloud Model Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/cloud-native-modern-devops-fuelling-innovation-on-aws",
+   "file": "pages/happy__cloud-native-modern-devops-fuelling-innovation-on-aws.json",
+   "status": 200,
+   "title": "Modern DevOps & Serverless Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/crm-makes-customer-delight-a-way-of-life",
+   "file": "pages/happy__crm-makes-customer-delight-a-way-of-life.json",
+   "status": 200,
+   "title": "Unified CRM Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/customer-experience-specialist-secures-data-with-saas",
+   "file": "pages/happy__customer-experience-specialist-secures-data-with-saas.json",
+   "status": 200,
+   "title": "CX Leader Unified Security Fabric Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/delivering-potential-of-people-and-software",
+   "file": "pages/happy__delivering-potential-of-people-and-software.json",
+   "status": 200,
+   "title": "Adoption & Change Management Program Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/delivering-secure-anywhere-access-for-conglomerate",
+   "file": "pages/happy__delivering-secure-anywhere-access-for-conglomerate.json",
+   "status": 200,
+   "title": "Conglomerate Secure DaaS Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/deploying-zero-trust-security-for-business-house",
+   "file": "pages/happy__deploying-zero-trust-security-for-business-house.json",
+   "status": 200,
+   "title": "Zero Trust Security Model Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/design-and-manufacturing-major-secures-data-in-cloud",
+   "file": "pages/happy__design-and-manufacturing-major-secures-data-in-cloud.json",
+   "status": 200,
+   "title": "Cloud-Based Data Protection Strategy Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/desktop-virtualization-enables-apparel-major-erp",
+   "file": "pages/happy__desktop-virtualization-enables-apparel-major-erp.json",
+   "status": 200,
+   "title": "Cost-Effective ERP Rollout Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/driving-efficiency-with-centralized-information-access",
+   "file": "pages/happy__driving-efficiency-with-centralized-information-access.json",
+   "status": 200,
+   "title": "Centralized Knowledge Hub Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/elevating-pharma-infrastructure",
+   "file": "pages/happy__elevating-pharma-infrastructure.json",
+   "status": 200,
+   "title": "GxP-Compliant Cloud Foundation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/empowering-healthcare-analytics-with-security-and-compliance",
+   "file": "pages/happy__empowering-healthcare-analytics-with-security-and-compliance.json",
+   "status": 200,
+   "title": "Unified Security & Compliance Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/empowering-precision-agriculture",
+   "file": "pages/happy__empowering-precision-agriculture.json",
+   "status": 200,
+   "title": "Digital Dealer Onboarding Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/empowering-rapid-expansion-for-eyecare-chain",
+   "file": "pages/happy__empowering-rapid-expansion-for-eyecare-chain.json",
+   "status": 200,
+   "title": "Scalable Cloud POS Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enabling-asias-largest-pharma-research-organization",
+   "file": "pages/happy__enabling-asias-largest-pharma-research-organization.json",
+   "status": 200,
+   "title": "Pharma Research Zero Trust Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enabling-hosting-service-provider-to-deliver-superior-cx",
+   "file": "pages/happy__enabling-hosting-service-provider-to-deliver-superior-cx.json",
+   "status": 200,
+   "title": "Modern CRM Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enabling-on-time-completion-of-multi-billion-dollar-projects",
+   "file": "pages/happy__enabling-on-time-completion-of-multi-billion-dollar-projects.json",
+   "status": 200,
+   "title": "Modern Workplace Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enabling-seamless-ma-activity",
+   "file": "pages/happy__enabling-seamless-ma-activity.json",
+   "status": 200,
+   "title": "Seamless IT Integration Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enabling-secure-global-app-access-telecom",
+   "file": "pages/happy__enabling-secure-global-app-access-telecom.json",
+   "status": 200,
+   "title": "Architecting a Secure Global Application Delivery Platform for a Telecom Leader",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/energizing-the-entertainment-experience",
+   "file": "pages/happy__energizing-the-entertainment-experience.json",
+   "status": 200,
+   "title": "Architecting a Modern IT Infrastructure for a Major Entertainment Destination",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enhancing-collaboration-at-premier-education-institute",
+   "file": "pages/happy__enhancing-collaboration-at-premier-education-institute.json",
+   "status": 200,
+   "title": "Architecting a Unified Collaboration Portal for India’s Premier Education Institute",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enhancing-fintech-operations-with-security",
+   "file": "pages/happy__enhancing-fintech-operations-with-security.json",
+   "status": 200,
+   "title": "Architecting an Integrated Identity and Endpoint Security Platform for a Global FinTech",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enterprise-data-protection-solution-secures-critical-corporate-data",
+   "file": "pages/happy__enterprise-data-protection-solution-secures-critical-corporate-data.json",
+   "status": 200,
+   "title": "Enterprise Data Protection Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enterprise-project-management-solution",
+   "file": "pages/happy__enterprise-project-management-solution.json",
+   "status": 200,
+   "title": "Enterprise Project Management Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/enterprise-security-solution-safeguards-digital-assets",
+   "file": "pages/happy__enterprise-security-solution-safeguards-digital-assets.json",
+   "status": 200,
+   "title": "Resilient Network Security Fabric Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/fast-growing-bank-deploys-collaboration",
+   "file": "pages/happy__fast-growing-bank-deploys-collaboration.json",
+   "status": 200,
+   "title": "Bank Collaboration Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/fostering-an-agile-enterprise-with-integrated-it",
+   "file": "pages/happy__fostering-an-agile-enterprise-with-integrated-it.json",
+   "status": 200,
+   "title": "Integrated IT Infrastructure Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/global-fashion-house-looks-to-the-cloud-for-erp",
+   "file": "pages/happy__global-fashion-house-looks-to-the-cloud-for-erp.json",
+   "status": 200,
+   "title": "High-Performance Cloud ERP Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/global-player-leverages-new-working-models",
+   "file": "pages/happy__global-player-leverages-new-working-models.json",
+   "status": 200,
+   "title": "Healthcare Secure DaaS Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/heterogeneous-backup-and-dr-on-a-distributed-platform",
+   "file": "pages/happy__heterogeneous-backup-and-dr-on-a-distributed-platform.json",
+   "status": 200,
+   "title": "Resilient Backup & DR Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/hybrid-cloud-solution-enables-people-centric-organization",
+   "file": "pages/happy__hybrid-cloud-solution-enables-people-centric-organization.json",
+   "status": 200,
+   "title": "Hybrid Security & Management Fabric Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/indias-leading-insurance-provider-implements-hybrid-collaboration",
+   "file": "pages/happy__indias-leading-insurance-provider-implements-hybrid-collaboration.json",
+   "status": 200,
+   "title": "Hybrid Collaboration Solution Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/integrated-backup-mitigates-risk-and-drives-compliance",
+   "file": "pages/happy__integrated-backup-mitigates-risk-and-drives-compliance.json",
+   "status": 200,
+   "title": "Architecting a Unified Data Protection Strategy for a Global Financial Services Firm",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/integrated-backup-mitigates-risk-and-drives-compliance-across-the-globe",
+   "file": "pages/happy__integrated-backup-mitigates-risk-and-drives-compliance-across-the-globe.json",
+   "status": 200,
+   "title": "Architecting an Integrated Data Protection Strategy for a Global BPO",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/integrated-data-management-solution-for-pharmaceuticals-manufacturer",
+   "file": "pages/happy__integrated-data-management-solution-for-pharmaceuticals-manufacturer.json",
+   "status": 200,
+   "title": "Architecting an Integrated Data Protection Strategy for a Global Pharma Manufacturer",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/integrated-security-solution-for-analytics-provider",
+   "file": "pages/happy__integrated-security-solution-for-analytics-provider.json",
+   "status": 200,
+   "title": "Architecting an Integrated Security Posture for a Global Analytics Leader",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/iplon-indias-seamless-journey-to-gcp-efficiency",
+   "file": "pages/happy__iplon-indias-seamless-journey-to-gcp-efficiency.json",
+   "status": 200,
+   "title": "Architecting a Unified Cloud Platform for a Renewable Energy Tech Leader",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/itsm-help-desk-enhances-employee-satisfaction",
+   "file": "pages/happy__itsm-help-desk-enhances-employee-satisfaction.json",
+   "status": 200,
+   "title": "Architecting an ITIL-Based Service Desk for a Global Pharma Innovator",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/leading-fleet-management-provider-devops-transformation",
+   "file": "pages/happy__leading-fleet-management-provider-devops-transformation.json",
+   "status": 200,
+   "title": "Modern DevOps Framework Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/leading-pharma-services-provider-leveraging-aws-waf",
+   "file": "pages/happy__leading-pharma-services-provider-leveraging-aws-waf.json",
+   "status": 200,
+   "title": "Advanced Web Application Firewall Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/migrating-etms-vehicle-tracking-to-gcp",
+   "file": "pages/happy__migrating-etms-vehicle-tracking-to-gcp.json",
+   "status": 200,
+   "title": "Multi-Cloud Strategy Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/modern-analytics-for-patient-flow-management",
+   "file": "pages/happy__modern-analytics-for-patient-flow-management.json",
+   "status": 200,
+   "title": "Patient Flow Analytics Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/modern-it-infrastructure-powers-growth-capital-market",
+   "file": "pages/happy__modern-it-infrastructure-powers-growth-capital-market.json",
+   "status": 200,
+   "title": "Modern, Secure IT Infrastructure Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/modernizing-patch-management-with-azure",
+   "file": "pages/happy__modernizing-patch-management-with-azure.json",
+   "status": 200,
+   "title": "Cloud-Native Update Management Strategy Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/move-to-a-saas-model",
+   "file": "pages/happy__move-to-a-saas-model.json",
+   "status": 200,
+   "title": "Global SaaS Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/multi-billion-dollar-two-wheeler-manufacturer",
+   "file": "pages/happy__multi-billion-dollar-two-wheeler-manufacturer.json",
+   "status": 200,
+   "title": "Two-Wheeler Maker Hybrid Cloud Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/niche-ecom-portal-cloud-scale",
+   "file": "pages/happy__niche-ecom-portal-cloud-scale.json",
+   "status": 200,
+   "title": "Hyperscale Cloud Foundation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/offshore-it-services-delivery",
+   "file": "pages/happy__offshore-it-services-delivery.json",
+   "status": 200,
+   "title": "Global Delivery Model Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/online-replication-enables-real-time-dashboard",
+   "file": "pages/happy__online-replication-enables-real-time-dashboard.json",
+   "status": 200,
+   "title": "Architecting a Real-Time Analytics Platform for a Leading Retail Powerhouse",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/portal-extends-erp-functionality",
+   "file": "pages/happy__portal-extends-erp-functionality.json",
+   "status": 200,
+   "title": "Architecting a Smart Portal to Extend ERP Functionality and Reduce Costs",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/portal-solution-enhances-erp-functionality-saving-costs",
+   "file": "pages/happy__portal-solution-enhances-erp-functionality-saving-costs.json",
+   "status": 200,
+   "title": "Smart ERP Portal Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/powering-secure-compliant-growth",
+   "file": "pages/happy__powering-secure-compliant-growth.json",
+   "status": 200,
+   "title": "Zero Trust Compliance Framework Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/premier-healthcare-provider-collaboration",
+   "file": "pages/happy__premier-healthcare-provider-collaboration.json",
+   "status": 200,
+   "title": "Healthcare Collaboration Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/protecting-data-for-70000-users-bank",
+   "file": "pages/happy__protecting-data-for-70000-users-bank.json",
+   "status": 200,
+   "title": "Integrated Security Fabric Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/publishing-house-embraces-change",
+   "file": "pages/happy__publishing-house-embraces-change.json",
+   "status": 200,
+   "title": "Publishing House IT Backbone Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/redefining-app-dev-for-bi-provider",
+   "file": "pages/happy__redefining-app-dev-for-bi-provider.json",
+   "status": 200,
+   "title": "Global Delivery Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/reinventing-apparel-manufacturing-with-azure-analytics",
+   "file": "pages/happy__reinventing-apparel-manufacturing-with-azure-analytics.json",
+   "status": 200,
+   "title": "Data-First Strategy Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/responsive-it-powers-transactions",
+   "file": "pages/happy__responsive-it-powers-transactions.json",
+   "status": 200,
+   "title": "High-Performance Infrastructure Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/revitalization-powers-growth",
+   "file": "pages/happy__revitalization-powers-growth.json",
+   "status": 200,
+   "title": "Manufacturing IT Backbone Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/revolutionizing-renewable-energy-management",
+   "file": "pages/happy__revolutionizing-renewable-energy-management.json",
+   "status": 200,
+   "title": "Cloud-Native IoT Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/revolutionizing-security-response",
+   "file": "pages/happy__revolutionizing-security-response.json",
+   "status": 200,
+   "title": "Intelligent Alert Management System Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/revolutionizing-vlsi-application-development",
+   "file": "pages/happy__revolutionizing-vlsi-application-development.json",
+   "status": 200,
+   "title": "High-Performance Cloud Environment Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/sankara-eye-care-enterprise-ai-adoption-claude",
+   "file": "pages/happy__sankara-eye-care-enterprise-ai-adoption-claude.json",
+   "status": 200,
+   "title": "Sankara Eye Care Accelerates Enterprise AI Adoption with Claude",
+   "sections": 2,
+   "blocks": 22
+  },
+  {
+   "path": "/happy/seamless-cloud-migration-apparel-manufacturer",
+   "file": "pages/happy__seamless-cloud-migration-apparel-manufacturer.json",
+   "status": 200,
+   "title": "Unified Cloud Foundation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/secure-anytime-anywhere-it-access",
+   "file": "pages/happy__secure-anytime-anywhere-it-access.json",
+   "status": 200,
+   "title": "Secure 'Work from Anywhere' Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/secure-compliant-access-for-bank",
+   "file": "pages/happy__secure-compliant-access-for-bank.json",
+   "status": 200,
+   "title": "Secure Remote Access Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/secure-high-performance-app-delivery",
+   "file": "pages/happy__secure-high-performance-app-delivery.json",
+   "status": 200,
+   "title": "High-Performance App Delivery Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/securing-data-for-healthcare-provider",
+   "file": "pages/happy__securing-data-for-healthcare-provider.json",
+   "status": 200,
+   "title": "AI-Powered Endpoint Security Strategy Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/securing-global-tech-giant",
+   "file": "pages/happy__securing-global-tech-giant.json",
+   "status": 200,
+   "title": "Unified Cyber Resilience Framework Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/service-desk-enhances-productivity",
+   "file": "pages/happy__service-desk-enhances-productivity.json",
+   "status": 200,
+   "title": "ITIL-Based Service Desk Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/streamlining-cloud-workflow-with-aws-systems-manager",
+   "file": "pages/happy__streamlining-cloud-workflow-with-aws-systems-manager.json",
+   "status": 200,
+   "title": "AWS Systems Manager Automation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/training-ml-models-ai-solutions",
+   "file": "pages/happy__training-ml-models-ai-solutions.json",
+   "status": 200,
+   "title": "Architecting a High-Performance AI Training Platform for an AI Innovator",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/transforming-collaboration-dairy-company",
+   "file": "pages/happy__transforming-collaboration-dairy-company.json",
+   "status": 200,
+   "title": "Unified Collaboration Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/transforming-data-management-biotech",
+   "file": "pages/happy__transforming-data-management-biotech.json",
+   "status": 200,
+   "title": "Secure Cloud Data Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/transforming-desktop-application-delivery-startup",
+   "file": "pages/happy__transforming-desktop-application-delivery-startup.json",
+   "status": 200,
+   "title": "Scalable Application Delivery Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/transforming-employee-experience-pharma",
+   "file": "pages/happy__transforming-employee-experience-pharma.json",
+   "status": 200,
+   "title": "Data-Driven Employee Experience Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/uc-redefines-productivity",
+   "file": "pages/happy__uc-redefines-productivity.json",
+   "status": 200,
+   "title": "Unified Communications Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/unified-cloud-security-architecture",
+   "file": "pages/happy__unified-cloud-security-architecture.json",
+   "status": 200,
+   "title": "Multi-Cloud Security Fabric Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/unleashing-real-time-face-swap-capabilities",
+   "file": "pages/happy__unleashing-real-time-face-swap-capabilities.json",
+   "status": 200,
+   "title": "High-Performance GPU Cloud Platform Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/happy/virtualization-puts-it-in-top-gear",
+   "file": "pages/happy__virtualization-puts-it-in-top-gear.json",
+   "status": 200,
+   "title": "Scalable Foundation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 23
+  },
+  {
+   "path": "/join-quadra",
+   "file": "pages/join-quadra.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/legacy-wall",
+   "file": "pages/legacy-wall.json",
+   "status": 200,
+   "title": "Quadra Legacy Wall | Long-Tenured Team | Quadra",
+   "sections": 4,
+   "blocks": 30
+  },
+  {
+   "path": "/llms-txt",
+   "file": "pages/llms-txt.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 0,
+   "blocks": 0
+  },
+  {
+   "path": "/logos",
+   "file": "pages/logos.json",
+   "status": 200,
+   "title": "Quadra Logos",
+   "sections": 4,
+   "blocks": 49
+  },
+  {
+   "path": "/newsroom",
+   "file": "pages/newsroom.json",
+   "status": 200,
+   "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+   "sections": 9,
+   "blocks": 63
+  },
+  {
+   "path": "/newsroom/accessing-virtual-machines-in-google-cloud-using-iap-desktop",
+   "file": "pages/newsroom__accessing-virtual-machines-in-google-cloud-using-iap-desktop.json",
+   "status": 200,
+   "title": "Accessing Virtual Machines in Google Cloud using IAP desktop",
+   "sections": 2,
+   "blocks": 123
+  },
+  {
+   "path": "/newsroom/achieve-data-security-and-scalability-with-google-cloud-storage-a-business-guide",
+   "file": "pages/newsroom__achieve-data-security-and-scalability-with-google-cloud-storage-a-business-guide.json",
+   "status": 200,
+   "title": "Achieve Data Security and Scalability with Google Cloud Storage: A Business Guide",
+   "sections": 2,
+   "blocks": 67
+  },
+  {
+   "path": "/newsroom/achieving-more-with-less-explore-the-capabilities-of-microsoft-power-platform",
+   "file": "pages/newsroom__achieving-more-with-less-explore-the-capabilities-of-microsoft-power-platform.json",
+   "status": 200,
+   "title": "Achieving More with Less: Explore the Capabilities of Microsoft Power Platform",
+   "sections": 2,
+   "blocks": 47
+  },
+  {
+   "path": "/newsroom/amazon-workspaces-offering-flexibility-and-scalability-for-your-business-needs",
+   "file": "pages/newsroom__amazon-workspaces-offering-flexibility-and-scalability-for-your-business-needs.json",
+   "status": 200,
+   "title": "Amazon WorkSpaces: offering flexibility and scalability for your business needs",
+   "sections": 2,
+   "blocks": 48
+  },
+  {
+   "path": "/newsroom/beyond-firewalls-build-stronger-security-teams-with-quadra-soc-nxts-expertise",
+   "file": "pages/newsroom__beyond-firewalls-build-stronger-security-teams-with-quadra-soc-nxts-expertise.json",
+   "status": 200,
+   "title": "Beyond Firewalls: Build Stronger Security Teams with Quadra (SOC)NXT's Expertise.",
+   "sections": 2,
+   "blocks": 46
+  },
+  {
+   "path": "/newsroom/building-a-vpn-from-on-premises-hybrid-to-gcp",
+   "file": "pages/newsroom__building-a-vpn-from-on-premises-hybrid-to-gcp.json",
+   "status": 200,
+   "title": "Building a VPN from on-premises/hybrid to GCP",
+   "sections": 2,
+   "blocks": 137
+  },
+  {
+   "path": "/newsroom/citrix-secure-private-access-an-essential-tool-for-protecting-your-business-data",
+   "file": "pages/newsroom__citrix-secure-private-access-an-essential-tool-for-protecting-your-business-data.json",
+   "status": 200,
+   "title": "Citrix Secure Private Access: An Essential Tool for Protecting Your Business Data",
+   "sections": 2,
+   "blocks": 35
+  },
+  {
+   "path": "/newsroom/cloud-firewall-standard-protect-your-google-cloud-network-from-advanced-threats",
+   "file": "pages/newsroom__cloud-firewall-standard-protect-your-google-cloud-network-from-advanced-threats.json",
+   "status": 200,
+   "title": "Cloud Firewall Standard: Protect Your Google Cloud Network from Advanced Threats",
+   "sections": 2,
+   "blocks": 47
+  },
+  {
+   "path": "/newsroom/creating-accurate-cloud-architecture-diagrams-made-easy-with-google-cloud-tools",
+   "file": "pages/newsroom__creating-accurate-cloud-architecture-diagrams-made-easy-with-google-cloud-tools.json",
+   "status": 200,
+   "title": "Creating Accurate Cloud Architecture Diagrams: Made easy with Google Cloud Tools",
+   "sections": 2,
+   "blocks": 35
+  },
+  {
+   "path": "/newsroom/cross-cloud-disaster-recovery",
+   "file": "pages/newsroom__cross-cloud-disaster-recovery.json",
+   "status": 200,
+   "title": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud",
+   "sections": 2,
+   "blocks": 57
+  },
+  {
+   "path": "/newsroom/cross-cloud-disaster-recovery-for-sap-hana",
+   "file": "pages/newsroom__cross-cloud-disaster-recovery-for-sap-hana.json",
+   "status": 200,
+   "title": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud",
+   "sections": 2,
+   "blocks": 56
+  },
+  {
+   "path": "/newsroom/deliver-applications-anywhere-anytime-using-adcs",
+   "file": "pages/newsroom__deliver-applications-anywhere-anytime-using-adcs.json",
+   "status": 200,
+   "title": "Deliver applications anywhere, anytime using ADCs",
+   "sections": 2,
+   "blocks": 35
+  },
+  {
+   "path": "/newsroom/discover-unauthorised-ai-agents-with-microsoft-defender-for-endpoint",
+   "file": "pages/newsroom__discover-unauthorised-ai-agents-with-microsoft-defender-for-endpoint.json",
+   "status": 200,
+   "title": "Discover Unauthorised AI agents with Microsoft Defender for Endpoint",
+   "sections": 2,
+   "blocks": 113
+  },
+  {
+   "path": "/newsroom/enable-secure-access-to-applications-and-resources-with-beyondcorp-enterprise",
+   "file": "pages/newsroom__enable-secure-access-to-applications-and-resources-with-beyondcorp-enterprise.json",
+   "status": 200,
+   "title": "Enable secure access to applications and resources with BeyondCorp Enterprise",
+   "sections": 2,
+   "blocks": 46
+  },
+  {
+   "path": "/newsroom/essential-resources-to-secure-your-aws-infrastructure",
+   "file": "pages/newsroom__essential-resources-to-secure-your-aws-infrastructure.json",
+   "status": 200,
+   "title": "Essential resources to secure your AWS infrastructure",
+   "sections": 2,
+   "blocks": 44
+  },
+  {
+   "path": "/newsroom/finding-sensitive-data-in-azure-cloud-storage",
+   "file": "pages/newsroom__finding-sensitive-data-in-azure-cloud-storage.json",
+   "status": 200,
+   "title": "Finding Sensitive Data in Azure Cloud Storage: Why Checking Files One by One Just Doesn’t Work",
+   "sections": 2,
+   "blocks": 137
+  },
+  {
+   "path": "/newsroom/finops-hub-the-smart-way-to-manage-your-google-cloud-costs",
+   "file": "pages/newsroom__finops-hub-the-smart-way-to-manage-your-google-cloud-costs.json",
+   "status": 200,
+   "title": "FinOps Hub: The Smart Way to Manage Your Google Cloud Costs.",
+   "sections": 2,
+   "blocks": 105
+  },
+  {
+   "path": "/newsroom/from-legacy-vms-to-cloud-native-applications",
+   "file": "pages/newsroom__from-legacy-vms-to-cloud-native-applications.json",
+   "status": 200,
+   "title": "From Legacy VMs to Cloud-Native Applications: Practical Workload Migration Strategies with Google Kubernetes Engine.",
+   "sections": 2,
+   "blocks": 277
+  },
+  {
+   "path": "/newsroom/from-pixel-to-insight-in-just-minutes",
+   "file": "pages/newsroom__from-pixel-to-insight-in-just-minutes.json",
+   "status": 200,
+   "title": "From Pixel to Insight in Just Minutes!",
+   "sections": 2,
+   "blocks": 52
+  },
+  {
+   "path": "/newsroom/heres-how-you-can-maximize-your-google-cloud-platform-investment-with-a-landing-zone",
+   "file": "pages/newsroom__heres-how-you-can-maximize-your-google-cloud-platform-investment-with-a-landing-zone.json",
+   "status": 200,
+   "title": "Here's how you can maximize your Google Cloud Platform investment with a Landing Zone.",
+   "sections": 2,
+   "blocks": 141
+  },
+  {
+   "path": "/newsroom/how-microsoft-viva-learning-is-transforming-corporate-training-and-development",
+   "file": "pages/newsroom__how-microsoft-viva-learning-is-transforming-corporate-training-and-development.json",
+   "status": 200,
+   "title": "How Microsoft Viva Learning is Transforming Corporate Training and Development",
+   "sections": 2,
+   "blocks": 46
+  },
+  {
+   "path": "/newsroom/how-to-use-terraform-for-effective-gcp-resource-management",
+   "file": "pages/newsroom__how-to-use-terraform-for-effective-gcp-resource-management.json",
+   "status": 200,
+   "title": "How to Use Terraform for Effective GCP Resource Management",
+   "sections": 2,
+   "blocks": 213
+  },
+  {
+   "path": "/newsroom/increase-business-agility-by-up-to-45-percentage-with-google-cloud-vmware-engine",
+   "file": "pages/newsroom__increase-business-agility-by-up-to-45-percentage-with-google-cloud-vmware-engine.json",
+   "status": 200,
+   "title": "Increase business agility by up to 45% with Google Cloud VMware Engine",
+   "sections": 2,
+   "blocks": 86
+  },
+  {
+   "path": "/newsroom/learn-how-you-can-leverage-amazon-rds-and-aurora",
+   "file": "pages/newsroom__learn-how-you-can-leverage-amazon-rds-and-aurora.json",
+   "status": 200,
+   "title": "Learn how you can leverage Amazon RDS and Aurora",
+   "sections": 2,
+   "blocks": 33
+  },
+  {
+   "path": "/newsroom/leveraging-beyondcorp-in-gcp-for-advanced-cloud-security",
+   "file": "pages/newsroom__leveraging-beyondcorp-in-gcp-for-advanced-cloud-security.json",
+   "status": 200,
+   "title": "Leveraging BeyondCorp in GCP for Advanced Cloud Security",
+   "sections": 2,
+   "blocks": 64
+  },
+  {
+   "path": "/newsroom/maximizing-cost-savings-with-aws-server-migration-service",
+   "file": "pages/newsroom__maximizing-cost-savings-with-aws-server-migration-service.json",
+   "status": 200,
+   "title": "Maximizing cost savings with AWS Server Migration Service",
+   "sections": 2,
+   "blocks": 36
+  },
+  {
+   "path": "/newsroom/microsoft-entra-private-access",
+   "file": "pages/newsroom__microsoft-entra-private-access.json",
+   "status": 200,
+   "title": "Microsoft Entra Private Access: Your VPN Replacement is Here",
+   "sections": 2,
+   "blocks": 89
+  },
+  {
+   "path": "/newsroom/microsoft-intune-endpoint-privilege-management-(epm)-eliminate-local-admin-rights-without-slowing-down-users",
+   "file": "pages/newsroom__microsoft-intune-endpoint-privilege-management-__epm__-eliminate-local-admin-rights-without-slowing-down-users.json",
+   "status": 200,
+   "title": "Microsoft Intune Endpoint Privilege Management (EPM): Eliminate Local Admin Rights Without Slowing Down Users",
+   "sections": 2,
+   "blocks": 204
+  },
+  {
+   "path": "/newsroom/modernise-your-enterprise-applications-using-amazon-ecs",
+   "file": "pages/newsroom__modernise-your-enterprise-applications-using-amazon-ecs.json",
+   "status": 200,
+   "title": "Modernise your enterprise applications using Amazon ECS",
+   "sections": 2,
+   "blocks": 44
+  },
+  {
+   "path": "/newsroom/protect-your-business-against-modern-cyber-threats-using-azure-ad-multi-factor-authentication",
+   "file": "pages/newsroom__protect-your-business-against-modern-cyber-threats-using-azure-ad-multi-factor-authentication.json",
+   "status": 200,
+   "title": "Protect your business against modern cyber threats using Azure AD Multi-Factor Authentication.",
+   "sections": 2,
+   "blocks": 53
+  },
+  {
+   "path": "/newsroom/purview-network-dlp",
+   "file": "pages/newsroom__purview-network-dlp.json",
+   "status": 200,
+   "title": "Purview Network DLP with Global Secure Access",
+   "sections": 2,
+   "blocks": 217
+  },
+  {
+   "path": "/newsroom/quadras-comprehensive-guide-to-microsoft-copilots",
+   "file": "pages/newsroom__quadras-comprehensive-guide-to-microsoft-copilots.json",
+   "status": 200,
+   "title": "Quadra’s Comprehensive Guide to Microsoft Copilots",
+   "sections": 2,
+   "blocks": 126
+  },
+  {
+   "path": "/newsroom/seamless-file-sharing-and-low-latency-storage-with-google-cloud-filestore",
+   "file": "pages/newsroom__seamless-file-sharing-and-low-latency-storage-with-google-cloud-filestore.json",
+   "status": 200,
+   "title": "Seamless File Sharing and Low-Latency Storage with Google Cloud Filestore",
+   "sections": 2,
+   "blocks": 59
+  },
+  {
+   "path": "/newsroom/setting-up-a-landing-zone-in-gcp-a-10-point-checklist-for-seamless-onboarding",
+   "file": "pages/newsroom__setting-up-a-landing-zone-in-gcp-a-10-point-checklist-for-seamless-onboarding.json",
+   "status": 200,
+   "title": "Setting Up a Landing Zone in GCP: A 10-Point Checklist for Seamless Onboarding",
+   "sections": 2,
+   "blocks": 102
+  },
+  {
+   "path": "/newsroom/smart-tools-that-can-double-your-employee-productivity-instantly",
+   "file": "pages/newsroom__smart-tools-that-can-double-your-employee-productivity-instantly.json",
+   "status": 200,
+   "title": "Smart Tools that can double your employee productivity instantly.",
+   "sections": 2,
+   "blocks": 39
+  },
+  {
+   "path": "/newsroom/stay-on-top-of-your-costs-with-detailed-tracking-from-looker-studio-at-no-cost",
+   "file": "pages/newsroom__stay-on-top-of-your-costs-with-detailed-tracking-from-looker-studio-at-no-cost.json",
+   "status": 200,
+   "title": "Stay on Top of Your Costs with Detailed Tracking from Looker Studio at No Cost",
+   "sections": 2,
+   "blocks": 119
+  },
+  {
+   "path": "/newsroom/streamline-your-business-with-containerized-applications-on-google-kubernetes-engine-gke",
+   "file": "pages/newsroom__streamline-your-business-with-containerized-applications-on-google-kubernetes-engine-gke.json",
+   "status": 200,
+   "title": "Streamline Your Business with Containerized Applications on Google Kubernetes Engine (GKE)",
+   "sections": 2,
+   "blocks": 98
+  },
+  {
+   "path": "/newsroom/strengthen-your-cloud-security-posture-with-google-cloud-armor",
+   "file": "pages/newsroom__strengthen-your-cloud-security-posture-with-google-cloud-armor.json",
+   "status": 200,
+   "title": "Strengthen Your Cloud Security Posture with Google Cloud Armor",
+   "sections": 2,
+   "blocks": 87
+  },
+  {
+   "path": "/newsroom/take-control-of-security-and-risk-management-with-google-cloud",
+   "file": "pages/newsroom__take-control-of-security-and-risk-management-with-google-cloud.json",
+   "status": 200,
+   "title": "Take control of Security and Risk Management with Google Cloud",
+   "sections": 2,
+   "blocks": 47
+  },
+  {
+   "path": "/newsroom/that-file-shared-for-one-project-is-still-open-three-years-later",
+   "file": "pages/newsroom__that-file-shared-for-one-project-is-still-open-three-years-later.json",
+   "status": 200,
+   "title": "That File Shared for One Project Is Still Open Three Years Later",
+   "sections": 2,
+   "blocks": 177
+  },
+  {
+   "path": "/newsroom/the-architect’s-view",
+   "file": "pages/newsroom__the-architect__s-view.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 4,
+   "blocks": 29
+  },
+  {
+   "path": "/newsroom/the-autonomous-engineering-era-google-antigravity-gemini-enterprise",
+   "file": "pages/newsroom__the-autonomous-engineering-era-google-antigravity-gemini-enterprise.json",
+   "status": 200,
+   "title": "The Autonomous Engineering Era",
+   "sections": 2,
+   "blocks": 134
+  },
+  {
+   "path": "/newsroom/the-predictive-tool-thats-changing-ecommerce-forever",
+   "file": "pages/newsroom__the-predictive-tool-thats-changing-ecommerce-forever.json",
+   "status": 200,
+   "title": "The Predictive Tool That’s Changing Ecommerce Forever",
+   "sections": 2,
+   "blocks": 46
+  },
+  {
+   "path": "/newsroom/transforming-healthcare-a-case-study-on-patient-flow-management",
+   "file": "pages/newsroom__transforming-healthcare-a-case-study-on-patient-flow-management.json",
+   "status": 200,
+   "title": "Transforming Healthcare: A Case Study on Patient Flow Management",
+   "sections": 2,
+   "blocks": 48
+  },
+  {
+   "path": "/newsroom/which-microsoft-365-copilot-experience-should-you-use",
+   "file": "pages/newsroom__which-microsoft-365-copilot-experience-should-you-use.json",
+   "status": 200,
+   "title": "Which Microsoft 365 Copilot Experience Should You Use? A Practical Routing Guide for Work",
+   "sections": 2,
+   "blocks": 87
+  },
+  {
+   "path": "/newsroom/why-migrating-vms-from-aws-to-google-cloud-is-a-smart-move",
+   "file": "pages/newsroom__why-migrating-vms-from-aws-to-google-cloud-is-a-smart-move.json",
+   "status": 200,
+   "title": "Why migrating VMs from AWS to Google Cloud is a Smart Move",
+   "sections": 2,
+   "blocks": 79
+  },
+  {
+   "path": "/newsroom/why-use-traditional-desktops-when-you-have-citrix-daas",
+   "file": "pages/newsroom__why-use-traditional-desktops-when-you-have-citrix-daas.json",
+   "status": 200,
+   "title": "Why use traditional desktops when you have Citrix DaaS?",
+   "sections": 2,
+   "blocks": 38
+  },
+  {
+   "path": "/pressrelease",
+   "file": "pages/pressrelease.json",
+   "status": 200,
+   "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+   "sections": 1,
+   "blocks": 7
+  },
+  {
+   "path": "/pressrelease/quadra-bridges-the-‘execution-gap’-in-ai",
+   "file": "pages/pressrelease__quadra-bridges-the-__execution-gap__-in-ai.json",
+   "status": 200,
+   "title": "Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001:2023, the World’s First International Standard for AI Management Systems",
+   "sections": 6,
+   "blocks": 30
+  },
+  {
+   "path": "/pressrelease/quadrasystems.net-among-the-first-in-india-to-achieve-iso-iec-42001-2023",
+   "file": "pages/pressrelease__quadrasystems.net-among-the-first-in-india-to-achieve-iso-iec-42001-2023.json",
+   "status": 200,
+   "title": "Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001:2023, the World’s First International Standard for AI Management Systems",
+   "sections": 6,
+   "blocks": 29
+  },
+  {
+   "path": "/privacy",
+   "file": "pages/privacy.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 2,
+   "blocks": 49
+  },
+  {
+   "path": "/secure-the-future-power-it-with-ai",
+   "file": "pages/secure-the-future-power-it-with-ai.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 4,
+   "blocks": 33
+  },
+  {
+   "path": "/social",
+   "file": "pages/social.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 1,
+   "blocks": 5
+  },
+  {
+   "path": "/solutions",
+   "file": "pages/solutions.json",
+   "status": 200,
+   "title": "Enterprise Cloud & AI Solutions | Quadra",
+   "sections": 4,
+   "blocks": 38
+  },
+  {
+   "path": "/solutions/empower-your-workforce",
+   "file": "pages/solutions__empower-your-workforce.json",
+   "status": 200,
+   "title": "Microsoft 365 Implementation & Adoption | Enterprise Services",
+   "sections": 7,
+   "blocks": 48
+  },
+  {
+   "path": "/solutions/fortify-your-defenses",
+   "file": "pages/solutions__fortify-your-defenses.json",
+   "status": 200,
+   "title": "Enterprise Cloud Security Services | Compliance & Protection",
+   "sections": 7,
+   "blocks": 48
+  },
+  {
+   "path": "/solutions/innovate-with-ai-data",
+   "file": "pages/solutions__innovate-with-ai-data.json",
+   "status": 200,
+   "title": "Enterprise AI Implementation Services | Production-Ready Solutions",
+   "sections": 7,
+   "blocks": 51
+  },
+  {
+   "path": "/solutions/modernize-your-foundation",
+   "file": "pages/solutions__modernize-your-foundation.json",
+   "status": 200,
+   "title": "Enterprise Cloud Migration Services | Azure, AWS & GCP | Quadra",
+   "sections": 7,
+   "blocks": 51
+  },
+  {
+   "path": "/solutions/platforms-ip",
+   "file": "pages/solutions__platforms-ip.json",
+   "status": 200,
+   "title": "Proprietary Enterprise Platforms & IP | Quadra",
+   "sections": 4,
+   "blocks": 33
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge",
+   "file": "pages/solutions__platforms-ip__bluforge.json",
+   "status": 200,
+   "title": "BluForge: AI-Powered Managed SOC & Cybersecurity Platform | Quadra",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-assist",
+   "file": "pages/solutions__platforms-ip__bluforge__bluforge-assist.json",
+   "status": 200,
+   "title": "BluForge Assist: Retainer-Based Incident Response Service | Quadra",
+   "sections": 4,
+   "blocks": 23
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-ops",
+   "file": "pages/solutions__platforms-ip__bluforge__bluforge-ops.json",
+   "status": 200,
+   "title": "BluForge Ops: 24/7 Managed SOC & Security Operations | Quadra",
+   "sections": 4,
+   "blocks": 27
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-pulse",
+   "file": "pages/solutions__platforms-ip__bluforge__bluforge-pulse.json",
+   "status": 200,
+   "title": "BluForge Pulse: Continuous Threat Intelligence & Monitoring | Quadra",
+   "sections": 4,
+   "blocks": 27
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-shield",
+   "file": "pages/solutions__platforms-ip__bluforge__bluforge-shield.json",
+   "status": 200,
+   "title": "BluForge Shield: Enterprise Security Architecture & Hardening | Quadra",
+   "sections": 4,
+   "blocks": 26
+  },
+  {
+   "path": "/solutions/platforms-ip/intellient",
+   "file": "pages/solutions__platforms-ip__intellient.json",
+   "status": 200,
+   "title": "Intellient: Collaborative AI Platform for the Enterprise | Quadra",
+   "sections": 3,
+   "blocks": 19
+  },
+  {
+   "path": "/solutions/platforms-ip/intellilink",
+   "file": "pages/solutions__platforms-ip__intellilink.json",
+   "status": 200,
+   "title": "IntelliLink: Conversational AI for Enterprise System Integration | Quadra",
+   "sections": 4,
+   "blocks": 27
+  },
+  {
+   "path": "/solutions/platforms-ip/max-it",
+   "file": "pages/solutions__platforms-ip__max-it.json",
+   "status": 200,
+   "title": "MaxIT: Cloud Cost Clarity, Control & Efficiency Platform | Quadra",
+   "sections": 3,
+   "blocks": 19
+  },
+  {
+   "path": "/solutions/platforms-ip/thankz",
+   "file": "pages/solutions__platforms-ip__thankz.json",
+   "status": 200,
+   "title": "Thankz: Enterprise Employee Recognition & Engagement Platform | Quadra",
+   "sections": 5,
+   "blocks": 36
+  },
+  {
+   "path": "/technology",
+   "file": "pages/technology.json",
+   "status": 200,
+   "title": "Enterprise Cloud Technology Consulting | Quadra",
+   "sections": 5,
+   "blocks": 48
+  },
+  {
+   "path": "/technology/aws",
+   "file": "pages/technology__aws.json",
+   "status": 200,
+   "title": "AWS Premier Partner: Architecting Agility & Innovation | Quadra",
+   "sections": 8,
+   "blocks": 127
+  },
+  {
+   "path": "/technology/aws/aws-security-assessment-compliance",
+   "file": "pages/technology__aws__aws-security-assessment-compliance.json",
+   "status": 200,
+   "title": "AWS Security Assessment & Compliance: Quadra SecureCloud | Quadra",
+   "sections": 7,
+   "blocks": 71
+  },
+  {
+   "path": "/technology/aws/aws-security-assessment-compliance/case-study-empowering-a-global-life-sciences",
+   "file": "pages/technology__aws__aws-security-assessment-compliance__case-study-empowering-a-global-life-sciences.json",
+   "status": 200,
+   "title": "AWS Cloud Transformation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 10
+  },
+  {
+   "path": "/technology/aws/aws-security-assessment-compliance/case-study-securing-a-multi-account-aws-environment",
+   "file": "pages/technology__aws__aws-security-assessment-compliance__case-study-securing-a-multi-account-aws-environment.json",
+   "status": 200,
+   "title": "AWS Cloud Transformation Case Study | Quadra",
+   "sections": 2,
+   "blocks": 10
+  },
+  {
+   "path": "/technology/aws/data-analytics-ai",
+   "file": "pages/technology__aws__data-analytics-ai.json",
+   "status": 200,
+   "title": "AWS Data Analytics & AI: Build Your Intelligent Data En | Quadra",
+   "sections": 5,
+   "blocks": 39
+  },
+  {
+   "path": "/technology/aws/managed-services",
+   "file": "pages/technology__aws__managed-services.json",
+   "status": 200,
+   "title": "AWS Managed Services: MaxIT Cloud Operations & Peace of | Quadra",
+   "sections": 7,
+   "blocks": 69
+  },
+  {
+   "path": "/technology/aws/managed-services/case-study-comprehensive-cloud",
+   "file": "pages/technology__aws__managed-services__case-study-comprehensive-cloud.json",
+   "status": 200,
+   "title": "AWS Life Sciences Cloud Case Study | Quadra",
+   "sections": 4,
+   "blocks": 43
+  },
+  {
+   "path": "/technology/aws/managed-services/case-study-empowering-life-sciences",
+   "file": "pages/technology__aws__managed-services__case-study-empowering-life-sciences.json",
+   "status": 200,
+   "title": "AWS Cloud Transformation Case Study | Quadra",
+   "sections": 4,
+   "blocks": 40
+  },
+  {
+   "path": "/technology/aws/microsite/control-tower",
+   "file": "pages/technology__aws__microsite__control-tower.json",
+   "status": 200,
+   "title": "AWS Control Tower | Quadra",
+   "sections": 4,
+   "blocks": 19
+  },
+  {
+   "path": "/technology/aws/microsite/generative-ai",
+   "file": "pages/technology__aws__microsite__generative-ai.json",
+   "status": 200,
+   "title": "Aws Generative Ai Bedrock Enterprise | Quadra",
+   "sections": 4,
+   "blocks": 22
+  },
+  {
+   "path": "/technology/aws/microsite/glue",
+   "file": "pages/technology__aws__microsite__glue.json",
+   "status": 200,
+   "title": "Aws Glue Etl Data Pipeline Integration | Quadra",
+   "sections": 4,
+   "blocks": 19
+  },
+  {
+   "path": "/technology/aws/microsite/migration",
+   "file": "pages/technology__aws__microsite__migration.json",
+   "status": 200,
+   "title": "Aws Cloud Migration Map Services | Quadra",
+   "sections": 4,
+   "blocks": 22
+  },
+  {
+   "path": "/technology/aws/microsite/modern-analytics",
+   "file": "pages/technology__aws__microsite__modern-analytics.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/technology/aws/microsite/modernization",
+   "file": "pages/technology__aws__microsite__modernization.json",
+   "status": 200,
+   "title": "AWS Application Modernization: Build Cloud-Native, Scale | Quadra",
+   "sections": 4,
+   "blocks": 19
+  },
+  {
+   "path": "/technology/aws/microsite/quadra-draas",
+   "file": "pages/technology__aws__microsite__quadra-draas.json",
+   "status": 200,
+   "title": "AWS Disaster Recovery as a Service (DRaaS): Unshakeable | Quadra",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/technology/aws/microsite/quicksight",
+   "file": "pages/technology__aws__microsite__quicksight.json",
+   "status": 200,
+   "title": "AWS QuickSight BI Analytics | Quadra",
+   "sections": 4,
+   "blocks": 19
+  },
+  {
+   "path": "/technology/aws/microsite/redshift",
+   "file": "pages/technology__aws__microsite__redshift.json",
+   "status": 200,
+   "title": "Aws Redshift Data Warehouse Analytics | Quadra",
+   "sections": 4,
+   "blocks": 19
+  },
+  {
+   "path": "/technology/aws/microsite/security-compliance",
+   "file": "pages/technology__aws__microsite__security-compliance.json",
+   "status": 200,
+   "title": "AWS Security & Compliance: Architect a Confident Cloud | Quadra",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/technology/aws/microsite/systems-manager",
+   "file": "pages/technology__aws__microsite__systems-manager.json",
+   "status": 200,
+   "title": "AWS Systems Manager: Unified & Automated Cloud Operatio | Quadra",
+   "sections": 4,
+   "blocks": 19
+  },
+  {
+   "path": "/technology/aws/microsite/waf",
+   "file": "pages/technology__aws__microsite__waf.json",
+   "status": 200,
+   "title": "AWS WAF Web Application Firewall | Quadra",
+   "sections": 4,
+   "blocks": 19
+  },
+  {
+   "path": "/technology/aws/migration-modernization",
+   "file": "pages/technology__aws__migration-modernization.json",
+   "status": 200,
+   "title": "AWS Migration & Modernization: Architect Your Cloud-Nat | Quadra",
+   "sections": 5,
+   "blocks": 41
+  },
+  {
+   "path": "/technology/aws/security-governance",
+   "file": "pages/technology__aws__security-governance.json",
+   "status": 200,
+   "title": "AWS Security & Governance: Confident Compliance as You | Quadra",
+   "sections": 5,
+   "blocks": 41
+  },
+  {
+   "path": "/technology/cyber-security",
+   "file": "pages/technology__cyber-security.json",
+   "status": 200,
+   "title": "Enterprise Cybersecurity Services: Architect Your Resilience | Quadra",
+   "sections": 5,
+   "blocks": 28
+  },
+  {
+   "path": "/technology/cyber-security/cloud-native-security",
+   "file": "pages/technology__cyber-security__cloud-native-security.json",
+   "status": 200,
+   "title": "Cloud Native Security Services | Quadra",
+   "sections": 3,
+   "blocks": 17
+  },
+  {
+   "path": "/technology/cyber-security/managed-security-operations",
+   "file": "pages/technology__cyber-security__managed-security-operations.json",
+   "status": 200,
+   "title": "Managed Security Operations: BluForge-Powered Confident | Quadra",
+   "sections": 3,
+   "blocks": 17
+  },
+  {
+   "path": "/technology/cyber-security/network-application-security",
+   "file": "pages/technology__cyber-security__network-application-security.json",
+   "status": 200,
+   "title": "Network & Application Security Services | Quadra",
+   "sections": 3,
+   "blocks": 16
+  },
+  {
+   "path": "/technology/cyber-security/threat-endpoint-protection",
+   "file": "pages/technology__cyber-security__threat-endpoint-protection.json",
+   "status": 200,
+   "title": "Threat & Endpoint Protection: Intelligent Defense Architecture| Quadra",
+   "sections": 3,
+   "blocks": 16
+  },
+  {
+   "path": "/technology/cyber-security/zero_trust",
+   "file": "pages/technology__cyber-security__zero_trust.json",
+   "status": 200,
+   "title": "Zero Trust Services | Quadra",
+   "sections": 3,
+   "blocks": 18
+  },
+  {
+   "path": "/technology/google-cloud",
+   "file": "pages/technology__google-cloud.json",
+   "status": 200,
+   "title": "Google Cloud Premier Partner: Architecting Intelligence | Quadra",
+   "sections": 6,
+   "blocks": 51
+  },
+  {
+   "path": "/technology/google-cloud/application-modernization",
+   "file": "pages/technology__google-cloud__application-modernization.json",
+   "status": 200,
+   "title": "Google Cloud Application Modernization: Legacy to Cloud | Quadra",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/technology/google-cloud/artificial-intelligence",
+   "file": "pages/technology__google-cloud__artificial-intelligence.json",
+   "status": 200,
+   "title": "Google Cloud AI: Architect Your Enterprise AI Advantage | Quadra",
+   "sections": 4,
+   "blocks": 22
+  },
+  {
+   "path": "/technology/google-cloud/cloud-security-governance",
+   "file": "pages/technology__google-cloud__cloud-security-governance.json",
+   "status": 200,
+   "title": "Google Cloud Security: Architect a Secure-by-Design Enterprise | Quadra",
+   "sections": 4,
+   "blocks": 21
+  },
+  {
+   "path": "/technology/google-cloud/data-analytics",
+   "file": "pages/technology__google-cloud__data-analytics.json",
+   "status": 200,
+   "title": "Google Cloud Data Analytics: Architect Your Data-Driven | Quadra",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/technology/google-cloud/database-modernization",
+   "file": "pages/technology__google-cloud__database-modernization.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 4,
+   "blocks": 20
+  },
+  {
+   "path": "/technology/google-cloud/infrastructure-modernization",
+   "file": "pages/technology__google-cloud__infrastructure-modernization.json",
+   "status": 200,
+   "title": "Google Cloud Infrastructure: Architect an Agile Cloud Foundation | Quadra",
+   "sections": 4,
+   "blocks": 21
+  },
+  {
+   "path": "/technology/google-cloud/managed-services",
+   "file": "pages/technology__google-cloud__managed-services.json",
+   "status": 200,
+   "title": "Google Cloud Managed Services: Expert Cloud Operations | Quadra",
+   "sections": 6,
+   "blocks": 47
+  },
+  {
+   "path": "/technology/google-cloud/startup",
+   "file": "pages/technology__google-cloud__startup.json",
+   "status": 200,
+   "title": "Google Cloud Services for Startups | Quadra",
+   "sections": 5,
+   "blocks": 40
+  },
+  {
+   "path": "/technology/hybrid-cloud",
+   "file": "pages/technology__hybrid-cloud.json",
+   "status": 200,
+   "title": "Hybrid Cloud Architecture: Seamless Multi-Cloud Enterprise | Quadra",
+   "sections": 6,
+   "blocks": 38
+  },
+  {
+   "path": "/technology/hybrid-cloud/data-resilience",
+   "file": "pages/technology__hybrid-cloud__data-resilience.json",
+   "status": 200,
+   "title": "Data Resilience & Backup: Architect Your Unshakeable Sa | Quadra",
+   "sections": 4,
+   "blocks": 33
+  },
+  {
+   "path": "/technology/hybrid-cloud/digital-workspace",
+   "file": "pages/technology__hybrid-cloud__digital-workspace.json",
+   "status": 200,
+   "title": "Digital Workspace: Architect the Secure 'Work from Anywhere | Quadra",
+   "sections": 4,
+   "blocks": 30
+  },
+  {
+   "path": "/technology/hybrid-cloud/infrastructure",
+   "file": "pages/technology__hybrid-cloud__infrastructure.json",
+   "status": 200,
+   "title": "Hybrid Cloud Infrastructure: Modern Software-Defined Da | Quadra",
+   "sections": 4,
+   "blocks": 33
+  },
+  {
+   "path": "/technology/intelligent_platform",
+   "file": "pages/technology__intelligent_platform.json",
+   "status": 200,
+   "title": "Intelligent Platform: Custom AI-Native Enterprise Solutions | Quadra",
+   "sections": 7,
+   "blocks": 70
+  },
+  {
+   "path": "/technology/microsoft",
+   "file": "pages/technology__microsoft.json",
+   "status": 200,
+   "title": "Microsoft Premier Partner | Quadra",
+   "sections": 6,
+   "blocks": 43
+  },
+  {
+   "path": "/technology/microsoft/azure",
+   "file": "pages/technology__microsoft__azure.json",
+   "status": 200,
+   "title": "Microsoft Azure | Quadra",
+   "sections": 8,
+   "blocks": 86
+  },
+  {
+   "path": "/technology/microsoft/azure/data-and-ai",
+   "file": "pages/technology__microsoft__azure__data-and-ai.json",
+   "status": 200,
+   "title": "Azure Data & AI: Architect Your Data-Driven Competitive Edge | Quadra",
+   "sections": 4,
+   "blocks": 32
+  },
+  {
+   "path": "/technology/microsoft/azure/digital-app-innovation",
+   "file": "pages/technology__microsoft__azure__digital-app-innovation.json",
+   "status": 200,
+   "title": "Digital App Innovation Services | Azure | Quadra",
+   "sections": 4,
+   "blocks": 32
+  },
+  {
+   "path": "/technology/microsoft/azure/managed-services",
+   "file": "pages/technology__microsoft__azure__managed-services.json",
+   "status": 200,
+   "title": "Azure Managed Services: MaxIT Cloud Operations & Peace of Mind | Quadra",
+   "sections": 6,
+   "blocks": 48
+  },
+  {
+   "path": "/technology/microsoft/azure/migration-and-modernization",
+   "file": "pages/technology__microsoft__azure__migration-and-modernization.json",
+   "status": 200,
+   "title": "Azure Migration & Modernization: Build a Secure Cloud Future | Quadra",
+   "sections": 4,
+   "blocks": 29
+  },
+  {
+   "path": "/technology/microsoft/azure/security-compliance-governance",
+   "file": "pages/technology__microsoft__azure__security-compliance-governance.json",
+   "status": 200,
+   "title": "Azure Security & Compliance: Build a Confident Cloud Foundation | Quadra",
+   "sections": 4,
+   "blocks": 32
+  },
+  {
+   "path": "/technology/microsoft/modern-work",
+   "file": "pages/technology__microsoft__modern-work.json",
+   "status": 200,
+   "title": "Microsoft Modern Work Services | M365, Teams & Copilot | Quadra",
+   "sections": 7,
+   "blocks": 58
+  },
+  {
+   "path": "/technology/microsoft/security",
+   "file": "pages/technology__microsoft__security.json",
+   "status": 200,
+   "title": "Microsoft Security: Architect Your Unified Cloud Security | Quadra",
+   "sections": 7,
+   "blocks": 56
+  },
+  {
+   "path": "/terms",
+   "file": "pages/terms.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 2,
+   "blocks": 27
+  },
+  {
+   "path": "/thankyou",
+   "file": "pages/thankyou.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 1,
+   "blocks": 5
+  },
+  {
+   "path": "/why-quadra",
+   "file": "pages/why-quadra.json",
+   "status": 200,
+   "title": "Why Quadra | 20-Year Microsoft Gold Partner | Proven Excellence",
+   "sections": 4,
+   "blocks": 24
+  },
+  {
+   "path": "/why-quadra/careers-recruit-test",
+   "file": "pages/why-quadra__careers-recruit-test.json",
+   "status": 200,
+   "title": "Recruitment Assessment | Quadra Systems Careers",
+   "sections": 6,
+   "blocks": 59
+  },
+  {
+   "path": "/why-quadra/how-we-partner",
+   "file": "pages/why-quadra__how-we-partner.json",
+   "status": 200,
+   "title": "How We Partner | Enterprise Engagement Model | Quadra",
+   "sections": 6,
+   "blocks": 42
+  },
+  {
+   "path": "/why-quadra/leadership",
+   "file": "pages/why-quadra__leadership.json",
+   "status": 200,
+   "title": "Leadership Team | Quadra Systems",
+   "sections": 3,
+   "blocks": 17
+  },
+  {
+   "path": "/why-quadra/legacy-of-seeing-whats-next",
+   "file": "pages/why-quadra__legacy-of-seeing-whats-next.json",
+   "status": 200,
+   "title": "Quadra 25-Year Technology History | Our Legacy",
+   "sections": 5,
+   "blocks": 105
+  },
+  {
+   "path": "/why-quadra/our-people",
+   "file": "pages/why-quadra__our-people.json",
+   "status": 200,
+   "title": "Our People & Culture | Quadra Systems",
+   "sections": 4,
+   "blocks": 49
+  },
+  {
+   "path": "/why-quadra/our-story",
+   "file": "pages/why-quadra__our-story.json",
+   "status": 200,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+   "sections": 6,
+   "blocks": 36
+  },
+  {
+   "path": "/zscaler-lunch-learn-genai-security",
+   "file": "pages/zscaler-lunch-learn-genai-security.json",
+   "status": 200,
+   "title": "Join Us: Securing the Era of GenAI | Zscaler Lunch & Learn",
+   "sections": 4,
+   "blocks": 38
+  }
+ ]
+}

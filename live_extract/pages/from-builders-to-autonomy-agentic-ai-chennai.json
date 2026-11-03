@@ -1,0 +1,281 @@
+{
+ "path": "/from-builders-to-autonomy-agentic-ai-chennai",
+ "url": "https://www.quadrasystems.net/from-builders-to-autonomy-agentic-ai-chennai",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "From Builders to Autonomy"
+    },
+    {
+     "t": "h2",
+     "text": "Agentic AI for Bharat's Startups"
+    },
+    {
+     "t": "link",
+     "text": "Register Now Register Now",
+     "href": "https://forms.office.com/r/N8Emn1eBCL"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zidSw9sRbEXwYRjRzbAccyoAQ.jpg",
+     "alt": "woman in black long sleeve shirt sitting beside woman in gray long sleeve shirt",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "18 June 2026, Thursday"
+    },
+    {
+     "t": "card",
+     "href": "https://maps.app.goo.gl/yCYT9PPwwrRXdbDk9",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Ramada Plaza by Wyndham Chennai"
+      }
+     ]
+    },
+    {
+     "t": "h5",
+     "text": "6:00 PM Onwards"
+    }
+   ]
+  },
+  {
+   "name": "About",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "About the event"
+    },
+    {
+     "t": "p",
+     "text": "Inspirational India's builders are no longer just coding apps — they're deploying intelligent agents that think, act, and scale. Join us to discover how Agentic AI on AWS is turning Bharat's startups into autonomous, future-ready enterprises."
+    }
+   ]
+  },
+  {
+   "name": "Speakers",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Speakers"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0gxjJa9G6lkLXcxFjBJUgGl9GE.jpg",
+     "alt": "",
+     "w": 433
+    },
+    {
+     "t": "h5",
+     "text": "Shivapriya G"
+    },
+    {
+     "t": "p",
+     "text": "Account Manager at AWS"
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/karan-a-g-b98b6b1b2/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/u75zFxhazIULqjmoDabZt0B0On4.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Karan Govindaraj"
+      },
+      {
+       "t": "p",
+       "text": "Senior Engineer"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/skme21/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/OuXAonuWPiT6FbwaPbeXUwGI.jpg",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "SenthilKumar M"
+      },
+      {
+       "t": "p",
+       "text": "Lead- Growth Startegy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Speakers",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Networking Session with AWS Teams"
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/rahulsrinivasan94/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/0udAZfnJZhcTaeeA2QcvY3Y6Wg.jpg",
+       "alt": "",
+       "w": 200
+      },
+      {
+       "t": "h5",
+       "text": "Rahul Srinivasan"
+      },
+      {
+       "t": "p",
+       "text": "Account Executive - Startups"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/skvenkataswamy/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/1Yys6fVWcz4dKheKARVJ6UoOiM.jpg",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Sampath Kumar"
+      },
+      {
+       "t": "p",
+       "text": "Senior Account Manager - Startups"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/aamirkhan0110/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Z38MD1zvpqDEVAWPC6tWvmgx1U.jpg",
+       "alt": "",
+       "w": 299
+      },
+      {
+       "t": "h5",
+       "text": "Aamir Khan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Agenda"
+    },
+    {
+     "t": "link",
+     "text": "Register Now",
+     "href": "https://forms.office.com/r/N8Emn1eBCL"
+    },
+    {
+     "t": "h5",
+     "text": "Registration - Meet & Greet"
+    },
+    {
+     "t": "p",
+     "text": "6:30 PM to 6:45 PM"
+    },
+    {
+     "t": "p",
+     "text": "AWS & Quadra"
+    },
+    {
+     "t": "h5",
+     "text": "Startup Programs & benefits"
+    },
+    {
+     "t": "p",
+     "text": "6:45 PM to 7:15 PM"
+    },
+    {
+     "t": "p",
+     "text": "Shivapriya"
+    },
+    {
+     "t": "h5",
+     "text": "The Next frontier: Building the agentic future with Quadra"
+    },
+    {
+     "t": "p",
+     "text": "Karan Govindaraj"
+    },
+    {
+     "t": "p",
+     "text": "7:15 PM to 7:40PM"
+    },
+    {
+     "t": "h5",
+     "text": "Quadra's practice in AWS"
+    },
+    {
+     "t": "p",
+     "text": "7:40 PM to 7:50 PM"
+    },
+    {
+     "t": "p",
+     "text": "SenthilKumar M"
+    },
+    {
+     "t": "h5",
+     "text": "Quiz"
+    },
+    {
+     "t": "p",
+     "text": "7:50 PM to 8:05 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Networking & Dinner"
+    },
+    {
+     "t": "p",
+     "text": "8.05 PM On wards"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "We also invite you to join us for an exclusive Networking Dinner with AWS experts."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

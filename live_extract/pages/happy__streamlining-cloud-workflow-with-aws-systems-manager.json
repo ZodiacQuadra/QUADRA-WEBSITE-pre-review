@@ -1,0 +1,116 @@
+{
+ "path": "/happy/streamlining-cloud-workflow-with-aws-systems-manager",
+ "url": "https://www.quadrasystems.net/happy/streamlining-cloud-workflow-with-aws-systems-manager",
+ "title": "AWS Systems Manager Automation Case Study | Quadra",
+ "description": "Architected and implemented a comprehensive cloud management solution using AWS Systems Manager that automated patching, centralized configuration, and reduced manual effort by 85%.",
+ "ogImage": "https://framerusercontent.com/images/cofLlvrdf71d7i5raChitGnKzB0.jpg?width=3882&height=2584",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified Cloud Management & Automation Framework"
+    },
+    {
+     "t": "p",
+     "text": "Pharmaceuticals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cofLlvrdf71d7i5raChitGnKzB0.jpg",
+     "alt": "A MacBook with lines of code on its screen on a busy desk",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A pharmaceutical company focused on delivering advanced finished dosage products with speed and agility."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To move from a manual, error-prone infrastructure management process to a centralized, automated framework to enhance security, scalability, and efficiency."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and implemented a comprehensive cloud management solution using AWS Systems Manager that automated patching, centralized configuration, and reduced manual effort by 85%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A pharmaceutical company focused on delivering advanced finished dosage products with speed and agility."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Without a proper configuration management tool, they faced significant business challenges. Manual tasks like patching and compliance checks were time-consuming and led to errors. This created security risks and made it difficult to scale operations efficiently, slowing down overall productivity."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate their cloud infrastructure with the same speed and agility as their business. They needed to eliminate manual management bottlenecks to ensure their systems were always secure, compliant, and could scale efficiently without performance issues."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new framework transformed their IT operations. Automated patching reduced manual effort by 85%, ensuring a consistent and secure posture. Centralized management of configurations reduced errors by 90%. The automation of routine tasks led to a 75% reduction in time spent on manual processes, allowing the IT staff to be redeployed to more strategic initiatives. Overall, the solution delivered a 20% reduction in operational costs while dramatically improving their security and compliance."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Manual Patching Effort by 85%"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Configuration Errors by 90%"
+    },
+    {
+     "t": "p",
+     "text": "Achieved a 20% Reduction in Operational Costs"
+    },
+    {
+     "t": "p",
+     "text": "Ensured Continuous Adherence to Compliance Regulations"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

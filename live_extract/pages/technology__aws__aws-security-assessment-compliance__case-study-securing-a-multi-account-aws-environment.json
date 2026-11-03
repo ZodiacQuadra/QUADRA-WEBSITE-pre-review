@@ -1,0 +1,63 @@
+{
+ "path": "/technology/aws/aws-security-assessment-compliance/case-study-securing-a-multi-account-aws-environment",
+ "url": "https://www.quadrasystems.net/technology/aws/aws-security-assessment-compliance/case-study-securing-a-multi-account-aws-environment",
+ "title": "AWS Cloud Transformation Case Study | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Securing a Multi-Account AWS Environment for a Leading Financial Services Customer"
+    },
+    {
+     "t": "p",
+     "text": "A financial services organization operating across multiple AWS accounts came to Quadra with a backlog of unresolved security findings from a prior third-party assessment and a compliance deadline approaching fast. The customer's internal team had the findings report in hand but lacked the specialized AWS security expertise and hands-on capacity to act on it before the audit window closed."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/l3FANWi4UdSstAFqk7djLM0krdM.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The customer's environment spanned several AWS accounts with inconsistent identity governance, no centralized guardrails, and gaps in logging and detective controls. Prior audit findings around IAM privilege sprawl, exposed network configurations, and missing security tooling had gone unaddressed for months. Compounding the problem, the customer needed to stand up identity federation with their corporate Microsoft Entra ID environment to bring AWS access under centralized governance a project that had stalled due to competing internal priorities."
+    },
+    {
+     "t": "h3",
+     "text": "The Approach"
+    },
+    {
+     "t": "p",
+     "text": "Quadra's team began with a rapid validation of the existing findings, confirming severity and status across every in-scope account, then moved directly into hands-on remediation. This included correcting IAM roles and policies down to least-privilege, closing exposed network paths, and enabling AWS native security services for continuous detective coverage. In parallel, Quadra designed and implemented Service Control Policies to enforce guardrails across the customer's AWS Organization, preventing entire classes of misconfiguration from recurring."
+    },
+    {
+     "t": "p",
+     "text": "Quadra also led the identity federation project end-to-end, configuring SAML-based SSO between Microsoft Entra ID and AWS IAM Identity Center, including SCIM-based automated user provisioning. This gave the customer centralized, auditable control over who could access which AWS accounts, replacing a patchwork of locally managed IAM users."
+    },
+    {
+     "t": "h3",
+     "text": "The Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Every prior audit finding was remediated and tracked to closure ahead of the customer's compliance deadline. Centralized identity federation eliminated standalone IAM credentials in Favor of governed, single-sign-on access, and org-wide guardrails ensured the fixes would hold rather than drift back into risk. The customer entered their audit with a documented, defensible security posture and a repeatable framework for staying that way."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,116 @@
+{
+ "path": "/happy/modern-it-infrastructure-powers-growth-capital-market",
+ "url": "https://www.quadrasystems.net/happy/modern-it-infrastructure-powers-growth-capital-market",
+ "title": "Modern, Secure IT Infrastructure Case Study | Quadra",
+ "description": "Architected and deployed a hybrid, cloud-native management and security solution that reduced IT operational costs, enhanced end-user productivity, and protected critical data from modern threats.",
+ "ogImage": "https://framerusercontent.com/images/90w17jTpLtCWIyzwbkie4jpHi0.jpeg?width=4608&height=3456",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern, Secure IT Infrastructure for a Capital Market Services Leader"
+    },
+    {
+     "t": "p",
+     "text": "Financial Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/90w17jTpLtCWIyzwbkie4jpHi0.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A financial services provider helping clients in the capital markets manage hedge funds and private equity."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To implement a comprehensive, modern IT management and security solution to protect sensitive client data and streamline IT operations across a geographically dispersed environment."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a hybrid, cloud-native management and security solution that reduced IT operational costs, enhanced end-user productivity, and protected critical data from modern threats."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A financial services provider helping clients in the capital markets manage hedge funds and private equity."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Managing a growing number of endpoints across different locations was becoming a major challenge. The IT department was inundated with helpdesk calls for trivial tasks like password resets. They also faced significant challenges in controlling data leakage and protecting against modern threats like ransomware and zero-day attacks."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "In an industry dealing with highly confidential and sensitive customer data, the client's ambition was to operate with a foolproof security and management framework. They needed to move from a reactive, high-touch IT support model to a proactive, automated, and secure infrastructure."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new hybrid solution transformed their IT operations. Managing workstations became simple and easy. Users could now reset their own passwords, significantly reducing the dependency on the helpdesk and lowering IT operation costs. Single Sign-On freed users from the hassle of remembering multiple credentials. Persistent protection for critical documents ensured they were always protected, and AI-driven advanced threat protection defended them from zero-day attacks."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Significantly Reduced IT Operational Costs"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced End-User Productivity with Self-Service IT & SSO"
+    },
+    {
+     "t": "p",
+     "text": "Protected Critical Data with Persistent Encryption"
+    },
+    {
+     "t": "p",
+     "text": "Defended Against Advanced & Zero-Day Threats"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

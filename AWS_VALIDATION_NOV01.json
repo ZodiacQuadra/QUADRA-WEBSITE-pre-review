@@ -1,0 +1,152 @@
+{
+  "as_of": "2026-11-01",
+  "source_file": "AWS Web Site Content Update - Oct2026 Ver1.2.docx",
+  "source_sha256": "c4486f98ddbfac2c9e9c73f5263f6117112c8085147b1f481b5c9ade41ec634d",
+  "scope": "Primary/OEM concept validation for master+preview iteration; not production publish",
+  "method": "AWS official docs via web search/fetch; summaries paraphrased <30 words, no quotes",
+  "limits": [
+    "AWS doc pages carry no visible publish date; 'latest' editions used",
+    "AWS Partner Solutions Finder is dynamic; Quadra profile not retrieved - unknown is not absence",
+    "Company self-published pages are not independent verification",
+    "GCP names not revalidated (byte-identical; Oct27/30 checks retained)",
+    "No M365 search used; no source/site files modified"
+  ],
+  "boundaries": "Approved AIG cross-platform role and separate CSG / Microsoft Security within ISPG remain unchanged.",
+  "rows": [
+    {
+      "id": "AWS-V1",
+      "claim_topic": "Assessment accelerator vs Well-Architected pillars (operations, security, reliability, performance, cost, sustainability)",
+      "finding": "confirmed_concept",
+      "evidence_summary": "AWS Well-Architected Framework currently lists six pillars: operational excellence, security, reliability, performance efficiency, cost optimization, sustainability.",
+      "action": "Keep. Optionally use full pillar names ('performance efficiency', 'cost optimization'); describe accelerator as Quadra's own, not an AWS tool or AWS-certified review.",
+      "sources": [
+        {
+          "title": "The pillars of the framework - AWS Well-Architected Framework",
+          "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html",
+          "date": "not stated on page (latest edition)",
+          "retrieved": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "AWS-V2",
+      "claim_topic": "Agentic AI: approved tools, identity/permissions, human approvals for high-risk actions, logging/monitoring",
+      "finding": "confirmed_concept",
+      "evidence_summary": "AgentCore Policy evaluates agent-to-tool requests at Gateway against deterministic Cedar policies before tool access; Agentic AI Lens advises tool authorization plus human review for mutating operations.",
+      "action": "Keep wording. Phrase human approval as a design control Quadra configures, not an automatic AgentCore feature; avoid absolute 'secure' guarantees.",
+      "sources": [
+        {
+          "title": "Policy in Amazon Bedrock AgentCore: Control Agent Interactions",
+          "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        },
+        {
+          "title": "AGENTSEC02-BP01 Implement tool authorization - Agentic AI Lens",
+          "url": "https://docs.aws.amazon.com/wellarchitected/latest/agentic-ai-lens/agentsec02-bp01.html",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        },
+        {
+          "title": "Fine-grained access control for Amazon Bedrock AgentCore Gateway",
+          "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-fine-grained-access-control.html",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "AWS-V3",
+      "claim_topic": "AI-assisted discovery, dependency analysis, wave planning, VMware migration with 'lower risk and greater predictability'",
+      "finding": "qualify",
+      "evidence_summary": "AWS Transform offers agentic discovery, dependency analysis, wave planning and VMware/bare-metal rehost; AWS timeline claims are AWS marketing, not outcome guarantees for any partner engagement.",
+      "action": "Keep capability prose. Retain 'help reduce'/'support' framing; do not add timeline, cost-saving or performance guarantees; do not imply AWS Transform outcomes transfer to Quadra projects.",
+      "sources": [
+        {
+          "title": "AWS Transform for migrations",
+          "url": "https://aws.amazon.com/transform/migrations/",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        },
+        {
+          "title": "What is AWS Transform? - User Guide",
+          "url": "https://docs.aws.amazon.com/transform/latest/userguide/what-is-service.md",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "AWS-V4",
+      "claim_topic": "Predictive ML (forecasting, anomaly, maintenance, risk) with lifecycle validation, monitoring, versioning, governance",
+      "finding": "confirmed_concept",
+      "evidence_summary": "SageMaker AI documents model governance tooling: Role Manager, Model Cards (intended use, risk rating, evaluation), Model Dashboard integrating Model Monitor for performance tracking.",
+      "action": "Keep. Add qualification that prediction quality depends on customer data and validation; no accuracy claims without customer evidence.",
+      "sources": [
+        {
+          "title": "Model governance to manage permissions and track model performance - Amazon SageMaker AI",
+          "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/governance.html",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        },
+        {
+          "title": "Amazon SageMaker Model Cards",
+          "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "AWS-V5",
+      "claim_topic": "Backup/DR aligned to business-defined RPO/RTO with regular recovery testing",
+      "finding": "confirmed_concept",
+      "evidence_summary": "Well-Architected REL13-BP01 says define RTO and RPO per workload based on business impact; warns zero-loss/zero-downtime objectives may be unachievable.",
+      "action": "Keep. Avoid any zero-RPO/RTO or guaranteed-recovery wording.",
+      "sources": [
+        {
+          "title": "REL13-BP01 Define recovery objectives for downtime and data loss",
+          "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_planning_for_recovery_objective_defined_recovery.html",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "AWS-V6",
+      "claim_topic": "Compliance tracking / 'stronger compliance readiness' / governance",
+      "finding": "qualify",
+      "evidence_summary": "AWS states security and compliance are shared between AWS and customer; customer responsibility varies by services, Regions and applicable laws.",
+      "action": "Keep 'compliance readiness' wording; never state customers become compliant/certified automatically. Optional footnote referencing shared responsibility.",
+      "sources": [
+        {
+          "title": "Shared Responsibility Model - Amazon Web Services (AWS)",
+          "url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "AWS-V7",
+      "claim_topic": "Company claims: 4 AWS Competencies, 4 Partner Programs, 120+ AWS Certifications, 24x7/SLA, ready-to-deploy AI use cases",
+      "finding": "owner_evidence_needed",
+      "evidence_summary": "The source credential counts differ from Quadra’s current self-published page. Neither constitutes independent verification; owner evidence is needed for credentials and delivery commitments.",
+      "action": "Hold counters for owner evidence: current AWS Partner Central / Partner Solutions Finder screenshot dated on or after approval. Reconcile with live site. 24x7/SLA and use-case readiness need contract/service-catalog evidence. Do not infer attainment from program existence.",
+      "sources": [
+        {
+          "title": "AWS Premier Partner: Architecting Agility & Innovation | Quadra (self-published)",
+          "url": "https://www.quadrasystems.net/technology/aws",
+          "date": "not stated on page",
+          "retrieved": "2026-11-01"
+        },
+        {
+          "title": "AWS Partner Solutions Finder (search; Quadra profile not retrieved)",
+          "url": "https://partners.amazonaws.com/partners/",
+          "date": "dynamic",
+          "retrieved": "2026-11-01"
+        }
+      ]
+    }
+  ]
+}

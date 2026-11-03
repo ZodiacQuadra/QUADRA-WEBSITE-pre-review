@@ -1,0 +1,126 @@
+{
+ "path": "/technology/google-cloud/artificial-intelligence",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/artificial-intelligence",
+ "title": "Google Cloud AI: Architect Your Enterprise AI Advantage | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Google Cloud A"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Enterprise AI Advantage"
+    },
+    {
+     "t": "p",
+     "text": "We move beyond the hype to architect and deploy production-grade AI solutions on Google Cloud. We leverage Vertex AI and Google's powerful foundation models to solve your most complex business challenges and create a decisive competitive ed"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "From AI Potential to Profitable Reality"
+    },
+    {
+     "t": "p",
+     "text": "Leaders know AI is critical, but the path is complex. How do you move from experimentation to enterprise-scale ROI? How do you ensure your AI is not just powerful, but also responsible, secure, and governed? How do you build on a foundation that won't become obsolete tomorrow?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/a6AJwewh4Axo7hpZZpIueyRds1k.jpg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wnUzv0z9hQsQucujSeLpZ5hwOY.jpg",
+     "alt": "man drawing on dry-erase board",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Our Blueprint for Responsible, High-Impact AI"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is a disciplined journey from strategy to scale. We start by co-ideating high-value use cases in \"Art-of-the-Possible\" workshops. We then architect a robust data foundation and leverage Vertex AI's unified platform to build, deploy, and manage your machine learning models with speed and confidence. We bake in governance and Responsible AI principles from day one."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Full Spectrum of Google AI"
+    },
+    {
+     "t": "p",
+     "text": "We leverage industry-leading EDR and XDR platforms from CrowdStrike and Sophos to provide deep visibility, AI-powered threat detection, and rapid, orchestrated response across your entire digital estate."
+    },
+    {
+     "t": "p",
+     "text": "Generative AI with Gemini & Foundation Models"
+    },
+    {
+     "t": "p",
+     "text": "We architect generative solutions using Google's powerful Gemini family of models and a rich ecosystem of third-party LLMs via Model Garden. Our expertise spans from automating content creation to building intelligent, multi-modal search experiences"
+    },
+    {
+     "t": "p",
+     "text": "Custom AI Agent Development"
+    },
+    {
+     "t": "p",
+     "text": "Bespoke Machine Learning Solutions"
+    },
+    {
+     "t": "p",
+     "text": "Gemini Across Your Google Cloud Estate"
+    },
+    {
+     "t": "p",
+     "text": "Pre-built AI API Integration"
+    },
+    {
+     "t": "p",
+     "text": "AI Platform Governance & Responsible AI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YDkhSS9UGv7Oy3VqzjNmOZ7W7dw.jpg",
+     "alt": "man sitting in front of laptop",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Generative AI with Gemini & Foundation Models"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your AI Ambition"
+    },
+    {
+     "t": "link",
+     "text": "Book an AI Strategy Session",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

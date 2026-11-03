@@ -1,0 +1,157 @@
+{
+ "path": "/technology/microsoft/azure/migration-and-modernization",
+ "url": "https://www.quadrasystems.net/technology/microsoft/azure/migration-and-modernization",
+ "title": "Azure Migration & Modernization: Build a Secure Cloud Future | Quadra",
+ "description": "Quadra designs and executes Azure cloud migrations and application modernization programs using a proven risk-minimized framework — ensuring business continuity, security, and speed throughout your cloud transformation journey.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on the"
+    },
+    {
+     "t": "h1",
+     "text": "Build a Secure Cloud Foundation"
+    },
+    {
+     "t": "p",
+     "text": "We don't just migrate you to Azure; we modernize your enterprise. We architect a secure, optimized, and future-ready cloud foundation that powers your most critical business operations"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/avlsUyOM4HXtaWqcowEi5HYqnvo.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Your Infrastructure is Your Foundation."
+    },
+    {
+     "t": "h2",
+     "text": "Migration is a Critical Moment"
+    },
+    {
+     "t": "p",
+     "text": "We guide leaders through the complexities of cloud migration, turning critical challenges into strategic opportunities"
+    },
+    {
+     "t": "h6",
+     "text": "How do we migrate complex workloads like VMware without business disruption?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we build a secure and governed Azure environment from the very start?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we manage our growing hybrid and multi-cloud estate consistently?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we enable secure and productive hybrid work for our team?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Infrastructure Modernization on Azure"
+    },
+    {
+     "t": "p",
+     "text": "Our approach, grounded in Microsoft's Cloud Adoption Framework, ensures your migration to Azure is the first step in a journey of operational excellence"
+    },
+    {
+     "t": "p",
+     "text": "Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Strategy First: Azure Landing Zone Deployment"
+    },
+    {
+     "t": "p",
+     "text": "We begin by designing and deploying your Azure Landing Zone. This creates a secure, scalable, and governed foundation that's ready to host your most critical workloads from the outset"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5x5Vp6qLuJiU02sfIrCHnCznfu0.jpg",
+     "alt": "four people watching on white MacBook on top of glass-top table",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Infrastructure & Migration Architecture Capabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NpSTy0n5EGmzYEgoE3r1qmqcHN8.jpg",
+     "alt": "man in blue long-sleeved shirt sitting at table using laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Cloud Foundation with Azure Landing Zones"
+    },
+    {
+     "t": "p",
+     "text": "Designing and deploying secure, scalable, and governed foundations aligned with the Microsoft Cloud Adoption Framework"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WKbA6bhfE9tvPTvWtpUlGpMd0.jpg",
+     "alt": "a group of people sitting around a table with laptops",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "VMware Workload Modernization with AVS"
+    },
+    {
+     "t": "p",
+     "text": "Executing seamless migrations of VMware workloads to Azure while maintaining operational consistency"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/oWYHfQTG1lofSbgCO20Fkk3dT8Y.jpg",
+     "alt": "shallow focus photo of person using MacBook",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Desktop Virtualization with Azure Virtual Desktop (AVD)"
+    },
+    {
+     "t": "p",
+     "text": "): Architecting secure, scalable virtual desktop solutions for the modern hybrid workforce"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

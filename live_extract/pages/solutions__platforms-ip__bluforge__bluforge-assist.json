@@ -1,0 +1,127 @@
+{
+ "path": "/solutions/platforms-ip/bluforge/bluforge-assist",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/bluforge/bluforge-assist",
+ "title": "BluForge Assist: Retainer-Based Incident Response Service | Quadra",
+ "description": "BluForge Assist gives enterprises on-demand, retainer-based incident response expertise — with Quadra's security team ready to contain, investigate, and recover from breaches at a moment's notice.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "BluForge Assist"
+    },
+    {
+     "t": "h1",
+     "text": "Retainer-Based Incident Response Service"
+    },
+    {
+     "t": "p",
+     "text": "BluForge Assist™ is our retainer-based incident response service. In the event of a major breach, time is your most critical asset. This service provides you with priority, SLA-backed access to our top incident response experts"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Major Incident is Not the Time to be Exchanging Business Cards"
+    },
+    {
+     "t": "p",
+     "text": "When a critical breach occurs, every second counts. The chaos of finding, vetting, and onboarding an incident response firm while the attack is ongoing can lead to devastating financial and reputational damage"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/LkVs6m8J7IRfGUcsxZd8TOthBCo.jpg",
+     "alt": "man using smartphone on chair",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Preparedness as a Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Our blueprint is to establish a trusted partnership before a crisis hits"
+    },
+    {
+     "t": "h6",
+     "text": "Proactive Onboarding"
+    },
+    {
+     "t": "p",
+     "text": "We onboard your organization into our systems ahead of time, understanding your environment and establishing secure communication channels"
+    },
+    {
+     "t": "h6",
+     "text": "SLA-Backed Activation"
+    },
+    {
+     "t": "p",
+     "text": "When an incident is declared, our expert team is activated within a guaranteed SLA, ready to act immediately"
+    },
+    {
+     "t": "h6",
+     "text": "End-to-End Management"
+    },
+    {
+     "t": "p",
+     "text": "We manage the entire incident lifecycle, from containment and remediation to root cause analysis and delivering executive reports with key learnings to strengthen your future defenses."
+    },
+    {
+     "t": "h6",
+     "text": "Proactive Onboarding"
+    },
+    {
+     "t": "h6",
+     "text": "Proactive Onboarding"
+    },
+    {
+     "t": "h6",
+     "text": "Proactive Onboarding"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "SLA-Backed Containment Response"
+    },
+    {
+     "t": "p",
+     "text": "Remediation & Root Cause Analysis"
+    },
+    {
+     "t": "p",
+     "text": "Executive Reports with Strategic Learnings"
+    },
+    {
+     "t": "p",
+     "text": "Legal & Compliance Support with 24x7 Activation Availability"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9dBNEZXt9aj9wED7NVv9sFEJYpg.jpeg",
+     "alt": "men's gray crew-neck t-shirt",
+     "w": 1440
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

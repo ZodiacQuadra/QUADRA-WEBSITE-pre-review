@@ -1,0 +1,239 @@
+{
+ "path": "/secure-the-future-power-it-with-ai",
+ "url": "https://www.quadrasystems.net/secure-the-future-power-it-with-ai",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "card",
+     "href": "./",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/eoF5nyuXfwAx3GOiSVJ9QNfKo.png",
+       "alt": "",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Secure the Future."
+    },
+    {
+     "t": "h2",
+     "text": "Power it with AI."
+    },
+    {
+     "t": "p",
+     "text": "Most enterprise security teams are reacting faster. The threats are moving faster still. AI changes that equation — but only if the architecture is right. This session addresses the gap."
+    },
+    {
+     "t": "link",
+     "text": "Register Now Register Now Register Now",
+     "href": "https://forms.office.com/Pages/ResponsePage.aspx?id=YR6aqZzWWESbyrmFfiWHcpzA0FG-YYhNjtAyc_TtfJlUN0pBQlhUVzFTWE1JUElWV005N1pCRlQ2Ri4u"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/CdiMksOzlNDMeZzPM3JRd4SxOew.jpg",
+     "alt": "Woman working on computer in modern office with chalkboard.",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "11 June 2026"
+    },
+    {
+     "t": "h5",
+     "text": "Pullman Hotel, Chennai"
+    },
+    {
+     "t": "h5",
+     "text": "6:00 PM Onwards"
+    }
+   ]
+  },
+  {
+   "name": "About",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "About the event"
+    },
+    {
+     "t": "p",
+     "text": "We Invite you for an exclusive in person session where you explore how AI-driven security is transforming threat protection and enabling resilient, future-ready organizations."
+    }
+   ]
+  },
+  {
+   "name": "Speakers",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Speakers"
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/mahalingam-palanisamy-4aa34263/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/aq1MLV6R5p90rLc3eRsXKTDZneM.jpg",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Mahalingam P"
+      },
+      {
+       "t": "p",
+       "text": "Tech Lead"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/jayanthi-p-78050330/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/YbcRAXJD04MMetyrFA5s4EW6BJw.jpg",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Jayanthi P"
+      },
+      {
+       "t": "p",
+       "text": "Tech Lead"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/balaji-g-7807a89b/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/ENRDU2YjT5oDrlr0f8FCH6X46zc.jpg",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Balaji G"
+      },
+      {
+       "t": "p",
+       "text": "Tech Lead"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/nithin-k-12267014/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/0HBv2oRH8UVGud0mKGherARoXk.png",
+       "alt": "",
+       "w": 389
+      },
+      {
+       "t": "h5",
+       "text": "Nithin K"
+      },
+      {
+       "t": "p",
+       "text": "Partner solution sales manager"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Agenda"
+    },
+    {
+     "t": "link",
+     "text": "Register Now",
+     "href": "https://forms.office.com/r/PNNgNbmDRD"
+    },
+    {
+     "t": "h5",
+     "text": "Registration & Welcome"
+    },
+    {
+     "t": "p",
+     "text": "Tea / Coffee · Welcome Drinks · Networking"
+    },
+    {
+     "t": "p",
+     "text": "06:30 PM – 07:00 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Quadra Introduction & Event Overview"
+    },
+    {
+     "t": "p",
+     "text": "Quadra Team"
+    },
+    {
+     "t": "p",
+     "text": "7:00 – 7:15 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Microsoft Security Portfolio & Security Enhancement Strategies"
+    },
+    {
+     "t": "p",
+     "text": "Nithin K · Microsoft"
+    },
+    {
+     "t": "p",
+     "text": "7:15 – 7:45 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Securing the Future: Integrating AI into Information Security"
+    },
+    {
+     "t": "p",
+     "text": "Quadra Team"
+    },
+    {
+     "t": "p",
+     "text": "7:45 – 8:15 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Microsoft Security on data & AI"
+    },
+    {
+     "t": "p",
+     "text": "Azure Session · Followed by Networking & Dinner"
+    },
+    {
+     "t": "p",
+     "text": "8:15 – 8:30 PM"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

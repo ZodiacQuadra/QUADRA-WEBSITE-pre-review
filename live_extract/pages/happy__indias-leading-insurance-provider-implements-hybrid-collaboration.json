@@ -1,0 +1,116 @@
+{
+ "path": "/happy/indias-leading-insurance-provider-implements-hybrid-collaboration",
+ "url": "https://www.quadrasystems.net/happy/indias-leading-insurance-provider-implements-hybrid-collaboration",
+ "title": "Hybrid Collaboration Solution Case Study | Quadra",
+ "description": "Architected and deployed a resilient hybrid email and collaboration solution that provided enterprise-grade features, enhanced security, and optimized costs by profiling user needs.",
+ "ogImage": "https://framerusercontent.com/images/hqX7CQtAA3e89J31JLMefjXow.jpeg?width=6617&height=4411",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Hybrid Collaboration Solution for a Leading National Insurance Provider"
+    },
+    {
+     "t": "p",
+     "text": "Insurance"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/hqX7CQtAA3e89J31JLMefjXow.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "One of the nation’s leading providers of health and travel insurance, with over 10,000 employees and nearly 500 branch offices."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To modernize a complex and disparate email environment with a unified, hybrid collaboration solution that balanced advanced features for power users with cost-effectiveness for their field agents."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a resilient hybrid email and collaboration solution that provided enterprise-grade features, enhanced security, and optimized costs by profiling user needs."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "One of the nation’s leading providers of health and travel insurance, with over 10,000 employees and nearly 500 branch offices."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their environment was a complex mess of disparate email solutions, including an out-of-support legacy server and various low-end cloud services. This created significant information security risks and resulted in frequent outages, causing the IT team to be in a constant state of firefighting. They wanted to provide cloud mailboxes for their mobile workforce but needed to keep sensitive mailboxes on-premise for compliance."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to provide their large, geographically diverse workforce with a modern, reliable, and secure collaboration platform. They needed to move away from a fragmented and failing system to a unified solution that could support their growth and improve productivity."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The hybrid solution provided a unified, secure, and reliable platform for the entire organization. The IT team was freed from daily firefighting to focus on more strategic business activities. They could now provision mailboxes on the fly for new agents, and the continuous availability kept end-users happy. The integrated collaboration suite empowered more efficient work, and the federated identity system ensured downtime was a thing of the past."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unified a Complex, Disparate Multi-Vendor Environment"
+    },
+    {
+     "t": "p",
+     "text": "Optimized Costs with a User-Profile-Based Hybrid Model"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Information Security & Compliance"
+    },
+    {
+     "t": "p",
+     "text": "Freed IT Team from Reactive Firefighting to Focus on Strategy"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

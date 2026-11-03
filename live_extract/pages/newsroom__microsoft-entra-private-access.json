@@ -1,0 +1,403 @@
+{
+ "path": "/newsroom/microsoft-entra-private-access",
+ "url": "https://www.quadrasystems.net/newsroom/microsoft-entra-private-access",
+ "title": "Microsoft Entra Private Access: Your VPN Replacement is Here",
+ "description": "This blog demonstrates how Microsoft Entra Private Access enables organizations to securely provide access to internal applications without relying on traditional VPNs. Using Microsoft's Zero Trust Network Access (ZTNA) approach, users can access only the specific applications they are authorized to use, while organizations maintain a stronger security posture.",
+ "ogImage": "https://framerusercontent.com/images/PRrzYD41n2YXga57Riiv4S1Dis.png?width=3780&height=1890",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Microsoft Entra Private Access: Your VPN Replacement is Here"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra Private Access: Your VPN Replacement is Here"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/PRrzYD41n2YXga57Riiv4S1Dis.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "This blog demonstrates how Microsoft Entra Private Access enables organizations to securely provide access to internal applications without relying on traditional VPNs. Using Microsoft's Zero Trust Network Access (ZTNA) approach, users can access only the specific applications they are authorized to use, while organizations maintain a stronger security posture."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "What if you could give your users secure access to internal applications — without a VPN, without opening firewall ports, and without compromising on security? Sounds too good to be true? It's not. Microsoft Entra Private Access makes this a reality, and in this blog, I'm going to walk you through the entire setup — from zero to a fully working secure connection — with real screenshots from a live demo environment."
+    },
+    {
+     "t": "p",
+     "text": "Whether you're an IT admin exploring Zero Trust Network Access (ZTNA) for the first time, or a seasoned engineer looking to replace your legacy VPN infrastructure, this walkthrough will give you a clear, practical understanding of how Entra Private Access works end-to-end. Let's dive in."
+    },
+    {
+     "t": "h4",
+     "text": "Why Entra Private Access?"
+    },
+    {
+     "t": "p",
+     "text": "Let's be honest — VPNs have served us well for decades, but they come with serious baggage. They expose broad network segments, require inbound firewall rules, offer a clunky user experience, and lack granular identity-aware controls. In a world where users work from anywhere and threats are everywhere; VPNs simply don't cut it anymore."
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra Private Access flips the model. Instead of tunnelling users into your entire network, it provides app-level access — only to the specific resources they need, only when their identity and device posture meet your policies. No inbound ports. No broad network exposure. Just secure, identity-driven access powered by Microsoft's Security Service Edge (SSE) platform."
+    },
+    {
+     "t": "h4",
+     "text": "What You'll Need Before You Start"
+    },
+    {
+     "t": "p",
+     "text": "Before we jump into the configuration, make sure you have these ready:"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra Suite (or)"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra ID tenant with P1 or P2 and standalone Entra Private Access license"
+    },
+    {
+     "t": "p",
+     "text": "Outbound Ports to be open 80, 443"
+    },
+    {
+     "t": "p",
+     "text": "A Private Network Connector installed on an on-premises server or VM with line-of-sight to your internal resources"
+    },
+    {
+     "t": "p",
+     "text": "A Windows 11 client device for testing"
+    },
+    {
+     "t": "p",
+     "text": "The Global Secure Access (GSA) Client installer — downloadable from the Entra admin center"
+    },
+    {
+     "t": "h4",
+     "text": "Let's Get Started — Enabling the Private Access Profile"
+    },
+    {
+     "t": "p",
+     "text": "First thing — we need to tell Microsoft Entra to start routing private access traffic. Head over to the Microsoft Entra admin center → Global Secure Access → Traffic forwarding. You'll see three profiles here: Microsoft traffic, Private access, and Internet access."
+    },
+    {
+     "t": "p",
+     "text": "Toggle the Private access profile to Enabled. This is the switch that activates the entire Private Access pipeline for your tenant. You'll also want to assign the appropriate users and groups so that their traffic gets forwarded through the service."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/XaWhkvBewetPvtzsTrFhrq9h4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Enabling the Private Access Profile in the Traffic Forwarding settings"
+    },
+    {
+     "t": "h4",
+     "text": "Setting Up the Connectors"
+    },
+    {
+     "t": "p",
+     "text": "Think of connectors as the bridge between Entra ID and your on-premises network. They're lightweight agents that sit inside your network and establish secure outbound connections to Microsoft's cloud — no inbound firewall rules required."
+    },
+    {
+     "t": "p",
+     "text": "Download the Connector and install it on one of the Member servers which have access to the internal application server."
+    },
+    {
+     "t": "p",
+     "text": "Navigate to Global Secure Access → Connectors and sensors → Private Network connectors. Click \"Enable private network connectors\" to activate the capability. Once enabled, you'll see your installed connectors listed with their health status, IP address, and version. Make sure your connector shows as Active — that confirms it's successfully communicating with Azure."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/XtYW804ITZ6Yhk4oPjRo8T8NpkY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Private Network Connectors enabled — our connector is Active and healthy"
+    },
+    {
+     "t": "p",
+     "text": "Next, we need to create a Connector Group. This lets you logically organize connectors and assign them to specific applications. Click \"+ New Connector Group\", give it a name (we used \"Internal Portal access\"), select your connector (AD-DC-1.Griffins.live), and choose the region closest to your resource for optimized routing."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1uj3tmuTnYUqjGYfBWhNkuRWQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Creating a dedicated Connector Group for our Internal Portal"
+    },
+    {
+     "t": "h4",
+     "text": "Defining the Internal Application"
+    },
+    {
+     "t": "p",
+     "text": "Now telling to Entra exactly what internal resources we want to protect and publish. Navigate to Enterprise applications → your application (\"Internal Portal\") → Network access properties."
+    },
+    {
+     "t": "p",
+     "text": "Click \"+ Add Quick Access application segment\" and configure the following in the Create application segment panel:"
+    },
+    {
+     "t": "p",
+     "text": "Destination type: IP address"
+    },
+    {
+     "t": "p",
+     "text": "IP address: 16.112.154.207 (our internal web server)"
+    },
+    {
+     "t": "p",
+     "text": "Ports: 80, 443"
+    },
+    {
+     "t": "p",
+     "text": "Protocol: TCP"
+    },
+    {
+     "t": "p",
+     "text": "Hit Apply, and you've just defined exactly which internal resource should be accessible through Entra Private Access. You can add multiple segments if your application spans several endpoints or services."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yOr3IQljrXd1TExQqzjoYSQPgEI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Configuring the Application Segment — destination IP, ports, and protocol"
+    },
+    {
+     "t": "h4",
+     "text": "Controlling Who Gets Access"
+    },
+    {
+     "t": "p",
+     "text": "Zero Trust means no one gets access by default — not even your own employees — until they're explicitly granted it. Navigate to the enterprise application → Users and groups and click \"+ Add user/group\"."
+    },
+    {
+     "t": "p",
+     "text": "In our demo, we've assigned \"User2\" to the Internal Portal application. Only this user (and any additional users or groups you assign) will be able to reach the internal resource. Everyone else? Access denied. This is the principle of least privilege in action."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/F2B7rgjpE0VBQnnmQgUEsYyXgg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Only assigned users can access the Internal Portal — Zero Trust in action"
+    },
+    {
+     "t": "h4",
+     "text": "The Client Side — Installing Global Secure Access"
+    },
+    {
+     "t": "p",
+     "text": "On the user's device, the experience is refreshingly simple. Download the Global Secure Access Client from the Entra admin center, run the installer, accept the license terms, and click Install. The whole process takes less than a minute."
+    },
+    {
+     "t": "p",
+     "text": "Once installed, the GSA client runs quietly as a system service. It handles all traffic forwarding transparently — users don't need to manually connect to anything. No VPN dialers, no remembering server addresses, no frustration."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MpjC45qUkfKy3M4H3mR2ySzZpM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Installing the Global Secure Access Client — accept the license and click Install"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/U2laBeO0TLUrQEWgeinNCRTMxVE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Installation complete — that was quick!"
+    },
+    {
+     "t": "h4",
+     "text": "Is Everything Healthy? Let's Check"
+    },
+    {
+     "t": "p",
+     "text": "Before we test access, let's make sure everything is running smoothly. Open the GSA client's Advanced diagnostics → Health check tab. This runs a comprehensive battery of checks — internet connectivity, tunneling service, engine service, forwarding profile, driver, DNS resolution, policy server reachability, and more."
+    },
+    {
+     "t": "p",
+     "text": "The magic words we're looking for? \"All checks are successful” with every single item showing a green checkmark and True. That's exactly what we got. We're ready for the real test."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/jtdmylqcs1QDDKga9nkn2BLuM4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "All health checks passed — we're good to go!"
+    },
+    {
+     "t": "h4",
+     "text": "The Moment of Truth — Before vs After"
+    },
+    {
+     "t": "p",
+     "text": "This is where it all comes together. We're going to show you exactly what happens when Private Access is disabled versus enabled. The difference is night and day."
+    },
+    {
+     "t": "h4",
+     "text": "Without Private Access — Connection Refused"
+    },
+    {
+     "t": "p",
+     "text": "With the Global Secure Access service disabled, the client shows a \"Disabled\" status. All channels — Private and Entra — appear as Disconnected. The client isn't tunnelling any traffic; it's essentially sitting idle."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/w4FpxW9w0ruAqgisDnPABls8JY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "GSA Client disabled — all channels disconnected"
+    },
+    {
+     "t": "p",
+     "text": "Now let's try accessing our internal portal at 18.61.221.34 in the browser. The result? \"Hmmm... can't reach this page” ERR_CONNECTION_RESET. The internal application is completely unreachable over the internet. This is exactly how a private resource should behave — invisible and inaccessible to anyone who isn't authorized through the proper channel."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3mBU9AqkcMa13izwIv2LoBXF1U.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Trying to access the internal portal... no luck. Connection reset."
+    },
+    {
+     "t": "h4",
+     "text": "With Private Access — Access Granted!"
+    },
+    {
+     "t": "p",
+     "text": "Now, let's enable the Global Secure Access service. The status immediately flips to \"Connected\" and all three channels — Private, Entra, and M365 — light up green. The client is now actively tunnelling traffic through Microsoft's secure network. Notice that User2 is signed in — matching our earlier user assignment perfectly."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/sx5VWBaScIwZeQAJiBuXxWASflA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "GSA Client connected — Private, Entra, and M365 channels are all green"
+    },
+    {
+     "t": "p",
+     "text": "And now, the moment we've been building towards. We refresh the browser, navigate to 18.61.221.34, and... the Contoso Internal Portal loads beautifully! 🎉"
+    },
+    {
+     "t": "p",
+     "text": "\"Access Granted — Secured by Zero Trust” that banner says it all. The connection details confirm the traffic flowing through the GSA tunnel to the internal server at 10.x.x.x. This page is only reachable through the GSA tunnel — exactly as designed. No VPN. No firewall holes. Just pure, identity driven Zero Trust access."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/PvSXSBnvbXgkF7cbloCMzAq1SM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "The Contoso Internal Portal loads perfectly — Access Granted, Secured by Zero Trust!"
+    },
+    {
+     "t": "h4",
+     "text": "What Makes This Powerful"
+    },
+    {
+     "t": "p",
+     "text": "Let's take a step back and appreciate what we just accomplished:"
+    },
+    {
+     "t": "p",
+     "text": "No VPN required — Users access internal apps securely over the internet without ever connecting to a VPN. The experience is seamless and invisible."
+    },
+    {
+     "t": "p",
+     "text": "No inbound firewall rules — The connector initiates outbound connections only. Your firewall stays locked down. No ports to open, no attack surface to worry about."
+    },
+    {
+     "t": "p",
+     "text": "Identity-driven access — Powered by Microsoft Entra ID, every access request is authenticated and authorized. Combine it with Conditional Access for MFA, device compliance, and location-based policies."
+    },
+    {
+     "t": "p",
+     "text": "Seamless user experience — The GSA client handles everything transparently. Users just open their browser and access the app — no extra steps, no VPN dialers, no friction."
+    },
+    {
+     "t": "p",
+     "text": "True Zero Trust foundation — Verify explicitly, enforce least privilege, and assume breach. Entra Private Access embodies all three principles."
+    },
+    {
+     "t": "p",
+     "text": "Scalable architecture — As your environment grows, simply add more connectors and connector groups. The architecture scales horizontally with your needs."
+    },
+    {
+     "t": "h4",
+     "text": "Wrapping Up"
+    },
+    {
+     "t": "p",
+     "text": "If you've made it this far, you've seen the full journey — from enabling the traffic forwarding profile and configuring connectors, to defining application segments, assigning users, installing the client, and finally witnessing the dramatic before-and-after of Private Access in action."
+    },
+    {
+     "t": "p",
+     "text": "The setup is straightforward, the user experience is seamless, and the security posture is leagues ahead of traditional VPN. Microsoft Entra Private Access isn't just an incremental improvement — it's a fundamental shift in how we think about remote access to internal resources."
+    },
+    {
+     "t": "p",
+     "text": "Whether you're modernizing your remote access strategy, decommissioning legacy VPN appliances, or building a Zero Trust foundation from the ground up — Entra Private Access deserves a spot at the top of your evaluation list. The future of secure private access is here. It's time to embrace it."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

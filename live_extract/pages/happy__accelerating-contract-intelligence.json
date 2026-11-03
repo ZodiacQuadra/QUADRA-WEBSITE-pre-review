@@ -1,0 +1,116 @@
+{
+ "path": "/happy/accelerating-contract-intelligence",
+ "url": "https://www.quadrasystems.net/happy/accelerating-contract-intelligence",
+ "title": "First-of-its-Kind GenAI Platform Case Study | Quadra",
+ "description": "Architected a pioneering Intelligent Document Management System using Generative AI that reduced document retrieval time by 96% and improved data extraction accuracy by over 93%.",
+ "ogImage": "https://framerusercontent.com/images/5CZDfweoO8kdUMx7tRCwpJXmPjo.jpeg?width=6016&height=4016",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a First-of-its-Kind GenAI Platform for a Global Life Sciences Leader"
+    },
+    {
+     "t": "p",
+     "text": "Life Sciences"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5CZDfweoO8kdUMx7tRCwpJXmPjo.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A premier contract research, development, and manufacturing organization (CRDMO) serving the global pharmaceutical and biotechnology sectors."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To eliminate massive inefficiencies and compliance risks by automating the analysis of over 10,000 complex, unstructured contract documents."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected a pioneering Intelligent Document Management System using Generative AI that reduced document retrieval time by 96% and improved data extraction accuracy by over 93%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A premier contract research, development, and manufacturing organization (CRDMO) serving the global pharmaceutical and biotechnology sectors."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The core challenge was a vast and growing archive of over 10,000 lengthy, non-digital contract documents. Manual retrieval and analysis were incredibly time-consuming, prone to human error, and drained thousands of hours from their expert legal and scientific teams. This bottleneck increased compliance risks, delayed business operations, and prevented them from leveraging the valuable data trapped within these documents."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to create a significant competitive advantage by transforming their contract intelligence capabilities. In a highly regulated industry where speed and accuracy are paramount, they sought to move from a slow, manual contract review process to a state-of-the-art, AI-powered system that could extract critical information, identify risks, and accelerate decision-making across their global operations. Anthropic's Claude models were integral to the solution, providing advanced natural language processing capabilities that enabled efficient information extraction and risk identification."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The implementation of the GenAI platform was transformative. It didn't just make an old process faster; it created an entirely new capability for the enterprise. The organization can now leverage its contract data as a strategic asset. Legal and scientific teams are freed from tedious manual work to focus on high-value analysis, and the business operates with greater speed, accuracy, and a dramatically reduced risk profile."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Document Retrieval Time by 96%"
+    },
+    {
+     "t": "p",
+     "text": "Improved Data Extraction Accuracy by over 93%"
+    },
+    {
+     "t": "p",
+     "text": "Achieved 40% Reduction in Operational Costs"
+    },
+    {
+     "t": "p",
+     "text": "Pioneered Enterprise-Grade Generative AI"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

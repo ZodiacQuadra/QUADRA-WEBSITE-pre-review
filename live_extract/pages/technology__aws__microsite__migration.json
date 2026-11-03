@@ -1,0 +1,126 @@
+{
+ "path": "/technology/aws/microsite/migration",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/migration",
+ "title": "Aws Cloud Migration Map Services | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Migration"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Seamless Path to the Cloud"
+    },
+    {
+     "t": "p",
+     "text": "As an AWS Migration Competency Partner, we de-risk your cloud journey. Our proven, data-driven methodology ensures your migration to AWS is fast, efficient, and perfectly aligned with your business ambitions."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Cloud Migration is a Critical Business Moment"
+    },
+    {
+     "t": "p",
+     "text": "Migrating to the cloud is a strategic imperative, but it's fraught with complexity. Leaders are asking: \"How do we move mission-critical workloads without disruption? How do we avoid unforeseen costs? And how do we ensure our new cloud environment is secure and well-architected from day one?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lIQ7rRi0VgzUsAdLX9HTLUe3c.jpeg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dB4H7jvtLDmtC59ifczbMIfHis.jpg",
+     "alt": "man and woman sitting at table",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Successful AWS Migration"
+    },
+    {
+     "t": "h6",
+     "text": "Our approach is a disciplined journey from strategy to execution, grounded in the AWS Migration Acceleration Program (MAP) framework."
+    },
+    {
+     "t": "p",
+     "text": "Assess: We begin with a data-driven assessment of your portfolio to create a compelling business case and a clear roadmap."
+    },
+    {
+     "t": "p",
+     "text": "Mobilize: We prepare your people and the platform, architecting a secure and compliant AWS Landing Zone based on the Well-Architected Framework."
+    },
+    {
+     "t": "p",
+     "text": "Migrate & Modernize: Our certified experts execute a phased migration using the right strategy for each workload—from re-hosting to re-platforming—ensuring a seamless transition."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Migration Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Migration Readiness Assessment (MRA)"
+    },
+    {
+     "t": "p",
+     "text": "Evaluating your organizational capabilities and gaps."
+    },
+    {
+     "t": "p",
+     "text": "Total Cost of Ownership (TCO) Analysis"
+    },
+    {
+     "t": "p",
+     "text": "Workload Migration"
+    },
+    {
+     "t": "p",
+     "text": "Post-Migration Optimization"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dyJ355MhhL2n6YSiBMs2bimfy8.jpeg",
+     "alt": "a person using a laptop",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Migration Readiness Assessment (MRA)"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Begin Your Journey?"
+    },
+    {
+     "t": "link",
+     "text": "Request a Migration Assessment",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

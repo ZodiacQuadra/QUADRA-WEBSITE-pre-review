@@ -1,0 +1,372 @@
+{
+ "path": "/technology/intelligent_platform",
+ "url": "https://www.quadrasystems.net/technology/intelligent_platform",
+ "title": "Intelligent Platform: Custom AI-Native Enterprise Solutions | Quadra",
+ "description": "Quadra's Intelligent Platform practice builds custom AI-native applications, automation solutions, and intelligent workflows that transform how enterprises operate, decide, and deliver outcomes at scale.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Intelligent Platform"
+    },
+    {
+     "t": "h3",
+     "text": "Custom AI-Native"
+    },
+    {
+     "t": "h1",
+     "text": "Solutions for Enterprise Productivity"
+    },
+    {
+     "t": "p",
+     "text": "We architect and build the custom AI solutions and intelligent platforms that redefine how work gets done. From extending Copilot to building multi-agent systems, we engineer the AI-powered capabilities that unlock your enterprise's true potential"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Off-the-Shelf AI Solves Generic Problems. Your Ambition is Not Generic"
+    },
+    {
+     "t": "p",
+     "text": "To gain a true competitive edge, you need AI that understands your business, your data, and your unique workflows"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mgRdbBZJGPn94ft58M4tL0u810.jpg",
+     "alt": "people sitting on chair",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do I make generative AI speak my business language?"
+    },
+    {
+     "t": "p",
+     "text": "Off-the-shelf AI doesn't know your customers, products, or processes. You need custom intelligence that is securely connected to your systems of record."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/R1SeACNogZXtmaLVOLCyxORofYQ.jpeg",
+     "alt": "person wearing long-sleeve top working on laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we move from simple automation to true intelligence?"
+    },
+    {
+     "t": "p",
+     "text": "Traditional automation is rigid. You need adaptive, AI-powered platforms that can reason, learn, and handle the dynamic nature of modern business challenges."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Sf97dEN1pHBIV8HqNBQojQw.jpeg",
+     "alt": "a man sitting in front of a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How can AI solve complex, multi-step business problems?"
+    },
+    {
+     "t": "p",
+     "text": "Most AI assistants are task-oriented. You need intelligent systems that can orchestrate complex processes and collaborate across departments, just like your best teams do."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/A54JG4dwe0dpLAJx7mf5DEzU.jpeg",
+     "alt": "woman placing sticky notes on wall",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we empower our teams to build with AI without creating chaos?"
+    },
+    {
+     "t": "p",
+     "text": "You need a framework for \"citizen development\" that fosters innovation while maintaining enterprise-grade security, governance, and control."
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Applied Enterprise Intelligence"
+    },
+    {
+     "t": "p",
+     "text": "We don't just connect you to AI; we architect it into the core of your business. Our approach transforms AI from a tool into a powerful, integrated capability"
+    },
+    {
+     "t": "p",
+     "text": "Engineer"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "We Engineer AI Into the Fabric of Your Work"
+    },
+    {
+     "t": "p",
+     "text": "Our 24/7, global support team of AWS-certified engineers provides continuous monitoring, automation, and SLA-backed incident response to ensure maximum uptime and business continuity for your critical workloads."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MYsgIllcmG0YSz0fl3ZvFESUzHk.jpeg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Scroll Cards",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Engineering the Next Frontier of"
+    },
+    {
+     "t": "h1",
+     "text": "Enterprise Productivity"
+    },
+    {
+     "t": "h2",
+     "text": "Microsoft Copilot Extensibility"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Copilot Extensibility: We are experts in Copilot Studio, building both custom declarative and Procode-based agents that securely connect Copilot to your enterprise data, understand your unique workflows, and automate real business logic."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fejxFYsR5NwrsMo7eLeJ6oR2ljE.jpg",
+     "alt": "man sitting near table with laptop and smartphone near window",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Agentic AI Systems with Intellient"
+    },
+    {
+     "t": "p",
+     "text": "Built on frameworks like Microsoft AutoGen, Intellient is Quadra’s proprietary platform for creating autonomous, collaborative AI agents that orchestrate knowledge work and solve complex, multi-step problems."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7NADb7IMcsVWC1gkzzhc5S3gNc.png",
+     "alt": "MacBook Pro",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Intelligent Application Development & App Modernization"
+    },
+    {
+     "t": "p",
+     "text": "We build custom, AI-native business applications on the hyperscaler platforms of your choice—Azure, AWS, and Google Cloud—while modernizing your existing applications and transforming your core processes with intelligent automation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/aqaDIaY0WNSa6mmsPIilqBm0sxM.jpg",
+     "alt": "person using macbook pro on table",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Enterprise Power Platform Solutions"
+    },
+    {
+     "t": "p",
+     "text": "We enable intelligent low-code solutions with enterprise-grade governance. Our accelerators for Power Apps, Power Automate, and Power BI fast-track digital transformation while maintaining IT oversight."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7hLLdrK0tksSSpF0eH4ZrOhH2E.jpg",
+     "alt": "person using MacBook Pro",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Gemini Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Google Gemini Enterprise (formerly known as Agentspace). We unlock enterprise expertise with Google Enterprise by combining Gemini’s advanced reasoning, Google-quality search, and your enterprise data. Our solutions range from unified search and summarization to content generation and workflow automation empowering employees with AI that delivers clarity, speed, and action."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9CLpqnaDdmHOoGqmFMUH1WFaFA.png",
+     "alt": "man's hands on MacBook Pro",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "yt video",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Outcome focused AI solution IntelliLink in Action"
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/mAJeLlGn2DM/maxresdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/Fkm1VFYsM7k/hqdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/OvlqOAukadU/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/OL99-_g666g/maxresdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/uzit7gSyAtI/maxresdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/firX-nNXzeE/hqdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/zPs4ITIsjvg/maxresdefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/SnxgnzpJzHc/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/OL99-_g666g/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/6VVWQZ9qceY/sddefault.webp",
+     "alt": "",
+     "w": null
+    },
+    {
+     "t": "img",
+     "src": "https://i.ytimg.com/vi_webp/06QrrAZgGhI/sddefault.webp",
+     "alt": "",
+     "w": null
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "h2",
+     "text": "Architecting a Multi-Agent System for a Global Manufacturer"
+    },
+    {
+     "t": "p",
+     "text": "For a global manufacturing conglomerate, we deployed a multi-agent system using Intellient to streamline procurement, engineering, and compliance processes. Integrated with their core platforms, the AI agents now collaborate with employees to triage supply-chain exceptions, suggest solutions, and automate reporting"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dTdl8ZWTWz2hExj5iXlGFlBoKY.jpeg",
+     "alt": "a woman sitting on a bed using a laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "64%"
+    },
+    {
+     "t": "p",
+     "text": "Reduced average resolution time for supply-chain exceptions by 64%"
+    },
+    {
+     "t": "h4",
+     "text": "Zero-Touch"
+    },
+    {
+     "t": "p",
+     "text": "Enabled zero-touch reporting workflows across finance and compliance"
+    },
+    {
+     "t": "h4",
+     "text": "Natural language"
+    },
+    {
+     "t": "p",
+     "text": "Empowered non-technical users to direct agent behavior using natural language"
+    },
+    {
+     "t": "link",
+     "text": "Explore More AI Transformation Stories",
+     "href": "../happy"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Intelligent Future"
+    },
+    {
+     "t": "p",
+     "text": "Meet with our Intelligent Platform architects to design the blueprint for your enterprise's next competitive advantage—powered by bespoke AI and driven by your unique ambition"
+    },
+    {
+     "t": "link",
+     "text": "Book an AI Architecture Session",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

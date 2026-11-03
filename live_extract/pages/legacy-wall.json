@@ -1,0 +1,151 @@
+{
+ "path": "/legacy-wall",
+ "url": "https://www.quadrasystems.net/legacy-wall",
+ "title": "Quadra Legacy Wall | Long-Tenured Team | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Page Title",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Quadra Legacy Wal"
+    },
+    {
+     "t": "h1",
+     "text": "Celebrating Long-Tenured Team Excellence"
+    },
+    {
+     "t": "p",
+     "text": "At the heart of every breakthrough lies human ambition. We combine innovation, insight, and determination to build a foundation where ideas turn into impact and ambition transforms into reality"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "20+ Years of Architectural Excellence"
+    },
+    {
+     "t": "h4",
+     "text": "Ganapathy G"
+    },
+    {
+     "t": "h4",
+     "text": "Ramkumar K"
+    },
+    {
+     "t": "h4",
+     "text": "Murali K V"
+    },
+    {
+     "t": "h4",
+     "text": "Rajesh Kumar T"
+    },
+    {
+     "t": "h4",
+     "text": "Vinukumar T K"
+    },
+    {
+     "t": "h4",
+     "text": "Anandakumar M"
+    }
+   ]
+  },
+  {
+   "name": "Testimonials",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "15+ Years of Architectural Excellence"
+    },
+    {
+     "t": "h4",
+     "text": "Manikandan R"
+    },
+    {
+     "t": "h4",
+     "text": "Prabhu Rajan"
+    },
+    {
+     "t": "h4",
+     "text": "Yesudass R"
+    },
+    {
+     "t": "h4",
+     "text": "Renukappa K N"
+    }
+   ]
+  },
+  {
+   "name": "Testimonials",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "10+ Years of Architectural Excellence"
+    },
+    {
+     "t": "h4",
+     "text": "Krishnajeth M S"
+    },
+    {
+     "t": "h4",
+     "text": "Jayesh Babu"
+    },
+    {
+     "t": "h4",
+     "text": "Divya Aruchamy"
+    },
+    {
+     "t": "h4",
+     "text": "Kiruthigayini K S"
+    },
+    {
+     "t": "h4",
+     "text": "Balaji G"
+    },
+    {
+     "t": "h4",
+     "text": "Jayanthi P"
+    },
+    {
+     "t": "h4",
+     "text": "Tamizharasan N"
+    },
+    {
+     "t": "h4",
+     "text": "Pranesan T |"
+    },
+    {
+     "t": "h4",
+     "text": "Senthil Kumar M"
+    },
+    {
+     "t": "h4",
+     "text": "Solomon Benny"
+    },
+    {
+     "t": "h4",
+     "text": "Balaji S"
+    },
+    {
+     "t": "h4",
+     "text": "Kirubakaran S"
+    },
+    {
+     "t": "h4",
+     "text": "Stephen C"
+    },
+    {
+     "t": "h4",
+     "text": "Vanitha M"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

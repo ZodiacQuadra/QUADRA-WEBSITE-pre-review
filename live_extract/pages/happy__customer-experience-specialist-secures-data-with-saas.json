@@ -1,0 +1,116 @@
+{
+ "path": "/happy/customer-experience-specialist-secures-data-with-saas",
+ "url": "https://www.quadrasystems.net/happy/customer-experience-specialist-secures-data-with-saas",
+ "title": "CX Leader Unified Security Fabric Case Study | Quadra",
+ "description": "Architected and deployed a unified, SaaS-based security platform that provided identity-based protection, advanced threat defense, and robust data protection across all devices.",
+ "ogImage": "https://framerusercontent.com/images/0W89jQZcrXqd202HH3xJGRu1NI.jpeg?width=3000&height=2000",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified Security Fabric for a Global Customer Experience Leader"
+    },
+    {
+     "t": "p",
+     "text": "IT-Enabled Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0W89jQZcrXqd202HH3xJGRu1NI.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A specialist in customer interaction and experience management, handling billions of customer interactions per year."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To move beyond basic security and implement a comprehensive, modern security solution to protect against advanced threats and manage a huge, diverse user base."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a unified, SaaS-based security platform that provided identity-based protection, advanced threat defense, and robust data protection across all devices."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A specialist in customer interaction and experience management, handling billions of customer interactions per year."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "They were struggling with the threat of data breaches and leakage. With a massive user base running on a variety of endpoints, they had no unified solution to monitor network activity or prevent the installation of unauthorized apps. They needed a modern platform that could provide robust identity and access management and defend against threats like ransomware."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate with a security posture that matched the scale and criticality of their operations. They needed a foolproof solution to prevent attacks, control network activity, and manage identities for their huge user base, ensuring the integrity of their clients' data."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The unified security solution was a huge success. The identity-based protection model provided the highest level of security. Instead of relying on multiple vendors, they now had a single, integrated solution that was easier to manage and more cost-effective. The rapidly evolving cloud platform ensured they always had protection against the latest threats. This modern, comprehensive security posture gave them and their clients complete confidence."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Deployed a Modern, Identity-First Security Model"
+    },
+    {
+     "t": "p",
+     "text": "Unified Security Management on a Single Integrated Platform"
+    },
+    {
+     "t": "p",
+     "text": "Protected Against Advanced & Zero-Day Threats"
+    },
+    {
+     "t": "p",
+     "text": "Reduced TCO by Consolidating Security Vendors"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,542 @@
+{
+ "path": "/happy",
+ "url": "https://www.quadrasystems.net/happy",
+ "title": "Customer Success Stories | Cloud & AI Case Studies | Quadra",
+ "description": "Discover enterprise cloud and AI case studies that showcase Quadra’s ability to turn transformation strategies into measurable success.",
+ "ogImage": "https://framerusercontent.com/assets/jmFB2JM0WFbO4Jiqvin4Cd9P5w.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Page Title",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Real Results"
+    },
+    {
+     "t": "h1",
+     "text": "Customer Success Stories"
+    },
+    {
+     "t": "p",
+     "text": "Our success is not measured by the technology we deploy, but by the ambitions we help realize. Explore the stories of how we've partnered with the world's leading enterprises to architect solutions for their most complex challenges."
+    }
+   ]
+  },
+  {
+   "name": "Testimonials",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Explore Our Blueprints for Success"
+    },
+    {
+     "t": "p",
+     "text": "Filter our stories by industry or by the strategic challenge we helped solve"
+    },
+    {
+     "t": "p",
+     "text": "Choose Industry"
+    },
+    {
+     "t": "p",
+     "text": "Search for case studies"
+    },
+    {
+     "t": "card",
+     "href": "./happy/empowering-precision-agriculture",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/PruFLmU6OaqbezQSUpYHNqnKbg.jpg",
+       "alt": "green tractor on brown grass field under blue sky during daytime",
+       "w": 1440
+      },
+      {
+       "t": "p",
+       "text": "Agricultural"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/empowering-precision-agriculture",
+     "blocks": [
+      {
+       "t": "h6",
+       "text": "Architecting a Digital Dealer Onboarding Platform for an Agricultural Leader"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/empowering-precision-agriculture",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Architected and rapidly developed a custom, mobile-responsive application on a low-code platform that eliminated paper, enhanced data validation, and significantly accelerated the entire dealer onboarding cycle."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Digitized a 100% Paper-Based Manual Process"
+    },
+    {
+     "t": "p",
+     "text": "Significantly Accelerated Dealer Onboarding Cycle Time"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Real-Time Visibility for Leadership"
+    },
+    {
+     "t": "p",
+     "text": "Delivered Rapid Time-to-Value with a Low-Code Platform"
+    },
+    {
+     "t": "card",
+     "href": "./happy/integrated-security-solution-for-analytics-provider",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/kZzg2vOCOqk9JashLQ1mh9cdGpw.jpeg",
+       "alt": "Close-up of the SumUp Solo card reader, held by a store owner in a boutique setting. Designed for small businesses that want to accept contactless card and mobile payments with style and ease.",
+       "w": 1440
+      },
+      {
+       "t": "p",
+       "text": "Analytics"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/integrated-security-solution-for-analytics-provider",
+     "blocks": [
+      {
+       "t": "h6",
+       "text": "Architecting an Integrated Security Posture for a Global Analytics Leader"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/integrated-security-solution-for-analytics-provider",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Architected and deployed an integrated, SaaS-based cloud workload protection solution that provided complete visibility and consistent security across their on-premise and cloud environments."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Unified Security Across a Hybrid, Multi-Location Environment"
+    },
+    {
+     "t": "p",
+     "text": "Gained Complete Visibility into Workload Security & Compliance"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Client Trust & Confidence"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Costs with a Modern SaaS-Based Security Model"
+    },
+    {
+     "t": "card",
+     "href": "./happy/desktop-virtualization-enables-apparel-major-erp",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/4M5DuRdEumSGDR4vyYCazjCfw.jpeg",
+       "alt": "Close-up of the SumUp Solo card reader, held by a store owner in a boutique setting. Designed for small businesses that want to accept contactless card and mobile payments with style and ease.",
+       "w": 1440
+      },
+      {
+       "t": "p",
+       "text": "Apparel"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/desktop-virtualization-enables-apparel-major-erp",
+     "blocks": [
+      {
+       "t": "h6",
+       "text": "Architecting a Cost-Effective ERP Rollout for a National Apparel Brand"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/desktop-virtualization-enables-apparel-major-erp",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Architected an innovative Hosted Shared Desktop (HSD) solution that enabled a speedy ERP rollout, saved significant capital expenditure, and extended the life of their existing IT investments."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Saved Significant Capital by Avoiding a Desktop Refresh"
+    },
+    {
+     "t": "p",
+     "text": "Accelerated a Mission-Critical ERP Deployment"
+    },
+    {
+     "t": "p",
+     "text": "Extended the Lifespan of Existing IT Investments"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Secure 'Work from Anywhere' Application Access"
+    },
+    {
+     "t": "card",
+     "href": "./happy/global-fashion-house-looks-to-the-cloud-for-erp",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/NANSGVXUK18NCYQ3fePYCh7bOU.jpeg",
+       "alt": "Close-up of the SumUp Solo card reader, held by a store owner in a boutique setting. Designed for small businesses that want to accept contactless card and mobile payments with style and ease.",
+       "w": 1440
+      },
+      {
+       "t": "p",
+       "text": "Apparel"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/global-fashion-house-looks-to-the-cloud-for-erp",
+     "blocks": [
+      {
+       "t": "h6",
+       "text": "Architecting a High-Performance Cloud ERP Platform for a Global Fashion House"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/global-fashion-house-looks-to-the-cloud-for-erp",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Architected and migrated their ERP database to a managed cloud PaaS solution, which eliminated downtime, provided a 99.99% SLA, and saved significant upfront investment in DR infrastructure."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Achieved 99.99% SLA for a Mission-Critical ERP System"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated the Need for a Costly On-Premise DR Site"
+    },
+    {
+     "t": "p",
+     "text": "Reduced IT Management Overhead with a PaaS Solution"
+    },
+    {
+     "t": "p",
+     "text": "Improved User Experience & Application Performance"
+    },
+    {
+     "t": "card",
+     "href": "./happy/seamless-cloud-migration-apparel-manufacturer",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/avlsUyOM4HXtaWqcowEi5HYqnvo.jpeg",
+       "alt": "Close-up of the SumUp Solo card reader, held by a store owner in a boutique setting. Designed for small businesses that want to accept contactless card and mobile payments with style and ease.",
+       "w": 1440
+      },
+      {
+       "t": "p",
+       "text": "Apparel"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/seamless-cloud-migration-apparel-manufacturer",
+     "blocks": [
+      {
+       "t": "h6",
+       "text": "Architecting a Unified Cloud Foundation for a Global Apparel Manufacturer"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/seamless-cloud-migration-apparel-manufacturer",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Architected and executed a seamless migration to Microsoft Azure, creating a unified, agile, and cost-effective cloud foundation that empowered their continued growth and innovation."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Unified a Complex Multi-Platform Infrastructure"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Effortless Scalability for Business Growth"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Security & Compliance Posture"
+    },
+    {
+     "t": "p",
+     "text": "Increased Operational Agility & Innovation Speed"
+    },
+    {
+     "t": "card",
+     "href": "./happy/move-to-a-saas-model",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/16I8tRaD3cuWhQghQYVGH1hiJ4.jpeg",
+       "alt": "Close-up of the SumUp Solo card reader, held by a store owner in a boutique setting. Designed for small businesses that want to accept contactless card and mobile payments with style and ease.",
+       "w": 1440
+      },
+      {
+       "t": "p",
+       "text": "Application Development"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/move-to-a-saas-model",
+     "blocks": [
+      {
+       "t": "h6",
+       "text": "Architecting a Global SaaS Platform for a HealthTech Innovator"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./happy/move-to-a-saas-model",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Architected a secure and scalable cloud-native platform that accelerated their global market entry, powered rapid customer acquisition, and created a new, high-growth revenue stream."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Transformed Business Model from Product to SaaS"
+    },
+    {
+     "t": "p",
+     "text": "Accelerated Global Market Entry & Customer Acquisition"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Application Scalability & Resilience"
+    },
+    {
+     "t": "p",
+     "text": "Significantly Reduced Development Costs & Cycles"
+    },
+    {
+     "t": "p",
+     "text": "Load More"
+    }
+   ]
+  },
+  {
+   "name": "Highlight",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a First-of-its-Kind GenAI Platform"
+    },
+    {
+     "t": "p",
+     "text": "For a global life sciences leader, the ambition was to unlock value from over 10,000 complex, unstructured documents. We architected a pioneering Intelligent Document Management System using Amazon Bedrock, transforming their ability to analyze critical contract data. This wasn't just an efficiency gain; it was a fundamental shift in their ability to manage risk and accelerate research"
+    },
+    {
+     "t": "p",
+     "text": "96% faster document retrieval."
+    },
+    {
+     "t": "p",
+     "text": "93%+ improvement in data extraction accuracy"
+    },
+    {
+     "t": "link",
+     "text": "Read the Full Story",
+     "href": "https://www.quadrasystems.net/happy-customer/accelerating-contract-intelligence"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tnfuutbEcRvRDUruc9C4jeWxuCQ.jpg",
+     "alt": "a woman sitting at a desk working on a laptop",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Scale of the Ambitions We Power"
+    },
+    {
+     "t": "p",
+     "text": "While each story is unique, their collective impact is felt globally, every day"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RCgePOOFsJJyAsFD29ioK04rf0o.jpg",
+     "alt": "woman looking on microscope inside room",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "20,000 scientists accelerating their critical research"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YD3L0GQMtyqLEVjD1iWsc2lHlVo.jpeg",
+     "alt": "woman looking on microscope inside room",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Every 4 seconds, enabling critical business decisions"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DO6UJQLMUwasBMRtUI0yWzqqv7c.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "30,000 factory workers driving plant efficiency"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/CkZaCxf0eg8fVpgA046QGnebxs8.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Architecting hundreds of thousands of dollars in cloud savings for a financial leader"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wOw0sjKjOiSqjhpceVdGrxm0YSw.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Reducing document retrieval time by 96% with Generative AI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mHRpUuJUQk2dbt4FwLxZwASAmLo.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Accelerating software development cycles by over 50% with DevOps"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0sfWMjwkXcW4ablYwb1SKCW89o.jpeg",
+     "alt": "woman looking on microscope inside room",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Architecting the security for over 70,000 banking professionals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/XWYcQ1tw8pfzP3dNCOjWXWBTfvY.jpeg",
+     "alt": "woman looking on microscope inside room",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Reducing application layer attacks by 90% for a pharma innovator."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fyS1kwrrvu8F7jNG5ImlVRPZwo.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Architecting 100% uptime for an e-commerce leader during peak sales"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RCEBb9ZM25wHAOAXpr1l5OhhcJc.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Enabling 60% faster decision-making for a leading healthcare provider"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/j5J6laQIOxbFRoj8qGQGVG0js.jpg",
+     "alt": "a man and a woman sitting at a table high fiving each other",
+     "w": 1440
+    },
+    {
+     "t": "h3",
+     "text": "Reducing manual IT infrastructure tasks by 85% through automation"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect"
+    },
+    {
+     "t": "h2",
+     "text": "Your Own Success Story?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about your challenges and design a blueprint for your enterprise ambition."
+    },
+    {
+     "t": "link",
+     "text": "Talk to Our Architects",
+     "href": "./contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

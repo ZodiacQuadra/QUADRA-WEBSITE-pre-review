@@ -1,0 +1,74 @@
+{
+  "as_of": "2026-11-02",
+  "phase": "Iterative content review plus private staging preparation",
+  "next_phases": [
+    "Approved-content freeze",
+    "Framer-ready export mapped to actual components/CMS",
+    "Staging fine-tuning and regression checks",
+    "Explicit production approval"
+  ],
+  "practices": [
+    {
+      "practice": "AIG",
+      "source": "Change request v1.3, 29 October",
+      "status": "incorporated",
+      "notes": "D-01 to D-06 closed by user; no new AIG attachment in this turn."
+    },
+    {
+      "practice": "AWS",
+      "source": "AWS Web Site Content Update - Oct2026 Ver1.2.docx",
+      "status": "incorporated_for_review",
+      "notes": "Six capability areas and nine use-case descriptions; credential and delivery commitments still require owner evidence."
+    },
+    {
+      "practice": "Google Cloud",
+      "source": "Quadra GCP Website Content - Oct 2026.docx",
+      "status": "rechecked_no_source_change",
+      "notes": "Newly attached file is byte-identical; prior validation corrections retained."
+    },
+    {
+      "practice": "Azure",
+      "source": "Quadra_Azure_Website_Content_Oct_2026_Ver1.1.docx",
+      "status": "incorporated_for_review"
+    },
+    {
+      "practice": "CSG",
+      "source": "Quadra_Cybersecurity_Website_Revamp_Content_v2.docx",
+      "status": "incorporated_for_review",
+      "notes": "Non-Microsoft practice boundary preserved."
+    },
+    {
+      "practice": "ISPG",
+      "source": "ISPG - Content for Quadra Website.docx",
+      "status": "incorporated_for_review",
+      "notes": "Microsoft Security remains within ISPG."
+    },
+    {
+      "practice": "HCDW",
+      "status": "developed_for_review",
+      "source": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+      "notes": "Seven source-grounded draft views; OEM and owner scope/evidence checks separated."
+    },
+    {
+      "practice": "EAICG",
+      "status": "updated_source_awaited"
+    }
+  ],
+  "publication_checks": [
+    "Credentials and proof rights",
+    "Service commitments and offer maturity",
+    "Current OEM naming and feature availability",
+    "Canonical/redirect inventory",
+    "Compass source index",
+    "Actual Framer field/template mapping",
+    "Forms, accessibility, analytics and consent"
+  ],
+  "case_studies": "unchanged",
+  "production_changed": false,
+  "staging_readiness": {
+    "prepared": true,
+    "actual_framer_project_inspected": false,
+    "pilot_import_completed": false,
+    "production_authorised": false
+  }
+}

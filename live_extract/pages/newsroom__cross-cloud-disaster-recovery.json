@@ -1,0 +1,253 @@
+{
+ "path": "/newsroom/cross-cloud-disaster-recovery",
+ "url": "https://www.quadrasystems.net/newsroom/cross-cloud-disaster-recovery",
+ "title": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud",
+ "description": "For most enterprises running SAP HANA, the database sits at the heart of every critical business process order management, finance, supply chain and more, yet many organizations still run their entire SAP landscape inside a single public cloud region, which means a single regional outage, platform incident or provider-level disruption can bring core ",
+ "ogImage": "https://framerusercontent.com/images/wYJxzlsUXwi0bW9W5UQKtx5qED4.png?width=3780&height=1890",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wYJxzlsUXwi0bW9W5UQKtx5qED4.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "For most enterprises running SAP HANA, the database sits at the heart of every critical business process order management, finance, supply chain and more, yet many organizations still run their entire SAP landscape inside a single public cloud region, which means a single regional outage, platform incident or provider-level disruption can bring core"
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud"
+    },
+    {
+     "t": "p",
+     "text": "For most enterprises running SAP HANA, the database sits at the heart of every critical business process order management, finance, supply chain and more, yet many organizations still run their entire SAP landscape inside a single public cloud region, which means a single regional outage, platform incident or provider-level disruption can bring core operations to a halt. As reliance on cloud infrastructure grows, so does the need for a resilient, provider-independent disaster recovery (DR) strategy that doesn’t leave business continuity hostage to one vendor’s availability zone."
+    },
+    {
+     "t": "p",
+     "text": "This is where Cross-Cloud Disaster Recovery comes in an architecture that keeps your SAP HANA production database on one cloud (e.g., AWS) while maintaining a fully synchronized, ready-to-activate secondary environment on another (Google Cloud). Below, we break down why this approach matters, how it works end-to-end and the trade-offs to weigh before adopting it."
+    },
+    {
+     "t": "p",
+     "text": "Why Cross-Cloud DR for SAP HANA?"
+    },
+    {
+     "t": "p",
+     "text": "A cross-cloud DR architecture for SAP HANA keeps your production environment running on your primary cloud provider while replicating data in near real-time to a completely separate cloud provider acting as the disaster recovery site. Instead of relying on a single vendor's infrastructure end-to-end, this model introduces true provider diversity so a regional outage, platform-level incident, or even a full provider disruption on the primary side doesn't take your SAP operations down with it."
+    },
+    {
+     "t": "p",
+     "text": "• Cross-Cloud Disaster Recovery, the primary cloud (e.g., AWS Mumbai) continues running production, while Google Cloud serves as the dedicated DR site for SAP HANA, delivering cloud-provider independence and infrastructure redundancy."
+    },
+    {
+     "t": "p",
+     "text": "• Near Real-Time Replication, SAP HANA System Replication (HSR) continuously syncs transactional data across both clouds, achieving a low Recovery Point Objective (RPO) with minimal data loss during failover."
+    },
+    {
+     "t": "p",
+     "text": "• Business Continuity, DR best practices, controlled failover procedures and recovery runbooks ensure rapid restoration of SAP services and continuity of mission-critical processes."
+    },
+    {
+     "t": "p",
+     "text": "• Enterprise-Grade Availability, a modern architecture spanning HANA replication, cross-cloud connectivity, DR orchestration, RPO/RTO objectives and operational governance."
+    },
+    {
+     "t": "p",
+     "text": "Pros and Cons"
+    },
+    {
+     "t": "p",
+     "text": "Pros:"
+    },
+    {
+     "t": "p",
+     "text": "• Provider independence, removes single-vendor concentration risk by spreading production and DR across two different cloud providers."
+    },
+    {
+     "t": "p",
+     "text": "• Geographic separation, a distant secondary region isolates the DR environment from regional or platform-wide outages affecting the primary cloud."
+    },
+    {
+     "t": "p",
+     "text": "• Elastic DR capacity, scale recovery resources on demand and pay only for what you use, rather than maintaining a fully-provisioned standby at all times."
+    },
+    {
+     "t": "p",
+     "text": "• Low RPO, fast RTO, continuous SAP HANA System Replication can achieve near-zero data loss (RPO as low as 30 minutes) and orchestrated failover that restores SAP services within 60–120 minutes."
+    },
+    {
+     "t": "p",
+     "text": "• Global network & security, low-latency replication with enterprise-grade compliance across cloud boundaries."
+    },
+    {
+     "t": "p",
+     "text": "Cons:"
+    },
+    {
+     "t": "p",
+     "text": "• Cross-cloud network egress charges replication traffic between providers incurs additional data transfer costs that must be factored into the overall TCO."
+    },
+    {
+     "t": "p",
+     "text": "• Operational complexity maintaining two different cloud environments in sync (kernel updates, profiles, transport directories, certificates) requires disciplined change management."
+    },
+    {
+     "t": "p",
+     "text": "• Manual synchronization overhead SAP Application Server configuration on the DR side is typically maintained manually unless automation is explicitly built into the design."
+    },
+    {
+     "t": "p",
+     "text": "• DNS and external traffic redirection unless automated, failover requires manual DNS cutover, which adds a coordination step during an actual disaster."
+    },
+    {
+     "t": "p",
+     "text": "Architecture:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/qoeYHCV0IVCFJ8CXTrmwINYt7HE.jpg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "The proposed solution introduces robust, scalable cross-cloud DR architecture designed specifically for SAP workloads, the primary cloud environment continues operating as the production site, hosting the SAP HANA primary database and SAP application servers, data replication is accomplished using SAP HANA System Replication (HSR) operating in asynchronous mode, ensuring near real-time synchronization between production and disaster recovery environments, secure connectivity between the two cloud providers is established through a highly available VPN or dedicated cross-cloud interconnect, supporting reliable data movement across cloud boundaries, on the disaster recovery side, the secondary cloud region hosts the SAP HANA secondary system together with standby SAP application servers, ready for activation during a recovery event."
+    },
+    {
+     "t": "p",
+     "text": "The end-to-end DR workflow follows four key stages:"
+    },
+    {
+     "t": "p",
+     "text": "• Normal Operation Flow users access SAP services via DNS, directing traffic to the primary cloud's SAP application servers connected to the primary HANA database."
+    },
+    {
+     "t": "p",
+     "text": "• Database Replication SAP HANA System Replication continuously syncs database changes from the primary environment to the secondary cloud environment."
+    },
+    {
+     "t": "p",
+     "text": "• Failover Activation on disaster detection, the secondary cloud's HANA database is promoted to primary status, and SAP applications are activated for failover."
+    },
+    {
+     "t": "p",
+     "text": "• Validation & User Redirection validation confirms application and database integrity; DNS updates then redirect users to the secondary cloud environment with minimal interruption."
+    },
+    {
+     "t": "p",
+     "text": "Manual vs. Automated DR: Which Approach Fits"
+    },
+    {
+     "t": "p",
+     "text": "One of the more nuanced decisions in designing a cross-cloud DR strategy is whether failover should be manual or automated and each comes with distinct trade-offs."
+    },
+    {
+     "t": "p",
+     "text": "Manual DR Process — Controlled and business approved:"
+    },
+    {
+     "t": "p",
+     "text": "• Business approval ensures failover only happens for genuine disaster events, not false alarms."
+    },
+    {
+     "t": "p",
+     "text": "• The SAP team validates HANA replication, services, and application health before recovery begins."
+    },
+    {
+     "t": "p",
+     "text": "• DNS cutover only happens after successful SAP validation, reducing the risk of premature disruption."
+    },
+    {
+     "t": "p",
+     "text": "• Lower implementation complexity, with easier troubleshooting and full customer control over failover and failback timing."
+    },
+    {
+     "t": "p",
+     "text": "Automated DR Process — Faster but higher complexity:"
+    },
+    {
+     "t": "p",
+     "text": "• Recovery is faster since it follows predefined logic without waiting for manual sign-off."
+    },
+    {
+     "t": "p",
+     "text": "• Carries a risk of failover being triggered by false alarms, monitoring glitches, or temporary outages."
+    },
+    {
+     "t": "p",
+     "text": "• Scripts validate infrastructure readiness but not business transaction integrity or application-level readiness."
+    },
+    {
+     "t": "p",
+     "text": "• Requires greater upfront investment in script development, testing, and governance best suited for organizations with mature DR orchestration maturity."
+    },
+    {
+     "t": "p",
+     "text": "Target Audience"
+    },
+    {
+     "t": "p",
+     "text": "This blog is written for technology and business leaders who are responsible for the resilience, uptime and continuity of mission-critical SAP HANA environments — particularly those who are still dependent on a single cloud provider and are beginning to question what happens when that provider has a bad day."
+    },
+    {
+     "t": "p",
+     "text": "CIOs, CTOs and IT Directors - evaluating enterprise risk exposure from single-cloud concentration and looking for a strategic, board-level answer to \"what's our SAP DR posture?\""
+    },
+    {
+     "t": "p",
+     "text": "Cloud and Enterprise Architects - designing multi-cloud or provider-independent infrastructure strategies and needing a reference architecture for cross-cloud replication, connectivity and failover."
+    },
+    {
+     "t": "p",
+     "text": "SAP Basis and SAP HANA Administrators - responsible for configuring, monitoring and maintaining HANA System Replication (HSR), and who need to understand the operational realities of running HSR across cloud boundaries."
+    },
+    {
+     "t": "p",
+     "text": "Disaster Recovery (DR) and Business Continuity (BCP) Planners - defining RPO/RTO targets, recovery runbooks and failover governance for critical ERP workloads."
+    },
+    {
+     "t": "p",
+     "text": "Infrastructure and Cloud Operations Teams - managing day-to-day cross-cloud connectivity, network egress costs, certificate/profile synchronization and change management across two provider environments."
+    },
+    {
+     "t": "p",
+     "text": "Enterprises running SAP on AWS, Azure or GCP as a single-cloud deployment - who are exploring whether a secondary cloud DR site is a practical, cost-elastic alternative to a second on-prem or same-provider DR region."
+    },
+    {
+     "t": "p",
+     "text": "Conclusion"
+    },
+    {
+     "t": "p",
+     "text": "Cross-cloud disaster recovery for SAP HANA is no longer a nice-to-have for organizations running mission-critical ERP workloads on a single cloud provider, it's a strategic necessity. By pairing SAP HANA System Replication with a secondary cloud environment, enterprises gain provider independence, geographic isolation from regional outages, and a clear path to low RPO and fast RTO recovery, all while keeping costs elastic rather than fixed. The right balance between manual, business-approved failover and automated recovery ultimately depends on your organization's operational maturity and risk appetite, regardless of which path you choose, a well-architected cross-cloud DR strategy ensures that a single point of failure never becomes a single point of business disruption."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

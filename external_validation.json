@@ -1,0 +1,479 @@
+{
+  "meta": {
+    "as_of": "2026-10-27",
+    "purpose": "Targeted product/naming validation for content review, not certification of company-specific claims",
+    "limits": [
+      "No Quadra partnership tier independently confirmed.",
+      "Customer metrics, service hours/SLAs, certification scope and release permissions remain owner checks.",
+      "Barracuda programme names, full ISPG specialization list and Indian data-protection-law mapping were not comprehensively validated.",
+      "Some official pages are undated; no post-cutoff dated evidence intentionally used.",
+      "No production website changes or announcements."
+    ]
+  },
+  "rows": [
+    {
+      "claim_id": "GCP-01",
+      "practice": "Google Cloud",
+      "finding": "qualify",
+      "summary": "Google documents Agent Runtime naming and SDK migration; unchanged workload behaviour should not be promised without assessment.",
+      "mockup_action": "Use current runtime terminology where named; keep migration planning and dependencies explicit.",
+      "source_document": "Quadra GCP Website Content - Oct 2026.docx",
+      "references": [
+        {
+          "title": "Introducing Gemini Enterprise Agent Platform, powering the next wave of agents",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform",
+          "publisher": "Google Cloud",
+          "date": "2026-04-22"
+        },
+        {
+          "title": "Agent Runtime SDK migration guide",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/runtime/sdk-migration",
+          "publisher": "Google Cloud",
+          "date": "unknown"
+        },
+        {
+          "title": "Vertex AI SDK migration guide (French locale page)",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/deprecations/genai-vertexai-sdk?hl=fr",
+          "publisher": "Google Cloud",
+          "date": "unknown"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "GCP-02",
+      "practice": "Google Cloud",
+      "finding": "qualify",
+      "summary": "Notebook capabilities depend on Gemini Enterprise edition and availability; current naming must be applied consistently.",
+      "mockup_action": "Avoid unrestricted feature promises; qualify editions and preview functions before specific offer publication.",
+      "source_document": "Quadra GCP Website Content - Oct 2026.docx",
+      "references": [
+        {
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "publisher": "Google",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "Use Gemini Notebook Enterprise within Gemini Enterprise",
+          "url": "https://docs.cloud.google.com/gemini/enterprise/docs/access-notebooklm",
+          "publisher": "Google Cloud",
+          "date": "2026-10-20 (last updated)"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "GCP-03",
+      "practice": "Google Cloud",
+      "finding": "qualify",
+      "summary": "Data Studio succeeds Looker Studio; it is not synonymous with the separate Looker product or a data warehouse.",
+      "mockup_action": "Keep data-platform and BI roles distinct; avoid the original Looker-to-Data-Studio equivalence.",
+      "source_document": "Quadra GCP Website Content - Oct 2026.docx",
+      "references": [
+        {
+          "title": "Looker Studio is Data Studio (Data Studio returns as new home for Data Cloud assets)",
+          "url": "https://cloud.google.com/blog/products/data-analytics/looker-studio-is-data-studio",
+          "publisher": "Google Cloud",
+          "date": "2026-04-10"
+        },
+        {
+          "title": "Welcome to Data Studio",
+          "url": "https://docs.cloud.google.com/data-studio/welcome",
+          "publisher": "Google Cloud",
+          "date": "unknown"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "GCP-04",
+      "practice": "Google Cloud",
+      "finding": "correct",
+      "summary": "Grounding and guardrails reduce risks; they do not eliminate inaccurate answers or replace configured permissions.",
+      "mockup_action": "Use evaluation, source grounding and access-control language, not guarantees of correctness or protection.",
+      "source_document": "Quadra GCP Website Content - Oct 2026.docx",
+      "references": [
+        {
+          "title": "Grounding overview | Gemini Enterprise Agent Platform",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/overview",
+          "publisher": "Google Cloud",
+          "date": "unknown"
+        },
+        {
+          "title": "Agent Platform overview",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/overview",
+          "publisher": "Google Cloud",
+          "date": "unknown"
+        },
+        {
+          "title": "Set up a Microsoft SharePoint data store",
+          "url": "https://docs.cloud.google.com/gemini/enterprise/docs/connectors/ms-sharepoint/set-up-data-store",
+          "publisher": "Google Cloud",
+          "date": "unknown"
+        },
+        {
+          "title": "Expanding Google Antigravity for enterprise customers",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers",
+          "publisher": "Google Cloud",
+          "date": "2026-08-20"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "GCP-05",
+      "practice": "Google Cloud",
+      "finding": "not_publicly_verified",
+      "summary": "Quadra’s Google credentials were found as self-published assertions; independent directory verification was unavailable in this review.",
+      "mockup_action": "Omit unsupported tiers, counts and zero-downtime guarantees from clean draft; request current evidence privately.",
+      "source_document": "Quadra GCP Website Content - Oct 2026.docx",
+      "references": [
+        {
+          "title": "Enterprise Cloud Technology Consulting | Quadra (self-published)",
+          "url": "https://www.quadrasystems.net/technology",
+          "publisher": "Quadra (self)",
+          "date": "unknown"
+        },
+        {
+          "title": "Google Cloud Find a Partner (query attempted)",
+          "url": "https://cloud.google.com/find-a-partner/?q=Quadra",
+          "publisher": "Google Cloud",
+          "date": "unknown"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "AZ-01",
+      "practice": "Microsoft Azure",
+      "finding": "confirmed",
+      "summary": "Microsoft Foundry is the current platform name in Microsoft Learn.",
+      "mockup_action": "Retain Microsoft Foundry terminology, without inferring every feature is generally available.",
+      "source_document": "Quadra_Azure_Website_Content_Oct_2026_Ver1.1.docx",
+      "references": [
+        {
+          "title": "What is Microsoft Foundry?",
+          "url": "https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry",
+          "publisher": "Microsoft Learn",
+          "date": "unknown"
+        },
+        {
+          "title": "Microsoft Foundry documentation",
+          "url": "https://learn.microsoft.com/en-us/azure/foundry/",
+          "publisher": "Microsoft Learn",
+          "date": "unknown"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "AZ-02",
+      "practice": "Microsoft Azure / ISPG (cross-practice)",
+      "finding": "qualify",
+      "summary": "Foundry and Agent 365 have distinct roles; individual features have separate licensing and availability conditions.",
+      "mockup_action": "Cross-link Azure build/run and Microsoft governance pages rather than duplicate or merge product roles.",
+      "source_document": "Quadra_Azure_Website_Content_Oct_2026_Ver1.1.docx; ISPG - Content for Quadra Website.docx",
+      "references": [
+        {
+          "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+          "publisher": "Microsoft Security Blog",
+          "date": "2026-05-01"
+        },
+        {
+          "title": "Introducing the First Frontier Suite built on Intelligence + Trust",
+          "url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
+          "publisher": "Microsoft (Official Microsoft Blog)",
+          "date": "2026-03-09"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "AZ-03",
+      "practice": "Microsoft Azure",
+      "finding": "qualify",
+      "summary": "Fabric and Databricks interoperate, with read-only and access-control considerations for mirrored data.",
+      "mockup_action": "Keep assessment-led complementary positioning; do not imply Databricks permissions automatically propagate into Fabric.",
+      "source_document": "Quadra_Azure_Website_Content_Oct_2026_Ver1.1.docx",
+      "references": [
+        {
+          "title": "Mirroring Azure Databricks Unity Catalog (Microsoft Fabric)",
+          "url": "https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks",
+          "publisher": "Microsoft Learn",
+          "date": "unknown"
+        },
+        {
+          "title": "Use Microsoft Fabric to read data that is registered in Unity Catalog",
+          "url": "https://learn.microsoft.com/en-us/azure/databricks/partners/bi/fabric-mirror",
+          "publisher": "Microsoft Learn (Azure Databricks docs)",
+          "date": "2026-10-06 (last updated)"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "ISPG-01",
+      "practice": "ISPG (Microsoft 365 / Microsoft Security)",
+      "finding": "not_publicly_verified",
+      "summary": "Frontier Partner is an official specialization; that fact does not confirm Quadra’s attainment.",
+      "mockup_action": "Do not replace a current credential with Frontier Partner merely because the programme exists.",
+      "source_document": "ISPG - Content for Quadra Website.docx",
+      "references": [
+        {
+          "title": "Frontier Partner specialization",
+          "url": "https://partner.microsoft.com/en-us/partnership/specialization/frontier-partner",
+          "publisher": "Microsoft",
+          "date": "unknown"
+        },
+        {
+          "title": "September 2026 announcements - Partner Center",
+          "url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september",
+          "publisher": "Microsoft Learn",
+          "date": "2026-09-30"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "ISPG-02",
+      "practice": "ISPG (Microsoft 365 / Microsoft Security)",
+      "finding": "confirmed",
+      "summary": "Microsoft uses AI Business Solutions and Microsoft 365 E7 terminology; rollout remains subject to actual licence and feature conditions.",
+      "mockup_action": "Use normal product names, not ME7 shorthand; retain customer-oriented workplace navigation.",
+      "source_document": "ISPG - Content for Quadra Website.docx",
+      "references": [
+        {
+          "title": "Lead Frontier Transformation with Microsoft 365 E7, now generally available",
+          "url": "https://partner.microsoft.com/en-us/blog/article/microsoft-365-e7-general-availability",
+          "publisher": "Microsoft Partner Network",
+          "date": "2026-05-01"
+        },
+        {
+          "title": "New fiscal year, new partner investments",
+          "url": "https://partner.microsoft.com/en-us/blog/article/new-benefits-designations-specializations",
+          "publisher": "Microsoft Partner Network",
+          "date": "2025-07-31"
+        },
+        {
+          "title": "Introducing the First Frontier Suite built on Intelligence + Trust",
+          "url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
+          "publisher": "Microsoft",
+          "date": "2026-03-09"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "ISPG-03",
+      "practice": "ISPG / AIG / CSG (corporate recognition)",
+      "finding": "not_publicly_verified",
+      "summary": "Microsoft schedules 2026 Partner of the Year winner and finalist announcements for 11 November 2026.",
+      "mockup_action": "Keep the user-approved 21-year planned-launch copy in this private review only; publication still requires announcement and owner confirmation. Never use consecutive or unbroken.",
+      "source_document": "ISPG - Content for Quadra Website.docx; AIG Website Content - Draft.docx; Quadra_Cybersecurity_Website_Revamp_Content_v2.docx",
+      "references": [
+        {
+          "title": "Get your nominations in now for the 2026 Microsoft Partner of the Year Awards",
+          "url": "https://partner.microsoft.com/en-us/blog/article/partner-of-the-year-awards-2026-submit-your-nomination",
+          "publisher": "Microsoft Partner Network",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "Awards - partner.microsoft.com",
+          "url": "https://partner.microsoft.com/en-us/awards",
+          "publisher": "Microsoft",
+          "date": "unknown"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "CSG-01",
+      "practice": "Cybersecurity (CSG, non-Microsoft)",
+      "finding": "correct",
+      "summary": "Fortinet and CrowdStrike provide CNAPP capabilities; CSG’s non-Microsoft scope is governed by the user’s explicit decision.",
+      "mockup_action": "Remove Microsoft implementation claims from CSG and cross-link the independent Microsoft Security practice; do not alter reporting responsibilities.",
+      "source_document": "Quadra_Cybersecurity_Website_Revamp_Content_v2.docx (full extraction)",
+      "references": [
+        {
+          "title": "Cloud-Native Application Protection Platform (FortiCNAPP)",
+          "url": "https://www.fortinet.com/products/forticnapp",
+          "publisher": "Fortinet",
+          "date": "unknown"
+        },
+        {
+          "title": "CrowdStrike Falcon Cloud Security: CNAPP",
+          "url": "https://www.crowdstrike.com/en-us/platform/cloud-security/cnapp/",
+          "publisher": "CrowdStrike",
+          "date": "unknown"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "CSG-02",
+      "practice": "Cybersecurity (CSG, non-Microsoft)",
+      "finding": "not_publicly_verified",
+      "summary": "Zscaler DSA terminology exists; Quadra’s authorization and awards remain unverified here.",
+      "mockup_action": "Hold named partner-status claims until current partner-portal or authorization evidence is supplied.",
+      "source_document": "Quadra_Cybersecurity_Website_Revamp_Content_v2.docx",
+      "references": [
+        {
+          "title": "Compugen Achieves Zscaler Delivery Services Authorization (includes Zscaler spokesperson quote)",
+          "url": "https://resources.compugen.com/en-ca/news-awards/compugen-achieves-zscaler-delivery-services-authorization",
+          "publisher": "Compugen (third-party partner)",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "Zscaler Partner Services: Enablement & Quality Assurance (data sheet)",
+          "url": "https://www.zscaler.com/resources/data-sheets/zscaler-partner-services-enablement-quality-assurance.pdf",
+          "publisher": "Zscaler",
+          "date": "2026-06"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "CSG-03",
+      "practice": "Cybersecurity (CSG, non-Microsoft)",
+      "finding": "correct",
+      "summary": "Fortinet certification terminology changed in July 2026; current vendor tiers and individual badges require evidence.",
+      "mockup_action": "Avoid unconfirmed partner tiers and certification badge lists; verify the actual current awards/certificates.",
+      "source_document": "Quadra_Cybersecurity_Website_Revamp_Content_v2.docx",
+      "references": [
+        {
+          "title": "How will my current certifications transition to the new NSE certifications on July 15, 2026?",
+          "url": "https://helpdesk.training.fortinet.com/support/solutions/articles/73000667146-how-will-my-current-certifications-transition-to-the-new-nse-certifications-on-july-15-2026-",
+          "publisher": "Fortinet Training Institute",
+          "date": "2026-07-16 (modified)"
+        },
+        {
+          "title": "Accelerate Partner Program",
+          "url": "https://www.crowdstrike.com/en-us/partner-program/",
+          "publisher": "CrowdStrike",
+          "date": "unknown"
+        },
+        {
+          "title": "2026 Partner Program Updates: Built to Reward Your Value",
+          "url": "https://www.sophos.com/en-us/partner-news/2026-partner-program-updates-built-to-reward-your-value",
+          "publisher": "Sophos",
+          "date": "2026-04-16"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "CSG-04",
+      "practice": "Cybersecurity (CSG, non-Microsoft)",
+      "finding": "qualify",
+      "summary": "AI-security features vary by licensed platform; public capability descriptions do not confirm a universal implementation scope.",
+      "mockup_action": "Keep cyber-control scope separate from AIG lifecycle governance and use actual licence/telemetry dependencies.",
+      "source_document": "Quadra_Cybersecurity_Website_Revamp_Content_v2.docx (full extraction, Page 6)",
+      "references": [
+        {
+          "title": "AI Guard for Apps: Secure Prompts & DLP",
+          "url": "https://www.zscaler.com/products-and-solutions/ai-guard-for-apps",
+          "publisher": "Zscaler",
+          "date": "unknown"
+        },
+        {
+          "title": "Zscaler AI Guard solution brief",
+          "url": "https://www.zscaler.com/resources/solution-briefs/zscaler-ai-guard.pdf",
+          "publisher": "Zscaler",
+          "date": "2026 (copyright)"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "AIG-01",
+      "practice": "AIG (Enterprise AI Engineering)",
+      "finding": "qualify",
+      "summary": "A Quadra-issued announcement describes AI-practice ISO/IEC 42001 certification; the certificate and its scope were not independently inspected.",
+      "mockup_action": "Keep certification scope out of the draft until the certificate is confirmed; do not call every customer AI product certified.",
+      "source_document": "AIG Website Content - Draft.docx",
+      "references": [
+        {
+          "title": "Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001:2023 (press release)",
+          "url": "https://www.prnewswire.com/in/news-releases/quadrasystemsnet-among-the-first-in-india-to-achieve-isoiec-420012023-the-worlds-first-international-standard-for-ai-management-systems-302812910.html",
+          "publisher": "PR Newswire (issued by Quadrasystems.net)",
+          "date": "2026-06-29"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "AIG-02",
+      "practice": "AIG (Enterprise AI Engineering)",
+      "finding": "not_publicly_verified",
+      "summary": "Quadra’s public AWS competency descriptions differ; authoritative partner evidence is required before choosing credential wording.",
+      "mockup_action": "Use correct product brands and leave unconfirmed credential tiers out of the clean mockup.",
+      "source_document": "AIG Website Content - Draft.docx",
+      "references": [
+        {
+          "title": "Quadra Bridges the 'Execution Gap' in AI: Achieves Dual Milestone with AWS Premier Tier Status and AI Services Competency",
+          "url": "https://www.business-standard.com/content/press-releases-ani/quadra-bridges-the-execution-gap-in-ai-achieves-dual-milestone-with-aws-premier-tier-status-and-ai-services-competency-126040200432_1.html",
+          "publisher": "Business Standard (PRNewswire advertorial issued by Quadra)",
+          "date": "2026-04-02"
+        },
+        {
+          "title": "AWS Premier Partner | Quadra (self-published)",
+          "url": "https://www.quadrasystems.net/technology/aws",
+          "publisher": "Quadra (self)",
+          "date": "unknown"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    },
+    {
+      "claim_id": "AIG-03",
+      "practice": "AIG (Enterprise AI Engineering)",
+      "finding": "confirmed",
+      "summary": "European Commission guidance describes applicable AI transparency duties; it does not certify a customer deployment or Quadra service.",
+      "mockup_action": "Retain conditional compliance-readiness language, not blanket certification or legal guarantees.",
+      "source_document": "AIG Website Content - Draft.docx",
+      "references": [
+        {
+          "title": "Quick Facts: Transparency rules for AI systems",
+          "url": "https://digital-strategy.ec.europa.eu/en/factpages/quick-facts-transparency-rules-ai-systems",
+          "publisher": "European Commission",
+          "date": "2026-07-29 (last update)"
+        },
+        {
+          "title": "Not Delayed, Not Deferred: EU AI Act Transparency Obligations Are Now in Force",
+          "url": "https://www.goodwinlaw.com/en/insights/publications/2026/08/alerts-technology-dpc-eu-ai-act-transparency-obligations-now-in-force",
+          "publisher": "Goodwin (law firm)",
+          "date": "2026-08-03"
+        }
+      ],
+      "retrieved_date": "2026-10-27"
+    }
+  ],
+  "follow_up_checks": [
+    {
+      "id": "AIG-CR11-AWS",
+      "checked_on": "2026-10-30",
+      "finding": "Official product name is Amazon Bedrock.",
+      "source_title": "Amazon Bedrock",
+      "source_url": "https://aws.amazon.com/bedrock/",
+      "scope": "Product naming only"
+    },
+    {
+      "id": "AIG-CR11-GCP",
+      "checked_on": "2026-10-30",
+      "finding": "Google maps Vertex AI Platform to Gemini Enterprise Agent Platform.",
+      "source_title": "Gemini Enterprise Agent Platform name changes",
+      "source_url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/vertex-ai-name-changes",
+      "scope": "Product naming only"
+    },
+    {
+      "id": "AIG-CR11-MS",
+      "checked_on": "2026-10-30",
+      "finding": "Microsoft Foundry is the current platform name, in Azure context.",
+      "source_title": "What is Microsoft Foundry?",
+      "source_url": "https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry",
+      "scope": "Product naming only"
+    }
+  ]
+}

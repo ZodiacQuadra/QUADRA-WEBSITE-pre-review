@@ -1,0 +1,116 @@
+{
+ "path": "/happy/redefining-app-dev-for-bi-provider",
+ "url": "https://www.quadrasystems.net/happy/redefining-app-dev-for-bi-provider",
+ "title": "Global Delivery Platform Case Study | Quadra",
+ "description": "Architected and executed a seamless migration to a compliant, high-performance public cloud platform, enabling global scale, enhancing security, and creating a firm foundation for future growth.",
+ "ogImage": "https://framerusercontent.com/images/9z6rMsUMBN1k2MCokI42EEVoM.jpg?width=3600&height=2703",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Global Delivery Platform for a Leading Analytics ISV"
+    },
+    {
+     "t": "p",
+     "text": "Software Development"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9z6rMsUMBN1k2MCokI42EEVoM.jpg",
+     "alt": "gray computer monitor",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading provider of analytics and Business Intelligence applications to a global client base, including the healthcare sector."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To transform their application delivery model to support a rapidly growing global user base with a highly scalable, secure, and cost-effective cloud platform."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and executed a seamless migration to a compliant, high-performance public cloud platform, enabling global scale, enhancing security, and creating a firm foundation for future growth."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading provider of analytics and Business Intelligence applications to a global client base, including the healthcare sector."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their on-premise infrastructure could not keep pace with their rapid growth. They faced significant scalability challenges, and any performance degradation negatively impacted the customer experience. The capital investment required to build a global, compliant, and highly available on-premise infrastructure was prohibitive and would divert resources from their core mission of software innovation."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to solidify their position as a successful global brand. This required a modern infrastructure that could deliver their BI application with high performance and reliability to thousands of users worldwide, while meeting the stringent compliance standards of their healthcare customers."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new cloud platform provided the firm foundation they needed to grow their business globally. The highly scalable and compliant environment gave their customers confidence, while the elimination of infrastructure management allowed their team to focus on application development and delivery. By deploying servers in datacenters closest to their end-users, we further optimized performance and reduced latency, ensuring a great customer experience."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Global Scalability for a Growing User Base"
+    },
+    {
+     "t": "p",
+     "text": "Ensured Adherence to Global Healthcare Compliance Standards"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Application Performance & Reliability"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated Capital Expenditure on Infrastructure"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

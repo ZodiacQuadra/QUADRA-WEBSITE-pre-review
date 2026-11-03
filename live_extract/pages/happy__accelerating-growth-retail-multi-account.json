@@ -1,0 +1,116 @@
+{
+ "path": "/happy/accelerating-growth-retail-multi-account",
+ "url": "https://www.quadrasystems.net/happy/accelerating-growth-retail-multi-account",
+ "title": "Centralized Cloud Governance Framework Case Study | Quadra",
+ "description": "Architected and deployed a robust governance framework using AWS Control Tower that automated account provisioning, centralized security, and cut manual management tasks by 50%.",
+ "ogImage": "https://framerusercontent.com/images/TFGQiiPrg95ef7uI8nsjnzTNn94.jpg?width=5955&height=3350",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Centralized Cloud Governance Framework for a Retail Conglomerate"
+    },
+    {
+     "t": "p",
+     "text": "Retail & Distribution"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TFGQiiPrg95ef7uI8nsjnzTNn94.jpg",
+     "alt": "long exposure photography of road and cars",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A prominent retail company with an extensive portfolio of over 25 homegrown brands, including Max, Splash, and Home Centre."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To establish a secure, scalable, and centrally governed multi-account cloud environment to support their diverse portfolio of business applications and SAP workloads."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a robust governance framework using AWS Control Tower that automated account provisioning, centralized security, and cut manual management tasks by 50%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A prominent retail company with an extensive portfolio of over 25 homegrown brands, including Max, Splash, and Home Centre."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their primary challenge was managing a complex multi-account structure. A lack of centralized control made it difficult to enforce consistent security policies and maintain compliance across all accounts, including their separate AWS accounts for SAP RISE workloads. They also faced network connectivity complexities in securely linking remote locations to their cloud-hosted SAP applications."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As a leader in digital transformation, the client's ambition was to operate their vast and diverse cloud estate with the efficiency and security of a modern, well-architected enterprise. They needed a standardized approach to cloud governance that could provide centralized control while still empowering their various brand teams to innovate."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new governance framework transformed their cloud operations. Automated account provisioning and centralized security cut manual management tasks by 50%, freeing up their teams to focus on strategic initiatives. The standardized network architecture reduced management overhead by 40% and transit costs by 25%. Most importantly, the framework reduced security policy inconsistencies by 95%, dramatically strengthening their security and compliance posture across their entire retail empire."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Manual Cloud Management Tasks by 50%"
+    },
+    {
+     "t": "p",
+     "text": "Accelerated New Application Deployment Times by 40%"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Network Management Overhead by 40%"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Security Posture Across a Multi-Account Environment"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,135 @@
+{
+ "path": "/blogs",
+ "url": "https://www.quadrasystems.net/blogs",
+ "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+ "description": "Stay informed with expert insights on enterprise cloud AI solutions and intelligent enterprise architecture, powered by Quadra’s Microsoft cloud expertise.",
+ "ogImage": "https://framerusercontent.com/assets/GEXXMfVbhM87WjmlhwBHhXtRlE.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Page Title",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Explore Our Thinking"
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/the-architect’s-view",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/JLP3VREBTbwCHIUhAmngXkXCFDU.png",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/the-architect’s-view",
+     "blocks": [
+      {
+       "t": "h2",
+       "text": "AI is Not a Magic Wand. It is an Architectural Material"
+      },
+      {
+       "t": "p",
+       "text": "For 25 years, we have architected solutions to our clients' most complex challenges. Today, the material has changed, but the principle has not. We believe that real business value from AI is not found in the hype; it is architected with purpose, clarity, and discipline."
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "Read more",
+     "href": "./newsroom/the-architect’s-view"
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/finding-sensitive-data-in-azure-cloud-storage",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/k5pFYLQLtiWuoA0L25iu7HCFM3M.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Finding Sensitive Data in Azure Cloud Storage: Why Checking Files One by One Just Doesn’t Work"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/from-legacy-vms-to-cloud-native-applications",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/onnX8dR5lQOJlXVlTl0TKGSQiQA.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "From Legacy VMs to Cloud-Native Applications: Practical Workload Migration Strategies with Google Kubernetes Engine."
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/the-autonomous-engineering-era-google-antigravity-gemini-enterprise",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Gu7P3YYRBNXbzdQcIc5YQEeLU8.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "The Autonomous Engineering Era"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/cross-cloud-disaster-recovery-for-sap-hana",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/wYJxzlsUXwi0bW9W5UQKtx5qED4.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/that-file-shared-for-one-project-is-still-open-three-years-later",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/d4sPRerWvoBHLvJaCI9c2RkKUaA.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "That File Shared for One Project Is Still Open Three Years Later"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Load More"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

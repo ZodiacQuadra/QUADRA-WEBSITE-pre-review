@@ -1,0 +1,116 @@
+{
+ "path": "/happy/energizing-the-entertainment-experience",
+ "url": "https://www.quadrasystems.net/happy/energizing-the-entertainment-experience",
+ "title": "Architecting a Modern IT Infrastructure for a Major Entertainment Destination",
+ "description": "Architected and executed a complete, ground-up infrastructure revamp that increased reliability, supported new revenue-generating services, and enabled a superior customer experience.",
+ "ogImage": "https://framerusercontent.com/images/lqel2R1OzcndyCyoGR3uU6ymRNo.jpeg?width=5472&height=3648",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern IT Infrastructure for a Major Entertainment Destination"
+    },
+    {
+     "t": "p",
+     "text": "Entertainment"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lqel2R1OzcndyCyoGR3uU6ymRNo.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "One of the largest and most well-known entertainment destinations in the country, with over 3 million annual customer footfalls."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To completely revamp their aging IT infrastructure to power a new, modern, and seamless experience for their millions of customers."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and executed a complete, ground-up infrastructure revamp that increased reliability, supported new revenue-generating services, and enabled a superior customer experience."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "One of the largest and most well-known entertainment destinations in the country, with over 3 million annual customer footfalls."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their internal IT team was stretched to its limits. The existing infrastructure was unreliable and could not scale to meet the demands of a growing number of customers and new services. They were pre-occupied with firefighting recurring problems, leaving little time to focus on strategic goals like improving the customer experience."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to create a world-class entertainment experience, which was directly dependent on the reliability and efficiency of their IT systems. They needed to move from a reactive, firefighting IT model to a robust, modern foundation that could support innovative new customer services like WiFi and gaming."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new, robust infrastructure empowered our customer to deliver a more productive and modern IT environment. By applying an intimate knowledge of their business processes, we were able to architect a solution that directly supported their goal of creating a superior entertainment experience. This stable foundation freed their internal IT team to focus on innovation rather than maintenance."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Enabled a Superior & Seamless Customer Experience"
+    },
+    {
+     "t": "p",
+     "text": "Built a Foundation to Support New Revenue-Generating Services"
+    },
+    {
+     "t": "p",
+     "text": "Increased Infrastructure Reliability & Scalability"
+    },
+    {
+     "t": "p",
+     "text": "Freed Internal IT from Reactive Firefighting to Focus on Innovation"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

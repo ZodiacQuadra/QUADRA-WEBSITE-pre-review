@@ -1,0 +1,274 @@
+{
+ "path": "/foundersblog/a-new-economics-of-winning-in-ai",
+ "url": "https://www.quadrasystems.net/foundersblog/a-new-economics-of-winning-in-ai",
+ "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+ "description": "AI has made it extraordinarily easy to produce a polished email; a persuasive presentation; a sophisticated spreadsheet; a detailed proposal. All in a fraction of the time it once took.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Founders Blogs"
+    },
+    {
+     "t": "p",
+     "text": ">"
+    },
+    {
+     "t": "p",
+     "text": "A New Economics of Winning in AI"
+    },
+    {
+     "t": "h2",
+     "text": "A New Economics of Winning in AI"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/DNLLIDHLv0cEGKtbYkLrNr8aCQQ.jpg",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "p",
+       "text": "Prashanth Subramanian"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Mar 24, 2026"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gn4lbJmJj0owHiO4swEHIjdb0BM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "The fastest-growing companies today have an unusual problem: their compute bill is threatening to overtake their payroll."
+    },
+    {
+     "t": "p",
+     "text": "That sentence would have been absurd three years ago. Today it's a strategic inflection point. The organizations moving at real speed aren't adding headcount to move faster - they're deploying AI agents that work around the clock, don't lose context, and cost a fraction of what a specialist team does. Their biggest line item is compute. And they're shipping in hours what takes established teams weeks."
+    },
+    {
+     "t": "p",
+     "text": "This isn't a technology story. It's an organizational one. And most leadership teams are watching it unfold while believing - because the pipeline looks healthy and customers are still renewing -that they have more time than they do."
+    },
+    {
+     "t": "h4",
+     "text": "The Illusion of Motion"
+    },
+    {
+     "t": "p",
+     "text": "Look around most large organizations today and you'll see AI everywhere- in presentations, in quarterly reviews, in job descriptions. Copilots deployed. Chatbots launched. An AI steering committee convened. A Chief AI Officer appointed."
+    },
+    {
+     "t": "p",
+     "text": "And yet the org chart hasn't moved. The handoffs between product and engineering are identical. The review cycles unchanged. The eight-person meeting \"for context\" still happens every Tuesday."
+    },
+    {
+     "t": "p",
+     "text": "This is the central trap: confusing AI adoption with AI transformation. One is additive. The other is structural. Most organizations are doing the former while believing they're doing the latter."
+    },
+    {
+     "t": "p",
+     "text": "The pipeline looks healthy. Customers are renewing. The product team is shipping AI features. Revenue is holding. Everything feels like it's working."
+    },
+    {
+     "t": "p",
+     "text": "That's precisely what makes this moment dangerous."
+    },
+    {
+     "t": "h4",
+     "text": "Gradually, Then Suddenly"
+    },
+    {
+     "t": "p",
+     "text": "Hemingway described bankruptcy in two stages: gradually, then suddenly. The same dynamic applies here."
+    },
+    {
+     "t": "p",
+     "text": "The surface looks stable because the disruption isn't coming from your existing competitors. They're in the same meetings you are, debating the same roadmap priorities, hiring the same profiles. That's not your real competition anymore."
+    },
+    {
+     "t": "p",
+     "text": "The real competition is a three-person team with no legacy architecture, no organizational debt, and no inherited assumptions about how long things should take. They're rebuilding what took an engineering team five years and significant capital -in two weeks. Not because they're smarter. Because they have no reason to do it any other way."
+    },
+    {
+     "t": "p",
+     "text": "They don't need eight people in a room. They don't need a PM to translate between the customer and the engineer because one person is doing both. They move same-day on decisions that take established organizations a quarter."
+    },
+    {
+     "t": "p",
+     "text": "You won't see them in your renewal conversations - until suddenly they're already there."
+    },
+    {
+     "t": "p",
+     "text": "The uncomfortable truth is that the undercurrent is already moving. Pipelines look robust. Customers seem stable. But the structural advantage that incumbents have always relied on - scale, relationships, domain depth - is being neutralized faster than most leadership teams are willing to acknowledge."
+    },
+    {
+     "t": "h4",
+     "text": "The Generalist Has Arrived"
+    },
+    {
+     "t": "p",
+     "text": "For a decade, organizational design rewarded deep specialization. You hired people who did one thing exceptionally well and built processes to connect them. That made sense when the distance between idea and execution required a relay race of specialists."
+    },
+    {
+     "t": "p",
+     "text": "AI has collapsed that distance."
+    },
+    {
+     "t": "p",
+     "text": "The most valuable professional today isn't the deepest specialist - it's the person with enough breadth to hold the entire problem in their head and enough AI fluency to move across functions without losing context. Someone who talks to a customer in the morning, prototypes a solution by afternoon, and has something testable before end of day."
+    },
+    {
+     "t": "p",
+     "text": "David Epstein argued in Range (one of my favourite books, btw - must read if you haven't already) that generalists are systematically undervalued in a world that rewards early specialization. That world is ending. AI's intelligence is uneven - extraordinary in some dimensions, limited in others - and generalists are uniquely positioned to smooth those edges. They know enough about each domain to direct, correct, and ship."
+    },
+    {
+     "t": "p",
+     "text": "The organizational implication is significant: structures built around handoffs between specialists are structures built around a problem that no longer exists at the same scale. Which means the value isn't in protecting those structures. It's in knowing which ones to dismantle, and in what sequence, without breaking what still works."
+    },
+    {
+     "t": "h4",
+     "text": "The CEO Has to Be the Chief AI Officer"
+    },
+    {
+     "t": "p",
+     "text": "Every large enterprise is hiring a Chief AI Officer. The instinct is understandable. It mirrors the VP of Innovation role from a decade ago - establish a dedicated function so the rest of the organization can continue undisturbed."
+    },
+    {
+     "t": "p",
+     "text": "That's not transformation. That's containment."
+    },
+    {
+     "t": "p",
+     "text": "The companies genuinely navigating this shift have one thing in common: the CEO is personally driving it. Not sponsoring it. Not receiving quarterly updates on it. Personally building, experimenting, and making decisions with direct exposure to what AI can and cannot do."
+    },
+    {
+     "t": "p",
+     "text": "When understanding of AI sits one or two levels removed from the person setting strategic direction, decisions get made on briefings rather than reality. The gap between what AI actually enables and what leadership believes it enables becomes the gap between your company and the competition."
+    },
+    {
+     "t": "p",
+     "text": "This isn't about CEOs learning to code. It's about not outsourcing conviction. The most important thing a leader can do right now is develop a first-hand intuition for this technology — what it changes, what it doesn't, and where the real leverage sits in their specific business."
+    },
+    {
+     "t": "h4",
+     "text": "What This Means for SaaS"
+    },
+    {
+     "t": "p",
+     "text": "Vertical SaaS companies face a specific and severe version of this pressure - and it's worth being direct about why."
+    },
+    {
+     "t": "p",
+     "text": "Strip away the interface of most SaaS products - the dashboards, the navigation, the forms- and what remains is a data model, some workflow logic, and business rules for a specific domain. That's the actual asset. The software wrapped around it was necessary when humans needed a UI to interact with the system."
+    },
+    {
+     "t": "p",
+     "text": "AI agents don't need a UI. They can interface directly with the underlying logic. A significant portion of what vertical SaaS companies spent years building is, functionally, wrapping paper around an asset that can now be replicated - faster, leaner, and AI-native - by anyone who understands the domain deeply enough."
+    },
+    {
+     "t": "p",
+     "text": "This isn't a death sentence. It's a modernization imperative. The companies that will survive this aren't the ones defending their current architecture - they're the ones willing to interrogate it honestly. What is the core domain knowledge we own? What is the actual workflow value we deliver? And what would it look like to deliver that in a fundamentally different way?"
+    },
+    {
+     "t": "p",
+     "text": "Those are hard questions to answer from the inside, particularly when the existing product still generates revenue and the engineering team is fully occupied maintaining it. But the revenue runway on an unmodernized product is shortening. The heartening part? We're seeing more and more customers reach out to Quadra for modernization discussions. The $2 trillion in SaaS market cap erosion isn't an anomaly - it reflects investors beginning to price the difference between customer relationship value and software value, and recognizing that the software is increasingly the replaceable part."
+    },
+    {
+     "t": "p",
+     "text": "Multi-year AI roadmaps in this environment aren't ambitious. They're a measure of how long it will take to fall behind."
+    },
+    {
+     "t": "h4",
+     "text": "Vertical Realities"
+    },
+    {
+     "t": "p",
+     "text": "The pressure manifests differently across industries, but the underlying pattern is consistent."
+    },
+    {
+     "t": "p",
+     "text": "Manufacturing has physical constraints but tractable data problems. Predictive maintenance, quality inspection, and supply chain optimization are areas where AI already outperforms legacy decision-making. The gap isn't in the technology - it's in the organizational willingness to let AI-derived conclusions override intuition built over decades."
+    },
+    {
+     "t": "p",
+     "text": "Retail faces personalization and inventory optimization challenges no human team can solve across thousands of SKUs in real time. AI-native competitors are establishing a new baseline for customer experience that traditional retailers are measuring against with annual planning cycles - a structural mismatch in response speed."
+    },
+    {
+     "t": "p",
+     "text": "Pharma moves deliberately for legitimate reasons - regulatory requirements aren't going away. But AI is compressing discovery timelines significantly, and companies treating it as a research accelerator rather than a compliance risk are pulling ahead in their pipelines."
+    },
+    {
+     "t": "p",
+     "text": "Healthcare carries the highest stakes and has the most to gain from operational AI. Administrative burden consumes a disproportionate share of clinical capacity. AI applied to documentation, prior authorization, and care coordination isn't a future-state aspiration - it's operational today in leading health systems."
+    },
+    {
+     "t": "p",
+     "text": "BFSI is furthest along in structured AI deployment, but the real disruption is coming from entities that don't look like financial institutions yet. Credit decisioning, fraud detection, and personalized financial planning are being rebuilt from scratch by players unconstrained by core banking architecture."
+    },
+    {
+     "t": "p",
+     "text": "In every vertical, the pattern holds: incumbents optimizing existing operations; challengers rebuilding the operation itself. Domain knowledge remains the real moat - the question is whether it's being used to defend an existing model or to build a better one."
+    },
+    {
+     "t": "h4",
+     "text": "What to Actually Do"
+    },
+    {
+     "t": "p",
+     "text": "This isn't an argument for panic or wholesale abandonment of what you've built. It's an argument for honesty about where you are - and deliberate action on the structural changes that matter."
+    },
+    {
+     "t": "p",
+     "text": "Measure outcomes, not adoption. Copilot deployment rates are not a business metric. What changed in your delivery speed, cost per output, or headcount-to-revenue ratio? If AI is present but those numbers aren't moving, the structural problem hasn't been addressed."
+    },
+    {
+     "t": "p",
+     "text": "Treat same-day capability as a diagnostic. Can your organization fix a bug, launch a page, respond to a customer insight, or adjust a process the same day? If not, the friction is organizational, not technological - and no AI tool will resolve it without structural change."
+    },
+    {
+     "t": "p",
+     "text": "Put your CEO in the room with the tools. Not for a demo. For real work. The strategic implications of this technology only become visceral when you've developed an intuition for what it actually changes."
+    },
+    {
+     "t": "p",
+     "text": "Interrogate your architecture before your competition does. Whether you're running a SaaS product, an internal IT estate, or a customer-facing operation - understanding what your current stack would look like if rebuilt today is not a theoretical exercise. It's a risk assessment."
+    },
+    {
+     "t": "p",
+     "text": "Use domain knowledge as a foundation, not a defence. Every incumbent has accumulated something AI-native startups don't have: years of operational understanding of a specific industry. The companies that will win are the ones that combine that depth with the willingness to rebuild how it gets operationalized."
+    },
+    {
+     "t": "h4",
+     "text": "In closing"
+    },
+    {
+     "t": "p",
+     "text": "The tipping point in most technology transitions doesn't announce itself. It arrives, and then the preparation window has already closed."
+    },
+    {
+     "t": "p",
+     "text": "At Quadra, we work with organizations that are serious about using this window - not to layer AI onto what exists, but to make the structural decisions that determine whether they're leading or catching up three years from now. That work is harder than deploying a copilot. It's also the only work that compounds."
+    },
+    {
+     "t": "p",
+     "text": "The window is still open. But it isn't wide, and it isn't getting wider."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

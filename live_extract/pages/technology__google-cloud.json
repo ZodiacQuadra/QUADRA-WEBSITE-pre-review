@@ -1,0 +1,357 @@
+{
+ "path": "/technology/google-cloud",
+ "url": "https://www.quadrasystems.net/technology/google-cloud",
+ "title": "Google Cloud Premier Partner: Architecting Intelligence | Quadra",
+ "description": "Quadra is a Google Cloud Partner delivering AI, data analytics, infrastructure modernization, cloud security, and managed services to help enterprises build intelligent, cloud-native operations powered by Google Cloud.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on"
+    },
+    {
+     "t": "h1",
+     "text": "Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "As a Google Cloud Premier Partner, we leverage their world-class data, AI, and infrastructure services to architect intelligent solutions that power your most ambitious business goals"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Premier Partner for Google Cloud"
+    },
+    {
+     "t": "h2",
+     "text": "Validated Expertise for a Data-First World"
+    },
+    {
+     "t": "p",
+     "text": "Achieving Google Cloud Premier Partner status signifies Google's validation of our deep technical skills and proven success in helping enterprises modernize and innovate. It reflects our ability to deliver on the promise of a smarter, more data-driven cloud, architecting solutions that are secure, scalable, and built for the future of AI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NIT7YulpUsK9ArPCcpZUEuw7Ro.gif",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Key Specializations"
+    },
+    {
+     "t": "p",
+     "text": "Data Analytics"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Migration"
+    },
+    {
+     "t": "p",
+     "text": "Infrastructure Modernization"
+    },
+    {
+     "t": "h2",
+     "text": "Certified Expertise"
+    },
+    {
+     "t": "p",
+     "text": "A dedicated team of Google Cloud Certified Professionals, including Professional Cloud Architects, Network Engineers, DevOps Engineers, Database Engineers, Machine Learning Engineers,and Data Engineers."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zshjhFcGi87I5ASPmfA39bUpsA.jpg",
+     "alt": "woman in black long sleeve shirt sitting beside man in gray crew neck shirt",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Your Google Cloud Ecosystem"
+    },
+    {
+     "t": "p",
+     "text": "Our Google Cloud practice is architected around your strategic goals. Explore our core capability areas to see how we build a comprehensive, future-ready cloud for your enterprise."
+    },
+    {
+     "t": "card",
+     "href": "./google-cloud/infrastructure-modernization",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Infrastructure Modernization"
+      },
+      {
+       "t": "p",
+       "text": "We architect your agile foundation on Google's global network. We execute seamless migrations and optimize your core infrastructure with Google Compute Engine (GCE) and Google Cloud VMware Engine for resilience and cost-efficiency."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./google-cloud/application-modernization",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Application Modernization"
+      },
+      {
+       "t": "p",
+       "text": "We architect your cloud-native future. We transform legacy applications into agile, scalable microservices using Google Kubernetes Engine (GKE) and serverless platforms like Cloud Run to accelerate your innovation cycles."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./google-cloud/database-modernization",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Database Modernization"
+      },
+      {
+       "t": "p",
+       "text": "We architect your modern data estate. We migrate and modernize your databases to scalable, open, and intelligent platforms like Cloud SQL and Spanner, eliminating legacy costs and performance bottlenecks."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./google-cloud/data-analytics",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Data Analytics"
+      },
+      {
+       "t": "p",
+       "text": "We architect your single source of truth. We build powerful, serverless data analytics platforms with BigQuery at the core, empowering your teams with real-time, actionable insights through Looker."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./google-cloud/artificial-intelligence",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Artificial Intelligence"
+      },
+      {
+       "t": "p",
+       "text": "We architect your AI advantage. We move beyond hype to deploy production-grade AI solutions using Vertex AI and the powerful Gemini family of models to solve your most complex business challenges."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./google-cloud/cloud-security-governance",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Security & Governance"
+      },
+      {
+       "t": "p",
+       "text": "We architect your peace of mind. Our Max-IT™ Managed Services provide 24/7 proactive management and continuous optimization to ensure your Google Cloud environment delivers lasting value."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./google-cloud/managed-services",
+     "blocks": [
+      {
+       "t": "h3",
+       "text": "Managed Services (Max-IT™)"
+      },
+      {
+       "t": "p",
+       "text": "Drive your business ahead by drawing in customers across multiple platforms."
+      },
+      {
+       "t": "p",
+       "text": "Explore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Reimagining Corporate Commutes"
+    },
+    {
+     "t": "h2",
+     "text": "with Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "A leading Transport‑as‑a‑Service platform—was facing challenges with workload management, cost control, and slow feature rollout. Collaborating with Quadrasystems, they fully migrated critical infrastructure to Google Cloud (Compute Engine & GKE). This enabled scalable, pay‑as‑you‑go operations with sustained-use discounts, alongside auto‑scaling for peak demand."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/u1KYXffiD88GgcLb4w1A2bJSM.jpg",
+     "alt": "Two women celebrate success with a high five.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Achieved zero-downtime migration over eight months, preserving customer trust"
+    },
+    {
+     "t": "p",
+     "text": "Reduced costs significantly through Google Cloud billing controls and sustained-use discounts"
+    },
+    {
+     "t": "p",
+     "text": "Shortened release cycle times from weeks to days via auto‑scaling and cloud-native architecture"
+    },
+    {
+     "t": "p",
+     "text": "Future-proofed infrastructure for AI, IoT, and EV fleet deployments"
+    },
+    {
+     "t": "link",
+     "text": "View More Google Cloud Success Stories",
+     "href": "../happy"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Quadra Advantage for Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Deep Data & AI Focus"
+    },
+    {
+     "t": "h3",
+     "text": "Deep Data & AI Focus"
+    },
+    {
+     "t": "p",
+     "text": "We don't treat data as an afterthought; it's central to our Google Cloud practice. Our expertise is specifically tailored to help you leverage Google's market-leading data and AI services to achieve a true competitive advantage."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7hLLdrK0tksSSpF0eH4ZrOhH2E.jpg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A Holistic, Multi-Cloud Perspective"
+    },
+    {
+     "t": "h3",
+     "text": "Efficient Planning and Real-Time Tracking"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/za0PKa2XhNMBz68vOXCVFAMSvQw.svg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Comprehensive Managed Services"
+    },
+    {
+     "t": "h4",
+     "text": "Comprehensive Managed Services"
+    },
+    {
+     "t": "p",
+     "text": "Beyond deployment, Quadra provides ongoing management, proactive optimization, and 24x7 monitoring of your Google Cloud environment—so you can focus on your business while we keep your cloud running at its best."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fZzxmzkfza5uO1Pv0lCA7KqDY.svg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Proven Methodologies & A Stable Team"
+    },
+    {
+     "t": "h3",
+     "text": "Proven Methodologies & A Stable Team"
+    },
+    {
+     "t": "p",
+     "text": "We combine Google Cloud best practices with the power of a deeply experienced team. Our unique culture of employee longevity ensures your critical data and infrastructure projects are guided by consistent, expert hands from start to finish."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Google Cloud Advantage"
+    },
+    {
+     "t": "p",
+     "text": "Schedule a strategic session with our Google Cloud architects to map out the blueprint for your data-driven enterprise ambition"
+    },
+    {
+     "t": "link",
+     "text": "Book a Google Cloud Strategy Session",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

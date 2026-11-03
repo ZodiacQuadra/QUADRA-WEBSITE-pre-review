@@ -1,0 +1,212 @@
+{
+ "path": "/technology/aws/migration-modernization",
+ "url": "https://www.quadrasystems.net/technology/aws/migration-modernization",
+ "title": "AWS Migration & Modernization: Architect Your Cloud-Nat | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Migration & Modernization"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Cloud-Native Future"
+    },
+    {
+     "t": "p",
+     "text": "We don't just \"lift-and-shift\"; we architect a seamless and strategic transition to the AWS cloud. Our proven methodologies, validated by the AWS Migration Competency and DevOps Competency, de-risk your journey and ensure your new foundation is secure, optimized, and built for agility"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "A Cloud Migration is a"
+    },
+    {
+     "t": "h2",
+     "text": "Critical Business Moment"
+    },
+    {
+     "t": "p",
+     "text": "We partner with leaders to solve the foundational challenges of moving to the cloud and unlocking its true potential"
+    },
+    {
+     "t": "h6",
+     "text": "How do we migrate complex, mission-critical workloads like VMware and Windows Server without business disruption?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we avoid a chaotic, costly cloud environment and build our landing zone right the first time?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we move beyond basic infrastructure to truly modernize our applications for the cloud?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we ensure our migration delivers a clear, positive ROI and reduces our TCO?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Successful AWS Transformation"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is a disciplined journey from strategy to execution, grounded in proven AWS best practices to ensure a successful, value-driven outcome"
+    },
+    {
+     "t": "p",
+     "text": "Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Execute"
+    },
+    {
+     "t": "h2",
+     "text": "Strategy First, Aligned with AWS MAP"
+    },
+    {
+     "t": "p",
+     "text": "We begin every engagement with the AWS Migration Acceleration Program (MAP) framework. Our comprehensive assessment analyzes your infrastructure, identifies dependencies, and creates a tailored, data-driven migration roadmap and a compelling business case."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HQczjMoWEOYJUVydT64hBs7oc.jpg",
+     "alt": "person in black long sleeve shirt using macbook pro",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting Your Complete Cloud Journey"
+    },
+    {
+     "t": "p",
+     "text": "Our capabilities cover the full spectrum of migration and modernization, ensuring a seamless, strategic transition to the AWS cloud"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/hdWnAad6pFypOorI5sVR9nTi0Y.jpeg",
+     "alt": "people inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Migration Assessment & Strategy"
+    },
+    {
+     "t": "p",
+     "text": "We architect your path to the cloud with a comprehensive portfolio analysis and a clear, data-driven roadmap, all grounded in the proven AWS Migration Acceleration Program (MAP) framework."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6mrpUkNW2fr8YFYEO5L33oyubk.jpeg",
+     "alt": "photography of people inside room during daytime",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "VMware Workloads on AWS"
+    },
+    {
+     "t": "p",
+     "text": "We seamlessly migrate and extend your on-premise VMware environments to AWS without costly or complex re-architecting, preserving your existing investment while gaining cloud scalability and resilience."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/90w17jTpLtCWIyzwbkie4jpHi0.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Cloud-Native Modernization"
+    },
+    {
+     "t": "p",
+     "text": "We move beyond \"lift-and-shift\" by architecting legacy applications to leverage modern, agile AWS services, including containers (Amazon ECS, EKS) and serverless technologies (AWS Lambda)."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/8klave1BvGnrNE0APPgfynMhQ.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "DevOps Transformation"
+    },
+    {
+     "t": "p",
+     "text": "We accelerate your innovation velocity by architecting and implementing modern CI/CD pipelines and Infrastructure as Code (IaC) to automate and streamline your software delivery lifecycle."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WsrlXJ3AYXoapeOn8kSq1S7fKgI.jpeg",
+     "alt": "person using phone and laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Microsoft Workloads on AWS"
+    },
+    {
+     "t": "p",
+     "text": "We possess specialized expertise in migrating your entire Microsoft estate—Windows Server, SQL Server, and .NET apps—to AWS and architecting modernization pathways to boost agility and reduce licensing costs."
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting Your Modernization Journey"
+    },
+    {
+     "t": "p",
+     "text": "'Lift-and-shift' feels like just moving the problem. What's the real value?"
+    },
+    {
+     "t": "p",
+     "text": "We view lift-and-shift (re-hosting) as the critical first step, not the final destination. The immediate value is a rapid exit from aging data centers, resulting in immediate cost savings and increased resilience. This initial ROI then funds the strategic second step: a phased, intelligent modernization of your applications to unlock the full agility and innovation of the cloud."
+    },
+    {
+     "t": "p",
+     "text": "We have a huge investment in VMware. Is that wasted by moving to the cloud?"
+    },
+    {
+     "t": "p",
+     "text": "How can Quadra help us maximize the ROI of our AWS investment?"
+    },
+    {
+     "t": "p",
+     "text": "Why choose Quadra over another AWS partner?"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

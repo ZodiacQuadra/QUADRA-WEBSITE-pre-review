@@ -1,0 +1,104 @@
+{
+ "path": "/technology/cyber-security/zero_trust",
+ "url": "https://www.quadrasystems.net/technology/cyber-security/zero_trust",
+ "title": "Zero Trust Services | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Zero Trust Security Architecture"
+    },
+    {
+     "t": "h1",
+     "text": "Security for a World Without Perimeters"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "With users, apps, and data everywhere, the traditional network perimeter is obsolete. How do you provide secure, fast access to business-critical applications without the risks and bottlenecks of a traditional VPN?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/a6AJwewh4Axo7hpZZpIueyRds1k.jpg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wnUzv0z9hQsQucujSeLpZ5hwOY.jpg",
+     "alt": "man drawing on dry-erase board",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Quadra Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "We architect a true Zero Trust model with Zscaler at its core. Our blueprint is to connect users directly and securely to the applications they need, never to the corporate network. We design granular, identity-based access policies that dramatically reduce your attack surface while enhancing user productivity."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern, Identity-First Defense"
+    },
+    {
+     "t": "p",
+     "text": "We leverage industry-leading platforms like Zscaler to build a comprehensive Zero Trust architecture that secures your users, applications, and data, no matter where they are"
+    },
+    {
+     "t": "p",
+     "text": "Secure Private Access"
+    },
+    {
+     "t": "p",
+     "text": "We architect direct user-to-application connections, eliminating the corporate network as an attack surface. This provides secure, least-privilege access to private applications for your hybrid workforce without the risks and bottlenecks of a traditional VPN."
+    },
+    {
+     "t": "p",
+     "text": "Secure Internet Gateway (SIG)"
+    },
+    {
+     "t": "p",
+     "text": "Integrated Data Loss Prevention (DLP)"
+    },
+    {
+     "t": "p",
+     "text": "Digital Experience Monitoring:"
+    },
+    {
+     "t": "p",
+     "text": "Application Segmentation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nl6SYzLFUGiazQlPLnYyjzTPkZg.jpg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Secure Private Access"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

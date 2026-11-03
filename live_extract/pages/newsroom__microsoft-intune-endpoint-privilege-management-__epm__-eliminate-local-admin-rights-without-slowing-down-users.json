@@ -1,0 +1,867 @@
+{
+ "path": "/newsroom/microsoft-intune-endpoint-privilege-management-(epm)-eliminate-local-admin-rights-without-slowing-down-users",
+ "url": "https://www.quadrasystems.net/newsroom/microsoft-intune-endpoint-privilege-management-(epm)-eliminate-local-admin-rights-without-slowing-down-users",
+ "title": "Microsoft Intune Endpoint Privilege Management (EPM): Eliminate Local Admin Rights Without Slowing Down Users",
+ "description": "Microsoft Endpoint Privilege Management (EPM) lets organizations keep users as standard users while securely providing temporary administrator access to approved applications. This blog covers EPM setup in Intune, elevation rules, user requests, admin approvals, and best practices for implementing least privilege and Zero Trust.",
+ "ogImage": "https://framerusercontent.com/images/SExXXSZ54QDIYT0zhETvebfNHD0.png?width=3780&height=1890",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Microsoft Intune Endpoint Privilege Management (EPM): Eliminate Local Admin Rights Without Slowing Down Users"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Intune Endpoint Privilege Management (EPM): Eliminate Local Admin Rights Without Slowing Down Users"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SExXXSZ54QDIYT0zhETvebfNHD0.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Endpoint Privilege Management (EPM) lets organizations keep users as standard users while securely providing temporary administrator access to approved applications. This blog covers EPM setup in Intune, elevation rules, user requests, admin approvals, and best practices for implementing least privilege and Zero Trust."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "h4",
+     "text": "A Complete Hands-On Walkthrough — From Configuration to Secure Application Elevation"
+    },
+    {
+     "t": "p",
+     "text": "What if your users could install approved applications, run PowerShell scripts, or launch administrative tools without ever becoming local administrators?"
+    },
+    {
+     "t": "p",
+     "text": "For years, IT administrators have been forced to choose between two bad options:"
+    },
+    {
+     "t": "p",
+     "text": "Give users permanent administrator rights and increase security risk."
+    },
+    {
+     "t": "p",
+     "text": "Remove administrator rights and create endless helpdesk tickets."
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Endpoint Privilege Management (EPM) changes that completely."
+    },
+    {
+     "t": "p",
+     "text": "Instead of making users local administrators, EPM provides Just-in-Time (JIT) privilege elevation for only the applications you trust—and only when your policies allow it."
+    },
+    {
+     "t": "p",
+     "text": "In this hands-on guide, I'll walk you through the complete deployment of Endpoint Privilege Management using Microsoft Intune. We'll start with the basics, configure the required policies, create elevation rules, walk through the end-user experience, and finish by approving an elevation request from the Intune Admin Center."
+    },
+    {
+     "t": "p",
+     "text": "If you're planning to implement Least Privilege, embrace Zero Trust, or simply eliminate permanent administrator accounts from your Windows devices, this guide is for you."
+    },
+    {
+     "t": "p",
+     "text": "Let's get started."
+    },
+    {
+     "t": "h4",
+     "text": "Why Endpoint Privilege Management?"
+    },
+    {
+     "t": "p",
+     "text": "Let's face it."
+    },
+    {
+     "t": "p",
+     "text": "One of the biggest security problems in enterprise environments isn't malware."
+    },
+    {
+     "t": "p",
+     "text": "It's local administrator rights."
+    },
+    {
+     "t": "p",
+     "text": "Many users receive permanent administrator privileges simply because they occasionally need to install software, update drivers, or run diagnostic tools. Unfortunately, attackers love administrator accounts because they make privilege escalation much easier after compromising a device."
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Endpoint Privilege Management solves this challenge by allowing organizations to keep users as Standard Users while still permitting approved administrative actions whenever they're needed."
+    },
+    {
+     "t": "p",
+     "text": "Instead of elevating the user, EPM elevates only the approved application."
+    },
+    {
+     "t": "p",
+     "text": "The result?"
+    },
+    {
+     "t": "p",
+     "text": "Better security"
+    },
+    {
+     "t": "p",
+     "text": "Better compliance"
+    },
+    {
+     "t": "p",
+     "text": "Better user experience"
+    },
+    {
+     "t": "p",
+     "text": "Fewer helpdesk tickets"
+    },
+    {
+     "t": "h4",
+     "text": "What You'll Need Before You Start"
+    },
+    {
+     "t": "p",
+     "text": "Before configuring Endpoint Privilege Management, make sure your environment meets Microsoft's requirements."
+    },
+    {
+     "t": "p",
+     "text": "You'll need:"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Intune Plan 1"
+    },
+    {
+     "t": "p",
+     "text": "Endpoint Privilege Management Add-on or Microsoft Intune Suite"
+    },
+    {
+     "t": "p",
+     "text": "Windows 11 (supported versions)"
+    },
+    {
+     "t": "p",
+     "text": "Intune-enrolled devices"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra Joined or Hybrid Joined devices"
+    },
+    {
+     "t": "p",
+     "text": "Intune Administrator permissions"
+    },
+    {
+     "t": "p",
+     "text": "Once everything is in place, we're ready to enable Endpoint Privilege Management."
+    },
+    {
+     "t": "h4",
+     "text": "Let's Get Started — Enabling Endpoint Privilege Management"
+    },
+    {
+     "t": "p",
+     "text": "Sign in to the Microsoft Intune Admin Center."
+    },
+    {
+     "t": "p",
+     "text": "Navigate to:"
+    },
+    {
+     "t": "p",
+     "text": "Endpoint Security → Endpoint Privilege Management"
+    },
+    {
+     "t": "p",
+     "text": "You'll notice that Endpoint Privilege Management uses two policy types."
+    },
+    {
+     "t": "p",
+     "text": "Elevation Settings Policy"
+    },
+    {
+     "t": "p",
+     "text": "Elevation Rules Policy"
+    },
+    {
+     "t": "p",
+     "text": "We'll configure both."
+    },
+    {
+     "t": "h4",
+     "text": "Creating the Elevation Settings Policy"
+    },
+    {
+     "t": "p",
+     "text": "The Elevation Settings Policy enables Endpoint Privilege Management on Windows devices."
+    },
+    {
+     "t": "p",
+     "text": "Click:"
+    },
+    {
+     "t": "p",
+     "text": "Policies → Create Policy"
+    },
+    {
+     "t": "p",
+     "text": "Select:"
+    },
+    {
+     "t": "p",
+     "text": "Platform: Windows"
+    },
+    {
+     "t": "p",
+     "text": "Profile: Elevation Settings Policy"
+    },
+    {
+     "t": "p",
+     "text": "Provide a policy name and description before moving to the configuration page."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/G9giypLG8XnWjrrEtcN1i0yXZc.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Configuring the Elevation Settings"
+    },
+    {
+     "t": "p",
+     "text": "Now comes the important part."
+    },
+    {
+     "t": "p",
+     "text": "Enable Endpoint Privilege Management."
+    },
+    {
+     "t": "p",
+     "text": "For Default Elevation Response, choose:"
+    },
+    {
+     "t": "p",
+     "text": "Require Support Approval"
+    },
+    {
+     "t": "p",
+     "text": "This means users can request administrator rights, but nothing runs until an administrator approves the request."
+    },
+    {
+     "t": "p",
+     "text": "It's one of the safest configurations for production environments."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fSUVgKXFCXdkH6yMox3gxoUptns.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Assign the Policy"
+    },
+    {
+     "t": "p",
+     "text": "Assign the policy to your Windows device group."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/65MTkEvskz3zbvdbchFHjW6OVM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "For production environments, it's recommended to begin with a pilot group before rolling out organization-wide."
+    },
+    {
+     "t": "p",
+     "text": "Once assigned, click Review + Create."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/N7S5hoaLGyD3EoDm6T0XKfH68.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Congratulations!"
+    },
+    {
+     "t": "p",
+     "text": "Endpoint Privilege Management is now enabled on your devices."
+    },
+    {
+     "t": "h4",
+     "text": "Creating Elevation Rules"
+    },
+    {
+     "t": "p",
+     "text": "Enabling EPM alone isn't enough."
+    },
+    {
+     "t": "p",
+     "text": "You now need to tell Intune which applications are allowed to run with elevated privileges."
+    },
+    {
+     "t": "p",
+     "text": "That's where Elevation Rules come in."
+    },
+    {
+     "t": "p",
+     "text": "Navigate to:"
+    },
+    {
+     "t": "p",
+     "text": "Endpoint Security → Endpoint Privilege Management → Policies"
+    },
+    {
+     "t": "p",
+     "text": "Click:"
+    },
+    {
+     "t": "p",
+     "text": "Create Policy"
+    },
+    {
+     "t": "p",
+     "text": "Choose:"
+    },
+    {
+     "t": "p",
+     "text": "Platform: Windows"
+    },
+    {
+     "t": "p",
+     "text": "Profile: Elevation Rules Policy"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5f02fZ7nfBnLpcElMsZPiepA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Configuring an Elevation Rule"
+    },
+    {
+     "t": "p",
+     "text": "Each rule describes a trusted application."
+    },
+    {
+     "t": "p",
+     "text": "You can identify applications using:"
+    },
+    {
+     "t": "p",
+     "text": "File Name"
+    },
+    {
+     "t": "p",
+     "text": "File Hash"
+    },
+    {
+     "t": "p",
+     "text": "Publisher Certificate"
+    },
+    {
+     "t": "p",
+     "text": "File Path"
+    },
+    {
+     "t": "p",
+     "text": "Product Name"
+    },
+    {
+     "t": "p",
+     "text": "Internal Name"
+    },
+    {
+     "t": "p",
+     "text": "Version"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft recommends using publisher certificates combined with file hashes whenever possible for better security."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MuLfzNEnlZYFzu21e5wwOOf8m14.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Choosing an Elevation Type"
+    },
+    {
+     "t": "p",
+     "text": "Every rule requires an elevation method."
+    },
+    {
+     "t": "p",
+     "text": "User Confirmed"
+    },
+    {
+     "t": "p",
+     "text": "This is Microsoft's recommended option."
+    },
+    {
+     "t": "p",
+     "text": "When users launch the application:"
+    },
+    {
+     "t": "p",
+     "text": "They receive an elevation prompt."
+    },
+    {
+     "t": "p",
+     "text": "They provide a business justification."
+    },
+    {
+     "t": "p",
+     "text": "Windows can optionally require authentication."
+    },
+    {
+     "t": "p",
+     "text": "This keeps users informed while maintaining strong security controls."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GrT3G1e5mm2l1AsStMolcZ0DyXg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Automatic"
+    },
+    {
+     "t": "p",
+     "text": "Automatic elevation skips all prompts."
+    },
+    {
+     "t": "p",
+     "text": "The application immediately launches with administrator privileges."
+    },
+    {
+     "t": "p",
+     "text": "Only use this for highly trusted applications because poorly designed automatic rules could unintentionally elevate unwanted software."
+    },
+    {
+     "t": "h4",
+     "text": "Getting the Certificate and File Hash"
+    },
+    {
+     "t": "p",
+     "text": "To create a secure rule, you'll usually need both the publisher certificate and the application's hash."
+    },
+    {
+     "t": "h4",
+     "text": "Export the certificate using:"
+    },
+    {
+     "t": "p",
+     "text": "Get-AuthenticodeSignature pathToFile |"
+    },
+    {
+     "t": "p",
+     "text": "Select-Object -ExpandProperty SignerCertificate |"
+    },
+    {
+     "t": "p",
+     "text": "Export-Certificate -Type CERT -FilePath outputPath"
+    },
+    {
+     "t": "h4",
+     "text": "Retrieve the file hash using:"
+    },
+    {
+     "t": "p",
+     "text": "Get-FileHash pathToFile"
+    },
+    {
+     "t": "p",
+     "text": "Add these values to your elevation rule before saving the policy."
+    },
+    {
+     "t": "h4",
+     "text": "The End User Experience"
+    },
+    {
+     "t": "p",
+     "text": "Now let's see what happens from the user's perspective."
+    },
+    {
+     "t": "p",
+     "text": "Suppose a standard user downloads an approved application."
+    },
+    {
+     "t": "p",
+     "text": "Normally, Windows would display a UAC prompt requesting administrator credentials."
+    },
+    {
+     "t": "p",
+     "text": "Instead, the user simply:"
+    },
+    {
+     "t": "p",
+     "text": "Right-clicks the application"
+    },
+    {
+     "t": "p",
+     "text": "Selects Run with elevated access"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vvO3TvRq0gYcXgAoQEJy7Qvd0o.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A request window appears asking for a business justification."
+    },
+    {
+     "t": "p",
+     "text": "The user explains why elevation is required and clicks Send."
+    },
+    {
+     "t": "p",
+     "text": "That's it."
+    },
+    {
+     "t": "p",
+     "text": "No administrator password."
+    },
+    {
+     "t": "p",
+     "text": "No helpdesk call."
+    },
+    {
+     "t": "p",
+     "text": "Just a simple approval workflow."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Dg3JVK5HChQ1Ul81902H70Hwlqg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yG8sPKSyL3LBWsucui1qVGLaY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Reviewing the Request in Intune"
+    },
+    {
+     "t": "p",
+     "text": "Back in the Intune Admin Center, administrators can review pending elevation requests."
+    },
+    {
+     "t": "p",
+     "text": "Navigate to:"
+    },
+    {
+     "t": "h4",
+     "text": "Endpoint Privilege Management → Elevation Requests"
+    },
+    {
+     "t": "p",
+     "text": "Each request contains valuable information including:"
+    },
+    {
+     "t": "p",
+     "text": "User"
+    },
+    {
+     "t": "p",
+     "text": "Device"
+    },
+    {
+     "t": "p",
+     "text": "Application"
+    },
+    {
+     "t": "p",
+     "text": "File Name"
+    },
+    {
+     "t": "p",
+     "text": "Requested Time"
+    },
+    {
+     "t": "p",
+     "text": "Business Justification"
+    },
+    {
+     "t": "p",
+     "text": "The administrator can either:"
+    },
+    {
+     "t": "p",
+     "text": "Approve"
+    },
+    {
+     "t": "p",
+     "text": "Deny"
+    },
+    {
+     "t": "p",
+     "text": "Optionally, a reason can also be provided."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ntqE7N58UWgttXj2SEj2ExAs1I.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/AwiTKkNfP5ujysfrgA023Ji5wmU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Once Approved…"
+    },
+    {
+     "t": "p",
+     "text": "After approval, the user receives confirmation."
+    },
+    {
+     "t": "p",
+     "text": "They simply right-click the application again and select:"
+    },
+    {
+     "t": "p",
+     "text": "Run with elevated access"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NPOfxlO1M27xAgXWVdhCAjyVs.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "This time, the application launches successfully with administrator privileges—without exposing administrator credentials or granting permanent local admin rights."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yfmzpMC1vhh0uo8DIpubo0uAzSE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Why This Is Such a Big Deal"
+    },
+    {
+     "t": "p",
+     "text": "Let's pause for a moment and appreciate what we've achieved."
+    },
+    {
+     "t": "p",
+     "text": "✔ Users remain Standard Users"
+    },
+    {
+     "t": "p",
+     "text": "✔ No permanent administrator accounts"
+    },
+    {
+     "t": "p",
+     "text": "✔ Approved applications run securely"
+    },
+    {
+     "t": "p",
+     "text": "✔ Every elevation is audited"
+    },
+    {
+     "t": "p",
+     "text": "✔ Helpdesk workload decreases"
+    },
+    {
+     "t": "p",
+     "text": "✔ Zero Trust principles are enforced"
+    },
+    {
+     "t": "p",
+     "text": "✔ Better compliance reporting"
+    },
+    {
+     "t": "p",
+     "text": "✔ Improved endpoint security"
+    },
+    {
+     "t": "p",
+     "text": "All while maintaining a seamless experience for end users."
+    },
+    {
+     "t": "h4",
+     "text": "Best Practices"
+    },
+    {
+     "t": "p",
+     "text": "Before rolling out Endpoint Privilege Management across your organization, here are a few recommendations that have consistently worked well in production environments."
+    },
+    {
+     "t": "h4",
+     "text": "Start Small"
+    },
+    {
+     "t": "p",
+     "text": "Deploy EPM to a pilot group first."
+    },
+    {
+     "t": "p",
+     "text": "Monitor request patterns before expanding further."
+    },
+    {
+     "t": "h4",
+     "text": "Prefer Support Approval"
+    },
+    {
+     "t": "p",
+     "text": "Support approval provides the strongest balance between usability and security."
+    },
+    {
+     "t": "h4",
+     "text": "Avoid Broad Rules"
+    },
+    {
+     "t": "p",
+     "text": "Don't create wildcard path rules or overly broad publisher rules."
+    },
+    {
+     "t": "p",
+     "text": "Granular rules always provide better protection."
+    },
+    {
+     "t": "h4",
+     "text": "Review Reports Regularly"
+    },
+    {
+     "t": "p",
+     "text": "Audit elevation requests frequently."
+    },
+    {
+     "t": "p",
+     "text": "Look for:"
+    },
+    {
+     "t": "p",
+     "text": "Frequently elevated applications"
+    },
+    {
+     "t": "p",
+     "text": "Repeat requests"
+    },
+    {
+     "t": "p",
+     "text": "Suspicious activity"
+    },
+    {
+     "t": "p",
+     "text": "Opportunities to optimize policies"
+    },
+    {
+     "t": "h4",
+     "text": "Pros and Cons"
+    },
+    {
+     "t": "h4",
+     "text": "Advantages"
+    },
+    {
+     "t": "p",
+     "text": "✔ Native Microsoft Intune integration"
+    },
+    {
+     "t": "p",
+     "text": "✔ Supports Zero Trust"
+    },
+    {
+     "t": "p",
+     "text": "✔ Eliminates permanent local administrators"
+    },
+    {
+     "t": "p",
+     "text": "✔ Improves compliance"
+    },
+    {
+     "t": "p",
+     "text": "✔ Detailed auditing and reporting"
+    },
+    {
+     "t": "p",
+     "text": "✔ Better user productivity"
+    },
+    {
+     "t": "p",
+     "text": "✔ Reduces helpdesk requests"
+    },
+    {
+     "t": "h4",
+     "text": "Limitations"
+    },
+    {
+     "t": "p",
+     "text": "Additional licensing required"
+    },
+    {
+     "t": "p",
+     "text": "Windows-only solution"
+    },
+    {
+     "t": "p",
+     "text": "Requires careful rule planning"
+    },
+    {
+     "t": "p",
+     "text": "Poorly designed rules can weaken security"
+    },
+    {
+     "t": "h4",
+     "text": "Wrapping Up"
+    },
+    {
+     "t": "p",
+     "text": "If you've followed along, you've now seen the complete journey—from enabling Endpoint Privilege Management and creating elevation settings, to defining application rules, submitting elevation requests, and approving them through Microsoft Intune."
+    },
+    {
+     "t": "p",
+     "text": "The beauty of Endpoint Privilege Management is that it removes the long-standing trade-off between security and productivity. Users no longer need permanent local administrator rights to get their work done, and IT teams no longer must choose between protecting endpoints and keeping employees productive."
+    },
+    {
+     "t": "p",
+     "text": "Whether you're implementing Least Privilege, reducing your organization's attack surface, or strengthening your Zero Trust strategy, Endpoint Privilege Management is one of the most valuable capabilities available in Microsoft Intune today. With thoughtful planning and well-designed elevation rules, you can modernize endpoint administration while maintaining a secure and seamless user experience."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

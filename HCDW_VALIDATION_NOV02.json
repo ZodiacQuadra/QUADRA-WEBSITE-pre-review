@@ -1,0 +1,407 @@
+{
+  "as_of": "2026-11-02",
+  "scope_note": "Targeted OEM primary-source checks of HCDW draft (hcdw_source.txt). Verifies OEM product names, features and availability only. Quadra partner tiers, AWS MSP Competency, certifications, SLAs and customer outcomes were NOT verified.",
+  "rows": [
+    {
+      "id": "CV-01",
+      "topic": "Commvault Cloud Unity platform release and Satori Cyber",
+      "source_claim": "Commvault Cloud Unity is a cloud-native platform unifying data security, identity resilience and cyber recovery; data security strengthened by the acquisition of Satori Cyber.",
+      "finding": "qualify",
+      "safe_direction": "Call it the Commvault Cloud Unity platform release. Note capabilities roll out by feature and deployment model; position Satori as adding data and AI access governance, availability confirmed per deployment.",
+      "sources": [
+        {
+          "title": "Commvault Unveils a New Era in Enterprise Resilience with the Commvault Cloud Unity Platform Release",
+          "url": "https://www.commvault.com/en-gb/news/new-era-in-enterprise-resilience-commvault-cloud-unity-platform-release",
+          "publisher": "Commvault",
+          "date": "2025-11-12",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Introducing the Commvault Cloud Unity Platform Release",
+          "url": "https://www.commvault.com/blogs/introducing-the-commvault-cloud-unity-platform-release",
+          "publisher": "Commvault",
+          "date": "2025-11-12",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Commvault Announces Intent to Acquire Data and AI Security Company Satori Cyber",
+          "url": "https://www.commvault.com/news/commvault-announces-intent-to-acquire-data-and-ai-security-company-satori-cyber",
+          "publisher": "Commvault",
+          "date": "2025-07-24",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Announced Nov 2025; parts available late 2025, rollouts into early 2026. Satori intent announced Jul 2025; Commvault blog cites recent Satori integration."
+    },
+    {
+      "id": "CV-02",
+      "topic": "Commvault identity resilience (AD, Entra ID, Okta)",
+      "source_claim": "Cross-provider identity auditing, Tier 0 exposure discovery and AI-guided remediation across AD, Entra ID and Okta; granular to forest-level AD recovery.",
+      "finding": "qualify",
+      "safe_direction": "Present cross-provider auditing and Tier 0 attack intelligence as announced, early-access capabilities (Commvault IDRecover), not current GA. Keep AD/Entra recovery wording generic unless forest-level and Okta recovery are confirmed with Commvault.",
+      "sources": [
+        {
+          "title": "Commvault Advances Identity Resilience, Enabling Customers to Identify and Manage Hidden Risks in Identity Systems",
+          "url": "https://www.commvault.com/news/commvault-advances-identity-resilience-identify-and-manage-hidden-risks",
+          "publisher": "Commvault",
+          "date": "2026-10-28",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Commvault Unveils a New Era in Enterprise Resilience with the Commvault Cloud Unity Platform Release",
+          "url": "https://www.commvault.com/en-gb/news/new-era-in-enterprise-resilience-commvault-cloud-unity-platform-release",
+          "publisher": "Commvault",
+          "date": "2025-11-12",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "28 Oct 2026 release: auditing and Tier 0 attack intelligence planned for early access in coming quarters under IDRecover. Forest-level and Okta recovery not separately verified."
+    },
+    {
+      "id": "CV-03",
+      "topic": "Commvault cyber recovery and AI operations names",
+      "source_claim": "Threat Scan and clean-point identification, Synthetic Recovery, on-demand Cleanroom, Arlie assistant, Agentic AI (Metallic AI, Arlie).",
+      "finding": "confirmed_concept",
+      "safe_direction": "Keep Synthetic Recovery, Commvault Cleanroom and Arlie (AI assistant). Describe Metallic AI as Commvault Cloud's AI and automation layer. Avoid absolute outcomes such as 'avoiding reinfection' without 'helps'.",
+      "sources": [
+        {
+          "title": "Commvault Enhancements in Cyber Recovery",
+          "url": "https://www.commvault.com/blogs/commvault-enhancements-in-cyber-recovery",
+          "publisher": "Commvault",
+          "date": "2026-04-09",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Metallic AI - Elevate Cyber Resilience",
+          "url": "https://www.commvault.com/platform/metallic-ai",
+          "publisher": "Commvault",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Meet Arlie, the AI Assistant for Commvault Cloud",
+          "url": "https://www.commvault.com/meet-arlie",
+          "publisher": "Commvault",
+          "date": "2026-07-02 (modified)",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Apr 2026 blog covers file-level Synthetic Recovery, Cleanroom runbooks and Arlie incident summaries. Undated Metallic AI page describes Arlie agents and MCP integrations."
+    },
+    {
+      "id": "CV-04",
+      "topic": "Commvault Data Activate",
+      "source_claim": "Data Activate classifies and exports protected data in open formats for AI and analytics.",
+      "finding": "qualify",
+      "safe_direction": "Describe as an announced capability that evolved from Data Rooms; confirm GA and region before listing as available. 'Open formats' may reference Apache Parquet and Iceberg.",
+      "sources": [
+        {
+          "title": "Commvault Introduces Innovations to Advance Secure, Controlled Agentic Transformation in the Enterprise",
+          "url": "https://www.commvault.com/news/commvault-introduces-innovations-to-advance-secure-controlled-agentic-transformation-in-the-enterprise",
+          "publisher": "Commvault",
+          "date": "2026-04-13",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Data Activate: Unlocking the Power of Trusted Data for AI Innovation",
+          "url": "https://www.commvault.com/blogs/data-activate-unlocking-the-power-of-trusted-data-for-ai-innovation",
+          "publisher": "Commvault",
+          "date": "2026-04-13",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Apr 2026 release calls Data Activate, AI Protect and AI Studio new and forthcoming. Blog: evolved from Data Rooms; integrates Azure and Snowflake via Parquet/Iceberg."
+    },
+    {
+      "id": "VE-01",
+      "topic": "Veeam DataAI Command Platform and Securiti AI",
+      "source_claim": "Veeam expanded into a unified data and AI platform after acquiring Securiti AI; the DataAI Command Graph maps data, identities, systems and AI across live and backup environments.",
+      "finding": "qualify",
+      "safe_direction": "Use 'Veeam DataAI Command Platform' (announced May 2026); acquisition completed Dec 2025. Note first resilience modules launched in preview; Veeam Data Platform remains the core backup product.",
+      "sources": [
+        {
+          "title": "Veeam Completes Acquisition of Securiti AI",
+          "url": "https://www.veeam.com/company/press-release/veeam-acquires-securiti-ai.html",
+          "publisher": "Veeam",
+          "date": "2025-12-11",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Veeam Launches DataAI Command Platform",
+          "url": "https://www.veeam.com/company/press-release/veeam-launches-dataai-command-platform-the-industrys-first-unified-data-and-ai-trust-infrastructure-for-the-agentic-era.html",
+          "publisher": "Veeam",
+          "date": "2026-05-12",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Acquisition closed 11 Dec 2025. Platform announced 12 May 2026 with preview of DataAI Resilience Module and ResOps for M365. Graph renamed from Data Command Graph."
+    },
+    {
+      "id": "VE-02",
+      "topic": "Veeam Agent Commander",
+      "source_claim": "Veeam DataAI Agent Commander inventories AI agents, copilots and models, identifies risky AI activity, enforces data-access controls and undoes AI mistakes.",
+      "finding": "correct",
+      "safe_direction": "Use the product name 'Veeam Agent Commander'. State it was announced Feb 2026 for a future Securiti release with early access; do not imply GA or complete agent inventory.",
+      "sources": [
+        {
+          "title": "Veeam Introduces Agent Commander to Confront Agentic AI Risk at Enterprise Scale",
+          "url": "https://www.veeam.com/company/press-release/veeam-introduces-agent-commander-to-confront-agentic-ai-risk-at-enterprise-scale.html",
+          "publisher": "Veeam",
+          "date": "2026-02-24",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Agent Commander: Addressing AI Risk in the Agentic Era",
+          "url": "https://www.veeam.com/blog/agent-commander-ai-risk-solution.html",
+          "publisher": "Veeam",
+          "date": "2026-02-24 (updated 2026-03-11)",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Feb 2026 release names 'Agent Commander', available in a future Securiti Data Command Center release; blog offers early access. GA not confirmed in this pass."
+    },
+    {
+      "id": "VE-03",
+      "topic": "Veeam compliance framework mapping and India regulators",
+      "source_claim": "Compliance maps to 100+ regulatory frameworks including GDPR, HIPAA, DORA, NIST, EU AI Act and AI RMF; Quadra aligns controls to DPDP Act, RBI, SEBI and IRDAI.",
+      "finding": "qualify",
+      "safe_direction": "Drop the count or attribute it to Veeam. Present DPDP/RBI/SEBI/IRDAI alignment as Quadra advisory mapping subject to scoping, not an OEM mapping, certification or compliance outcome.",
+      "sources": [
+        {
+          "title": "Veeam Launches DataAI Command Platform",
+          "url": "https://www.veeam.com/company/press-release/veeam-launches-dataai-command-platform-the-industrys-first-unified-data-and-ai-trust-infrastructure-for-the-agentic-era.html",
+          "publisher": "Veeam",
+          "date": "2026-05-12",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Veeam's May 2026 release states mapping to 100+ frameworks (vendor claim). No OEM source mapped DPDP or Indian sector regulators; Quadra capability not verified."
+    },
+    {
+      "id": "VE-04",
+      "topic": "Veeam Data Platform v13.1 AD forest recovery and Recovery Orchestrator testing",
+      "source_claim": "Automated AD forest recovery (v13.1); hardened immutability with four-eyes approval; Veeam Recovery Orchestrator tests against live backups with zero production impact and audit evidence.",
+      "finding": "confirmed_concept",
+      "safe_direction": "Keep, adding that features vary by Veeam Data Platform edition. Recovery Orchestrator targets vSphere, Hyper-V and Azure, not every platform. Soften 'zero production impact' to 'isolated, non-disruptive testing'.",
+      "sources": [
+        {
+          "title": "Veeam Data Platform v13.1 Now Available",
+          "url": "https://www.veeam.com/company/press-release/veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-from-cyber-disruption.html",
+          "publisher": "Veeam",
+          "date": "2026-07-29",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Identity Protection - Veeam Backup & Replication What's New",
+          "url": "https://helpcenter.veeam.com/docs/vbr/wn/identity_protection.html?ver=13",
+          "publisher": "Veeam",
+          "date": "undated (v13.1 docs)",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Veeam Recovery Orchestrator User Guide - Overview",
+          "url": "https://helpcenter.veeam.com/docs/vro/userguide/overview.html",
+          "publisher": "Veeam",
+          "date": "2026-08-26",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Governance, Risk and Compliance | Veeam Data Platform",
+          "url": "https://www.veeam.com/products/veeam-data-platform/governance-risk-compliance.html",
+          "publisher": "Veeam",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "v13.1 GA 29 Jul 2026 with guided AD forest recovery; some features Advanced/Premium only. VRO: isolated test labs, compliance reports; vSphere, Hyper-V and Azure targets."
+    },
+    {
+      "id": "DR-01",
+      "topic": "Druva AI resilience: Copilot and Claude",
+      "source_claim": "Druva Resilience Cloud with Dru MetaGraph backs up and governs Microsoft 365 Copilot and Claude conversations, prompts, projects and generated content.",
+      "finding": "correct",
+      "safe_direction": "Copilot prompts, responses and generated files are fine. Limit Claude to Claude Code and Cowork data on managed Windows/macOS endpoints; Druva states Claude.ai chat history is out of scope.",
+      "sources": [
+        {
+          "title": "Druva Advances AI Resilience to Address the Speed and Sophistication of AI-Driven Risk",
+          "url": "https://www.druva.com/why-druva/about/press-releases/druva-advances-ai-resilience",
+          "publisher": "Druva",
+          "date": "2026-07-21",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Claude Backup & Recovery for AI-Powered Work",
+          "url": "https://www.druva.com/use-cases/ai-resilience/ai/claude-backup",
+          "publisher": "Druva",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Druva Claude Backup: Your Safety Net for AI-Powered Work",
+          "url": "https://www.druva.com/blog/druva-claude-backup-for-ai-work",
+          "publisher": "Druva",
+          "date": "2026-03-30",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Jul 2026 launch added Copilot and Claude Code protection via Resilience Cloud and Dru MetaGraph. Claude Backup FAQ excludes cloud-stored Claude.ai chats; delivered through Endpoints."
+    },
+    {
+      "id": "DR-02",
+      "topic": "Druva Identity Resilience",
+      "source_claim": "Air-gapped, immutable backup and recovery for AD, Entra ID and Okta; AD granular restore without restarting DCs and guided forest recovery; BYOK support.",
+      "finding": "confirmed_concept",
+      "safe_direction": "Keep AD, Entra ID and Okta protection and forest-level recovery. Note Enterprise per-user licensing. Remove 'without restarting DCs' and BYOK unless confirmed in current Druva documentation.",
+      "sources": [
+        {
+          "title": "Druva Pioneers Identity-Aware Resilience for Okta, Active Directory, and Entra ID",
+          "url": "https://www.druva.com/why-druva/about/press-releases/druva-launches-identity-resilience",
+          "publisher": "Druva",
+          "date": "2026-03-17",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Druva Identity Resilience | Documentation",
+          "url": "https://help.druva.com/en/articles/14085072-druva-identity-resilience",
+          "publisher": "Druva",
+          "date": "2026-08-27",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Mar 2026 launch added Okta and AD alongside Entra ID, including forest-level recovery. Aug 2026 doc confirms Enterprise per-user licensing. DC-restart and BYOK claims unchecked."
+    },
+    {
+      "id": "DR-03",
+      "topic": "Druva guarantee and regions",
+      "source_claim": "$10M Resilience Guarantee (terms apply); 26 regions to support data residency.",
+      "finding": "correct",
+      "safe_direction": "Name it the Druva Data Resiliency Guarantee: up to $10M via financially backed SLAs for qualifying customers meeting program requirements. Not insurance or a Quadra commitment. Say regions vary by workload.",
+      "sources": [
+        {
+          "title": "The Data Resiliency Guarantee",
+          "url": "https://www.druva.com/products/resiliency-guarantee",
+          "publisher": "Druva",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Druva Data Resiliency Guarantee Agreement",
+          "url": "https://www.druva.com/documents/resilience-guarantee/agreement.pdf",
+          "publisher": "Druva",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Supported Cloud Storage Regions for Enterprise Workloads",
+          "url": "https://help.druva.com/en/articles/11401434-supported-cloud-storage-regions-for-enterprise-workloads",
+          "publisher": "Druva",
+          "date": "2026-09-22",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "AWS Region Availability Matrix",
+          "url": "https://help.druva.com/en/articles/15162912-aws-region-availability-matrix",
+          "publisher": "Druva",
+          "date": "2026-09-09",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Guarantee: up to $10M, five SLAs, eligibility, health check, exclusions. Enterprise workloads list 26 storage regions (18 AWS, 6 Azure, 2 GovCloud); Dynamics/Salesforce support fewer."
+    },
+    {
+      "id": "VND-01",
+      "topic": "Vendor TCO and savings figures",
+      "source_claim": "Commvault positions up to 3x lower TCO; Druva cites savings up to 40% versus legacy backup.",
+      "finding": "not_verified",
+      "safe_direction": "Omit figures. Use neutral copy: consolidation can reduce tooling and operational overhead; Quadra models cost per estate. Never present vendor figures as Quadra outcomes.",
+      "sources": [
+        {
+          "title": "Commvault Announces Intent to Acquire Data and AI Security Company Satori Cyber",
+          "url": "https://www.commvault.com/news/commvault-announces-intent-to-acquire-data-and-ai-security-company-satori-cyber",
+          "publisher": "Commvault",
+          "date": "2025-07-24",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "No current primary source for 3x or 40% found in this bounded pass. Commvault 2025 boilerplate claims generic lowest TCO. Treat as unverified vendor marketing."
+    },
+    {
+      "id": "EUC-01",
+      "topic": "Digital workspace product names and OS coverage",
+      "source_claim": "UEM with Omnissa Workspace ONE, Citrix XenMobile and Scalefusion manages iOS, Android, Windows, macOS and Linux with one policy framework; NetScaler; Citrix and Omnissa Horizon VDI/DaaS.",
+      "finding": "correct",
+      "safe_direction": "Replace XenMobile with Citrix Endpoint Management. Say OS coverage varies by platform; drop 'one policy framework' across three tools. NetScaler, Citrix DaaS and Omnissa Horizon names are current.",
+      "sources": [
+        {
+          "title": "Citrix Secure Hub overview",
+          "url": "https://docs.citrix.com/us/en/citrix-secure-hub/overview.html",
+          "publisher": "Citrix",
+          "date": "2026-10-26",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Managing Devices with Workspace ONE UEM",
+          "url": "https://docs.omnissa.com/WorkspaceONE-UEM-Managing-Devices-VSaaS/AWT-MANAGINGDEVICESOVERVIEW",
+          "publisher": "Omnissa",
+          "date": "2026-10-07",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Unified Endpoint Management (UEM) Software",
+          "url": "https://scalefusion.com/unified-endpoint-management-uem/",
+          "publisher": "Scalefusion",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "NetScaler technical documentation home",
+          "url": "https://docs.netscaler.com/",
+          "publisher": "Citrix (NetScaler)",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Citrix docs call Endpoint Management formerly XenMobile. Omnissa lists Android, iOS/iPadOS, macOS, Windows, ChromeOS, Linux; Scalefusion similar. Citrix Linux UEM not confirmed."
+    },
+    {
+      "id": "INF-01",
+      "topic": "VMware Cloud Foundation and Red Hat OpenShift Virtualization",
+      "source_claim": "VCF integrated stack for compute, storage, networking, security and lifecycle (vSphere, vSAN, NSX); run VMs and Kubernetes side by side; evaluate Red Hat OpenShift Virtualization.",
+      "finding": "confirmed_concept",
+      "safe_direction": "Keep. VCF 9.x components include vSphere, vSAN, NSX, VKS, VCF Operations and VCF Automation. OpenShift Virtualization runs VMs alongside containers; keep 'evaluate where it fits'.",
+      "sources": [
+        {
+          "title": "VMware Cloud Foundation 9.1 Frequently Asked Questions",
+          "url": "https://www.vmware.com/docs/vmware-cloud-foundation-9-1-general-faqs",
+          "publisher": "Broadcom",
+          "date": "2026-09-03",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "VMware Cloud Foundation 9.0 documentation",
+          "url": "https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0.html",
+          "publisher": "Broadcom",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        },
+        {
+          "title": "Red Hat OpenShift Virtualization",
+          "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization",
+          "publisher": "Red Hat",
+          "date": "undated",
+          "retrieved": "2026-11-02"
+        }
+      ],
+      "evidence_summary": "Broadcom Sep 2026 FAQ lists VCF 9.1 components. Red Hat describes OpenShift Virtualization managing VMs alongside containers; a VM-only Virtualization Engine edition also exists."
+    }
+  ],
+  "limitations": [
+    "Bounded (~5 min) pass; 14 checks on high-risk claims, not exhaustive feature-by-feature validation.",
+    "Quadra partner tiers, AWS MSP Competency, 'certified depth', SLAs, BFSI/healthcare delivery claims and customer outcomes were not verified.",
+    "GA status per region, edition and deployment model (software, SaaS, appliance) was not confirmed for announced features; confirm with each OEM before publishing as available.",
+    "Commvault forest-level AD and Okta recovery, Druva BYOK and AD restore without DC restart, Commvault 3x TCO and Druva 40% claims were not located in primary sources in this pass.",
+    "Several product pages are undated living documents; marked 'undated' and should be rechecked before go-live.",
+    "Druva's AI Resilience overview page uses broader Claude wording than its Claude Backup FAQ; the narrower FAQ scope was adopted.",
+    "Vendor statements (frameworks count, 'first', '#1') are OEM claims, not independent validation; no analyst or customer evidence was reviewed."
+  ]
+}

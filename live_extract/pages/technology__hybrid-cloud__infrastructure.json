@@ -1,0 +1,175 @@
+{
+ "path": "/technology/hybrid-cloud/infrastructure",
+ "url": "https://www.quadrasystems.net/technology/hybrid-cloud/infrastructure",
+ "title": "Hybrid Cloud Infrastructure: Modern Software-Defined Da | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Hybrid Cloud Infrastructure"
+    },
+    {
+     "t": "h1",
+     "text": "Modern Software-Defined Data Center"
+    },
+    {
+     "t": "p",
+     "text": "We empower your enterprise with a scalable, secure, and highly virtualized foundation. Leveraging our deep expertise in the VMware stack, we build the agile and resilient hybrid cloud infrastructure your ambition demands"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Overcoming the Complexity of"
+    },
+    {
+     "t": "h2",
+     "text": "Modern Infrastructure"
+    },
+    {
+     "t": "p",
+     "text": "Leaders need a flexible platform that can seamlessly integrate and manage resources without compromising security or performance."
+    },
+    {
+     "t": "h6",
+     "text": "How do we overcome the bottlenecks of legacy systems and inefficient resource utilization?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we ensure high availability and business continuity without adding massive complexity?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we build a foundation that can securely adapt to a hybrid, multi-cloud future?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for a High-Performance Scalable Foundation"
+    },
+    {
+     "t": "p",
+     "text": "We design a future-ready virtual environment that unifies compute, storage, and networking for seamless workload management"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Engineer"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Architect for Scalability & Resilience"
+    },
+    {
+     "t": "p",
+     "text": "We create a flexible design that supports dynamic workload demands with vSphere clusters, distributed resource scheduling, and high availability features to ensure your infrastructure maintains uptime and performance as it grows"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SD2fXxQCgHUkNTIfhHmNXFD3k.jpeg",
+     "alt": "person in black long sleeve shirt using macbook pro",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Infrastructure Architecture Capabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/P8tE12AU2VwJ30MRley863Dcbs.jpg",
+     "alt": "person sitting front of laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Advanced Virtualization with VMware vSphere"
+    },
+    {
+     "t": "p",
+     "text": "Maximizing resource utilization and workload density."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/AdBAXlmxfY4KGixPPzuTkLWPOa0.jpg",
+     "alt": "a laptop computer sitting on top of a desk",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Centralized Management with vCenter Server"
+    },
+    {
+     "t": "p",
+     "text": "Unified control, monitoring, and lifecycle management at scale."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6wAGJrfEo0WYFcaQruXkGJ84Jgs.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Software-Defined Storage & Networking (vSAN, NSX)"
+    },
+    {
+     "t": "p",
+     "text": "Building flexible, policy-driven storage and network virtualization."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4h91XnDSQ84Gb7v4CYUz1DHIM.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Hybrid & Multi-Cloud Integration"
+    },
+    {
+     "t": "p",
+     "text": "Seamlessly extending your infrastructure to public and private clouds."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vPZPuLKPuzz5dsNs4OfCOEjjh9s.jpeg",
+     "alt": "man sitting facing silver MacBook inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "High Availability & Fault Tolerance"
+    },
+    {
+     "t": "p",
+     "text": "Architecting for continuous application uptime with automated failover."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

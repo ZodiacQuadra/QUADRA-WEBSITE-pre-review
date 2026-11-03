@@ -1,0 +1,116 @@
+{
+ "path": "/happy/accelerating-digital-transformation-for-fintech",
+ "url": "https://www.quadrasystems.net/happy/accelerating-digital-transformation-for-fintech",
+ "title": "Internal Transformation Case Study | Quadra",
+ "description": "Architected and deployed a unified security and productivity platform, and seamlessly migrated legacy applications to a modern RPA platform, enhancing their internal security, compliance, and scalability.",
+ "ogImage": "https://framerusercontent.com/images/RyaSPC6zvUa64tUJdhdd1HsJ0.jpeg?width=3000&height=2000",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Internal Transformation for a Global FinTech SaaS Company"
+    },
+    {
+     "t": "p",
+     "text": "Fintech"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RyaSPC6zvUa64tUJdhdd1HsJ0.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global FinTech company providing cloud-based autonomous software for finance leaders at over two thousand enterprises."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To undergo a comprehensive internal digital transformation, upgrading their own security posture and modernizing legacy applications to meet the world-class standards they provide to their clients."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a unified security and productivity platform, and seamlessly migrated legacy applications to a modern RPA platform, enhancing their internal security, compliance, and scalability."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global FinTech company providing cloud-based autonomous software for finance leaders at over two thousand enterprises."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The primary challenge was internal legacy. They had a number of ad-hoc native applications built on older platforms that were struggling to scale. Additionally, their internal security and compliance framework needed to be upgraded to a more modern, integrated platform to meet emerging business needs and ensure comprehensive mobile device management."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As a leading SaaS provider to Fortune 500 companies, the client's ambition was to ensure their internal IT and security infrastructure was as modern and robust as the product they sold. They needed to 'walk the talk' to maintain the trust of their high-profile clientele."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The transformation ensured that the client's internal operations were as sophisticated as their external product. The unified technology platform reduced administrative overheads, lowered complexity, and strengthened their security posture. The modern RPA platform provided the scale and security they needed for their rapidly expanding business. This internal transformation gave them a more robust foundation and amplified the trust their own customers placed in them."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Modernized Internal Security to Enterprise-Grade Standards"
+    },
+    {
+     "t": "p",
+     "text": "Seamlessly Migrated Legacy Apps to a Modern RPA Platform"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Cost & Complexity with a Unified Technology Platform"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Trust with Their Own Fortune 500 Clientele"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

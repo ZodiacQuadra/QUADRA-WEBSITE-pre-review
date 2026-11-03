@@ -1,0 +1,116 @@
+{
+ "path": "/happy/uc-redefines-productivity",
+ "url": "https://www.quadrasystems.net/happy/uc-redefines-productivity",
+ "title": "Unified Communications Platform Case Study | Quadra",
+ "description": "Architected and deployed a highly available, integrated Unified Communications (UC) platform that broke down silos and provided a tangible ROI through enhanced productivity and collaboration.",
+ "ogImage": "https://framerusercontent.com/images/YP9Si0YhRbqEmlAaVee6C02NRb0.jpeg?width=6000&height=4000",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified Communications Platform for a Multi-Billion Dollar Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Manufacturing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YP9Si0YhRbqEmlAaVee6C02NRb0.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "One of the oldest and most prominent business groups in India, with a turnover of more than USD 4 billion and a workforce of nearly 20,000."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To deploy an enterprise-class messaging and collaboration solution that would empower their global knowledge workers and senior management to be more productive."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a highly available, integrated Unified Communications (UC) platform that broke down silos and provided a tangible ROI through enhanced productivity and collaboration."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "One of the oldest and most prominent business groups in India, with a turnover of more than USD 4 billion and a workforce of nearly 20,000."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their current infrastructure, though functional, was a mix of disparate and outdated systems, including an open-source email solution. It lacked the rich collaboration features their users demanded and was becoming difficult to manage. They needed a solution that could co-exist with their legacy systems during a transition and provide enterprise-grade high availability for their most critical users."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to foster a more connected and agile work culture to support their global operations. They needed a modern platform that could provide intuitive, powerful collaboration capabilities to their demanding knowledge workers and senior management, moving beyond basic email to a true unified communications experience."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new platform transformed their ability to collaborate. By leveraging our cross-platform expertise, we delivered a holistic customer experience that provided tangible ROI. The end-to-end project management insulated the customer from the technical complexities of the migration, allowing them to focus on leveraging the business value of the new, powerful collaboration tools from day one."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Deployed an Enterprise-Grade Unified Communications Platform"
+    },
+    {
+     "t": "p",
+     "text": "Ensured High Availability for Mission-Critical Users"
+    },
+    {
+     "t": "p",
+     "text": "Seamlessly Migrated from a Heterogeneous Legacy Environment"
+    },
+    {
+     "t": "p",
+     "text": "Accelerated Adoption with Custom Executive Training"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

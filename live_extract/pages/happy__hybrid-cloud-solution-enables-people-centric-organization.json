@@ -1,0 +1,116 @@
+{
+ "path": "/happy/hybrid-cloud-solution-enables-people-centric-organization",
+ "url": "https://www.quadrasystems.net/happy/hybrid-cloud-solution-enables-people-centric-organization",
+ "title": "Hybrid Security & Management Fabric Case Study | Quadra",
+ "description": "Architected and deployed a hybrid solution that integrated cloud and on-premise tools to deliver advanced security, comprehensive device management, and self-service IT capabilities.",
+ "ogImage": "https://framerusercontent.com/images/dbgkYM5nx1Jkwtn0lqFERiA5Ed0.jpeg?width=5184&height=3888",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Hybrid Security & Management Fabric for a Global IT Services Provider"
+    },
+    {
+     "t": "p",
+     "text": "IT-Enabled Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dbgkYM5nx1Jkwtn0lqFERiA5Ed0.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "An IT services and solution provider with marquee clients across the globe and a culture focused on innovation."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To build on their existing cloud investment to create a comprehensive, hybrid security and device management framework for their global workforce."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a hybrid solution that integrated cloud and on-premise tools to deliver advanced security, comprehensive device management, and self-service IT capabilities."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "An IT services and solution provider with marquee clients across the globe and a culture focused on innovation."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "While they had adopted a SaaS cloud platform, they needed to add more advanced security layers. Key challenges included managing endpoints, preventing data leakage, and reducing the heavy load on their helpdesk for common tasks like password resets."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to deliver a superior, people-centric customer experience, which required empowering their own employees with the right tools in a secure manner. They needed to extend their existing cloud platform with more advanced security layers to protect data and manage a diverse landscape of devices."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The hybrid solution allowed them to realize tangible business value from both their on-premise and cloud investments. Data leakage fears were completely put to rest with secure encryption and detailed document tracking. Greatly reduced helpdesk workloads freed IT to focus on more strategic initiatives. Single Sign-On (SSO) eased user pain points and improved productivity, all without compromising on security or compliance requirements."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Integrated On-Premise & Cloud for a Unified Security Fabric"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Helpdesk Workload with Self-Service IT"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Data Protection with Persistent Encryption"
+    },
+    {
+     "t": "p",
+     "text": "Improved User Productivity with Single Sign-On (SSO)"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

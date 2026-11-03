@@ -1,0 +1,116 @@
+{
+ "path": "/happy/securing-data-for-healthcare-provider",
+ "url": "https://www.quadrasystems.net/happy/securing-data-for-healthcare-provider",
+ "title": "AI-Powered Endpoint Security Strategy Case Study | Quadra",
+ "description": "Architected and deployed a modern, cloud-based endpoint security platform that provided predictive threat prevention, deep visibility, and enhanced compliance for over two thousand users.",
+ "ogImage": "https://framerusercontent.com/images/pXYuW8XaFwbM5Q3cf5fMHx30Ms.jpeg?width=3376&height=6000",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an AI-Powered Endpoint Security Strategy for a Global Healthcare Services Provider"
+    },
+    {
+     "t": "p",
+     "text": "Healthcare"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pXYuW8XaFwbM5Q3cf5fMHx30Ms.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global provider of healthcare services, including revenue cycle management and medical coding, handling sensitive patient information."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To move beyond traditional antivirus and implement an advanced, AI-driven endpoint security solution to protect highly sensitive patient data and ensure client trust."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a modern, cloud-based endpoint security platform that provided predictive threat prevention, deep visibility, and enhanced compliance for over two thousand users."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global provider of healthcare services, including revenue cycle management and medical coding, handling sensitive patient information."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their existing endpoint solution lacked the advanced capabilities needed for the modern threat landscape. It offered limited visibility into threats, had a heavy performance footprint on user devices, and could not provide the predictive intelligence required to stop zero-day attacks. This exposed them to significant business and compliance risks."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to establish a security posture that reflected their critical role in the healthcare ecosystem. Their reputation and business continuity rested on their ability to protect sensitive patient data. They needed a foolproof security framework that could defend against both known and unknown threats without burdening end-users or IT staff."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new platform transformed their security operations. The AI-powered, behavioral protection significantly reduced the risk of breaches, providing peace of mind. The lightweight agent eliminated performance issues, improving employee productivity. The IT team benefited from a single, integrated solution that provided deep insights and simplified management, freeing them from the complexity of collating logs from multiple point products. This allowed them to provide a higher level of security assurance to their global clients."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Deployed Predictive, AI-Driven Threat Prevention"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Protection of Sensitive Healthcare Data"
+    },
+    {
+     "t": "p",
+     "text": "Improved Endpoint Performance & User Productivity"
+    },
+    {
+     "t": "p",
+     "text": "Unified Security Management from a Single Platform"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

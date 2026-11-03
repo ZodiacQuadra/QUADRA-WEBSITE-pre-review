@@ -1,0 +1,194 @@
+{
+ "path": "/why-quadra/our-story",
+ "url": "https://www.quadrasystems.net/why-quadra/our-story",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "From Trusted Partner to"
+    },
+    {
+     "t": "h1",
+     "text": "Visionary Architect"
+    },
+    {
+     "t": "p",
+     "text": "For 25 years, our story has been one of constant evolution, guided by an unwavering commitment to our partners' success. We've navigated every technology wave by helping our partners not just adapt, but gain a definitive advantage from the change"
+    }
+   ]
+  },
+  {
+   "name": "Section - Process",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "The Foundation (The 1990s - 2000s)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lpufmJrYbC3orAI7y8nod6w9Bg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Building the Bedrock"
+    },
+    {
+     "t": "p",
+     "text": "Our journey began with a simple premise: technology is useless unless it solves a business problem. We built our reputation on being the trusted partner who delivered robust, reliable IT infrastructure. We earned our clients' trust by ensuring their systems worked, every time."
+    },
+    {
+     "t": "h3",
+     "text": "The Cloud Shift (The 2010s)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/KhBZq97zDBSvfmKdvbwbPoKKJrY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Leading the Migration"
+    },
+    {
+     "t": "p",
+     "text": "When the cloud emerged, we saw it not just as a new technology, but as a fundamental shift in business architecture. We invested heavily, building deep expertise to guide our partners safely and strategically to the cloud, transforming their infrastructure into an engine for agility and scale."
+    },
+    {
+     "t": "h3",
+     "text": "The AI Era (Today)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uzkjBDFWHlFFnRRe5yRSU2VWTAs.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Architecting Intelligence"
+    },
+    {
+     "t": "p",
+     "text": "Today, we stand at the dawn of the AI era. Our role has evolved again. We are now the strategic architects helping leaders build the Intelligent Enterprise—harnessing the power of AI and data to unlock new levels of innovation, efficiency, and market leadership."
+    }
+   ]
+  },
+  {
+   "name": "Container",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our North Star"
+    },
+    {
+     "t": "p",
+     "text": "Our adaptability and commitment to excellence are validated by an achievement without parallel in our industry"
+    },
+    {
+     "t": "h2",
+     "text": "Our Vision"
+    },
+    {
+     "t": "p",
+     "text": "To be the architects of a future where technology is no longer a barrier to ambition, but its most powerful catalyst."
+    },
+    {
+     "t": "h2",
+     "text": "Our Mission"
+    },
+    {
+     "t": "p",
+     "text": "To serve as the indispensable strategic partner for the world's leading businesses, architecting the intelligent and secure systems that transform enterprise ambition into lasting advantage."
+    }
+   ]
+  },
+  {
+   "name": "Features - Cards",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Constant in an Era of Change"
+    },
+    {
+     "t": "p",
+     "text": "Our adaptability and commitment to excellence are validated by an achievement without parallel in our industry"
+    },
+    {
+     "t": "h2",
+     "text": "20 Consecutive Years of Microsoft Global Recognition"
+    },
+    {
+     "t": "p",
+     "text": "Through every technology shift, every market cycle, one thing has remained constant: our recognition as a world-class partner. This unbroken, two-decade streak is the ultimate proof of our ability to stay ahead of the curve and deliver enduring value for our partners."
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Principles We Architect By"
+    },
+    {
+     "t": "p",
+     "text": "Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "Trust"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "h2",
+     "text": "Your Ambition is Our Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "We are obsessively customer-centric. We listen first, seeking to understand your strategic goals before we ever talk about technology."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TkluGkm7x8YyelMuzsiA2UmGY.jpeg",
+     "alt": "man and woman sitting side by side by the table",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Build a Partnership on"
+    },
+    {
+     "t": "h2",
+     "text": "This Foundation"
+    },
+    {
+     "t": "p",
+     "text": "Discover how our values and vision can help you architect your own success story"
+    },
+    {
+     "t": "link",
+     "text": "Start a Strategic Dialogue",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

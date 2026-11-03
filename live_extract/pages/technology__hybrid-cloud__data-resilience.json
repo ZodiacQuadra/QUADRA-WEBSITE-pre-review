@@ -1,0 +1,175 @@
+{
+ "path": "/technology/hybrid-cloud/data-resilience",
+ "url": "https://www.quadrasystems.net/technology/hybrid-cloud/data-resilience",
+ "title": "Data Resilience & Backup: Architect Your Unshakeable Sa | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Data Resilience & Backup"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Unshakeable Safety Net"
+    },
+    {
+     "t": "p",
+     "text": "We architect and deploy reliable, scalable, and efficient backup and recovery solutions with Veeam and Commvault to safeguard your enterprise data across your entire hybrid infrastructure."
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "In a World of Constant"
+    },
+    {
+     "t": "h2",
+     "text": "Threats, Data Resilience is Non-Negotiable"
+    },
+    {
+     "t": "p",
+     "text": "Leaders need absolute confidence that their most valuable asset—their data—is protected, compliant, and rapidly recoverable."
+    },
+    {
+     "t": "h6",
+     "text": "How do we efficiently manage and protect exponential data growth across multiple platforms?"
+    },
+    {
+     "t": "h6",
+     "text": "How can we guarantee rapid and reliable recovery to minimize downtime and data loss?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we defend our backups against ransomware and meet stringent compliance requirements?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Resilient & Agile Data Protection"
+    },
+    {
+     "t": "p",
+     "text": "We design a unified backup strategy that balances scalability, security, and operational efficiency to protect today's diverse and dynamic data environments"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Engineer"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Architect for Comprehensive Data Coverage"
+    },
+    {
+     "t": "p",
+     "text": "Our blueprint ensures that no critical data is left unprotected, providing a unified strategy for virtual machines, physical servers, cloud workloads, databases, and SaaS applications."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SQ8i2r0b3bETKdCNS8Wx8prFVIs.jpeg",
+     "alt": "person using MacBook Pro",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Data Resilience Architecture Capabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RVqKJt0kN7MhO9zjokdoiXA76Y.jpeg",
+     "alt": "person using MacBook",
+     "w": 810
+    },
+    {
+     "t": "h4",
+     "text": "Multi-Platform Protection (Veeam, Commvault)"
+    },
+    {
+     "t": "p",
+     "text": "Protecting data across virtual, physical, and hybrid cloud environments."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7yRVTe1mU7fbxj6zCuSwJ19OhIk.jpeg",
+     "alt": "a laptop computer sitting on top of a desk",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Automated Backup & Recovery"
+    },
+    {
+     "t": "p",
+     "text": "Policy-driven automation to simplify scheduling, retention, and recovery."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/UKkTZ8up4aA9N8YAQ6Pk5VJy1E.jpeg",
+     "alt": "black flat screen computer monitor turned on beside black computer keyboard",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Disaster Recovery Orchestration"
+    },
+    {
+     "t": "p",
+     "text": "Automating and testing recovery plans to ensure business continuity."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/AyCSaYnUVLMd9z3AzooPDuYpcE.jpeg",
+     "alt": "man sitting facing silver MacBook inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Ransomware Protection"
+    },
+    {
+     "t": "p",
+     "text": "Architecting solutions with immutable storage and anomaly detection."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zNUoxVehtw9Ir52FncXEaGyKd8.jpeg",
+     "alt": "black flat screen computer monitor turned on beside black computer keyboard",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Centralized Management & Reporting"
+    },
+    {
+     "t": "p",
+     "text": "Providing unified dashboards for backup status, compliance, and data protection health."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

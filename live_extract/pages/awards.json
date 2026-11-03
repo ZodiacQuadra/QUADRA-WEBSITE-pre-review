@@ -1,0 +1,200 @@
+{
+ "path": "/awards",
+ "url": "https://www.quadrasystems.net/awards",
+ "title": "Awards & Recognition | 20+ Years Microsoft Excellence | Quadra",
+ "description": "Recognized through Microsoft partner awards, Quadra represents 20+ years of excellence, innovation, and enterprise technology leadership.",
+ "ogImage": "https://framerusercontent.com/assets/EapVcJToi3gMJtNAZIGfmnIghI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "20 Consecutive Years of"
+    },
+    {
+     "t": "h1",
+     "text": "Microsoft Global Recognition"
+    },
+    {
+     "t": "p",
+     "text": "Our awards are more than trophies on a shelf. They are the validation of our enduring commitment to our partners' success and the tangible proof of our ability to architect solutions that consistently lead the industry"
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "20 Consecutive Years of Microsoft Global Recognition"
+    },
+    {
+     "t": "p",
+     "text": "For two decades, through every major technology shift, Quadra has been honored by Microsoft on the world stage for our innovation, customer impact, and architectural excellence. This unbroken streak is unmatched in India and stands as the ultimate testament to our ability to help our partners stay ahead of the curve. It is the foundation of the trust you place in us"
+    },
+    {
+     "t": "h2",
+     "text": "An Achievement Without Parallel"
+    },
+    {
+     "t": "p",
+     "text": "In an industry defined by constant change, our consistency is our hallmark"
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h5",
+     "text": "Oracle Gold Partner"
+    },
+    {
+     "t": "h5",
+     "text": "IBM Premier Partner"
+    },
+    {
+     "t": "h6",
+     "text": "First Citrix Specialist Partner for Virtualization in India"
+    },
+    {
+     "t": "h5",
+     "text": "Gold Partner of the Year – South India, Sri Lanka, Maldives"
+    },
+    {
+     "t": "h5",
+     "text": "Premier 100 Award Winner"
+    },
+    {
+     "t": "h5",
+     "text": "Pre-Sales Engineer of the Year – South India"
+    },
+    {
+     "t": "h5",
+     "text": "Citrix Achiever Award - Indian Sub-Continent"
+    },
+    {
+     "t": "h5",
+     "text": "V Champion Award – Solution Provider Award"
+    },
+    {
+     "t": "h5",
+     "text": "Growth Partner of the year – APJ"
+    },
+    {
+     "t": "h5",
+     "text": "Emerging Partner of the year – South India"
+    },
+    {
+     "t": "h5",
+     "text": "Top Competitive Win – APJ"
+    },
+    {
+     "t": "h5",
+     "text": "Best Competitive Win"
+    },
+    {
+     "t": "h5",
+     "text": "Best SMB Pre Sales Performance"
+    },
+    {
+     "t": "h5",
+     "text": "Special Recognition Award – APJ"
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Legacy of Ambition"
+    },
+    {
+     "t": "p",
+     "text": "Each moment captured is more than a memory, it’s a cornerstone in the architecture of our success. Together, they tell the story of growth, resilience, and enduring ambition."
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "What Our Legacy of Recognition"
+    },
+    {
+     "t": "h2",
+     "text": "Means for Your Ambition"
+    },
+    {
+     "t": "p",
+     "text": "Our awards are not about us. They are a promise to you"
+    },
+    {
+     "t": "p",
+     "text": "Expertise"
+    },
+    {
+     "t": "p",
+     "text": "Consistency"
+    },
+    {
+     "t": "p",
+     "text": "Innovation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NlmrKgjW5RJfWNfju52WCm68ExA.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "It Means Proven Expertise"
+    },
+    {
+     "t": "p",
+     "text": "You are partnering with a team that has been consistently judged by the industry's highest standards and has been found to be a leader, year after year. We architect with proven excellence."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/rO4muOG50CNNQV7I5ejPOk8qTx4.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4sYBP4plE9vUu7MXZVivIMSEA.jpeg",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Build a Partnership on"
+    },
+    {
+     "t": "h2",
+     "text": "This Foundation"
+    },
+    {
+     "t": "p",
+     "text": "Discover how our values and vision can help you architect your own success story"
+    },
+    {
+     "t": "link",
+     "text": "Start a Strategic Dialogue",
+     "href": "./contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

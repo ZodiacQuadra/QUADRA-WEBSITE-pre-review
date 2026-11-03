@@ -1,0 +1,116 @@
+{
+ "path": "/happy/leading-fleet-management-provider-devops-transformation",
+ "url": "https://www.quadrasystems.net/happy/leading-fleet-management-provider-devops-transformation",
+ "title": "Modern DevOps Framework Case Study | Quadra",
+ "description": "Architected and deployed a streamlined CI/CD pipeline on AWS that accelerated time-to-market by 60%, reduced manual tasks by 85%, and increased software quality by 75%.",
+ "ogImage": "https://framerusercontent.com/images/1dFi3Ig5oxv48vLSg90vmOAId6o.jpeg?width=4000&height=2667",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern DevOps Framework for a Leading Fleet Management Provider"
+    },
+    {
+     "t": "p",
+     "text": "IT-Enabled Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1dFi3Ig5oxv48vLSg90vmOAId6o.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A technology-focused startup providing end-to-end connected mobility solutions to fleet owners and businesses."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To transform their software delivery process from a slow, manual 45-day cycle to a modern, automated DevOps model to accelerate innovation and time-to-market."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a streamlined CI/CD pipeline on AWS that accelerated time-to-market by 60%, reduced manual tasks by 85%, and increased software quality by 75%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A technology-focused startup providing end-to-end connected mobility solutions to fleet owners and businesses."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The entire software release process was manual, taking 40-45 days and involving developers, testers, and infrastructure admins. This created significant operational bottlenecks, delayed release frequency, and hindered their ability to deliver value to customers. They faced inconsistent container image builds, lacked security testing (SAST), and had no effective way to track changes or manage rollbacks."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate with the agility of a leading technology company. They needed to innovate and respond to customer requirements quickly. This required moving away from a manual, bottleneck-ridden release process to a modern, automated framework that could support rapid, reliable, and high-quality software delivery."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new automated framework completely transformed their software delivery capability. By accelerating the time-to-market by 60%, they could deliver value to their customers faster and more frequently. The streamlined CI/CD workflow reduced manual tasks by 85%, minimizing errors and enabling faster iteration cycles. Automated testing helped identify defects early, increasing software product quality by 75%, and the automated rollback mechanism ensured that service reliability improved by 90%."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Accelerated Time-to-Market by 60%"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Manual Deployment Tasks by 85%"
+    },
+    {
+     "t": "p",
+     "text": "Increased Software Product Quality by 75%"
+    },
+    {
+     "t": "p",
+     "text": "Improved Service Reliability by 90%"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

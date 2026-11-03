@@ -1,0 +1,500 @@
+{
+ "path": "/newsroom",
+ "url": "https://www.quadrasystems.net/newsroom",
+ "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+ "description": "Stay informed with expert insights on enterprise cloud AI solutions and intelligent enterprise architecture, powered by Quadra’s Microsoft cloud expertise.",
+ "ogImage": "https://framerusercontent.com/assets/GEXXMfVbhM87WjmlhwBHhXtRlE.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Page Title",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Newsroom"
+    },
+    {
+     "t": "h1",
+     "text": "Enterprise Technology Strategy & Trends"
+    },
+    {
+     "t": "p",
+     "text": "We don't just follow the future; we architect it. Explore our insights on the strategic technology shifts that are redefining industries and creating new opportunities for ambitious enterprises."
+    },
+    {
+     "t": "link",
+     "text": "Explore our Thinking",
+     "href": "./newsroom#exploreourthinking-1"
+    },
+    {
+     "t": "link",
+     "text": "Accelerate Your Business",
+     "href": "./newsroom#accelerateyourbusiness-1"
+    },
+    {
+     "t": "link",
+     "text": "Founder's Blog",
+     "href": "./newsroom#foundersblog"
+    },
+    {
+     "t": "link",
+     "text": "Get Social With Us",
+     "href": "./newsroom#getsocialwithus"
+    }
+   ]
+  },
+  {
+   "name": "title",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Explore Our Thinking"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "card",
+     "href": "./newsroom/the-architect’s-view",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/JLP3VREBTbwCHIUhAmngXkXCFDU.png",
+       "alt": "",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/the-architect’s-view",
+     "blocks": [
+      {
+       "t": "h2",
+       "text": "AI is Not a Magic Wand. It is an Architectural Material"
+      },
+      {
+       "t": "p",
+       "text": "For 25 years, we have architected solutions to our clients' most complex challenges. Today, the material has changed, but the principle has not. We believe that real business value from AI is not found in the hype; it is architected with purpose, clarity, and discipline."
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "Read more",
+     "href": "./newsroom/the-architect’s-view"
+    }
+   ]
+  },
+  {
+   "name": "Testimonials",
+   "blocks": [
+    {
+     "t": "card",
+     "href": "./newsroom/finding-sensitive-data-in-azure-cloud-storage",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/k5pFYLQLtiWuoA0L25iu7HCFM3M.png",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "h5",
+       "text": "Finding Sensitive Data in Azure Cloud Storage: Why Checking Files One by One Just Doesn’t Work"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/from-legacy-vms-to-cloud-native-applications",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/onnX8dR5lQOJlXVlTl0TKGSQiQA.png",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "h5",
+       "text": "From Legacy VMs to Cloud-Native Applications: Practical Workload Migration Strategies with Google Kubernetes Engine."
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/the-autonomous-engineering-era-google-antigravity-gemini-enterprise",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Gu7P3YYRBNXbzdQcIc5YQEeLU8.png",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "h5",
+       "text": "The Autonomous Engineering Era"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/cross-cloud-disaster-recovery-for-sap-hana",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/wYJxzlsUXwi0bW9W5UQKtx5qED4.png",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "h5",
+       "text": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./newsroom/that-file-shared-for-one-project-is-still-open-three-years-later",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/d4sPRerWvoBHLvJaCI9c2RkKUaA.png",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "h5",
+       "text": "That File Shared for One Project Is Still Open Three Years Later"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Load More"
+    }
+   ]
+  },
+  {
+   "name": "title",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Accelerate Your Business"
+    }
+   ]
+  },
+  {
+   "name": "Testimonials",
+   "blocks": [
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/eNGB/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/uWhKh2lLBN70YMQaEMKNMb0NGE.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Are You Overlooking DPDP Risks? Join Quadra’s Session"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fffq/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/ogRVxjMA0unMqA90rdnHahV99xI.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Are you Overwhelmed with Digital clutter ? Quadra unifies workflow in one AI workspace"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fElr/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/U4B5hlKhqFKx5k3mJ0hoQZVgCU.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "AWS protects your cloud. It doesn't cover your endpoints"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fxNu/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Q3tixR90kbAKEXdPCiwOdHhBY4.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "One unified BI layer across your entire stack — Quadra architects it."
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fdiW/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/oW1dD2PEqAp9dgZ3RiL9H4AJbo.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "High Data Costs? Meet Quadra’s AWS Efficiency Blueprint."
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fiAy/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/OwlhQdWUI3UoqaOPNmVLRJk.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "How to give your Board the AI results they’ve been asking for."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Load More"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Founder's Blog"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/when-intelligence-becomes-abundant-judgement-becomes-scarce",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/fLvyojCxbpOirPO0g8iZXRYM6MI.png",
+       "alt": "",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Sep 24, 2026"
+    },
+    {
+     "t": "p",
+     "text": "When Intelligence Becomes Abundant, Judgement Becomes Scarce"
+    },
+    {
+     "t": "p",
+     "text": "I sometimes miss the days of poorly formatted Word documents, clumsy PowerPoint decks and emails with typos and imperfect grammar. Those imperfections made the person behind the work visible. You could see where someone had wrestled with an idea, where they were uncertain and how they had arrived at a conclusion. When you challenged an assumption, there was usually a human train of thought to examine."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DNLLIDHLv0cEGKtbYkLrNr8aCQQ.jpg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Prashanth Subramanian"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/the-most-underrated-enterprise-asset-of-2026",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/UAbRTztn4G1lCqPlwlKZCLViQ.png",
+       "alt": "",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Jun 24, 2026"
+    },
+    {
+     "t": "p",
+     "text": "The most underrated enterprise asset of 2026"
+    },
+    {
+     "t": "p",
+     "text": "Enterprise AI advantage will not come from chasing the latest model. It will come from building the harness, private evals, and operating layer that make any capable model perform against business outcomes."
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/the-overlooked-human-skill-that-can-10x-your-ai-productivity-copy",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/OYewk5HHRrVxr9aYK5JMMGOPSWw.png",
+       "alt": "",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "May 6, 2026"
+    },
+    {
+     "t": "p",
+     "text": "Is Your Business Transmission-Ready?"
+    },
+    {
+     "t": "p",
+     "text": "The gap between what AI produces and what enterprises can act on is where value is created — or lost. Real impact happens when AI outputs become decisions and workflows."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MyJS23OonnakukNzWNipIIS85A.jpg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/a-new-economics-of-winning-in-ai",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/gn4lbJmJj0owHiO4swEHIjdb0BM.png",
+       "alt": "",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Mar 24, 2026"
+    },
+    {
+     "t": "p",
+     "text": "A New Economics of Winning in AI"
+    },
+    {
+     "t": "p",
+     "text": "AI is changing how companies work. Organizations that use AI effectively move faster with smaller teams, while others risk falling behind."
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Load More"
+    }
+   ]
+  },
+  {
+   "name": "title",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Get Social With Us"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect"
+    },
+    {
+     "t": "h2",
+     "text": "Your Own Success Story?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about your challenges and design a blueprint for your enterprise ambition."
+    },
+    {
+     "t": "link",
+     "text": "Talk to Our Architects",
+     "href": "./contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

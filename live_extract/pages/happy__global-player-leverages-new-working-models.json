@@ -1,0 +1,116 @@
+{
+ "path": "/happy/global-player-leverages-new-working-models",
+ "url": "https://www.quadrasystems.net/happy/global-player-leverages-new-working-models",
+ "title": "Healthcare Secure DaaS Platform Case Study | Quadra",
+ "description": "Architected an innovative and secure virtual desktop delivery solution that unlocked a new, high-growth business model, reduced delivery costs, and enhanced productivity.",
+ "ogImage": "https://framerusercontent.com/images/EXRnne2oVIFC1cjbRe8ovzhcA.jpeg?width=6100&height=4067",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Secure DaaS Platform to Unlock a New Business Model for a Global Healthcare Leader"
+    },
+    {
+     "t": "p",
+     "text": "Healthcare"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/EXRnne2oVIFC1cjbRe8ovzhcA.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global leader in intelligent systems, providing transcription services to healthcare clients with tens of thousands of users."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To securely and cost-effectively tap into the 'work-from-home' talent pool, a viable and profitable business model they were previously unable to exploit due to security and technology constraints."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected an innovative and secure virtual desktop delivery solution that unlocked a new, high-growth business model, reduced delivery costs, and enhanced productivity."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global leader in intelligent systems, providing transcription services to healthcare clients with tens of thousands of users."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The primary challenges were security and connectivity. They could not risk having sensitive healthcare data on unmanaged home PCs. Furthermore, they could not guarantee a stable, high-speed internet connection for all remote workers. Their custom software and strict compliance regulations meant that traditional desktop models were not an option."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to innovate their business model to reduce costs and increase service quality. They identified the work-from-home talent pool as a massive, untapped opportunity, but could only leverage it if they could solve the significant security and technical challenges involved."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The solution opened up a new vista for our customer. They were now able to leverage the work-from-home model to its full potential, leading to significant business growth. The combination of reduced delivery costs and a more productive work experience was a win-win. Data security and compliance needs were fully met, and the IT team had complete control over the deployment. This innovative architecture enabled a new, more profitable way of working."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unlocked a New, Profitable Business Model"
+    },
+    {
+     "t": "p",
+     "text": "Enabled a Secure & Compliant 'Work-from-Home' Workforce"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Service Delivery Costs Significantly"
+    },
+    {
+     "t": "p",
+     "text": "Standardized Desktops for Simplified Management & Training"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

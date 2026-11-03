@@ -1,0 +1,126 @@
+{
+ "path": "/technology/aws/microsite/generative-ai",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/generative-ai",
+ "title": "Aws Generative Ai Bedrock Enterprise | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Generative AI"
+    },
+    {
+     "t": "h1",
+     "text": "From AI Potential to Profitable Enterprise Reality"
+    },
+    {
+     "t": "p",
+     "text": "As an AWS GenAI Competency Partner, we move beyond hype to architect and deploy production-grade Generative AI solutions that solve your most complex challenges, drive radical efficiency, and create new, data-driven revenue streams."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "From AI Potential to Profitable Reality"
+    },
+    {
+     "t": "p",
+     "text": "Every leader knows Generative AI is a transformative force, but the path to value is complex. How do you move from experimentation to enterprise-scale ROI? How do you securely connect these powerful models to your proprietary business data? And how do you ensure your AI is not just powerful, but also responsible and governed?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iNybHyn2ecySOW7eNCg1SPLRFw.jpg",
+     "alt": "people sitting near table with laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0Kq8pK9uYQKXZPbFtCUk1cOnA.jpg",
+     "alt": "a group of people sitting around a table with laptops",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for Responsible, High-Impact GenAI"
+    },
+    {
+     "t": "h6",
+     "text": "Our approach is a disciplined journey from strategy to scale, built on a foundation of responsible AI principles."
+    },
+    {
+     "t": "p",
+     "text": "Strategy First (Art-of-the-Possible): We start with your business ambition, co-ideating high-value use cases in strategic workshops."
+    },
+    {
+     "t": "p",
+     "text": "Architect a Secure Data Foundation: We design the secure data pipelines and Retrieval-Augmented Generation (RAG) architectures required to safely connect foundation models to your unique data."
+    },
+    {
+     "t": "p",
+     "text": "Deploy and Scale Intelligence: We build, fine-tune, and deploy intelligent applications using Amazon Bedrock, ensuring they are not only powerful but also secure, compliant, and cost-effective at scale."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Generative AI Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Strategic GenAI Roadmapping"
+    },
+    {
+     "t": "p",
+     "text": "Defining your AI strategy, use cases, and governance framework."
+    },
+    {
+     "t": "p",
+     "text": "Foundation Model Expertise (Amazon Bedrock)"
+    },
+    {
+     "t": "p",
+     "text": "Retrieval-Augmented Generation (RAG)"
+    },
+    {
+     "t": "p",
+     "text": "Custom AI Agent & Copilot Development"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/2yOyHgSFXxalpvLcLJ8KuPRnwHw.jpg",
+     "alt": "man teaching woman while pointing on gray laptop",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Strategic GenAI Roadmapping"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect Your AI Advantage?"
+    },
+    {
+     "t": "link",
+     "text": "Book an AI Strategy Session",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

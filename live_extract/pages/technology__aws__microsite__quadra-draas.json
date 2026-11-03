@@ -1,0 +1,118 @@
+{
+ "path": "/technology/aws/microsite/quadra-draas",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/quadra-draas",
+ "title": "AWS Disaster Recovery as a Service (DRaaS): Unshakeable | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Disaster Recovery as a Service (DRaaS)"
+    },
+    {
+     "t": "h1",
+     "text": "Unshakeable Resilience"
+    },
+    {
+     "t": "p",
+     "text": "We architect and deliver a fully managed Disaster Recovery-as-a-Service (DRaaS) on AWS, ensuring your mission-critical applications are always on, data will be in sync and protected, and your business is always ready for the unexpected."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Downtime is Not an Option. Hope is Not a Strategy"
+    },
+    {
+     "t": "p",
+     "text": "In a 24/7 economy, any disruption to your critical operations—whether from a site failure, a natural disaster, or a ransomware attack—can have devastating financial and reputational consequences. Leaders are asking: \"How do we guarantee business continuity? How do we protect ourselves from modern threats? And how do we do it without the massive cost and complexity of a traditional, mirrored DR site?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/a6AJwewh4Axo7hpZZpIueyRds1k.jpg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wnUzv0z9hQsQucujSeLpZ5hwOY.jpg",
+     "alt": "man drawing on dry-erase board",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for Continuous Business Operations"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to architect a resilient, automated, and cost-effective DR strategy using the power of AWS Elastic Disaster Recovery (DRS). We design a solution that provides a warm, on-demand recovery site in the cloud, giving you enterprise-grade protection with a pay-as-you-go model. Our blueprint focuses on automated failover, regular non-disruptive testing, and a single pane of glass for managing your entire resilience posture."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our DRaaS Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Continuous Data Replication"
+    },
+    {
+     "t": "p",
+     "text": "We ensure block-level replication of your on-premise or cloud-based machines to a low-cost staging area in AWS, meeting the most demanding Recovery Point Objectives (RPOs)."
+    },
+    {
+     "t": "p",
+     "text": "Rapid, Orchestrated Failover"
+    },
+    {
+     "t": "p",
+     "text": "Non-Disruptive DR Drills"
+    },
+    {
+     "t": "p",
+     "text": "Ransomware Protection & Recovery"
+    },
+    {
+     "t": "p",
+     "text": "Comprehensive Platform Support"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/LWjHua6ZJSWMLB37Cud4q58MWU.jpg",
+     "alt": "a person using a laptop",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Continuous Data Replication"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect Your Resilience?"
+    },
+    {
+     "t": "link",
+     "text": "Schedule a Resilience Assessment",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,244 @@
+{
+ "path": "/technology/google-cloud/managed-services",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/managed-services",
+ "title": "Google Cloud Managed Services: Expert Cloud Operations | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Google Cloud Managed Services"
+    },
+    {
+     "t": "h1",
+     "text": "Expert Cloud Operations & Support"
+    },
+    {
+     "t": "p",
+     "text": "Our Max-IT™ Managed Services for Google Cloud transform your cloud operations. We provide the proactive management, continuous optimization, and strategic guidance that allows you to focus on your ambition while we ensure your Google Cloud is secure, efficient, and resilient"
+    }
+   ]
+  },
+  {
+   "name": "Bento",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Google Cloud is Powerful."
+    },
+    {
+     "t": "h2",
+     "text": "Managing it is a Relentless Task"
+    },
+    {
+     "t": "p",
+     "text": "Businesses choose Google Cloud for its innovation in data and AI, but managing this powerful environment effectively requires deep, continuous expertise"
+    },
+    {
+     "t": "h5",
+     "text": "How do we gain control over our Google Cloud costs?"
+    },
+    {
+     "t": "p",
+     "text": "Without constant oversight, cloud spend can become unpredictable. You need a partner who can provide consistent budgeting and continuously optimize resources to reduce operational expenses."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ppxR0ClRRLBqkqoFHanqwPTg.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How can we free our IT teams from day-to-day cloud management?"
+    },
+    {
+     "t": "p",
+     "text": "Your internal teams are bogged down by the intricacies of cloud operations. You need to free up their time from maintenance so they can focus on strategic innovation."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TxoYr2DXeT2Z2X5euRJ9WPGsWNQ.jpeg",
+     "alt": "two men shaking hands in a conference room",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we protect our data and applications on this open platform?"
+    },
+    {
+     "t": "p",
+     "text": "You need robust security measures that are expertly configured, including continuous threat monitoring, proactive vulnerability management, and stringent access controls."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Kz3ruThuuUoDjNaWSmYLBWDBuU.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we keep up with Google's rapid pace of innovation?"
+    },
+    {
+     "t": "p",
+     "text": "Your internal teams are bogged down by the intricacies of cloud operations. You need to offload routine management so they can focus on strategic, value-added projects."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/r37PhqUZycpLLGUWUsx7EeiLXGg.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Max-IT™ Blueprint: Your Partnership in Cloud Excellence"
+    },
+    {
+     "t": "p",
+     "text": "Our Google Cloud Managed Services are a partnership in continuous improvement. We architect a framework for operational excellence across three key pillars."
+    },
+    {
+     "t": "p",
+     "text": "Foundation"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Partnership"
+    },
+    {
+     "t": "h2",
+     "text": "A Foundation of Proactive Operations"
+    },
+    {
+     "t": "p",
+     "text": "Our 24/7, global support team of AWS-certified engineers provides continuous monitoring, automation, and SLA-backed incident response to ensure maximum uptime and business continuity for your critical workloads."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pwOCQ86eV6uTDBY7fWUfJB09WU.jpg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Comprehensive Service Portfolio, Architected for Your Needs"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT™ provides an indispensable advantage through a wide range of managed services covering your entire AWS estate"
+    },
+    {
+     "t": "p",
+     "text": "Infrastructure Management"
+    },
+    {
+     "t": "p",
+     "text": "Proactive monitoring, maintenance, and automation for your Google Compute Engine (GCE) instances, networks, and storage."
+    },
+    {
+     "t": "p",
+     "text": "Application & Database Management"
+    },
+    {
+     "t": "p",
+     "text": "Security & Compliance Management"
+    },
+    {
+     "t": "p",
+     "text": "Cost Optimization & FinOps"
+    },
+    {
+     "t": "p",
+     "text": "Data & Analytics Platform Management"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/swXljoVDvYXz67yOFGhEJzGmqw.jpeg",
+     "alt": "man sitting in front of laptop",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Infrastructure Management"
+    }
+   ]
+  },
+  {
+   "name": "FAQ",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Ambition, Realized: Architecting a"
+    },
+    {
+     "t": "h2",
+     "text": "Unified Cloud Platform for a Renewable Energy Leader"
+    },
+    {
+     "t": "p",
+     "text": "For a leader in renewable energy management, we architected a seamless migration from a complex, multi-vendor environment to a unified platform on Google Cloud Platform. Our managed services ensure their infrastructure is optimized, performant, and cost-effective."
+    },
+    {
+     "t": "h4",
+     "text": "Key Outcomes"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/CLaQVUcZJxmdFZrKQjVmSDfgwJ0.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "p",
+     "text": "Consolidated a complex, hybrid infrastructure onto a single platform"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced application performance and reliability."
+    },
+    {
+     "t": "p",
+     "text": "Achieved significant operational efficiency and cost savings"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect a Better Way to Manage Google Cloud?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about how our Max-IT™ Managed Services can free you to focus on your ambition, while we ensure your Google Cloud foundation is built to last"
+    },
+    {
+     "t": "link",
+     "text": "Discuss Our Managed Services",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

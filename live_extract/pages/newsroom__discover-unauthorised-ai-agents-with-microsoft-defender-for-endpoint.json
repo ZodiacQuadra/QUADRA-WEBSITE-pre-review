@@ -1,0 +1,497 @@
+{
+ "path": "/newsroom/discover-unauthorised-ai-agents-with-microsoft-defender-for-endpoint",
+ "url": "https://www.quadrasystems.net/newsroom/discover-unauthorised-ai-agents-with-microsoft-defender-for-endpoint",
+ "title": "Discover Unauthorised AI agents with Microsoft Defender for Endpoint",
+ "description": "Microsoft Defender for Endpoint helps organizations securely adopt AI by automatically discovering local AI agents running on managed devices and providing centralized visibility into their activity, users, and resource access. It also offers AI Agent Runtime Protection to detect and block prompt injection attacks in real time, helping security teams strengthen governance, reduce risk, and protect enterprise endpoints.",
+ "ogImage": "https://framerusercontent.com/images/OqU8rKMGe52ZEnCjh6LaiiJfzcg.png?width=867&height=432",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Discover Unauthorised AI agents with Microsoft Defender for Endpoint"
+    },
+    {
+     "t": "p",
+     "text": "Discover Unauthorised AI agents with Microsoft Defender for Endpoint"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/OqU8rKMGe52ZEnCjh6LaiiJfzcg.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Defender for Endpoint helps organizations securely adopt AI by automatically discovering local AI agents running on managed devices and providing centralized visibility into their activity, users, and resource access. It also offers AI Agent Runtime Protection to detect and block prompt injection attacks in real time, helping security teams strengthen governance, reduce risk, and protect enterprise endpoints."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "h4",
+     "text": "Discover Unauthorised AI agents with Microsoft Defender for Endpoint"
+    },
+    {
+     "t": "p",
+     "text": "Local AI agents run with user-level permissions and can access files, tools, and services on the devices where they operate. Without visibility into which agents are running and what they can reach, security team can't assess exposure, enforce governance, or respond to agent-related incidents."
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Defender automatically discovers supported local AI agents and MCP server configurations on onboarded devices, then surfaces them in the Microsoft Defender portal. This gives security team centralized view of AI agent presence across the organization"
+    },
+    {
+     "t": "h4",
+     "text": "Local AI agent discovery on endpoints"
+    },
+    {
+     "t": "p",
+     "text": "Defender automatically detects supported local AI agents and MCP server configurations on onboarded devices. When Defender identifies a supported local AI agent, the agent is displayed as a discoverable asset in the Microsoft Defender portal with visibility into:"
+    },
+    {
+     "t": "p",
+     "text": "Local AI agent inventory: A centralized view of discovered local AI agents with device and user associations and discovery metadata."
+    },
+    {
+     "t": "p",
+     "text": "Exposure map: Visual relationships between local AI agents, devices, identities, and the resources those identities can access, to help assess potential impact."
+    },
+    {
+     "t": "p",
+     "text": "Advanced hunting: Hunting for discovery data using Kusto Query Language (KQL) to investigate local AI agents and the resources they can access based on the permissions of the user running them."
+    },
+    {
+     "t": "h4",
+     "text": "Supported local AI agents and MCP server configurations"
+    },
+    {
+     "t": "p",
+     "text": "Defender defines an agent as a combination of a user, a device, and an agent type. For example, if Claude Code runs in 15 different project folders on the same device for the same user, it appears as a single agent entry in the inventory."
+    },
+    {
+     "t": "p",
+     "text": "Defender discovers supported local AI agents on Windows and macOS endpoints. This includes agents that run from the command line, desktop apps, agentic IDEs, VS Code extensions, and Claw-based local agent implementations. When supported, Microsoft Defender also discovers MCP server configurations associated with these agents, including local and remote MCP server configurations."
+    },
+    {
+     "t": "h5",
+     "text": "Supported local AI agents include:"
+    },
+    {
+     "t": "p",
+     "text": "CLI agents: Claude Code, Codex CLI, Gemini CLI, GitHub Copilot CLI, Junie CLI, Kiro CLI, OpenCode, Warp, Antigravity CLI"
+    },
+    {
+     "t": "p",
+     "text": "Desktop apps: ChatGPT Desktop, Claude Desktop, Codex Desktop, Goose Desktop, Hermes Agent, Ollama Desktop, Perplexity Desktop, Poe Desktop"
+    },
+    {
+     "t": "p",
+     "text": "Agentic IDEs: Cursor, Devin Desktop (formerly Windsurf), Kiro IDE, Antigravity IDE"
+    },
+    {
+     "t": "p",
+     "text": "VS Code extensions: Claude Code, Cline, Codex, Gemini Code Assist, GitHub Copilot, Roo Code"
+    },
+    {
+     "t": "p",
+     "text": "Claw-based agents: OpenClaw, Clawpilot, QClaw, Claw/Nanobot"
+    },
+    {
+     "t": "h4",
+     "text": "Broader AI security capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Defender's discovery capabilities are part of a comprehensive AI security approach. Microsoft Defender provides other capabilities across your organization's AI ecosystem:"
+    },
+    {
+     "t": "p",
+     "text": "Discover cloud and platform agents: Find agents built with Microsoft Copilot Studio, Microsoft Foundry, Amazon Web Services (AWS) Bedrock, and Google Cloud Platform (GCP) Vertex AI."
+    },
+    {
+     "t": "p",
+     "text": "Detect and investigate threats: Correlate alerts and investigate suspicious agent behaviour across your security infrastructure."
+    },
+    {
+     "t": "p",
+     "text": "Prerequisites"
+    },
+    {
+     "t": "p",
+     "text": "Before you can discover local AI agents on endpoints, make sure you meet the following requirements:"
+    },
+    {
+     "t": "p",
+     "text": "Your environment is in the commercial cloud. Sovereign and national clouds aren't supported."
+    },
+    {
+     "t": "p",
+     "text": "Your organization has a Microsoft Defender for Endpoint Plan 2 or Microsoft 365 E5 + Microsoft Agent 365, or Microsoft 365 E7 license."
+    },
+    {
+     "t": "p",
+     "text": "Your devices are onboarded to Microsoft Defender for Endpoint ."
+    },
+    {
+     "t": "p",
+     "text": "Your devices run a supported version of Windows or macOS, and Microsoft Defender Antivirus is updated with current monthly platform and engine updates."
+    },
+    {
+     "t": "p",
+     "text": "Your devices are running Microsoft Defender Antivirus in active mode with real-time protection enabled in Windows Security."
+    },
+    {
+     "t": "p",
+     "text": "You don't need additional deployment, configuration, or scripts beyond the device onboarding requirements. If the device meets all of the prerequisites, agent discovery begins automatically."
+    },
+    {
+     "t": "p",
+     "text": "View local AI agents in the inventory"
+    },
+    {
+     "t": "h6",
+     "text": "Step 1: To view a list of all local AI agents discovered on endpoints:"
+    },
+    {
+     "t": "p",
+     "text": "Sign in to the Microsoft Defender portal ."
+    },
+    {
+     "t": "p",
+     "text": "In the left navigation pane, select Assets > AI Agents."
+    },
+    {
+     "t": "p",
+     "text": "Select Local agents to see a filtered list of local AI agents discovered on endpoint devices."
+    },
+    {
+     "t": "h6",
+     "text": "Step 2: To view a specific agent's details: 1. From the Local agents list, select an agent to open the Agent pane."
+    },
+    {
+     "t": "p",
+     "text": "Local Agents"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/h7WwL2ThQADX4jhsDGrfMH4Vs.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h6",
+     "text": "Step 3: Review the agent details, including:"
+    },
+    {
+     "t": "p",
+     "text": "Agent name, version, and related process"
+    },
+    {
+     "t": "p",
+     "text": "Associated device and user"
+    },
+    {
+     "t": "p",
+     "text": "First seen and last updated timestamps"
+    },
+    {
+     "t": "p",
+     "text": "Integrity level, auto-approve status, and trust indicator"
+    },
+    {
+     "t": "p",
+     "text": "Configured MCP servers, when detected"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/m2eZGnnib7NW0EnhfzOHaC2TGg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Set up AI agent runtime protection with Microsoft Defender for Endpoint"
+    },
+    {
+     "t": "p",
+     "text": "Local AI agents run with the user's privileges on the endpoints they operate on, where they can read files, invoke tools, and run commands. Malicious instructions hidden in the content an agent reads can hijack the agent through prompt injection. AI agent runtime protection helps you detect prompt injection at the device level and block or audit the agent's action before it acts on those instructions."
+    },
+    {
+     "t": "h5",
+     "text": "Prerequisites"
+    },
+    {
+     "t": "p",
+     "text": "Before you configure runtime protection, review the following requirements:"
+    },
+    {
+     "t": "p",
+     "text": "Your devices are running a supported version of Windows, and Microsoft Defender Antivirus is updated with current monthly platform and engine updates."
+    },
+    {
+     "t": "p",
+     "text": "Note: Runtime protection is currently available only on devices configured to receive Beta platform and engine updates."
+    },
+    {
+     "t": "p",
+     "text": "Your devices are running Microsoft Defender Antivirus in active mode."
+    },
+    {
+     "t": "p",
+     "text": "Your devices have one or more supported local AI agents installed."
+    },
+    {
+     "t": "p",
+     "text": "The local AI agent you want to protect natively supports a hooks framework. See Supported agents for the full list."
+    },
+    {
+     "t": "h5",
+     "text": "Supported agents"
+    },
+    {
+     "t": "p",
+     "text": "The following table lists the local AI agents that Defender supports for runtime protection and links to each agent's hooks documentation."
+    },
+    {
+     "t": "p",
+     "text": "Agent"
+    },
+    {
+     "t": "p",
+     "text": "Hooks documentation"
+    },
+    {
+     "t": "p",
+     "text": "Claude Code"
+    },
+    {
+     "t": "p",
+     "text": "Claude Code hooks"
+    },
+    {
+     "t": "p",
+     "text": "GitHub Copilot CLI"
+    },
+    {
+     "t": "p",
+     "text": "GitHub Copilot hooks"
+    },
+    {
+     "t": "h5",
+     "text": "Recommended deployment approach"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft recommends the following phased rollout:"
+    },
+    {
+     "t": "p",
+     "text": "Test: Enable runtime protection in audit mode on a small set of devices where supported agents are actively used."
+    },
+    {
+     "t": "p",
+     "text": "Review: Monitor alerts in the Microsoft Defender portal for 1-2 weeks. If there are false positives, submit them to Microsoft for analysis ."
+    },
+    {
+     "t": "p",
+     "text": "Deploy: Roll out across your organization in audit mode to additional device groups."
+    },
+    {
+     "t": "p",
+     "text": "Enforce: After validating that alerts are accurate and actionable, switch to block mode on device groups where you want active enforcement."
+    },
+    {
+     "t": "h5",
+     "text": "Enable runtime protection using PowerShell"
+    },
+    {
+     "t": "p",
+     "text": "To enable runtime protection on a single device for testing or validation:"
+    },
+    {
+     "t": "h6",
+     "text": "Step 1: Open an elevated PowerShell session."
+    },
+    {
+     "t": "h6",
+     "text": "Step 2: Configure the device to receive preview updates."
+    },
+    {
+     "t": "p",
+     "text": "Set-MpPreference -PlatformUpdatesChannel Beta"
+    },
+    {
+     "t": "p",
+     "text": "Set-MpPreference -EngineUpdatesChannel Beta"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dusNqTkNes0OHgyESrpmaczk7Z4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h6",
+     "text": "Step 3: Run Update-MpSignature three times. This step is required for preview validation."
+    },
+    {
+     "t": "p",
+     "text": "Update-MpSignature"
+    },
+    {
+     "t": "p",
+     "text": "Update-MpSignature"
+    },
+    {
+     "t": "p",
+     "text": "Update-MpSignature"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/BFm7Do9LXAjg0dcDlHvXgMBYuic.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dljVSC8arq8LPEg66huiCdIBXxg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h6",
+     "text": "Step 4: Verify that AntivirusSignatureVersion is 1.451.224.0 or later."
+    },
+    {
+     "t": "p",
+     "text": "Get-MpComputerStatus"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HO9X44v2ltM6jQpbjwYi8oDGpew.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h6",
+     "text": "Step 5: Enable runtime protection."
+    },
+    {
+     "t": "p",
+     "text": "Set-MpPreference -AiAgentProtection Block Replace <mode> with Disabled, Audit, or Block."
+    },
+    {
+     "t": "h5",
+     "text": "What happens when you enable runtime protection"
+    },
+    {
+     "t": "p",
+     "text": "Once enabled on a device, Defender inspects supported agents at their hook points as users work, without changing how they run the agent. What happens following a detection depends on the configured mode:"
+    },
+    {
+     "t": "p",
+     "text": "Block: Defender blocks the threat and follows the notification rules configured for the device. Defender notifies the user both in the agent UI and through a Windows toast notification. The detection is recorded in Defender protection history on the device, and a security alert is sent to Defender, correlated into incidents for the SOC to investigate."
+    },
+    {
+     "t": "p",
+     "text": "Audit: Defender allows the action to continue and records the detection. A security alert is still raised in Defender for investigation."
+    },
+    {
+     "t": "p",
+     "text": "Disabled: Runtime protection is off. Defender doesn't inspect agent activity, and agents run without prompt injection detection or blocking."
+    },
+    {
+     "t": "h6",
+     "text": "Step 6: Run the Get-MpPreference | Select-Object AiAgentProtection to see the status whether the AiAgentProtection was Running on Block Mode 1 – Block Mode"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/LVebg4dOFAKf1oMzmkrWNCM3cE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h6",
+     "text": "Runtime Stimulation using Claude CLI Step 1: Login into Claude CLI using the PowerShell Application"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/G5Evn38i9aZzHpjEKEtI8EAuI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h6",
+     "text": "Step 2: When the hook protects the prompt, the following message will appear in the Claude code terminal: “UserPromptSubmit operation blocked by hook: This request was blocked by Microsoft Defender due to detected security concerns in your prompt“"
+    },
+    {
+     "t": "p",
+     "text": "As a result, Defender for Endpoint is blocking the initial hook. The result is the following in the Defender portal:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/LbbzmOF0EBuiFQphlLH245NDUo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "Review and investigate detections"
+    },
+    {
+     "t": "p",
+     "text": "After you enable runtime protection, review alerts to validate detection accuracy and tune your configuration before broadening enforcement. This step is critical during the audit phase because it helps you understand what agents are encountering and whether detections represent real threats."
+    },
+    {
+     "t": "p",
+     "text": "When runtime protection detects prompt injection, Defender raises a Suspicious AI prompt injection alert and takes action based on the configured mode. The alert appears on the device timeline, and related alerts are correlated into incidents for SOC investigation. In block mode, the alert severity is Critical, High, Medium, or Low based on assessed risk. In audit mode, the alert is Informational, so your team can review what would have been blocked without triaging it as an active threat."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pfxXw3hREuAhSdEPLr5szmOU3F8.png",
+     "alt": "Screenshot showing a Suspicious AI prompt injection alert in Microsoft Defender, including the process tree and related detection details.",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "End-user experience"
+    },
+    {
+     "t": "p",
+     "text": "When Defender blocks an agent action, users see two notifications:"
+    },
+    {
+     "t": "p",
+     "text": "In the agent terminal: The agent displays a block message showing what was blocked, why, and confirmation that the action didn't execute."
+    },
+    {
+     "t": "p",
+     "text": "Windows toast notification: A system notification appears regardless of whether the agent terminal is in focus."
+    },
+    {
+     "t": "p",
+     "text": "The following screenshot shows an example of a blocked prompt injection in the agent terminal and the corresponding Windows toast notification:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VNK9pN37r6CjlZri5ElLBPo8.png",
+     "alt": "Screenshot showing a Defender block message in the agent terminal and a Windows toast notification for a blocked prompt injection attack.",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

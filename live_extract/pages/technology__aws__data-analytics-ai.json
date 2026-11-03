@@ -1,0 +1,202 @@
+{
+ "path": "/technology/aws/data-analytics-ai",
+ "url": "https://www.quadrasystems.net/technology/aws/data-analytics-ai",
+ "title": "AWS Data Analytics & AI: Build Your Intelligent Data En | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Data Analytics & AI"
+    },
+    {
+     "t": "h1",
+     "text": "Build Your Intelligent Data Engine"
+    },
+    {
+     "t": "p",
+     "text": "We help you transform your data from a complex asset into your most powerful driver of innovation. As an AWS GenAI Competency Partner, we architect and build modern data platforms and AI solutions that unlock predictive insights and create new competitive advantages"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Your Data is Your Greatest Asset."
+    },
+    {
+     "t": "h2",
+     "text": "Is it Ready for AI?"
+    },
+    {
+     "t": "p",
+     "text": "Leaders are striving to build a data-driven culture but face significant architectural hurdles"
+    },
+    {
+     "t": "h6",
+     "text": "How do we unify our siloed data from across the business to get a single source of truth?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we avoid a chaotic, costly cloud environment and build our landing zone right the first time?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we move beyond basic infrastructure to truly modernize our applications for the cloud?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we ensure our migration delivers a clear, positive ROI and reduces our TCO?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Applied Intelligence on AWS"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to architect an end-to-end data value chain, from ingestion and governance to advanced AI modeling and business intelligence"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Engineer"
+    },
+    {
+     "t": "p",
+     "text": "Deploy"
+    },
+    {
+     "t": "p",
+     "text": "Automate"
+    },
+    {
+     "t": "h2",
+     "text": "Architect a Modern Data Foundation"
+    },
+    {
+     "t": "p",
+     "text": "We design and build a scalable, secure, and cost-effective data lakehouse on Amazon S3. This creates the unified, governed foundation required for all high-quality analytics and AI."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/O3BEeIykixwr3MnQ1QaoZ5iODk.jpeg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Full Spectrum of AWS Intelligence"
+    },
+    {
+     "t": "p",
+     "text": "We leverage the entire, powerful suite of AWS data and AI services to transform your information into a tangible competitive advantage"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xVToEjw9qoVoLgKVN4SEHhvT0.jpeg",
+     "alt": "people inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Generative AI Solutions"
+    },
+    {
+     "t": "p",
+     "text": "As an AWS GenAI Competency Partner, we architect and build custom solutions using Amazon Bedrock. We leverage industry-leading foundation models to power intelligent document processing, create advanced conversational agents, and automate content generation, turning AI potential into business performance."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/IAL7DAcDh414SFtbHY46GNPQnVk.jpeg",
+     "alt": "photography of people inside room during daytime",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Machine Learning & Predictive Analytics"
+    },
+    {
+     "t": "p",
+     "text": "We architect and deploy custom machine learning models with Amazon SageMaker. Our expertise spans the full MLOps lifecycle, enabling powerful use cases like fraud detection, predictive maintenance, and customer churn analysis that drive efficiency and create new revenue streams."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/KxyOgCnNt4Bwu3fG2hfNcItJBto.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Business Intelligence & Visualization"
+    },
+    {
+     "t": "p",
+     "text": "We transform your complex data into clear, actionable insights. We design and deploy powerful, interactive dashboards and business intelligence solutions with Amazon QuickSight, empowering your business users to make faster, data-driven decisions."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WkgJnH98bU9JKcOzb2CYm4ZY.jpeg",
+     "alt": "person using phone and laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Data Lakehouse & Warehouse Architecture"
+    },
+    {
+     "t": "p",
+     "text": "We build your modern data foundation—a scalable and secure data lakehouse on Amazon S3 and Amazon Redshift. We use AWS Glue to architect the ETL pipelines that create the unified, governed, and high-quality data estate required for all advanced analytics."
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting Your AWS Advantage"
+    },
+    {
+     "t": "p",
+     "text": "How can Quadra help us maximize the ROI of our AWS investment?"
+    },
+    {
+     "t": "p",
+     "text": "We focus on the full lifecycle of value. 1) We use programs like AWS MAP to build a data-driven business case before migration. 2) We architect your environment with FinOps principles from day one, ensuring cost-efficiency. 3) Our AWS Premier Partner status gives us access to funding programs and deep expertise that we pass on to you, ensuring you get the most value from the platform."
+    },
+    {
+     "t": "p",
+     "text": "Why choose Quadra over another AWS partner?"
+    },
+    {
+     "t": "p",
+     "text": "How can Quadra help enterprises become more data-driven?"
+    },
+    {
+     "t": "p",
+     "text": "How can organizations accelerate innovation and unlock business value using Machine Learning and Generative AI on AWS?"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,116 @@
+{
+ "path": "/happy/enterprise-data-protection-solution-secures-critical-corporate-data",
+ "url": "https://www.quadrasystems.net/happy/enterprise-data-protection-solution-secures-critical-corporate-data",
+ "title": "Enterprise Data Protection Platform Case Study | Quadra",
+ "description": "Architected and deployed a unified, cross-platform data protection solution that provided a single-pane-of-glass view, automated routine tasks, and ensured the security of their most valuable data.",
+ "ogImage": "https://framerusercontent.com/images/5CZDfweoO8kdUMx7tRCwpJXmPjo.jpeg?width=6016&height=4016",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Enterprise Data Protection Platform for a USD 500M Manufacturer"
+    },
+    {
+     "t": "p",
+     "text": "Manufacturing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5CZDfweoO8kdUMx7tRCwpJXmPjo.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A highly reputed, near-century-old manufacturing firm and a top supplier to global automotive majors."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To secure mission-critical data from their core SAP and Oracle ERP systems with a modern, enterprise-grade data protection solution."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a unified, cross-platform data protection solution that provided a single-pane-of-glass view, automated routine tasks, and ensured the security of their most valuable data."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A highly reputed, near-century-old manufacturing firm and a top supplier to global automotive majors."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their current data protection methods, which relied on native application tools, were insufficient for their enterprise needs. They could not provide the demanding recovery capabilities or a unified view across their diverse environment, which included multiple flavors of Unix, Windows Server, and a VMware infrastructure. This created significant operational risks."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to ensure the absolute integrity and availability of their mission-critical ERP data, the lifeblood of their manufacturing operations. They needed a robust, modern data protection strategy that could handle a complex, heterogeneous environment and scale with their business."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new platform provided complete visibility and control over the protection status of their mission-critical data. The ability to automate routine tasks and receive insightful reports freed up their IT team from manual, error-prone processes. The simple, easy-to-read user interface gave backup administrators all the information they needed in a single dashboard. The capacity-based licensing model also provided a compelling TCO, easing administrative and management burdens."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Protected Mission-Critical SAP & Oracle Data"
+    },
+    {
+     "t": "p",
+     "text": "Unified Data Protection Across a Heterogeneous Environment"
+    },
+    {
+     "t": "p",
+     "text": "Achieved a Single-Pane-of-Glass Management View"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Operational Risk & Eased Management Burden"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

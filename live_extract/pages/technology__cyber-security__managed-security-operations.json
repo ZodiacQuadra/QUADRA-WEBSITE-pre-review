@@ -1,0 +1,100 @@
+{
+ "path": "/technology/cyber-security/managed-security-operations",
+ "url": "https://www.quadrasystems.net/technology/cyber-security/managed-security-operations",
+ "title": "Managed Security Operations: BluForge-Powered Confident | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on"
+    },
+    {
+     "t": "h1",
+     "text": "BluForge-Powered Confident Defense"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The traditional SOC is at a breaking point. Security teams are overwhelmed by a flood of noisy alerts from dozens of disconnected tools, all while facing a critical shortage of expert skills."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/sJw45Uipoud1vNUH6VUnBjbgXY.jpeg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3F81vpKpqZl3ByM45VWJMXJ68.jpeg",
+     "alt": "man drawing on dry-erase board",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Quadra Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "Quadra BluForge™ unifies managed SOC expertise, AI-driven detection, and rapid response into one Microsoft-native platform. It delivers continuous visibility and intelligent correlation, enabling your organization to defend faster, respond smarter, and operate with confidence while your security is quietly fortified."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The BlueForge™ Platform: Your Unified SecOps Engine"
+    },
+    {
+     "t": "p",
+     "text": "Our capabilities provide unified protection across the entire application lifecycle, integrating security from your CI/CD pipeline to your production workloads to protect your cloud without slowing down innovation."
+    },
+    {
+     "t": "p",
+     "text": "BluForge Ops™ (Managed SOC)"
+    },
+    {
+     "t": "p",
+     "text": "Provides 24x7 security operations staffed by Microsoft-certified analysts who monitor, triage, and orchestrate containment in real time."
+    },
+    {
+     "t": "p",
+     "text": "BluForge Pulse™ (MXDR & Threat Hunting)"
+    },
+    {
+     "t": "p",
+     "text": "BluForge Assist™ (Incident Response Retainer)"
+    },
+    {
+     "t": "p",
+     "text": "BluForge Shield™ (Advisory & Attack-Surface Management)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/s74XogOvUg4TY6Ip3js1bO2UYN4.jpg",
+     "alt": "man's hands on MacBook Pro",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "BluForge Ops™ (Managed SOC)"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,114 @@
+{
+ "path": "/technology/aws/microsite/redshift",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/redshift",
+ "title": "Aws Redshift Data Warehouse Analytics | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Redshift"
+    },
+    {
+     "t": "h1",
+     "text": "The Engine for Modern Enterprise Analytics"
+    },
+    {
+     "t": "p",
+     "text": "We architect and modernize your data warehouse with Amazon Redshift. We help you move from slow, expensive, and difficult-to-manage legacy systems to a high-performance, petabyte-scale cloud data warehouse that delivers insights at the speed of your business"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Legacy Data Warehouse is an Anchor, Not an Engine"
+    },
+    {
+     "t": "p",
+     "text": "Traditional on-premise data warehouses are a bottleneck. They are slow to query, difficult to scale, and require a massive upfront investment and constant maintenance. Leaders are asking: \"How do we get faster insights from our growing data volumes? How do we break free from restrictive licensing costs? And how do we build a platform that can handle all our analytics, from BI to AI?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nucnWWXck6lB8aVjdr4mLC785q8.jpg",
+     "alt": "person in black suit jacket holding white tablet computer",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/p4jXEgcgiWbcIUnemK41V8D94.jpg",
+     "alt": "two people drawing on whiteboard",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Modern Data Warehouse"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to architect a cost-effective, high-performance analytics hub. We use Amazon Redshift to build a modern data lakehouse architecture. Our blueprint focuses on migrating your legacy data warehouse with minimal downtime, optimizing your new environment for the best possible price-performance, and integrating Redshift seamlessly with your data lake and other AWS services."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Data Warehouse Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Legacy Warehouse Migration"
+    },
+    {
+     "t": "p",
+     "text": "Architecting and executing seamless migrations from platforms like Teradata, Netezza, and Oracle to Amazon Redshift"
+    },
+    {
+     "t": "p",
+     "text": "Performance Optimization & Tuning"
+    },
+    {
+     "t": "p",
+     "text": "Data Lakehouse Integration"
+    },
+    {
+     "t": "p",
+     "text": "AI/ML Integration"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/eYzfAVrkkIFQv2An3tvCEaWomY.jpg",
+     "alt": "person in blue shirt writing on white paper",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Legacy Warehouse Migration"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect a Faster Path to Insights?"
+    },
+    {
+     "t": "link",
+     "text": "Plan Your Warehouse Modernization",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

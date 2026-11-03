@@ -1,0 +1,170 @@
+{
+ "path": "/foundersblog/the-most-underrated-enterprise-asset-of-2026",
+ "url": "https://www.quadrasystems.net/foundersblog/the-most-underrated-enterprise-asset-of-2026",
+ "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce",
+ "description": "AI has made it extraordinarily easy to produce a polished email; a persuasive presentation; a sophisticated spreadsheet; a detailed proposal. All in a fraction of the time it once took.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Founders Blogs"
+    },
+    {
+     "t": "p",
+     "text": ">"
+    },
+    {
+     "t": "p",
+     "text": "The most underrated enterprise asset of 2026"
+    },
+    {
+     "t": "h2",
+     "text": "The most underrated enterprise asset of 2026"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/DNLLIDHLv0cEGKtbYkLrNr8aCQQ.jpg",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "p",
+       "text": "Prashanth Subramanian"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Jun 24, 2026"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/UAbRTztn4G1lCqPlwlKZCLViQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Most enterprises are running the same play. Pick a frontier model. Deploy a few agents. Run a pilot. Wait for ROI."
+    },
+    {
+     "t": "p",
+     "text": "Six months later, the pilot is still a pilot."
+    },
+    {
+     "t": "p",
+     "text": "The instinct is to blame the model — it hallucinated, it wasn’t accurate enough, it needed more context. So the search begins for a better model. A newer one. A cheaper one. One with a longer context window."
+    },
+    {
+     "t": "p",
+     "text": "This is the wrong diagnosis. And it’s costing organisations dearly."
+    },
+    {
+     "t": "h4",
+     "text": "The model is not your moat. The harness is."
+    },
+    {
+     "t": "p",
+     "text": "At Build 2026, Satya Nadella made an observation that deserves more attention than it has received."
+    },
+    {
+     "t": "p",
+     "text": "He wasn’t talking about which model wins. He was talking about what sits around the model — the harness: the combination of context, tools, memory, and evaluation infrastructure that determines whether an AI system actually performs in the real world."
+    },
+    {
+     "t": "p",
+     "text": "His test was blunt: take your eval suite, your context layer, your tooling. Point it at Model A. Now point it at Model B. Did your outcomes hold? Did you hill climb — meaning, improve — or did you have to start over?"
+    },
+    {
+     "t": "p",
+     "text": "If you had to start over, you don’t have an AI strategy. You have a model dependency."
+    },
+    {
+     "t": "p",
+     "text": "The companies building durable AI capability aren’t the ones chasing the best model. They’re the ones building harnesses that make any capable model perform against their specific business outcomes. The model becomes interchangeable. The harness and the private evals that power it are the IP."
+    },
+    {
+     "t": "h4",
+     "text": "Private evals: the most underrated enterprise asset of 2026"
+    },
+    {
+     "t": "p",
+     "text": "An eval suite is not a QA checklist. It’s not a thumbs up / thumbs down on agent output. And you need to rely on this more than you depend on model benchmarks."
+    },
+    {
+     "t": "p",
+     "text": "A real eval framework captures what “good” actually means for your business — the judgment calls, the edge cases, the domain-specific nuances that no external benchmark will ever measure. It runs in simulation. It scores every model version against outcomes that matter to you, not to the AI lab’s leaderboard."
+    },
+    {
+     "t": "p",
+     "text": "This is what hill climbing actually means in practice. You’re not waiting for the next frontier model release to improve your outcomes. You’re continuously improving your own system — using your own data, your own domain logic, your own definition of quality — while the models underneath get better in parallel."
+    },
+    {
+     "t": "p",
+     "text": "Here’s what this unlocks: model portability. When a better model comes along — and it will — you don’t rebuild. You plug it into your harness, run your evals, and measure whether it hill-climbs faster. If it does, you switch. If it doesn’t, you don’t. You’re in control of that decision."
+    },
+    {
+     "t": "p",
+     "text": "Most enterprises today can’t make that switch cleanly. Their AI implementations are tangled up with a specific model’s quirks, a specific API’s behaviour, a specific vendor’s context management. They’re not building AI capability. They’re accumulating model debt."
+    },
+    {
+     "t": "p",
+     "text": "There’s a commercial consequence to this that doesn’t get talked about enough. Once your harness can evaluate model performance against your specific outcomes, you can route intelligently — frontier models where the task genuinely demands it, smaller cheaper models where your evals confirm they’re adequate. Most enterprises today can’t make that distinction. They default to frontier for everything, not because it’s necessary, but because they have no way to measure whether it is."
+    },
+    {
+     "t": "h4",
+     "text": "What this means for your organisation"
+    },
+    {
+     "t": "p",
+     "text": "Three things that change if you accept this argument:"
+    },
+    {
+     "t": "p",
+     "text": "First, your AI programme needs an eval layer before it needs more agents. The instinct is to build more. Deploy more use cases. Scale the pilot. But without an eval infrastructure, you’re scaling something you can’t measure. You’re producing productivity theatre — the appearance of AI adoption without compounding returns."
+    },
+    {
+     "t": "p",
+     "text": "Second, domain knowledge becomes the scarce resource. Anyone can access a frontier model. Not everyone can encode their underwriting logic, their service escalation judgment, their compliance interpretation into a systematic eval framework. That encoding is the work. It’s also the moat."
+    },
+    {
+     "t": "p",
+     "text": "Third, the harness is where your transmission layer lives. The model is the engine. It’s powerful, it’s getting more powerful, and frankly you didn’t build it and you won’t maintain it. What you build — and what creates enterprise value — is the system that converts model capability into outcomes that move your business. Context prep, tool integration, memory architecture, eval-driven improvement loops. That’s the transmission. That’s where differentiation actually compounds."
+    },
+    {
+     "t": "h4",
+     "text": "The acid test"
+    },
+    {
+     "t": "p",
+     "text": "Before your next AI investment decision, ask this:"
+    },
+    {
+     "t": "p",
+     "text": "If the model you’re betting on disappears tomorrow — deprecated, repriced, outperformed — does your AI programme survive the transition intact? Or does it collapse?"
+    },
+    {
+     "t": "p",
+     "text": "If the answer is the latter, you’re not building AI capability. You’re renting it."
+    },
+    {
+     "t": "p",
+     "text": "The organisations that will look back on this period as a compounding advantage are not the ones who picked the right model in 2025. They’re the ones who built the harness, ran the evals, and made themselves model-independent."
+    },
+    {
+     "t": "p",
+     "text": "That work is less visible than deploying an agent. It’s harder to put in a slide. But it’s the only AI investment that doesn’t depreciate when the next model drops."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

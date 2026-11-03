@@ -1,0 +1,100 @@
+{
+ "path": "/technology/cyber-security/cloud-native-security",
+ "url": "https://www.quadrasystems.net/technology/cyber-security/cloud-native-security",
+ "title": "Cloud Native Security Services | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Cloud-Native Security Services"
+    },
+    {
+     "t": "h1",
+     "text": "Security for the Speed of Cloud"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "As you build and deploy applications in the cloud, how do you ensure security is integrated across the entire lifecycle, from the first line of code to the production workload, without slowing down your developers?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/k2D3FaLcJSruIHoZ8iCU28QzZQ.jpeg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xVK6SRmo0jXTRklMyZrWs5IQ.jpeg",
+     "alt": "man drawing on dry-erase board",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Quadra Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "We architect a unified Cloud-Native Application Protection Platform (CNAPP) framework. Our blueprint integrates Fortinet's adaptive cloud security for posture management with CrowdStrike's industry-leading runtime protection. This provides a single, cohesive solution for security across your entire multi-cloud application lifecycle"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting Full-Lifecycle Cloud Security"
+    },
+    {
+     "t": "p",
+     "text": "Our capabilities provide unified protection across the entire application lifecycle, integrating security from your CI/CD pipeline to your production workloads to protect your cloud without slowing down innovation."
+    },
+    {
+     "t": "p",
+     "text": "Cloud Security Posture Management (CSPM)"
+    },
+    {
+     "t": "p",
+     "text": "Real-time identification of misconfigurations and compliance risks."
+    },
+    {
+     "t": "p",
+     "text": "Cloud Workload Protection Platform (CWPP)"
+    },
+    {
+     "t": "p",
+     "text": "DevSecOps & Shift-Left Security"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Infrastructure Entitlement Management (CIEM)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gh7GtKqq5V2qEg5rG2QKxGGJ0.jpg",
+     "alt": "woman in blue long sleeve shirt using macbook pro",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Cloud Security Posture Management (CSPM)"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

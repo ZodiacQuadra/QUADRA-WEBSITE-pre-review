@@ -1,0 +1,171 @@
+{
+ "path": "/technology/microsoft/azure/data-and-ai",
+ "url": "https://www.quadrasystems.net/technology/microsoft/azure/data-and-ai",
+ "title": "Azure Data & AI: Architect Your Data-Driven Competitive Edge | Quadra",
+ "description": "Quadra architects Azure data and AI solutions with Microsoft Fabric, Synapse Analytics, Azure OpenAI, Databricks, and Purview — enabling enterprises to build governed, AI-ready data platforms that drive competitive advantage.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on the"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Data-Driven Competitive Advantage"
+    },
+    {
+     "t": "p",
+     "text": "We move beyond data management to architect a unified, AI-ready data estate on Microsoft Azure, transforming your information into your most powerful competitive advantage."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RVqKJt0kN7MhO9zjokdoiXA76Y.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Your Data Holds the Blueprint to Your Future"
+    },
+    {
+     "t": "h2",
+     "text": "But Unlocking it is Complex"
+    },
+    {
+     "t": "p",
+     "text": "We partner with leaders to solve the most critical challenges on the journey to becoming a data-driven, AI-powered enterprise."
+    },
+    {
+     "t": "h6",
+     "text": "How do we unify our siloed data to actually use it for AI?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we modernize our slow, legacy analytics and ETL processes?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we move from AI pilots to real business impact and ROI?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we ensure our growing data estate is secure and cost-optimized?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Applied Intelligence on Azure"
+    },
+    {
+     "t": "p",
+     "text": "Our approach combines strategic data consulting with deep architectural expertise, ensuring your Azure data platform is built to deliver transformative business value"
+    },
+    {
+     "t": "p",
+     "text": "Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Strategy First: A Unified Data Roadmap"
+    },
+    {
+     "t": "p",
+     "text": "We align your data strategy with your business objectives, creating a phased roadmap for building a modern data estate with Microsoft Fabric, grounded in the principles of the Cloud Adoption Framework."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5JFVnw5tt3iK3NZdKqLlAVAlKW0.jpg",
+     "alt": "a person holding a piece of paper over a laptop",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Data & AI Architectural Capabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/qvd3mKgvCVO1BlEdWyDds91p9G8.jpg",
+     "alt": "a group of people sitting at a table with computers",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "End-to-End Analytics with Microsoft Fabric"
+    },
+    {
+     "t": "p",
+     "text": "Architecting a unified analytics platform with a Lakehouse, Warehouse, and Power BI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Uo4kHKvmrD87exvy5Z2rMEpvts.jpg",
+     "alt": "three men sitting on chair beside tables",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Machine Learning & Predictive Analytics"
+    },
+    {
+     "t": "p",
+     "text": "Building forecasting and predictive modeling solutions with Azure Machine Learning"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6zzldyoWPmdGGaVoCWQRX6Qdbyw.jpg",
+     "alt": "three people sitting in front of table laughing together",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Legacy ETL Modernization"
+    },
+    {
+     "t": "p",
+     "text": "Rewriting and modernizing SSIS packages into modern Azure Data Factory pipelines."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1WbtBm2UwAqrXTvO92T4ETbQeU.jpg",
+     "alt": "A group of business people sitting around a table",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Database Modernization"
+    },
+    {
+     "t": "p",
+     "text": "Re-platforming legacy databases to fully managed Azure PaaS offerings like Azure SQL"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

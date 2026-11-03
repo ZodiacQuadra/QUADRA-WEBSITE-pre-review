@@ -1,0 +1,371 @@
+{
+ "path": "/foundersblog",
+ "url": "https://www.quadrasystems.net/foundersblog",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "From Our"
+    },
+    {
+     "t": "h1",
+     "text": "Founders"
+    },
+    {
+     "t": "p",
+     "text": "Insights, strategic decisions, and honest learnings from our journey building the future of architecture."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/URISYSJo2DC94XvH49sm9y47Y.jpg",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "Latest from the Founders"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/when-intelligence-becomes-abundant-judgement-becomes-scarce",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/fLvyojCxbpOirPO0g8iZXRYM6MI.png",
+       "alt": "",
+       "w": 1870
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Sep 24, 2026"
+    },
+    {
+     "t": "p",
+     "text": "/"
+    },
+    {
+     "t": "p",
+     "text": "Prashanth Subramanian"
+    },
+    {
+     "t": "h4",
+     "text": "When Intelligence Becomes Abundant, Judgement Becomes Scarce"
+    }
+   ]
+  },
+  {
+   "name": "Latest",
+   "blocks": [
+    {
+     "t": "h5",
+     "text": "All Blogs"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/when-intelligence-becomes-abundant-judgement-becomes-scarce",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/fLvyojCxbpOirPO0g8iZXRYM6MI.png",
+       "alt": "",
+       "w": 1870
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Sep 24, 2026"
+    },
+    {
+     "t": "p",
+     "text": "When Intelligence Becomes Abundant, Judgement Becomes Scarce"
+    },
+    {
+     "t": "p",
+     "text": "I sometimes miss the days of poorly formatted Word documents, clumsy PowerPoint decks and emails with typos and imperfect grammar. Those imperfections made the person behind the work visible. You could see where someone had wrestled with an idea, where they were uncertain and how they had arrived at a conclusion. When you challenged an assumption, there was usually a human train of thought to examine."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DNLLIDHLv0cEGKtbYkLrNr8aCQQ.jpg",
+     "alt": "",
+     "w": 1870
+    },
+    {
+     "t": "p",
+     "text": "Prashanth Subramanian"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/the-most-underrated-enterprise-asset-of-2026",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/UAbRTztn4G1lCqPlwlKZCLViQ.png",
+       "alt": "",
+       "w": 1870
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Jun 24, 2026"
+    },
+    {
+     "t": "p",
+     "text": "The most underrated enterprise asset of 2026"
+    },
+    {
+     "t": "p",
+     "text": "Enterprise AI advantage will not come from chasing the latest model. It will come from building the harness, private evals, and operating layer that make any capable model perform against business outcomes."
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/the-overlooked-human-skill-that-can-10x-your-ai-productivity-copy",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/OYewk5HHRrVxr9aYK5JMMGOPSWw.png",
+       "alt": "",
+       "w": 1870
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "May 6, 2026"
+    },
+    {
+     "t": "p",
+     "text": "Is Your Business Transmission-Ready?"
+    },
+    {
+     "t": "p",
+     "text": "The gap between what AI produces and what enterprises can act on is where value is created — or lost. Real impact happens when AI outputs become decisions and workflows."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MyJS23OonnakukNzWNipIIS85A.jpg",
+     "alt": "",
+     "w": 1870
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/a-new-economics-of-winning-in-ai",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/gn4lbJmJj0owHiO4swEHIjdb0BM.png",
+       "alt": "",
+       "w": 1870
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Mar 24, 2026"
+    },
+    {
+     "t": "p",
+     "text": "A New Economics of Winning in AI"
+    },
+    {
+     "t": "p",
+     "text": "AI is changing how companies work. Organizations that use AI effectively move faster with smaller teams, while others risk falling behind."
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/architecting-ambition-why-purpose-and-curiosity-define-the-ai-era",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/sS5RJpTCoyjGs5UaadQ1jiMswc.png",
+       "alt": "",
+       "w": 1870
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Jan 30, 2026"
+    },
+    {
+     "t": "p",
+     "text": "Architecting Ambition: Why Purpose and Curiosity Define the AI Era"
+    },
+    {
+     "t": "p",
+     "text": "As intelligence becomes commoditized, outcomes become the differentiator. A look at how agentic software is rewiring enterprise economics"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "card",
+     "href": "./foundersblog/the-ai-takeover-is-a-myth-the-future-is-human-ai-partnership",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/jMWY7JtRywXaA4Dd1IE0UWW6Lw.png",
+       "alt": "",
+       "w": 1870
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Jun 18, 2025"
+    },
+    {
+     "t": "p",
+     "text": "The AI Takeover is a Myth: The Future is Human-AI Partnership"
+    },
+    {
+     "t": "p",
+     "text": "A groundbreaking study from Stanford University, \"Future of Work with AI Agents,\" (link to the full article at the end) confirms what we at Quadra have seen..."
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7NoVkgB2RlUuDE0n6UWbxLxAL8.jpg",
+     "alt": "Woman shopping at a plant nursery with a basket",
+     "w": 1870
+    },
+    {
+     "t": "p",
+     "text": "February 12, 2025"
+    },
+    {
+     "t": "p",
+     "text": "10 Proven Strategies to Sca10 Proven Strategies to Scale Your Startup and Win in a Competitive Marketle Your Startup and Win in a Competitive Market"
+    },
+    {
+     "t": "p",
+     "text": "Quantum computing is set to transform technology, enabling breakthroughs in AI, cybersecurity, and science, shaping a faster, sma"
+    },
+    {
+     "t": "p",
+     "text": "Prashanth Subramanium"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Read Post"
+    },
+    {
+     "t": "p",
+     "text": "Coming soon"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Stay updated with"
+    },
+    {
+     "t": "h2",
+     "text": "founder insights"
+    },
+    {
+     "t": "p",
+     "text": "Get our latest thoughts on leadership, product strategy, and company culture delivered straight to your inbox."
+    },
+    {
+     "t": "p",
+     "text": "Submit"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

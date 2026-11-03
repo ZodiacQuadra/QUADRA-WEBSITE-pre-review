@@ -1,0 +1,143 @@
+{
+ "path": "/solutions/platforms-ip/bluforge/bluforge-pulse",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/bluforge/bluforge-pulse",
+ "title": "BluForge Pulse: Continuous Threat Intelligence & Monitoring | Quadra",
+ "description": "BluForge Pulse delivers continuous threat intelligence and real-time security monitoring, giving enterprises proactive visibility into emerging threats, vulnerabilities, and attack surface exposure.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "BluForge Pulse"
+    },
+    {
+     "t": "h1",
+     "text": "Continuous Threat Intelligence & Monitoring"
+    },
+    {
+     "t": "p",
+     "text": "BluForge Pulse™ is our hybrid, co-managed MXDR service. We partner with your existing security team, augmenting their capabilities with our advanced threat hunting expertise, automation, and shared incident response"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Team is Great. But They Can't Be Everywhere at Once"
+    },
+    {
+     "t": "p",
+     "text": "Even the best internal security teams are stretched thin. They are often bogged down in alert triage and lack the dedicated time for proactive, deep-dive threat hunting. How do you elevate your team's capabilities from reactive to proactive?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/l0OsHEb9RKzNlS3uAkckSSntc.jpg",
+     "alt": "a group of people holding hands in a circle",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Collaborative Defense Architecture"
+    },
+    {
+     "t": "p",
+     "text": "Our co-managed model is a true partnership. We provide the platform and the specialized expertise to supercharge your team"
+    },
+    {
+     "t": "h6",
+     "text": "Shared Intelligence"
+    },
+    {
+     "t": "p",
+     "text": "We provide your team with access to our unified platform, which ingests telemetry from your Microsoft and third-party sources (firewalls, other clouds) into a single incident view."
+    },
+    {
+     "t": "h6",
+     "text": "Expert Augmentation"
+    },
+    {
+     "t": "p",
+     "text": "Our threat hunters, aligned with the MITRE ATT&CK framework, proactively search for hidden threats in your environment, offloading this critical task from your team."
+    },
+    {
+     "t": "h6",
+     "text": "Collaborative Response"
+    },
+    {
+     "t": "p",
+     "text": "We work together on incident response through a secure portal, with our team handling initial triage and escalation, allowing your experts to focus on the most critical events."
+    },
+    {
+     "t": "h6",
+     "text": "Shared Intelligence"
+    },
+    {
+     "t": "h6",
+     "text": "Expert Augmentation"
+    },
+    {
+     "t": "h6",
+     "text": "Shared Intelligence"
+    },
+    {
+     "t": "h6",
+     "text": "Expert Augmentation"
+    },
+    {
+     "t": "h6",
+     "text": "Shared Intelligence"
+    },
+    {
+     "t": "h6",
+     "text": "Expert Augmentation"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Co-Managed Alert Handling & Escalation"
+    },
+    {
+     "t": "p",
+     "text": "Advanced Threat Hunting (MITRE ATT&CK Aligned)"
+    },
+    {
+     "t": "p",
+     "text": "Custom Rule Tuning & SOAR Automation"
+    },
+    {
+     "t": "p",
+     "text": "Weekly Ops Reviews & Strategic Insights"
+    },
+    {
+     "t": "p",
+     "text": "Secure Collaboration Portal for Shared Incident Response"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/KD7dvx0TuFUojm9zQgQ1tiPdzn8.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

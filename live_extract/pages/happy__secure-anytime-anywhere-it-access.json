@@ -1,0 +1,116 @@
+{
+ "path": "/happy/secure-anytime-anywhere-it-access",
+ "url": "https://www.quadrasystems.net/happy/secure-anytime-anywhere-it-access",
+ "title": "Secure 'Work from Anywhere' Platform Case Study | Quadra",
+ "description": "Architected a centralized desktop and application delivery solution that enhanced user productivity, strengthened security, ensured high availability, and eliminated the challenges of a traditional VPN.",
+ "ogImage": "https://framerusercontent.com/images/P7qChx43b6H53RQy453RfmFJqg.jpg?width=7360&height=4912",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Secure 'Work from Anywhere' Platform for a Global Retail Leader"
+    },
+    {
+     "t": "p",
+     "text": "Retail & Distribution"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/P7qChx43b6H53RQy453RfmFJqg.jpg",
+     "alt": "person wearing long-sleeve top working on laptop",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A century-old global leader in retail and distribution with a sharp focus on innovative branding and quality."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To empower a rapidly expanding global workforce with secure, high-performance access to corporate data and applications from any device, anywhere."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected a centralized desktop and application delivery solution that enhanced user productivity, strengthened security, ensured high availability, and eliminated the challenges of a traditional VPN."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A century-old global leader in retail and distribution with a sharp focus on innovative branding and quality."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Rapid global expansion had stretched their IT capabilities. A traditional VPN solution was causing severe performance issues and user complaints. It lacked the granular security controls needed to manage data leakage, control endpoints, and track user access effectively, posing a significant risk to the business and hindering the rollout of a formal BYOD program."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to maintain their market leadership by enabling a modern, agile, and mobile workforce. They needed to provide seamless and secure access to critical business applications, including a thick ERP client, for employees and vendor partners in remote locations across the globe, supporting a new BYOD policy without compromising their security posture."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new architecture transformed their ability to support a global workforce. Employees and partners now have a secure, high-performance 'work from anywhere' experience. The IT team gained comprehensive control and visibility over data and applications, enabling a successful BYOD rollout while strengthening their security posture. The elimination of VPN-related performance issues and the assurance of 99.99% uptime for critical servers significantly boosted user productivity and satisfaction."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Enabled a Secure 'Work from Anywhere' & BYOD Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Application Performance for Global Users"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Data Security & Centralized Control"
+    },
+    {
+     "t": "p",
+     "text": "Achieved High Availability for Mission-Critical Servers"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

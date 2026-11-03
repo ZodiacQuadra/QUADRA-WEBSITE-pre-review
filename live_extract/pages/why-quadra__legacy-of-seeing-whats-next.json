@@ -1,0 +1,616 @@
+{
+ "path": "/why-quadra/legacy-of-seeing-whats-next",
+ "url": "https://www.quadrasystems.net/why-quadra/legacy-of-seeing-whats-next",
+ "title": "Quadra 25-Year Technology History | Our Legacy",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Page Title",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Quadra's 25-Year Legacy"
+    },
+    {
+     "t": "h1",
+     "text": "A History of Seeing What's Next"
+    },
+    {
+     "t": "p",
+     "text": "For 25 years, our journey has been defined by one core principle: looking beyond the immediate horizon to architect what's next. Our annual calendars have served as a public record of our evolving perspective—a year-by-year chronicle of our commitment to guiding our partners through every major technology shift, from the dawn of the cloud to the era of AI."
+    }
+   ]
+  },
+  {
+   "name": "Wrapper",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "More Than a Calendar. It's a Compass."
+    },
+    {
+     "t": "p",
+     "text": "Since our early days, we have used our annual calendar as more than just a marketing tool. It has been our public thesis—a declaration of the strategic themes we believe will define the coming year and a compass to guide our partners' thinking."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HR9rbc9IuitJK1kTGFgXbyuHlc.jpeg",
+     "alt": "red and black star illustration",
+     "w": 1440
+    },
+    {
+     "t": "p",
+     "text": "This visual history is the ultimate proof of our enduring philosophy. It shows that we don't just react to change; we anticipate it. We don't just follow trends; we help our partners architect a strategic response to them. From championing virtualization during the financial crisis to advocating for a data-first approach long before it was mainstream, this timeline demonstrates our long-term commitment to your long-term success."
+    },
+    {
+     "t": "p",
+     "text": "Explore our journey below and see the evolution of the ideas that have shaped our industry and the blueprints we've used to architect our partners' ambition."
+    }
+   ]
+  },
+  {
+   "name": "Horizontal Scroll",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Calendar Timeline"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/tp4tS8RZweY8iJZ5yTBFnCQj21Q.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2007"
+    },
+    {
+     "t": "h3",
+     "text": "Competing to Win: Global Recognition"
+    },
+    {
+     "t": "p",
+     "text": "From our earliest days, we understood that true partnership required proving our capabilities on a global stage. This award marked the beginning of a relentless pursuit of excellence, setting a standard that would become the bedrock of our customer trust for decades to come."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/eefaUpU6TZn8aK4HuoCgbLOqVXE.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2008"
+    },
+    {
+     "t": "h3",
+     "text": "IT as a Catalyst for Business Resilience"
+    },
+    {
+     "t": "p",
+     "text": "In the midst of the Global Financial Crisis, when many viewed technology as a cost to be cut, we championed a contrarian view. Our guidance to partners was that smart, strategic IT was not a luxury, but a critical lever for survival and efficiency. Our focus shifted to architecting solutions—like virtualization and process optimization—that enabled businesses to do more with less, navigate the downturn, and emerge stronger and more resilient."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Vnf7sqMAl4sUlpnYtJqxvKdBc.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2009"
+    },
+    {
+     "t": "h3",
+     "text": "Think Green IT"
+    },
+    {
+     "t": "p",
+     "text": "We posited that sustainable IT was not merely an environmental responsibility but a powerful driver for business efficiency. We advised partners that \"Green IT\" was a direct path to reducing operational costs and optimizing resources."
+    },
+    {
+     "t": "p",
+     "text": "zxcvbnmnbvcbnm,kmnjhbnmnbvbwertyuiopokijuh ygtfrdszxcvfhjmknjvqwertyuiop[poijuhygtfrdsxcdfgg"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/ZMo4yBcM0ZCedPZelVUM6MN8Z8.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2010"
+    },
+    {
+     "t": "h3",
+     "text": "The Dawn of a New Decade in Technology"
+    },
+    {
+     "t": "p",
+     "text": "As the new decade began, we identified cloud computing, virtualization, and mobile applications as the game-changing, disruptive forces that would redefine enterprise IT, urging our partners to architect their strategies around this new reality."
+    },
+    {
+     "t": "p",
+     "text": "zxcvbnmnbvcbnm,kmnjhbnmnbvbwertyuiopokijuh"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/oMkmVHlR7nPVikcSbcz6uTCYUs.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2011"
+    },
+    {
+     "t": "h3",
+     "text": "The Cloud as a Public Utility"
+    },
+    {
+     "t": "p",
+     "text": "We urged leaders to shift their thinking about cloud from a product to a fundamental utility, as impactful as electricity. The key question was no longer if cloud, but how to architect a business strategy around this new consumption model."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/x1FDtYNBoSeNRSu4rTeKJZfCIw.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2012"
+    },
+    {
+     "t": "h3",
+     "text": "Happy Customers: Our Organizational DNA"
+    },
+    {
+     "t": "p",
+     "text": "We formally stated that customer-centricity was not a process to be followed, but the core of our DNA. We argued that the ultimate measure of any technology's success was the success and satisfaction of the customer who used it."
+    },
+    {
+     "t": "p",
+     "text": "ygtfrdszxcvfhjmknjvqwertyuiop[poijuhygtfrdsxcdfgg"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/ouA5vFDD31dHjPJbUTupUszqm4.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2013"
+    },
+    {
+     "t": "h3",
+     "text": "Connecting Technology Trends to Business Outcomes"
+    },
+    {
+     "t": "p",
+     "text": "We declared that competitive advantage no longer came from simply adopting technology, but from strategically applying it to drive measurable business outcomes. The role of the CIO had to evolve from a service moderator to a strategic, transformational agent."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Kq3STp1xe2i10S0zpR7H0ixpBw.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2014"
+    },
+    {
+     "t": "h3",
+     "text": "The Cloud as the Fabric of the Future"
+    },
+    {
+     "t": "p",
+     "text": "We evolved the cloud narrative, framing it as an \"omnipresent fabric\" that would seamlessly connect data and deliver intelligence across all devices. This concept moved beyond infrastructure to a vision of an interconnected world."
+    },
+    {
+     "t": "h3",
+     "text": "of the FutureFabric of the Future"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/MAdWto0H1JJkcbaTXJ39FCCPyo.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2015"
+    },
+    {
+     "t": "h3",
+     "text": "Connecting Technology and Business"
+    },
+    {
+     "t": "p",
+     "text": "By this time, \"digital\" was no longer a future concept; it was a present-day reality. Our focus evolved from advocating for technology adoption to ensuring its business impact. We argued that the true \"moment of truth\" for any technology solution is when it delivers measurable value—growth, profitability, and a competitive edge. Our role was to serve as the strategic bridge, architecting the solutions that directly connected technological capabilities to business outcomes."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/fvOf7Yi3PPsNch5SnTPdCXEJqcE.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2016"
+    },
+    {
+     "t": "h3",
+     "text": "Alignment: Is the Cloud Right for Your Business?"
+    },
+    {
+     "t": "p",
+     "text": "With the market saturated by cloud hype, we pivoted from evangelism to strategic counsel. We argued that success required aligning the right cloud model—public, private, or hybrid—to specific business and IT roadmaps, championing clarity over blind adoption."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/hIHO0HIIVn4nUK84jvRoesA6t4.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2017"
+    },
+    {
+     "t": "h3",
+     "text": "Your Technology GPS"
+    },
+    {
+     "t": "p",
+     "text": "As the technology landscape grew increasingly complex, we asserted that Quadra's primary value was not just implementation, but strategic guidance. We positioned ourselves as a \"Technology GPS\" to help our partners navigate complexity and find the clearest path forward."
+    },
+    {
+     "t": "h3",
+     "text": "of the FutureFabric of th"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/OFTbwwlfeZzHPxFpWql5QWUxPWc.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2018"
+    },
+    {
+     "t": "h3",
+     "text": "The Fourth Industrial Revolution: Creating the Future"
+    },
+    {
+     "t": "p",
+     "text": "We identified AI as the driving force of the next industrial revolution. Our message was proactive: leaders should not just prepare for this shift, but partner with us to actively architect their company's role in creating this new future."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/rFzbA2qU8pSPZsOpzsJmyxJIPgI.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2019"
+    },
+    {
+     "t": "h3",
+     "text": "Find Products for Your Customers"
+    },
+    {
+     "t": "p",
+     "text": "We championed a sophisticated evolution of customer-centricity: true partnership means starting with the customer's unique business need and then architecting the ideal solution, rather than pushing pre-defined products."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/fwIlZfysdezq5gpBQTyu9hRIIw.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2020"
+    },
+    {
+     "t": "h3",
+     "text": "Our Culture is Our Brand"
+    },
+    {
+     "t": "p",
+     "text": "Marking our 20th year, we defined our most valuable asset: our culture. We stated that our longevity and success were a direct result of a deeply ingrained culture of customer obsession, which serves as our brand's ultimate promise."
+    },
+    {
+     "t": "h3",
+     "text": "of the FutureFabric of the Futu"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/F8VPjPdRwXRgdmQdc3lNVXOpJNo.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2021"
+    },
+    {
+     "t": "h3",
+     "text": "Recover. Reinvent. Rebound."
+    },
+    {
+     "t": "p",
+     "text": "In the wake of global disruption, we provided an optimistic and action-oriented roadmap. Our thesis was that this was a once-in-a-generation opportunity for businesses to adopt a digital-first strategy, not just to recover, but to reinvent themselves and rebound stronger than before."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/0DiMLIGNpYVPQuvJgTTDvyFKsJs.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2022"
+    },
+    {
+     "t": "h3",
+     "text": "Secure Your Digital Transformation"
+    },
+    {
+     "t": "p",
+     "text": "As rapid digitization led to an explosion in cyber threats, we declared that security could no longer be an afterthought. It must be woven into the very fabric of digital transformation, demanding a new, proactive, and intelligent approach to risk."
+    },
+    {
+     "t": "h3",
+     "text": "of the FutureFabric of the"
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/RdL9T0ClniBMfvWC36rtW8vc6E.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2023"
+    },
+    {
+     "t": "h3",
+     "text": "Why a Digital DNA Matters"
+    },
+    {
+     "t": "p",
+     "text": "We introduced the concept that true transformation requires embedding a \"Digital DNA\" throughout the organization. This was the first time we publicly framed our approach as \"building an intelligent enterprise\"—our take on continuous, outcome-based transformation."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Ff4EopyuzPzbsgHl4ubpSrqEDY.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2024"
+    },
+    {
+     "t": "h3",
+     "text": "The Symphony of Artificial Intelligence"
+    },
+    {
+     "t": "p",
+     "text": "With AI now a dominant force, our thesis matured. We argued that success required nurturing an \"AI Mindset\"—a culture of continuous learning and adaptation. The goal was to move beyond simply implementing tools to orchestrating AI as a catalyst for enterprise-wide growth."
+    },
+    {
+     "t": "card",
+     "href": "../",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/JJ2v5KwGN1B0Ko14z2gN85QooZ4.jpg",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "2025"
+    },
+    {
+     "t": "h3",
+     "text": "25 Years of Customer Obsession: Harnessing AI for Tangible Outcomes"
+    },
+    {
+     "t": "p",
+     "text": "For our 25th anniversary, our thesis connects our past to our future. It states that our long-standing cultural pillar of customer obsession is what allows us to harness the power of sophisticated AI to deliver concrete, tangible business outcomes, ensuring that innovation always serves a purpose."
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "What 25 Years of Foresight Means for Your Ambition"
+    },
+    {
+     "t": "p",
+     "text": "Our history is not about us. It is the foundation of our promise to you."
+    },
+    {
+     "t": "p",
+     "text": "Visionary"
+    },
+    {
+     "t": "p",
+     "text": "Adaptability"
+    },
+    {
+     "t": "p",
+     "text": "Blueprint"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/FjT41i7kLeOdr5bChFRyVBM.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "It Means You Get a Visionary Partner"
+    },
+    {
+     "t": "p",
+     "text": "This timeline proves that we are always looking ahead. When you partner with us, you are not just getting a technical expert for today; you are getting a strategic architect who is already thinking about the challenges and opportunities of tomorrow."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GDcUMEQIZ2tkKod6UgVKCwPofVA.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ukzELss5jvhp3d2TQPZbyCYjw.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect"
+    },
+    {
+     "t": "h2",
+     "text": "Your Next Chapter"
+    },
+    {
+     "t": "p",
+     "text": "Our history has prepared"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

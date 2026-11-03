@@ -1,0 +1,246 @@
+{
+ "path": "/technology/microsoft/azure/managed-services",
+ "url": "https://www.quadrasystems.net/technology/microsoft/azure/managed-services",
+ "title": "Azure Managed Services: MaxIT Cloud Operations & Peace of Mind | Quadra",
+ "description": "Quadra's MaxIT-powered Azure managed services provide proactive monitoring, cost optimization, security posture management, and 24/7 expert operations support — so your teams can focus on innovation, not infrastructure.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Azure Managed Services"
+    },
+    {
+     "t": "h1",
+     "text": "MaxIT Cloud Operations & Peace of Mind"
+    },
+    {
+     "t": "p",
+     "text": "Our Max-IT™ Managed Services for Azure transform your cloud operations. We provide the proactive management, continuous optimization, and strategic guidance that allows you to focus on your ambition while we ensure your cloud is secure, efficient, and resilient."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ais40ebAbig12yC5g0g3DWCScUU.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Azure is Powerful."
+    },
+    {
+     "t": "h2",
+     "text": "Managing it is a Relentless Task"
+    },
+    {
+     "t": "p",
+     "text": "Businesses are rapidly moving to the cloud, but managing these environments effectively presents significant challenges that can hinder growth and innovation"
+    },
+    {
+     "t": "h6",
+     "text": "How do we gain control over our spiralling cloud costs?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we protect our environment from constant security threats?"
+    },
+    {
+     "t": "h6",
+     "text": "How can we free our IT teams from day-to-day cloud management?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we ensure our Azure investment is always aligned with our business goals?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "™"
+    },
+    {
+     "t": "h2",
+     "text": "The Max-IT Blueprint: Your Partnership in Cloud Excellence"
+    },
+    {
+     "t": "p",
+     "text": "Our Max-IT™ Managed Services are a necessity for transforming operations and gaining a competitive edge. We architect a framework for continuous value across three key pillars"
+    },
+    {
+     "t": "p",
+     "text": "Foundation"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Partnership"
+    },
+    {
+     "t": "h2",
+     "text": "A Foundation of Proactive Operations"
+    },
+    {
+     "t": "p",
+     "text": "We provide 24/7 proactive monitoring and SLA-backed support, delivered by our team of Azure-certified professionals. We architect for resilience, ensuring your environment maintains optimal performance with any potential issues addressed before they impact your business."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Vg9VlDM2v0n2MdFYjFP7gOhIAw.jpeg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Comprehensive Service Portfolio Architected for Your Needs"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT™ provides an indispensable advantage through a wide range of managed services covering your entire Azure estate."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/QKFmfHBjXhF5ILe8T52Rcw3nJw.jpg",
+     "alt": "rectangular brown wooden table",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Azure Infrastructure Management"
+    },
+    {
+     "t": "p",
+     "text": "Proactive monitoring, maintenance, and automation for your VMs, networks, and storage to ensure high availability and performance"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ipGyZUZVrXAlz6WgwLrFfECa0I.jpg",
+     "alt": "gray and black HP laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Application & Database Management"
+    },
+    {
+     "t": "p",
+     "text": "End-to-end management of your Azure-hosted applications and databases (Azure SQL, MySQL, etc.), including performance tuning, CI/CD pipeline support, and DR planning"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9BwFKzSD2JjWw9JksNY2HHs0.jpg",
+     "alt": "a person is writing on a piece of paper",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Cost Optimization & FinOps"
+    },
+    {
+     "t": "p",
+     "text": "Disciplined governance of your Azure spend through continuous analysis, right-sizing, reserved instance management, and automation to maximize your ROI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7hLLdrK0tksSSpF0eH4ZrOhH2E.jpg",
+     "alt": "person using MacBook Pro",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Data & Analytics Platform Management"
+    },
+    {
+     "t": "p",
+     "text": "Ensuring the health and performance of your data estate, including Azure Data Lake, Databricks, and Synapse pipelines"
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "h2",
+     "text": "Architecting a Resilient & Optimized Cloud for a Financial Leader"
+    },
+    {
+     "t": "p",
+     "text": "For a leading financial infrastructure provider governed by stringent RBI and SEBI regulations, we provide end-to-end Azure managed services. Our proactive, automation-led approach ensures their mission-critical platforms are always available, secure, and audit-ready."
+    },
+    {
+     "t": "h4",
+     "text": "₹1.7 Crores"
+    },
+    {
+     "t": "p",
+     "text": "Saved ₹1.7 Crores in cloud costs over 24 months through disciplined FinOps."
+    },
+    {
+     "t": "h4",
+     "text": "70%"
+    },
+    {
+     "t": "p",
+     "text": "Improved Secure Score to over 70% across 10+ subscriptions."
+    },
+    {
+     "t": "h4",
+     "text": "Full audit readiness"
+    },
+    {
+     "t": "p",
+     "text": "Ensured full audit readiness, closing critical gaps for PCI-DSS & SEBI audits."
+    },
+    {
+     "t": "p",
+     "text": "Explore More Managed Services Stories"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect a Better Way to"
+    },
+    {
+     "t": "h2",
+     "text": "Manage Your Cloud?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about how our Max-IT™ Managed Services can free you to focus on your ambition, while we ensure your Azure foundation is built to last"
+    },
+    {
+     "t": "link",
+     "text": "Discuss Our Managed Services",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

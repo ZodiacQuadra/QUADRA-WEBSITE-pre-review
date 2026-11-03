@@ -1,0 +1,116 @@
+{
+ "path": "/happy/multi-billion-dollar-two-wheeler-manufacturer",
+ "url": "https://www.quadrasystems.net/happy/multi-billion-dollar-two-wheeler-manufacturer",
+ "title": "Two-Wheeler Maker Hybrid Cloud Case Study | Quadra",
+ "description": "Architected a cost-effective, hybrid IaaS solution that saved crores of rupees in capital investment, met international data residency requirements, and delivered a highly available, high-performance platform.",
+ "ogImage": "https://framerusercontent.com/images/P7qChx43b6H53RQy453RfmFJqg.jpg?width=7360&height=4912",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Hybrid Cloud Foundation for India's Most Trusted Two-Wheeler Manufacturer"
+    },
+    {
+     "t": "p",
+     "text": "Manufacturing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/P7qChx43b6H53RQy453RfmFJqg.jpg",
+     "alt": "person wearing long-sleeve top working on laptop",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A household name and one of the most trusted brands in India, this multi-billion-dollar enterprise is a leading manufacturer of motorcycles."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To modernize their core communication infrastructure to support a rapidly expanding workforce and global operations, while adhering to data residency laws and avoiding prohibitive capital expenditure."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected a cost-effective, hybrid IaaS solution that saved crores of rupees in capital investment, met international data residency requirements, and delivered a highly available, high-performance platform."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A household name and one of the most trusted brands in India, this multi-billion-dollar enterprise is a leading manufacturer of motorcycles."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their on-premise IT infrastructure was being stretched to its limits. The cost to expand and upgrade their existing email servers was prohibitively high. Furthermore, their international operations required them to comply with local data residency laws (e.g., in Singapore), which would have necessitated building multiple, expensive data centers. They needed a solution that was both economically viable and globally compliant."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to build an IT infrastructure that could support their next phase of growth, both within India and internationally. They needed to upgrade their overburdened on-premise email system to a modern platform that could handle high volumes and provide reliable service to thousands of geographically distributed users."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The hybrid solution delivered the best of both worlds. The client gained a modern, high-performance, and reliable platform while saving crores of rupees in upfront capital expenditure. The ability to deploy resources in specific global datacenters allowed them to satisfy all data residency requirements with ease. Downtime and security risks were virtually eliminated, providing their IT team with a stable, scalable foundation to support the company's continued growth."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Saved Crores in Upfront Capital Expenditure"
+    },
+    {
+     "t": "p",
+     "text": "Met International Data Residency & Compliance Requirements"
+    },
+    {
+     "t": "p",
+     "text": "Delivered a High-Performance & Highly Available Platform"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Operational Downtime & Security Risks"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

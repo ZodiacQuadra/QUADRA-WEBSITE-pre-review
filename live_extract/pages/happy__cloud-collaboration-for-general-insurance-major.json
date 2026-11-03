@@ -1,0 +1,116 @@
+{
+ "path": "/happy/cloud-collaboration-for-general-insurance-major",
+ "url": "https://www.quadrasystems.net/happy/cloud-collaboration-for-general-insurance-major",
+ "title": "Modern Collaboration Platform Case Study | Quadra",
+ "description": "Architected and executed a comprehensively managed migration from IBM Lotus Notes to Microsoft 365, which broke down organizational silos and freed up valuable IT resources to focus on business-centric initiatives.",
+ "ogImage": "https://framerusercontent.com/images/ppxR0ClRRLBqkqoFHanqwPTg.jpeg?width=6000&height=4004",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern Collaboration Platform for a Leading Insurance Provider"
+    },
+    {
+     "t": "p",
+     "text": "BFSI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ppxR0ClRRLBqkqoFHanqwPTg.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "India’s first private sector general insurance provider, serving 5.2 million customers across 115 cities."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To migrate from an inadequate and aging on-premise collaboration system to a modern, cloud-native platform to foster innovation and drive growth."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and executed a comprehensively managed migration from IBM Lotus Notes to Microsoft 365, which broke down organizational silos and freed up valuable IT resources to focus on business-centric initiatives."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "India’s first private sector general insurance provider, serving 5.2 million customers across 115 cities."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their on-premise IBM Lotus Notes deployment was a major obstacle. It was woefully inadequate for modern collaboration, lacked easy customization, and was becoming a significant drain on IT resources. The aging system was hindering productivity and preventing them from fostering the highly collaborative work culture they needed to compete."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "In an industry facing significant headwinds, the client's ambition was to defy industry trends by becoming more agile and innovative. This required a modern collaboration platform that could tear down organizational silos and enable their teams across 180 locations to connect, communicate, and innovate in real time."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new cloud platform had a powerful business impact. Employees across 180 locations could now collaborate in real time, breaking down previous barriers. The all-cloud deployment virtually eliminated the burden of traditional server management, backup, and DR, freeing up precious IT bandwidth to focus on strategic initiatives that could directly impact growth. Confidential information was now safeguarded with modern security, providing peace of mind in a highly regulated industry."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Executed a Complex Legacy (Lotus Notes) Migration to the Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Real-Time Collaboration Across 180 Locations"
+    },
+    {
+     "t": "p",
+     "text": "Freed IT Resources to Focus on Strategic Business Initiatives"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Data Security & Compliance Posture"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

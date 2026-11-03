@@ -1,0 +1,116 @@
+{
+ "path": "/happy/service-desk-enhances-productivity",
+ "url": "https://www.quadrasystems.net/happy/service-desk-enhances-productivity",
+ "title": "ITIL-Based Service Desk Case Study | Quadra",
+ "description": "Architected and deployed an ITIL best-practices-based service desk engine that automated workflows, improved service levels, and directly enhanced employee satisfaction and productivity.",
+ "ogImage": "https://framerusercontent.com/images/IyLSDjtiqaXi5gMlHDl54XecWsA.jpeg?width=6168&height=4112",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an ITIL-Based Service Desk for a Global Pharma Innovator"
+    },
+    {
+     "t": "p",
+     "text": "Pharmaceuticals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/IyLSDjtiqaXi5gMlHDl54XecWsA.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global player in the pharmaceutical industry with over 4,000 highly skilled professionals and a reputation for modern research."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To establish a streamlined, flexible, and efficient IT service desk that could meet the stringent demands of their highly skilled, global workforce."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed an ITIL best-practices-based service desk engine that automated workflows, improved service levels, and directly enhanced employee satisfaction and productivity."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global player in the pharmaceutical industry with over 4,000 highly skilled professionals and a reputation for modern research."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Despite a highly streamlined IT function, the lack of a formal service desk was a persistent challenge. Without a centralized system, managing IT service delivery was ad-hoc and inefficient. There was no way to track service level agreements (SLAs), build a knowledge base, or manage complex workflows, leading to inconsistent service and reduced productivity for their highly skilled employees."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to ensure their internal IT service delivery was as innovative and efficient as their R&D. With a lean, strategic internal IT team focused on business needs, they needed a service desk solution that could provide a world-class support experience for their thousands of users without creating a significant management burden."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new service desk transformed their IT service delivery. With SLA compliance reports and automated escalations, they were able to ensure the highest levels of service to their users, which directly and positively impacted employee satisfaction and overall productivity. The flexible, configurable system was adapted perfectly to their unique environment, delivering a superior, enterprise-grade solution in a very short time frame."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Transformed IT Service Delivery with an ITIL-Based Framework"
+    },
+    {
+     "t": "p",
+     "text": "Increased Employee Satisfaction & Productivity"
+    },
+    {
+     "t": "p",
+     "text": "Automated Complex Workflows & Ensured SLA Compliance"
+    },
+    {
+     "t": "p",
+     "text": "Delivered a Superior Solution in a Rapid Time Frame"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

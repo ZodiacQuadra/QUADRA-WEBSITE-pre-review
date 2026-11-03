@@ -1,0 +1,259 @@
+{
+ "path": "/aws-migration-modernization",
+ "url": "https://www.quadrasystems.net/aws-migration-modernization",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Accelerate Your Cloud Future"
+    },
+    {
+     "t": "h2",
+     "text": "AWS Migration, Modernization & Agentic AI - Mumbai"
+    },
+    {
+     "t": "link",
+     "text": "Register Now",
+     "href": "https://forms.office.com/r/PNNgNbmDRD"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tFRlXQyUZh2unEJZYoPOtHFn4D4.jpg",
+     "alt": "man in white dress shirt sitting beside woman in black long sleeve shirt",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "26 Nov 2025, Wednesday"
+    },
+    {
+     "t": "h5",
+     "text": "Leela palace, Mumbai"
+    },
+    {
+     "t": "h5",
+     "text": "6.30 pm onwards"
+    }
+   ]
+  },
+  {
+   "name": "About",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "About the event"
+    },
+    {
+     "t": "p",
+     "text": "Join us for an exclusive, in-person executive session hosted by AWS Premier Tier Services Partner Quadra, in collaboration with AWS. This session is designed to equip technology leaders with actionable insights to accelerate digital transformation. Discover proven strategies for cloud migration, architecture modernization, and the seamless integration of advanced services including AI, ML, and Generative AI."
+    }
+   ]
+  },
+  {
+   "name": "Speakers",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Speakers"
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/prabhu1880/",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Prabhu Rajan"
+      },
+      {
+       "t": "p",
+       "text": "Lead – AWS Strategic Business Unit"
+      },
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/of7Egf6o7NV9HuRTQoQeKvvxo9M.png",
+       "alt": "",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/shashankk/",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Shashank Chinchli"
+      },
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Q6pFzttyg16E5EDn5wY0knhC7g.jpg",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "p",
+       "text": "GenAI Core Solution Architect"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/jayantmahale/",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Jayant Mahale"
+      },
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/MPBfvulIDH8acxhHqWBYJcTAMa8.png",
+       "alt": "",
+       "w": 194
+      },
+      {
+       "t": "p",
+       "text": "Sales Lead - M&M of VMware"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/vishnu-vashist/",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Vishnu Vashist"
+      },
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/2aMLFEglTB3kJCqb1jOxufIjsAo.jpg",
+       "alt": "",
+       "w": 1200
+      },
+      {
+       "t": "p",
+       "text": "Partner Success Solution Architect"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Agenda"
+    },
+    {
+     "t": "link",
+     "text": "Register Now",
+     "href": "https://forms.office.com/r/PNNgNbmDRD"
+    },
+    {
+     "t": "h5",
+     "text": "Registration - Meet & Greet"
+    },
+    {
+     "t": "p",
+     "text": "AWS & Quadra"
+    },
+    {
+     "t": "p",
+     "text": "06:30 PM – 07:00 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Welcome Note"
+    },
+    {
+     "t": "p",
+     "text": "Quadra Team"
+    },
+    {
+     "t": "p",
+     "text": "07:00 PM – 07:10 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Accelerating Modernization and Business Value with AWS"
+    },
+    {
+     "t": "p",
+     "text": "Jayant Mahale"
+    },
+    {
+     "t": "p",
+     "text": "07:10 PM – 07:35 PM"
+    },
+    {
+     "t": "h5",
+     "text": "AI Agents in Action: Real-World Impact with Amazon Bedrock and AgentCore"
+    },
+    {
+     "t": "p",
+     "text": "Shashank Chinchli"
+    },
+    {
+     "t": "p",
+     "text": "07:35 PM – 07:50 PM"
+    },
+    {
+     "t": "h5",
+     "text": "AWS Transform Demo"
+    },
+    {
+     "t": "p",
+     "text": "Vishnu Vashist"
+    },
+    {
+     "t": "p",
+     "text": "07:50 PM – 08:05 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Agentic AI Demonstration"
+    },
+    {
+     "t": "p",
+     "text": "Shashank Chinchli / Prabhu Rajan"
+    },
+    {
+     "t": "p",
+     "text": "08:05 PM – 08:25 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Know Quadra to Architect your Ambition"
+    },
+    {
+     "t": "p",
+     "text": "Prabhu Rajan"
+    },
+    {
+     "t": "p",
+     "text": "08:25 PM – 08:35 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Quiz Session"
+    },
+    {
+     "t": "p",
+     "text": "Prabhu Rajan"
+    },
+    {
+     "t": "p",
+     "text": "08:35PM – 08:45 PM"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

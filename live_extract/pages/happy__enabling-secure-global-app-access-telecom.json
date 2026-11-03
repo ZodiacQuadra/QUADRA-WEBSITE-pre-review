@@ -1,0 +1,116 @@
+{
+ "path": "/happy/enabling-secure-global-app-access-telecom",
+ "url": "https://www.quadrasystems.net/happy/enabling-secure-global-app-access-telecom",
+ "title": "Architecting a Secure Global Application Delivery Platform for a Telecom Leader",
+ "description": "Architected and implemented a secure virtual application delivery solution that protected against data leakage, optimized software license usage, and delivered a superior user experience.",
+ "ogImage": "https://framerusercontent.com/images/xxHKuTBbFiKCcuakMXk1wchOBvQ.jpg?width=5184&height=2920",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Secure Global Application Delivery Platform for a Telecom Leader"
+    },
+    {
+     "t": "p",
+     "text": "Telecom"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xxHKuTBbFiKCcuakMXk1wchOBvQ.jpg",
+     "alt": "person using macbook pro on white table",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading manufacturer of telecom solutions with R&D and manufacturing centers across multiple countries."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To provide secure, high-performance access to mission-critical applications for a global workforce and supply chain partners, while protecting valuable intellectual property."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and implemented a secure virtual application delivery solution that protected against data leakage, optimized software license usage, and delivered a superior user experience."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading manufacturer of telecom solutions with R&D and manufacturing centers across multiple countries."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Security was the paramount concern. They had experienced instances of data leakage, and conventional access methods did not provide the flexibility or control they needed. Another key challenge was optimizing the use of extremely expensive, niche engineering software licenses. They needed a way for their global teams to securely share these licenses across time zones to maximize ROI."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to foster seamless and secure collaboration across their global offices and with their manufacturing partners. They needed to provide flexible access to critical data and applications without compromising on their number one priority: protecting their valuable intellectual property (IP) from leakage or theft."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new architecture met their dual needs of security and productivity perfectly. Critical business data was now secure, as it never left the datacenter. The high-performance delivery ensured a great user experience for their global teams. Crucially, the centralized model allowed them to effectively pool and leverage their expensive engineering software licenses 24/7 across different time zones, delivering a significant and immediate return on investment."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Protected Critical Intellectual Property from Data Leakage"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Secure Global Collaboration with Partners"
+    },
+    {
+     "t": "p",
+     "text": "Maximized ROI on Expensive Software Licenses"
+    },
+    {
+     "t": "p",
+     "text": "Delivered a High-Performance User Experience Across a Global WAN"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

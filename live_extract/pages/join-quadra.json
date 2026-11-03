@@ -1,0 +1,113 @@
+{
+ "path": "/join-quadra",
+ "url": "https://www.quadrasystems.net/join-quadra",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Careers at Quadra: Build What's Next in Cloud & AI"
+    },
+    {
+     "t": "p",
+     "text": "Your career is more than a job—it’s an opportunity to architect the future. At Quadra, we empower you to contribute, grow, and create lasting impact alongside some of the brightest minds in the industry"
+    }
+   ]
+  },
+  {
+   "name": "Form",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Take the First Step"
+    },
+    {
+     "t": "p",
+     "text": "Fill out the form below and share your resume. Our talent team will connect with you to explore opportunities that align with your ambition. This isn’t just an application—it’s the beginning of a partnership for growth."
+    },
+    {
+     "t": "p",
+     "text": "Submit your application and let's build something amazing together"
+    },
+    {
+     "t": "p",
+     "text": "Drop your resume here or click to browse"
+    },
+    {
+     "t": "p",
+     "text": "PDF, DOC, DOCX • Max 25MB"
+    },
+    {
+     "t": "p",
+     "text": "This site is protected by reCAPTCHA and the Google and apply."
+    },
+    {
+     "t": "link",
+     "text": "Privacy Policy",
+     "href": "https://policies.google.com/privacy"
+    },
+    {
+     "t": "link",
+     "text": "Terms of Service",
+     "href": "https://policies.google.com/terms"
+    },
+    {
+     "t": "p",
+     "text": "Loading Security Check..."
+    }
+   ]
+  },
+  {
+   "name": "Content",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Other Ways to Connect"
+    },
+    {
+     "t": "h4",
+     "text": "Email"
+    },
+    {
+     "t": "p",
+     "text": "For hiring inquiries, please email us at"
+    },
+    {
+     "t": "p",
+     "text": "careers@quadrasystems.net"
+    },
+    {
+     "t": "h4",
+     "text": "Phone"
+    },
+    {
+     "t": "p",
+     "text": "To speak with us directly, please call"
+    },
+    {
+     "t": "p",
+     "text": "+91 95244-66000"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Grow With a Proven Leader"
+    },
+    {
+     "t": "p",
+     "text": "At Quadra, you’re not just joining a company—you’re joining a 25-year legacy of innovation and trust. For a quarter-century, we’ve partnered with the world’s leading enterprises, and our people have been at the heart of that journey. We are committed to creating an environment where ambition meets opportunity, and where your career can thrive. Your next chapter could begin here."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,130 @@
+﻿{
+    "intellient-on-light":  {
+                                "w":  821,
+                                "h":  156,
+                                "cornerAlpha":  0,
+                                "source":  "Intellient_Black_logo.png",
+                                "sourceSize":  "850x215",
+                                "text":  102
+                            },
+    "intellient-on-dark":  {
+                               "w":  821,
+                               "h":  156,
+                               "cornerAlpha":  0,
+                               "source":  "Intellient_White_logo.png",
+                               "sourceSize":  "850x215",
+                               "text":  102
+                           },
+    "intellilink-on-light":  {
+                                 "w":  668,
+                                 "h":  160,
+                                 "cornerAlpha":  0,
+                                 "source":  "Intellilink black logo.png",
+                                 "sourceSize":  "693x166",
+                                 "text":  78
+                             },
+    "intellilink-on-dark":  {
+                                "w":  664,
+                                "h":  160,
+                                "cornerAlpha":  0,
+                                "source":  "Intellilink White logo.png",
+                                "sourceSize":  "693x167",
+                                "text":  78
+                            },
+    "intellisphere-on-light":  {
+                                   "w":  647,
+                                   "h":  160,
+                                   "cornerAlpha":  0,
+                                   "source":  "IntelliSphere_logo.png",
+                                   "sourceSize":  "898x222",
+                                   "text":  72
+                               },
+    "intellisphere-on-dark":  {
+                                  "w":  647,
+                                  "h":  160,
+                                  "cornerAlpha":  0,
+                                  "source":  "IntelliSphere_logo white.png",
+                                  "sourceSize":  "898x222",
+                                  "text":  72
+                              },
+    "intelliassure-on-light":  {
+                                   "w":  786,
+                                   "h":  160,
+                                   "cornerAlpha":  0,
+                                   "source":  "IntelliAssure logo black.png",
+                                   "sourceSize":  "936x261",
+                                   "text":  70
+                               },
+    "intelliassure-on-dark":  {
+                                  "w":  786,
+                                  "h":  160,
+                                  "cornerAlpha":  0,
+                                  "source":  "IntelliAssure logo white.png",
+                                  "sourceSize":  "936x261",
+                                  "text":  70
+                              },
+    "quadra-air-on-light":  {
+                                "w":  563,
+                                "h":  160,
+                                "cornerAlpha":  0,
+                                "source":  "Logo_Quadra AIR-Black 1.png",
+                                "sourceSize":  "998x370",
+                                "text":  53
+                            },
+    "quadra-air-on-dark":  {
+                               "w":  563,
+                               "h":  160,
+                               "cornerAlpha":  0,
+                               "source":  "Logo_Quadra AIR-White 1.png",
+                               "sourceSize":  "998x370",
+                               "text":  53
+                           },
+    "bluforge-intelliguard-on-light":  {
+                                           "w":  557,
+                                           "h":  160,
+                                           "cornerAlpha":  0,
+                                           "source":  "BluForge_intelliGaurd logo black.png",
+                                           "sourceSize":  "915x260",
+                                           "text":  51
+                                       },
+    "intellixperience-on-light":  {
+                                      "w":  881,
+                                      "h":  160,
+                                      "cornerAlpha":  0,
+                                      "source":  "intelliXperience logo.png",
+                                      "sourceSize":  "1404x272",
+                                      "text":  79
+                                  },
+    "intellixperience-on-dark":  {
+                                     "w":  911,
+                                     "h":  160,
+                                     "cornerAlpha":  0,
+                                     "source":  "IntelliXperience-wordmark-dark-transparent.png",
+                                     "sourceSize":  "6468x1235",
+                                     "text":  87
+                                 },
+    "bluforge-on-dark":  {
+                             "w":  174,
+                             "h":  160,
+                             "cornerAlpha":  0,
+                             "source":  "AMpY7ZKMXO9BV23RksHhgosQM.png",
+                             "sourceSize":  "9921x9260",
+                             "text":  30
+                         },
+    "bluforge-intelliguard-on-dark":  {
+                                          "w":  557,
+                                          "h":  160,
+                                          "cornerAlpha":  0,
+                                          "source":  "derived from bluforge-intelliguard-on-light.png",
+                                          "sourceSize":  "navy wordmark repainted white",
+                                          "text":  51
+                                      },
+    "bluforge-on-light":  {
+                              "w":  174,
+                              "h":  160,
+                              "cornerAlpha":  0,
+                              "source":  "derived from bluforge-on-dark.png",
+                              "sourceSize":  "white wordmark repainted BluForge navy",
+                              "text":  30
+                          }
+}

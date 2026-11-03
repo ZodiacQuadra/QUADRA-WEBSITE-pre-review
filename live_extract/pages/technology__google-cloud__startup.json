@@ -1,0 +1,209 @@
+{
+ "path": "/technology/google-cloud/startup",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/startup",
+ "title": "Google Cloud Services for Startups | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Google Cloud for Startups"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Growth Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "We are your strategic partner in the Google Cloud for Startups Program. We don't just help you get cloud credits; we architect a scalable, cost-efficient, and future-ready foundation that transforms those credits into a powerful engine for your growth"
+    }
+   ]
+  },
+  {
+   "name": "Bento",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "For a Startup, Every Decision and"
+    },
+    {
+     "t": "h2",
+     "text": "Every Dollar Counts"
+    },
+    {
+     "t": "p",
+     "text": "You have a brilliant idea and a lean team. The Google Cloud for Startups Program provides the fuel, but you need an expert architect to help you build the rocket ship"
+    },
+    {
+     "t": "h5",
+     "text": "How do we get to market as fast as possible, without breaking things?"
+    },
+    {
+     "t": "p",
+     "text": "You need to build and deploy quickly, but a poorly architected foundation can lead to costly rework and technical debt down the line."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ppxR0ClRRLBqkqoFHanqwPTg.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we make sure our cloud credits aren't wasted on an inefficient setup?"
+    },
+    {
+     "t": "p",
+     "text": "Cloud credits are like a seed investment. Without a clear FinOps strategy, they can be burned on oversized or misconfigured resources, limiting your runway."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Kz3ruThuuUoDjNaWSmYLBWDBuU.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we build a secure and scalable platform that VCs and enterprise customers will trust?"
+    },
+    {
+     "t": "p",
+     "text": "You need to embed enterprise-grade security and scalability into your DNA from day one to build credibility and prepare for your next stage of growth."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TxoYr2DXeT2Z2X5euRJ9WPGsWNQ.jpeg",
+     "alt": "two men shaking hands in a conference room",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "We're experts in our product, not in complex cloud infrastructure"
+    },
+    {
+     "t": "p",
+     "text": "Your team's focus should be on building your core product and winning customers, not on the complexities of cloud architecture and management."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/r37PhqUZycpLLGUWUsx7EeiLXGg.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Startup Success on Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Our role is to be your expert co-founder for all things cloud. We ensure you build it right, right from the start"
+    },
+    {
+     "t": "p",
+     "text": "Accelerate"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Partner"
+    },
+    {
+     "t": "h2",
+     "text": "We Accelerate Your Onboarding & Migration"
+    },
+    {
+     "t": "p",
+     "text": "Our 24/7, global support team of AWS-certified engineers provides continuous monitoring, automation, and SLA-backed incident response to ensure maximum uptime and business continuity for your critical workloads."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/r7uC9SliKdkqdbEFLpGPek38ZkM.jpeg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Architectural Support for Your Startup Journey"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT™ provides an indispensable advantage through a wide range of managed services covering your entire AWS estate"
+    },
+    {
+     "t": "p",
+     "text": "Google Cloud for Startups Program Navigation"
+    },
+    {
+     "t": "p",
+     "text": "Expert guidance through the application and credit-access process."
+    },
+    {
+     "t": "p",
+     "text": "Cloud Architecture & Security Consulting"
+    },
+    {
+     "t": "p",
+     "text": "Rapid Migration & Setup"
+    },
+    {
+     "t": "p",
+     "text": "Cost Optimization & FinOps"
+    },
+    {
+     "t": "p",
+     "text": "GenAI & Modernization Advisory"
+    },
+    {
+     "t": "p",
+     "text": "Ongoing Technical & Strategic Support"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RyaSPC6zvUa64tUJdhdd1HsJ0.jpeg",
+     "alt": "man sitting in front of laptop",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Google Cloud for Startups Program Navigation"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Build Your Ambition on Google Cloud?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about your vision. We'll handle the cloud architecture, so you can focus on changing the world"
+    },
+    {
+     "t": "link",
+     "text": "Connect with Our Startup Team",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

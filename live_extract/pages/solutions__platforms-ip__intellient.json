@@ -1,0 +1,109 @@
+{
+ "path": "/solutions/platforms-ip/intellient",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/intellient",
+ "title": "Intellient: Collaborative AI Platform for the Enterprise | Quadra",
+ "description": "Intellient is Quadra's collaborative AI platform that transforms complex enterprise problem-solving with contextual intelligence, AI-assisted decision-making, and intelligent workflow automation at scale.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Intellient: Collaborative AI for Complex Enterprise Problem-Solving"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Traditional automation is task-driven and rigid. But your most complex business challenges—like supply-chain exceptions or compliance workflows—are goal-driven and require planning, coordination, and the collaboration of multiple experts"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pevxkkNEBbS2u0TDDB82ncsNS2g.jpeg",
+     "alt": "woman wearing grey striped dress shirt sitting down near brown wooden table in front of white laptop computer",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tFRlXQyUZh2unEJZYoPOtHFn4D4.jpg",
+     "alt": "man in white dress shirt sitting beside woman in black long sleeve shirt",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Our Solution"
+    },
+    {
+     "t": "h5",
+     "text": "The Intellient Platform"
+    },
+    {
+     "t": "p",
+     "text": "Intellient is Quadra’s proprietary platform for creating autonomous, multi-agent AI systems. Built on cutting-edge frameworks like Microsoft AutoGen, we architect teams of specialized AI agents that can work together, and with your human experts, to orchestrate knowledge work and solve dynamic, multi-step problems."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key Capabilities"
+    },
+    {
+     "t": "h5",
+     "text": "Multi-Agent Orchestration"
+    },
+    {
+     "t": "p",
+     "text": "Design and deploy teams of AI agents that can plan, delegate, and execute complex tasks."
+    },
+    {
+     "t": "h5",
+     "text": "Human-in-the-Loop Collaboration"
+    },
+    {
+     "t": "p",
+     "text": "Create seamless workflows where AI agents assist, and are guided by, your human experts."
+    },
+    {
+     "t": "h5",
+     "text": "Enterprise Integration"
+    },
+    {
+     "t": "p",
+     "text": "Securely connect agentic systems to your core business platforms and data sources."
+    },
+    {
+     "t": "h5",
+     "text": "Goal-Driven Automation"
+    },
+    {
+     "t": "p",
+     "text": "Move beyond simple RPA to build intelligent systems that can adapt and reason to achieve a desired business outcome"
+    },
+    {
+     "t": "link",
+     "text": "Schedule an Intellient Workshop",
+     "href": "../../contact-us"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YblllGQ5g5gQIz63w4xNfQe3E.jpeg",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,116 @@
+{
+ "path": "/happy/fast-growing-bank-deploys-collaboration",
+ "url": "https://www.quadrasystems.net/happy/fast-growing-bank-deploys-collaboration",
+ "title": "Bank Collaboration Platform Case Study | Quadra",
+ "description": "Architected and deployed a comprehensive cloud collaboration platform that met stringent banking regulations, eliminated downtime, and provided a sound foundation for their digital transformation.",
+ "ogImage": "https://framerusercontent.com/images/cEWMbwrQjUHw9Lc4DqaLZsnjBJw.jpeg?width=4160&height=6240",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Secure & Compliant Collaboration Platform for a Fast-Growing Bank"
+    },
+    {
+     "t": "p",
+     "text": "Banking"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cEWMbwrQjUHw9Lc4DqaLZsnjBJw.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A fast-growing small finance bank focused on serving unserved and underserved segments of society in India."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To undergo a complete digital transformation of their core IT infrastructure, replacing a legacy system with a modern, secure, and compliant collaboration platform to support their rapid growth."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a comprehensive cloud collaboration platform that met stringent banking regulations, eliminated downtime, and provided a sound foundation for their digital transformation."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A fast-growing small finance bank focused on serving unserved and underserved segments of society in India."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their legacy, Linux-based mailing solution was a major liability. It suffered from poor performance, frequent downtime, and had almost no modern security or compliance features. With a banking license came a host of new, strict regulations which their existing system could not meet. The IT team was in a constant state of firefighting, unable to focus on strategic initiatives."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As the client transitioned into a formal banking entity, their ambition was to build an IT infrastructure that met the highest standards of security and regulatory compliance. They needed a platform that could not only solve their immediate performance and reliability issues but also provide enterprise-grade features like advanced threat protection, auditable document management, and legal hold capabilities to support their long-term growth."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new cloud platform immediately solved their core challenges, providing a stable, secure, and compliant environment for all employees. It allowed them to meet all government and banking regulations with confidence. The integrated ATP provided a crucial layer of defense, while the document management and legal hold capabilities satisfied key audit requirements. By suggesting a cloud-native solution, we also eliminated several crores in potential capital investment, allowing them to focus their capital on business growth."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Met All Stringent Banking Security & Compliance Requirements"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated System Downtime & Performance Issues"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Advanced Threat Protection & Data Governance"
+    },
+    {
+     "t": "p",
+     "text": "Avoided Significant Capital Expenditure on Infrastructure"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

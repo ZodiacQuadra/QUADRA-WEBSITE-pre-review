@@ -1,0 +1,377 @@
+{
+ "path": "/technology/aws/managed-services",
+ "url": "https://www.quadrasystems.net/technology/aws/managed-services",
+ "title": "AWS Managed Services: MaxIT Cloud Operations & Peace of | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Managed Services"
+    },
+    {
+     "t": "h1",
+     "text": "MaxIT Cloud Operations & Peace of Mind"
+    },
+    {
+     "t": "p",
+     "text": "Our Max-IT™ Managed Services for AWS transform your cloud operations. We provide the 24/7 proactive management, continuous optimization, and strategic guidance that allows you to focus on your ambition while we ensure your cloud is secure, efficient, and resilient"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "An AWS Cloud, Expertly Managed"
+    },
+    {
+     "t": "p",
+     "text": "The cloud offers incredible power, but managing it effectively is a relentless, full-time job that can distract from your core business."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mgRdbBZJGPn94ft58M4tL0u810.jpg",
+     "alt": "people sitting on chair",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we ensure our mission-critical workloads are always on and performant?"
+    },
+    {
+     "t": "p",
+     "text": "You need 24/7, proactive monitoring and rapid incident response to guarantee maximum uptime and business continuity for your most important applications."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/R1SeACNogZXtmaLVOLCyxORofYQ.jpeg",
+     "alt": "person wearing long-sleeve top working on laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we keep our environment secure and compliant with evolving standards?"
+    },
+    {
+     "t": "p",
+     "text": "You need enterprise-grade security controls, continuous vulnerability detection, and a partner who can ensure your environment is always audit-ready."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Sf97dEN1pHBIV8HqNBQojQw.jpeg",
+     "alt": "a man sitting in front of a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we gain control over our spiraling cloud costs?"
+    },
+    {
+     "t": "p",
+     "text": "Without constant oversight, cloud spend can become unpredictable. You need a partner who can provide consistent budgeting and continuously optimize resources to reduce operational expenses."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/A54JG4dwe0dpLAJx7mf5DEzU.jpeg",
+     "alt": "woman placing sticky notes on wall",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we free our best people from routine maintenance to focus on innovation?"
+    },
+    {
+     "t": "p",
+     "text": "Your internal teams are bogged down by the intricacies of cloud operations. You need to offload routine management so they can focus on strategic, value-added projects."
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Max-IT™ Blueprint: Your Partnership in Cloud Excellence"
+    },
+    {
+     "t": "p",
+     "text": "Our AWS Managed Services are a partnership in continuous improvement. We architect a framework for operational excellence across three key pillars."
+    },
+    {
+     "t": "p",
+     "text": "Foundation"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Partnership"
+    },
+    {
+     "t": "h2",
+     "text": "A Foundation of Proactive Operations"
+    },
+    {
+     "t": "p",
+     "text": "Our 24/7, global support team of AWS-certified engineers provides continuous monitoring, automation, and SLA-backed incident response to ensure maximum uptime and business continuity for your critical workloads."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xfKE7pnbGUEydXxtJFYFBSNVGY8.jpeg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Case Studies"
+    },
+    {
+     "t": "p",
+     "text": "Designed a scalable and secure cloud architecture on AWS to support reliable application performance."
+    },
+    {
+     "t": "card",
+     "href": "./managed-services/case-study-empowering-life-sciences",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/2UPgLBQhuNmNCvBwx6JCIvxUg.jpg",
+       "alt": "A scientist works in a lab hood, conducting research.",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./managed-services/case-study-empowering-life-sciences",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Empowering Life Sciences Through Secure AWS Infrastructure and Managed Services Partnership"
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "Read more",
+     "href": "./managed-services/case-study-empowering-life-sciences"
+    },
+    {
+     "t": "card",
+     "href": "./managed-services/case-study-comprehensive-cloud",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/z7jasxK4EzJ3pbKGIRPWuuyOAs.jpg",
+       "alt": "woman in blue long sleeve shirt sitting beside man in blue dress shirt",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./managed-services/case-study-comprehensive-cloud",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Comprehensive Cloud Managed Services for a Leading Manufacturer"
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "Read more",
+     "href": "./managed-services/case-study-comprehensive-cloud"
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Comprehensive Service Portfolio, Architected for Your Needs"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT™ provides an indispensable advantage through a wide range of managed services covering your entire AWS estate"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zwyk3oE2Gh096pZ8Sf7WkVxH51c.jpeg",
+     "alt": "people inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "24/7 Monitoring & Incident Response"
+    },
+    {
+     "t": "p",
+     "text": "Real-time infrastructure and application health monitoring, auto-remediation, and SLA-backed incident handling."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/p0CwBbcJNoJDHV3KeM2E9UWiMDc.jpeg",
+     "alt": "photography of people inside room during daytime",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "CloudOps & Automation"
+    },
+    {
+     "t": "p",
+     "text": "Automated deployment, patching, backups, and maintenance using Infrastructure-as-Code."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vzsAKo3haAOqr5ZD3rUcEJKok.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "FinOps & Cost Optimization"
+    },
+    {
+     "t": "p",
+     "text": "Continuous spend monitoring, reserved instance planning, and rightsizing recommendations to maximize your AWS ROI."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/OKBSBml5kS89NEbeXG0796TbpI.jpeg",
+     "alt": "photography of people inside room during daytime",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Backup & Disaster Recovery"
+    },
+    {
+     "t": "p",
+     "text": "Automated backup schedules and rapid recovery drills to ensure data durability and business continuity."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MPDfHdxDWx1BrnfC0aqOaJXPH6Y.jpg",
+     "alt": "a close up of a keyboard with a blue button",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "AI-Powered Visibility"
+    },
+    {
+     "t": "p",
+     "text": "Leverage instant assistance and AI-driven insights to assess resource health, optimize performance, and identify trends across your environment."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/twYJ2paQZWU4dfWX8tkv5gyMOvs.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Strategic Advisory"
+    },
+    {
+     "t": "p",
+     "text": "Ongoing cloud roadmap consulting and architectural best practice guidance to keep you future-ready."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WwriuP2zZxqKgMDZqShgwh1Onk.jpeg",
+     "alt": "person using phone and laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Security & Compliance Management"
+    },
+    {
+     "t": "p",
+     "text": "Security posture assessments, managed firewalls, vulnerability scans, and policy enforcement to ensure you are always audit-ready."
+    },
+    {
+     "t": "h4",
+     "text": "Strategic Advisory"
+    },
+    {
+     "t": "h4",
+     "text": "Strategic Advisory"
+    },
+    {
+     "t": "h4",
+     "text": "Strategic Advisory"
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Smarter Approach to Cloud Operations"
+    },
+    {
+     "t": "p",
+     "text": "Aren't 'Managed Services' just outsourced IT support? How is this strategic?"
+    },
+    {
+     "t": "p",
+     "text": "We believe true Managed Services are strategic, not reactive. It's the difference between \"keeping the lights on\" and \"optimizing the power grid.\" Our Max-IT™ service is an architectural partnership. We don't just fix issues; we provide continuous, data-driven recommendations on cost, security, and performance, ensuring your cloud environment actively evolves to meet your business ambitions. We are an extension of your strategic team, not just your helpdesk."
+    },
+    {
+     "t": "p",
+     "text": "How does Quadra actually deliver cost savings, and can you prove it?"
+    },
+    {
+     "t": "p",
+     "text": "How do you guarantee the resilience of our most mission-critical applications?"
+    },
+    {
+     "t": "p",
+     "text": "Will a managed service slow down our ability to innovate and adopt new AWS features?"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready for Effortless"
+    },
+    {
+     "t": "h2",
+     "text": "Cloud Operations?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about how our Max-IT™ Managed Services can free you to focus on your ambition, while we ensure your AWS foundation is built to last"
+    },
+    {
+     "t": "link",
+     "text": "Discuss Our Managed Services",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

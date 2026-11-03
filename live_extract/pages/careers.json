@@ -1,0 +1,305 @@
+{
+ "path": "/careers",
+ "url": "https://www.quadrasystems.net/careers",
+ "title": "Career Opportunities | Quadra Systems",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architect Your Future"
+    },
+    {
+     "t": "h1",
+     "text": "Career Opportunities at Quadra Systems"
+    },
+    {
+     "t": "p",
+     "text": "We are a company of builders, problem-solvers, and partners. We're looking for ambitious individuals who want to work on complex challenges and build technology solutions that create lasting value for the world's leading enterprises"
+    },
+    {
+     "t": "link",
+     "text": "View Open Roles",
+     "href": "./careers#find-jobs"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Why Build Your Career at Quadra?"
+    },
+    {
+     "t": "p",
+     "text": "In an industry of short-term projects and constant churn, we offer something different. We offer a foundation"
+    },
+    {
+     "t": "h5",
+     "text": "Work on What Matters"
+    },
+    {
+     "t": "p",
+     "text": "You won't just be closing tickets or deploying point solutions. You will be a strategic architect, working directly with leading enterprises to solve their most complex, mission-critical challenges in Cloud, AI, and Cybersecurity."
+    },
+    {
+     "t": "h5",
+     "text": "A Culture of Stability & Mentorship"
+    },
+    {
+     "t": "p",
+     "text": "Our greatest strength is our people and their incredible longevity. You will be surrounded by, and learn from, some of the most experienced and respected professionals in the industry. We don't just hire you; we invest in your long-term growth"
+    },
+    {
+     "t": "h5",
+     "text": "Mastery Through Continuous Learning"
+    },
+    {
+     "t": "p",
+     "text": "The future is our obsession. With over 750+ certifications and premier partnerships with Microsoft, AWS, and Google, we provide unparalleled opportunities for you to master new technologies, get certified on the most advanced platforms, and stay ahead of the technology curve."
+    },
+    {
+     "t": "h5",
+     "text": "Enterprise Data Resilience"
+    },
+    {
+     "t": "p",
+     "text": "We have built a culture based on mutual respect and trust, not micromanagement. We empower our architects to take ownership, make decisions, and build genuine, long-term relationships with our clients."
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Architects of Our Legacy"
+    },
+    {
+     "t": "p",
+     "text": "Hear directly from the people who are building their careers and shaping the future at Quadra"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4iDJRkBeLgy1Px3PBeFkaVBqMhA.png",
+     "alt": "",
+     "w": 100
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/rn7jGgeQ3iS7hi4litpXnOd3I.jpg",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Femitha Parveen M"
+    },
+    {
+     "t": "p",
+     "text": "Every new day at Quadra brings us a new challenge, which provides us with a lot of learning as well as unlearning opportunities! Management provides equal opportunities to one and all, which ultimately proves that everyone's voice is heard and adhered to, which makes us feel very welcoming and respected."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/y34KWrfHokjavRsiOblBm23WPw.jpg",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Deebak Kumar"
+    },
+    {
+     "t": "p",
+     "text": "Quadra isn't just a workplace; it's a nurturing environment where I've been able to expand my skills and reach new milestones. I take pride in my role at Quadra, where innovation converges with real-world impact, fostering continuous growth and success opportunities. It's truly a fantastic place to work, continuously learn, and strive for excellence."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yvQmiABCYLBrSO7kelEAPza9JI.png",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Arshad Rahman A"
+    },
+    {
+     "t": "p",
+     "text": "Quadra is a great place to grow and develop for young and creative minds and provides them the freedom to demonstrate their skills and knowledge so that you can deliver the best for customers. I have been associated with Quadra for more than three years, and my professional experience has been amazing."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yUL4CD7UWZue3jI1iWcBfbwtBoo.jpg",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Alagappan K"
+    },
+    {
+     "t": "p",
+     "text": "Having been part of this organization for nearly a decade with Quadra (#1Quadra), It's an incredible journey filled with learning, growth, and success. I express my gratitude for the opportunities I've received here to excel and contribute to the accelerated progress and development that the company has provided. Every individual is provided with the opportunity to make a substantial contribution, paving the way for personal and collective growth."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/42sIuUrfflVTACE3bzYqDcrUBjY.jpg",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Naveen Bala Kumar S"
+    },
+    {
+     "t": "p",
+     "text": "My professional and personal growth has seen a remarkable transformation since the day I joined Quadra. One aspect that truly stands out at Quadra is their commitment to nurturing young leaders. The emphasis placed on developing and empowering employees to take on leadership roles is commendable. This focus on cultivating the next generation of leaders adds a unique and enriching dimension to the work environment."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WvCXY8aOBwWkfbAh583Ak8bdy4.png",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Shushvik K"
+    },
+    {
+     "t": "p",
+     "text": "Quadra has helped me grow as a person and also as a professional. It’s a company where our Leads guide us, our Managers support us and our Directors lead us. Quadra is a family where people work together towards one unified goal which is the road to success. Every individual is given the opportunity to play an integral role. A community with abundant opportunities and always willing to make sure that we all are learning and growing together."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/g6fq2F8m5mabqy0plVz7ls0As8.png",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Brian Ronald"
+    },
+    {
+     "t": "p",
+     "text": "Every day feels like Day 1 at Quadra, since I learn something new every day. I’m so grateful to have wonderful peers who help me at every opportunity and take time to guide me. Quadra is a wonderful place to work, learn new things and to achieve new heights."
+    }
+   ]
+  },
+  {
+   "name": "Process",
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5tZrhla8HnBTHfjEbzTouLsG5mY.jpg",
+     "alt": "two men shaking hands in a conference room",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "What We Look For"
+    },
+    {
+     "t": "p",
+     "text": "Hear directly from the people who are building their careers and shaping the future at Quadra."
+    },
+    {
+     "t": "p",
+     "text": "01"
+    },
+    {
+     "t": "h5",
+     "text": "Deep Curiosity"
+    },
+    {
+     "t": "p",
+     "text": "You are driven to understand not just the \"how\" of technology, but the \"why\" of our clients' business challenges"
+    },
+    {
+     "t": "p",
+     "text": "02"
+    },
+    {
+     "t": "h5",
+     "text": "Unwavering Integrity"
+    },
+    {
+     "t": "p",
+     "text": "You believe in doing the right thing, always. You build trust through transparency and honesty"
+    },
+    {
+     "t": "p",
+     "text": "03"
+    },
+    {
+     "t": "h5",
+     "text": "A Partnership Mindset"
+    },
+    {
+     "t": "p",
+     "text": "You are a natural collaborator who thrives on working with teams and clients to achieve a shared goal"
+    },
+    {
+     "t": "p",
+     "text": "04"
+    },
+    {
+     "t": "h5",
+     "text": "A Drive for Excellence"
+    },
+    {
+     "t": "p",
+     "text": "You are committed to your craft and relentlessly pursue mastery in your field."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Find Your Place as an Architect"
+    },
+    {
+     "t": "p",
+     "text": "We are always looking for ambitious talent to join our team. Explore our open roles and find where you fit"
+    },
+    {
+     "t": "p",
+     "text": "Don’t see a suitable opening?"
+    },
+    {
+     "t": "p",
+     "text": "Submit your profile for future opportunities"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Don't See the"
+    },
+    {
+     "t": "h2",
+     "text": "Perfect Role?"
+    },
+    {
+     "t": "p",
+     "text": "We are always interested in connecting with exceptional talent. If you believe you have what it takes to be a Quadra architect, we want to hear from you."
+    },
+    {
+     "t": "link",
+     "text": "Submit Your Resume",
+     "href": "./join-quadra"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

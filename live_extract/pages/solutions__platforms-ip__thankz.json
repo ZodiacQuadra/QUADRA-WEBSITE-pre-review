@@ -1,0 +1,187 @@
+{
+ "path": "/solutions/platforms-ip/thankz",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/thankz",
+ "title": "Thankz: Enterprise Employee Recognition & Engagement Platform | Quadra",
+ "description": "Thankz is Quadra's enterprise recognition and engagement platform that drives culture, retention, and performance through meaningful, data-driven appreciation — built for modern, distributed workforces.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Y8nzKmrwnG6sLYBY8fxyphu5ce4.png",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Enterprise Employee Recognition & Engagement Platform"
+    },
+    {
+     "t": "p",
+     "text": "Thankz™ is our proprietary employee recognition and engagement platform, designed for the modern enterprise. We provide the blueprint and the tools to build a thriving, high-performance culture where appreciation is visible, values are lived, and top talent feels seen, valued, and motivated."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Great Culture Doesn't Happen by Accident. It is Architected"
+    },
+    {
+     "t": "p",
+     "text": "In today's competitive talent market, leaders are grappling with foundational cultural challenges that directly impact the bottom line."
+    },
+    {
+     "t": "h5",
+     "text": "How do we keep our culture alive in a hybrid world?"
+    },
+    {
+     "t": "p",
+     "text": "When teams are distributed, the informal connections and shared culture that drive engagement can fade. You need a digital fabric to keep your teams cohesive and connected."
+    },
+    {
+     "t": "h5",
+     "text": "How do we stop our company values from being just a poster on the wall?"
+    },
+    {
+     "t": "p",
+     "text": "Values are only real when they are recognized and reinforced in daily actions. You need a system to make your core values visible, tangible, and celebrated."
+    },
+    {
+     "t": "h5",
+     "text": "Annual reviews are too slow. How do we recognize great work in real time?"
+    },
+    {
+     "t": "p",
+     "text": "Top performers need immediate and continuous feedback. A once-a-year review is not enough to keep your best people motivated and engaged in a fast-paced world."
+    },
+    {
+     "t": "h5",
+     "text": "How do we actually measure and understand our company culture?"
+    },
+    {
+     "t": "p",
+     "text": "Culture can feel intangible. You need data-driven insights to understand employee morale, identify top performers, and spot the cultural trends that are shaping your organization."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Thriving, High-Performance Culture"
+    },
+    {
+     "t": "p",
+     "text": "Thankz™ is built on a simple but powerful architectural philosophy: what gets recognized gets repeated. Our platform is designed to engineer recognition into the daily workflow of your enterprise."
+    },
+    {
+     "t": "h5",
+     "text": "We Make Recognition Visible and Real-Time"
+    },
+    {
+     "t": "p",
+     "text": "Our blueprint is to break down the silos of appreciation. Thankz™ provides an open, social platform where recognition is instant, public, and flows in every direction—from peer to peer, manager to team, and across departments."
+    },
+    {
+     "t": "h5",
+     "text": "We Connect Recognition Directly to Your Core Values"
+    },
+    {
+     "t": "p",
+     "text": "We architect a system where every act of recognition is explicitly tied to one of your company's core values. This transforms your values from abstract concepts into a living, breathing part of your daily culture."
+    },
+    {
+     "t": "h5",
+     "text": "We Provide Data-Driven Insights into Your Culture"
+    },
+    {
+     "t": "p",
+     "text": "Our platform provides powerful analytics for HR and leadership. We provide the data you need to identify influential team players, understand the health of your culture, and make informed decisions about your talent."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1kjIn8KWepnJkjnWt1ZSGNfKhg.jpg",
+     "alt": "Man in suit smiling while using a laptop",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Capabilities That Power Your Culture"
+    },
+    {
+     "t": "p",
+     "text": "Real-Time Peer-to-Peer Recognition"
+    },
+    {
+     "t": "p",
+     "text": "Empower any employee to instantly recognize a colleague for great work, fostering a culture of gratitude and collaboration."
+    },
+    {
+     "t": "p",
+     "text": "Core Value Alignment"
+    },
+    {
+     "t": "p",
+     "text": "Customizable Rewards & Redemptions"
+    },
+    {
+     "t": "p",
+     "text": "Unified Social Feed"
+    },
+    {
+     "t": "p",
+     "text": "Actionable Culture Analytics"
+    },
+    {
+     "t": "p",
+     "text": "Gamification & Engagement"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/jnIfzhFTsHRB2xVBzKqTzotJXY.jpg",
+     "alt": "man sitting in front of table",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Real-Time Peer-to-Peer Recognition"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect a"
+    },
+    {
+     "t": "h2",
+     "text": "Culture People Love?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about how the Thankz™ platform can help you build a more engaged, motivated, and high-performing team."
+    },
+    {
+     "t": "link",
+     "text": "Book a Thankz Demo",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

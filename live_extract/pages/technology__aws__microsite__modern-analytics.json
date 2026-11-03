@@ -1,0 +1,118 @@
+{
+ "path": "/technology/aws/microsite/modern-analytics",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/modern-analytics",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Your"
+    },
+    {
+     "t": "h1",
+     "text": "Data-Driven Future"
+    },
+    {
+     "t": "p",
+     "text": "We architect modern data platforms on AWS that break down silos and transform your data from a complex asset into your most valuable one. From data ingestion to business intelligence, we build the intelligent engine for your enterprise."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Data Has Answers. Can Your Business Hear Them?"
+    },
+    {
+     "t": "p",
+     "text": "Your enterprise is generating more data than ever, but is it creating real value? Many businesses struggle with siloed data, slow and complex analytics, and an inability to provide timely, self-service insights to the teams that need them most to make critical decisions."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/c0omMfRdnSVUF130w59SJIWWtgs.jpg",
+     "alt": "a man sitting in front of a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/JrO5lgm9G7MTmbzBt13ATW5s7gk.jpg",
+     "alt": "two women talking while looking at laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "A Blueprint for a Unified Data Estate."
+    },
+    {
+     "t": "p",
+     "text": "We architect a single source of truth. Our blueprint focuses on building a serverless, infinitely scalable data analytics platform with a modern data lakehouse at its core. We design a data fabric that unifies your disparate sources and empowers your teams with real-time, actionable insights."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Modern Analytics Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Data Lakehouse on Amazon S3"
+    },
+    {
+     "t": "p",
+     "text": "Architecting a scalable, secure, and cost-effective central data repository."
+    },
+    {
+     "t": "p",
+     "text": "Data Integration & ETL (AWS Glue)"
+    },
+    {
+     "t": "p",
+     "text": "Data Warehousing (Amazon Redshift)"
+    },
+    {
+     "t": "p",
+     "text": "Interactive BI & Visualization (Amazon QuickSight)"
+    },
+    {
+     "t": "p",
+     "text": "Data Governance (AWS Lake Formation)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9zugimb1megJvxRYlImWW7bMmUU.jpg",
+     "alt": "people sitting down near table with assorted laptop computers",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Data Lakehouse on Amazon S3"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect Your Data Blueprint?"
+    },
+    {
+     "t": "link",
+     "text": "Design Your Data Platform",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

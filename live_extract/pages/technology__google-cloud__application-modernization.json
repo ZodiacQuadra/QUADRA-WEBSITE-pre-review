@@ -1,0 +1,118 @@
+{
+ "path": "/technology/google-cloud/application-modernization",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/application-modernization",
+ "title": "Google Cloud Application Modernization: Legacy to Cloud | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Google Cloud Application Modernization"
+    },
+    {
+     "t": "h1",
+     "text": "Legacy to Cloud-Native"
+    },
+    {
+     "t": "p",
+     "text": "We help you transform your monolithic legacy applications into agile, resilient, and scalable cloud-native services on Google Cloud, accelerating your development cycles and your ability to innovate."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Are Your Applications Built for the Pace of Modern Business?"
+    },
+    {
+     "t": "p",
+     "text": "Monolithic applications are slow to update, difficult to scale, and create significant risk. In a world that demands agility, you need an application architecture that can evolve as fast as your business."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SD2fXxQCgHUkNTIfhHmNXFD3k.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GTjbIGSYZ4fEG7xF91Q3YZVRxQ8.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "A Blueprint for Agile, Scalable Applications"
+    },
+    {
+     "t": "p",
+     "text": "We architect a path from monolith to microservices. Our blueprint focuses on leveraging Google Cloud's powerful serverless and container platforms to build applications that are more resilient, easier to update, and infinitely scalable. We integrate this with a modern DevOps practice to create a high-velocity development lifecycle."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Full Spectrum of Cloud-Native Innovation"
+    },
+    {
+     "t": "p",
+     "text": "We architect and modernize your applications on Google Cloud, transforming them from rigid monoliths into agile, resilient, and scalable engines for digital innovation"
+    },
+    {
+     "t": "p",
+     "text": "Containerization with Google Kubernetes Engine (GKE)"
+    },
+    {
+     "t": "p",
+     "text": "We architect your modernization journey by transforming monolithic applications into portable, scalable microservices on the industry-leading Google Kubernetes Engine (GKE), enabling rapid development and operational resilience"
+    },
+    {
+     "t": "p",
+     "text": "Serverless Computing with Cloud Run & Cloud Functions"
+    },
+    {
+     "t": "p",
+     "text": "API Management with Apigee"
+    },
+    {
+     "t": "p",
+     "text": "DevOps & CI/CD Automation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DQhd7dOaTbVkc90qbdGbc62GPY.jpg",
+     "alt": "Two young women working on a project together.",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Containerization with Google Kubernetes Engine (GKE)"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your Application's Future"
+    },
+    {
+     "t": "link",
+     "text": "Book an AI Strategy Session",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

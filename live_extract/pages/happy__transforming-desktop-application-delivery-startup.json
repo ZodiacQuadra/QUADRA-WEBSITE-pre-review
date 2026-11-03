@@ -1,0 +1,116 @@
+{
+ "path": "/happy/transforming-desktop-application-delivery-startup",
+ "url": "https://www.quadrasystems.net/happy/transforming-desktop-application-delivery-startup",
+ "title": "Scalable Application Delivery Platform Case Study | Quadra",
+ "description": "Architected and deployed a secure, centralized application delivery solution on the public cloud that enabled a 'plug and play' rollout for new branches, eliminating local IT overhead and ensuring business continuity.",
+ "ogImage": "https://framerusercontent.com/images/01tjIXTcedHv9WIXGZYsqkwfyQ.jpg?width=5129&height=6411",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Scalable Application Delivery Platform for a High-Growth Startup"
+    },
+    {
+     "t": "p",
+     "text": "Startup"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/01tjIXTcedHv9WIXGZYsqkwfyQ.jpg",
+     "alt": "a computer monitor sitting on top of a wooden desk",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A fast-growing direct selling agency in the personal and home care space, in the middle of a rapid national expansion."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To enable their rapid national expansion by providing their Line-of-Business (LOB) application to newly opened branches in a scalable, secure, and cost-effective manner."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a secure, centralized application delivery solution on the public cloud that enabled a 'plug and play' rollout for new branches, eliminating local IT overhead and ensuring business continuity."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A fast-growing direct selling agency in the personal and home care space, in the middle of a rapid national expansion."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their centralized datacenter model was a potential speed limiter. Extending their LOB applications to new branches would require significant investment in local IT support, data storage, and security at each new location. For a startup with a lean operating model, this was not a viable option and would be a significant drag on their expansion plans."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was rapid, unhindered national growth. They needed an IT strategy that could match their speed. This meant finding a way to deliver their core LOB application to new offices across the country without the high costs, long timelines, and management complexity of setting up traditional local IT infrastructure."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new architecture transformed their expansion capability. The solution became a 'plug and play' model for new branches. All configuration and settings were templated, requiring virtually no local IT maintenance. Data security was seamless, as all data resided centrally. The inherent scalability of the public cloud ensured that performance was never a bottleneck, and the model provided complete peace of mind to management, allowing them to focus on their core business of growth."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Rapid, Scalable National Expansion"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated the Need for Local IT Infrastructure & Staff"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Data Security with a Centralized Model"
+    },
+    {
+     "t": "p",
+     "text": "Ensured Business Continuity for a Growing Business"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

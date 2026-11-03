@@ -1,0 +1,318 @@
+{
+  "header": [
+    {
+      "label": "Solutions",
+      "page": "solutions",
+      "groups": [
+        {
+          "title": "Business priorities",
+          "links": [
+            [
+              "Modernize Your Foundation",
+              "modernize"
+            ],
+            [
+              "Transform with AI & Data",
+              "transform"
+            ],
+            [
+              "Secure Your Enterprise",
+              "secure"
+            ],
+            [
+              "Empower Your Workforce",
+              "empower"
+            ]
+          ]
+        },
+        {
+          "title": "Quadra portfolio",
+          "links": [
+            [
+              "Platforms & IP",
+              "platforms-ip"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Technology Practices",
+      "page": "technology",
+      "groups": [
+        {
+          "title": "Microsoft",
+          "links": [
+            [
+              "Microsoft overview",
+              "microsoft"
+            ],
+            [
+              "Azure",
+              "azure"
+            ],
+            [
+              "↳ Migration & Modernization",
+              "azure-migration"
+            ],
+            [
+              "↳ Digital & App Innovation",
+              "azure-apps"
+            ],
+            [
+              "↳ Data, Analytics & AI",
+              "azure-data-ai"
+            ],
+            [
+              "↳ Azure Security & Governance",
+              "azure-security"
+            ],
+            [
+              "↳ Azure Managed Services",
+              "azure-managed"
+            ],
+            [
+              "Microsoft 365 & Workplace",
+              "microsoft-workplace"
+            ],
+            [
+              "Microsoft Security",
+              "microsoft-security"
+            ]
+          ]
+        },
+        {
+          "title": "AWS",
+          "links": [
+            [
+              "AWS overview",
+              "aws"
+            ],
+            [
+              "Infra & Migration",
+              "aws-migration"
+            ],
+            [
+              "Application & Database Modernization",
+              "aws-apps"
+            ],
+            [
+              "Data Analytics & Machine Learning",
+              "aws-data-ai"
+            ],
+            [
+              "Agentic AI",
+              "aws-agentic-ai"
+            ],
+            [
+              "Managed Services | Max-IT",
+              "aws-managed"
+            ],
+            [
+              "Security & Governance",
+              "aws-security"
+            ]
+          ]
+        },
+        {
+          "title": "Google Cloud",
+          "links": [
+            [
+              "Google Cloud overview",
+              "google-cloud"
+            ],
+            [
+              "Enterprise AI",
+              "gcp-ai"
+            ],
+            [
+              "Gemini Enterprise",
+              "gcp-gemini"
+            ],
+            [
+              "Data & Analytics",
+              "gcp-data"
+            ],
+            [
+              "Infrastructure Modernization",
+              "gcp-infrastructure"
+            ],
+            [
+              "Application Modernization",
+              "gcp-apps"
+            ],
+            [
+              "Database Modernization",
+              "gcp-databases"
+            ],
+            [
+              "Security & Governance",
+              "gcp-security"
+            ],
+            [
+              "Managed Services",
+              "gcp-managed"
+            ],
+            [
+              "Startups",
+              "gcp-startups"
+            ]
+          ]
+        },
+        {
+          "title": "Cybersecurity",
+          "links": [
+            [
+              "Cybersecurity overview",
+              "csg"
+            ],
+            [
+              "Zero Trust & SASE",
+              "csg-zero-trust"
+            ],
+            [
+              "Endpoint, Identity & Threat Defence",
+              "csg-endpoint"
+            ],
+            [
+              "Network, Email, Apps & APIs",
+              "csg-network-apps"
+            ],
+            [
+              "Cloud-Native Security",
+              "csg-cnapp"
+            ],
+            [
+              "AI Security & Governance",
+              "csg-ai-security"
+            ],
+            [
+              "Managed Security Operations",
+              "csg-managed"
+            ],
+            [
+              "Risk, Intelligence & Advisory",
+              "csg-advisory"
+            ]
+          ]
+        },
+        {
+          "title": "Hybrid Cloud & Digital Work",
+          "links": [
+            [
+              "Hybrid Cloud & Digital Work overview",
+              "hcdw"
+            ],
+            [
+              "Hybrid Cloud Infrastructure",
+              "hcdw-infrastructure"
+            ],
+            [
+              "Digital Workspace & Security",
+              "hcdw-workspace"
+            ],
+            [
+              "Data, Cyber & AI Resilience",
+              "hcdw-resilience"
+            ]
+          ]
+        },
+        {
+          "title": "Enterprise AI Engineering",
+          "links": [
+            [
+              "Enterprise AI Engineering overview",
+              "aig"
+            ],
+            [
+              "AI Advisory & Architecture",
+              "aig-advisory"
+            ],
+            [
+              "Agentic AI Engineering",
+              "aig-engineering"
+            ],
+            [
+              "Enterprise AI Integration & Automation",
+              "aig-automation"
+            ],
+            [
+              "Managed AI",
+              "aig-managed"
+            ],
+            [
+              "AI Governance & Operations",
+              "aig-governance"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Why Quadra",
+      "page": "why-quadra",
+      "groups": [
+        {
+          "title": "Why Quadra",
+          "links": [
+            [
+              "Our Story & Values",
+              "why-quadra"
+            ],
+            [
+              "How We Work",
+              "how-we-work"
+            ],
+            [
+              "People, Culture & Leadership",
+              "people"
+            ],
+            [
+              "Partner Ecosystem",
+              "partners"
+            ],
+            [
+              "Centre of Excellence",
+              "coe"
+            ],
+            [
+              "Awards & Recognition",
+              "recognition"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Happy Customers",
+      "page": "happy-customers"
+    },
+    {
+      "label": "Insights",
+      "page": "insights",
+      "groups": [
+        {
+          "title": "Thinking and news",
+          "links": [
+            [
+              "Founder Perspectives",
+              "founder"
+            ],
+            [
+              "Practitioner Insights",
+              "insights"
+            ],
+            [
+              "Newsroom",
+              "newsroom"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "label": "Talk to an Architect",
+    "page": "contact"
+  }
+}

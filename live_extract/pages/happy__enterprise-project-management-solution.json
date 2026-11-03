@@ -1,0 +1,116 @@
+{
+ "path": "/happy/enterprise-project-management-solution",
+ "url": "https://www.quadrasystems.net/happy/enterprise-project-management-solution",
+ "title": "Enterprise Project Management Platform Case Study | Quadra",
+ "description": "Architected and deployed a standardized Enterprise Project Management (EPM) platform that delivered deep visibility into operations, enhanced efficiency, and improved employee satisfaction.",
+ "ogImage": "https://framerusercontent.com/images/fejxFYsR5NwrsMo7eLeJ6oR2ljE.jpg?width=5719&height=3813",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Enterprise Project Management Platform for a Global Engineering Leader"
+    },
+    {
+     "t": "p",
+     "text": "Manufacturing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fejxFYsR5NwrsMo7eLeJ6oR2ljE.jpg",
+     "alt": "man sitting near table with laptop and smartphone near window",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A world leader in electrical engineering and software with nearly 20,000 employees operating across 60 countries."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To unify their project management processes and tools onto a single, enterprise-wide platform to drive efficiency, reduce risk, and enhance quality."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a standardized Enterprise Project Management (EPM) platform that delivered deep visibility into operations, enhanced efficiency, and improved employee satisfaction."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A world leader in electrical engineering and software with nearly 20,000 employees operating across 60 countries."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their existing project management landscape was fragmented. Over time, they had adopted a multitude of disparate tools and solutions. Instead of contributing to efficiency, this fragmentation was causing delays, creating information silos, and making it impossible to get a unified view of resource allocation and project status. The multitude of tools was causing the opposite of the intended effect."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "For a global business of this scale, the ambition was to achieve operational excellence. Efficient project management was a vital cog in their operations, as even the smallest delay could set off a chain reaction with organization-wide ramifications. They needed a single source of truth to manage hundreds of projects in real time."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "By standardizing on a single platform, we delivered deep visibility and powerful insights into their global operations. The solution greatly enhanced efficiency and employee satisfaction, with automated alerts to quickly identify deviations and escalations. Team members could now update timesheets from any device, reducing manual effort. The end-to-end solution, which included everything from architecture to end-user training, allowed them to realize significant business benefits without being encumbered by a complex deployment."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Standardized Project Management on a Single Global Platform"
+    },
+    {
+     "t": "p",
+     "text": "Delivered Deep Visibility & Insights into Operations"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Operational Efficiency & Productivity"
+    },
+    {
+     "t": "p",
+     "text": "Improved Resource Planning & Allocation"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

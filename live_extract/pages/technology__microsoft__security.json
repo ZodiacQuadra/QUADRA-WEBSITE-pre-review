@@ -1,0 +1,290 @@
+{
+ "path": "/technology/microsoft/security",
+ "url": "https://www.quadrasystems.net/technology/microsoft/security",
+ "title": "Microsoft Security: Architect Your Unified Cloud Security | Quadra",
+ "description": "Quadra delivers unified Microsoft security using Defender XDR, Sentinel SIEM, Entra identity governance, and Purview compliance — helping enterprises protect identities, data, endpoints, and cloud workloads with confidence.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Microsoft Security"
+    },
+    {
+     "t": "h1",
+     "text": "Fortified Architect Your Unified Cloud Security Posture"
+    },
+    {
+     "t": "p",
+     "text": "We architect and manage a proactive, intelligent, and unified security posture using the integrated Microsoft Security ecosystem. As an Elite Security Partner, we help you move from a state of reactive defense to one of confident, enterprise-wide resilience"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Security is No Longer a Product. It's an Architecture of Trust"
+    },
+    {
+     "t": "p",
+     "text": "We partner with security leaders who are facing the foundational challenges of the modern, highly regulated digital landscape"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iNybHyn2ecySOW7eNCg1SPLRFw.jpg",
+     "alt": "people sitting near table with laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we unify our sprawling security tools?"
+    },
+    {
+     "t": "p",
+     "text": "A patchwork of disconnected security products creates gaps, increases costs, and makes it impossible to demonstrate a cohesive security posture to auditors"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/P7qChx43b6H53RQy453RfmFJqg.jpg",
+     "alt": "person wearing long-sleeve top working on laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we enforce a consistent security policy across our hybrid cloud?"
+    },
+    {
+     "t": "p",
+     "text": "You need a unified framework that can protect identities, data, and infrastructure, whether they reside in your datacenter, in Azure, or in other clouds."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lDIJpcJxZEYVFqlgtjGUgxoTR0.jpg",
+     "alt": "a man sitting in front of a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "Our security team is drowning in alerts"
+    },
+    {
+     "t": "p",
+     "text": "Alert fatigue is crippling security operations. You need a platform that uses AI to correlate signals, prioritize critical incidents, and automate responses"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/G7wZmso17YSyOkk5VpuqJMVUsqU.jpg",
+     "alt": "woman placing sticky notes on wall",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we ensure our data is protected and compliant with laws like the DPDPA?"
+    },
+    {
+     "t": "p",
+     "text": "You need to move beyond simply securing your perimeter and architect a data governance framework that can discover, classify, and protect sensitive personal data by default."
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Intelligent, Integrated Defense"
+    },
+    {
+     "t": "p",
+     "text": "Our security philosophy is built on Microsoft's modern, integrated framework, designed to provide clarity, control, and comprehensive protection"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Unify"
+    },
+    {
+     "t": "p",
+     "text": "Engineer"
+    },
+    {
+     "t": "h3",
+     "text": "We Architect with a Zero Trust Mindset"
+    },
+    {
+     "t": "p",
+     "text": "This is our foundational principle. We design your security architecture assuming every request is a potential breach. We implement strong authentication, least-privilege access, and micro-segmentation to protect your most critical assets from the inside out"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MAkFn1fMXSaRWCKVaaQXifJaxEA.jpg",
+     "alt": "three women sitting at the table",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a 360-Degree Security Fabric"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0YczDvjwpwN80wyyW0HHaSg0VA.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Threat Detection & Response (Managed SOC)"
+    },
+    {
+     "t": "p",
+     "text": "We architect your security nerve center with Microsoft Sentinel. This capability is delivered through our BluForge platform—our proprietary, AI-powered Unified SecOps offering that provides 24/7 proactive threat hunting, intelligent alert correlation, and rapid, orchestrated response."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/F8bRxnZXtathTlYe6oa9P55kjsY.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Unified Endpoint & Server Security"
+    },
+    {
+     "t": "p",
+     "text": "We protect your entire hybrid estate. We leverage the integrated power of Microsoft Defender for Endpoint and Microsoft Intune for comprehensive device protection, and extend this security to your on-premise and multi-cloud servers with Microsoft Defender for Cloud."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WWbcr9xA8ezJ0nrGh99vBWXbBs.jpg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Data Security & Governance (DPDPA Readiness)"
+    },
+    {
+     "t": "p",
+     "text": "We help you discover, classify, and protect your sensitive data. Using Microsoft Purview, we architect robust Data Loss Prevention (DLP) and Insider Risk Management policies to safeguard your intellectual property and ensure compliance."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3T8vswzOiWNPxJn88d0s762Hzj8.jpg",
+     "alt": "selective focus photography of people sits in front of table inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Cloud Application Security"
+    },
+    {
+     "t": "p",
+     "text": "We provide comprehensive visibility and control over your SaaS application landscape. Using Microsoft Defender for Cloud Apps, we help you discover and manage Shadow IT and protect against threats from unauthorized AI applications"
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "h2",
+     "text": "Architecting a Unified Defense for a Global Tech Giant"
+    },
+    {
+     "t": "p",
+     "text": "For a leading technology services provider with over 10,000 employees, we architected a comprehensive security transformation. We upgraded them to an advanced, integrated Microsoft security suite to defend against sophisticated email threats and eliminate shadow IT"
+    },
+    {
+     "t": "h4",
+     "text": "Security"
+    },
+    {
+     "t": "p",
+     "text": "Established a unified security and compliance framework"
+    },
+    {
+     "t": "h4",
+     "text": "Proactive stance"
+    },
+    {
+     "t": "p",
+     "text": "Gained a proactive stance against advanced email and identity threats"
+    },
+    {
+     "t": "h4",
+     "text": "Visibility and Control"
+    },
+    {
+     "t": "p",
+     "text": "Achieved full visibility and control over cloud application usage."
+    },
+    {
+     "t": "link",
+     "text": "Explore More Security Case Studies",
+     "href": "../../happy"
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Answering Your Strategic Questions on Azure"
+    },
+    {
+     "t": "p",
+     "text": "How is AI changing the cybersecurity landscape?"
+    },
+    {
+     "t": "p",
+     "text": "AI is a dual-use technology in cybersecurity. Attackers use it to create more sophisticated phishing campaigns and evasive malware. Defenders, in turn, must use AI to fight back at scale. Microsoft's core advantage is its ability to analyze trillions of daily security signals with AI. This allows platforms like Sentinel and Defender to automatically detect patterns, correlate seemingly unrelated events into a single incident, and orchestrate responses faster than any human team could"
+    },
+    {
+     "t": "p",
+     "text": "What is the real business value of a \"Zero Trust\" strategy?"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Resilient Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Schedule a complimentary Security Posture Assessment with our Elite Microsoft security architects to identify risks and design your blueprint for a fortified future"
+    },
+    {
+     "t": "link",
+     "text": "Request a Security Posture Assessment",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,529 @@
+{
+ "path": "/newsroom/quadras-comprehensive-guide-to-microsoft-copilots",
+ "url": "https://www.quadrasystems.net/newsroom/quadras-comprehensive-guide-to-microsoft-copilots",
+ "title": "Quadra’s Comprehensive Guide to Microsoft Copilots",
+ "description": "Microsoft's suite of Copilots leverages artificial intelligence to enhance productivity, creativity, and efficiency across its product stack. At Quadra, we created this guide to provide an overview of the various Copilots available, detailing their integration points, licensing requirements, and the benefits they offer.",
+ "ogImage": "https://framerusercontent.com/images/9DcJmCMiunPNvIFEjUldZnMIPLY.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Quadra’s Comprehensive Guide to Microsoft Copilots"
+    },
+    {
+     "t": "p",
+     "text": "Quadra’s Comprehensive Guide to Microsoft Copilots"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9DcJmCMiunPNvIFEjUldZnMIPLY.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft's suite of Copilots leverages artificial intelligence to enhance productivity, creativity, and efficiency across its product stack. At Quadra, we created this guide to provide an overview of the various Copilots available, detailing their integration points, licensing requirements, and the benefits they offer."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1a99SiuyJUp1YllYnYQdvPWGk4.png",
+     "alt": "Copilot Image Map",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "General Purpose"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Integrated across Microsoft's suite of products and services."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Generally available with Microsoft services."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Offers conversational AI capabilities for general inquiries, content creation, and internet searches."
+    },
+    {
+     "t": "p",
+     "text": "Includes: Chat with text, voice, and image capabilities, Summarization of documents and web pages, Image creation in Designer (formerly Bing Image Creator), Web grounding. Use of plugins and Copilot GPTs."
+    },
+    {
+     "t": "h4",
+     "text": "Copilot Pro"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Microsoft 365 web apps for individuals."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Available as a monthly subscription."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Provides priority access to AI models for faster performance, the ability to create custom Copilot GPTs, and enhanced AI image creation with Designer."
+    },
+    {
+     "t": "p",
+     "text": "Includes: Everything in Copilot plus Faster responses during peak times, Copilot in select Microsoft 365 apps, and Faster AI image creation"
+    },
+    {
+     "t": "p",
+     "text": "Reference Links"
+    },
+    {
+     "t": "p",
+     "text": "Copilot vs Copilot Pro difference - Microsoft Copilot | Microsoft AI"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Windows"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Windows 11."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Part of the Windows 11 update, thus available to Windows 11 users without additional cost."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Simplifies tasks and reduces cognitive load with AI-powered assistance."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Productivity"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Microsoft 365"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Integrated across Microsoft 365 apps, including Word, Excel, PowerPoint, Outlook, and Teams."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Available for Business and Enterprise customers with Microsoft 365 subscriptions. Licensed per user per year"
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Enhances productivity by automating repetitive tasks, generating content, and providing data analysis and insights."
+    },
+    {
+     "t": "p",
+     "text": "Includes: Everything in Copilot plus Copilot in Word, Excel, PowerPoint, OneNote, and Outlook, Copilot in Microsoft Teams, Enterprise-grade data protection, Microsoft Graph grounding, Customization and extensibility through Microsoft Copilot Studio"
+    },
+    {
+     "t": "p",
+     "text": "Reference Links"
+    },
+    {
+     "t": "p",
+     "text": "Copilot for Microsoft 365"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Security"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Security"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Microsoft Security Solutions."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Requires specific Microsoft security solutions subscriptions."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Enhances cybersecurity operations with AI-driven insights and automation."
+    },
+    {
+     "t": "p",
+     "text": "Reference Links"
+    },
+    {
+     "t": "p",
+     "text": "Copilot for Security Pricing- Microsoft Copilot for Security - Pricing | Microsoft Azure"
+    },
+    {
+     "t": "p",
+     "text": "Copilot for Security Coverage and Capabilities- MSCP_Infographic_Whatcanitdo_v9 (microsoft.com)"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Developer"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot Studio"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Copilot for Microsoft 365 & Copilot Studio subscription"
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Part of the Copilot for Microsoft 365 offering, thus requiring a relevant subscription. (Use rights with Copilot for Microsoft 365 licenses, Copilot Studio for Teams (Teams only) with selected M365 Licenses, Copilot Studio subscription (25,000 messages))"
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Allows organizations to customize Copilot to their specific needs, integrating business data and automating processes."
+    },
+    {
+     "t": "p",
+     "text": "Reference Links"
+    },
+    {
+     "t": "p",
+     "text": "For more Information about Copilot for Studio- Microsoft Copilot Studio overview - Microsoft Copilot Studio | Microsoft Learn"
+    },
+    {
+     "t": "h4",
+     "text": "GitHub Copilot"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: GitHub Copilot is readily available for developers, providing an AI-powered coding companion that integrates seamlessly with your coding environment."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: GitHub Copilot is licensed under a monthly subscription model, offering full access to its AI capabilities and regular feature updates."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: GitHub Copilot offers real-timecode suggestions, accelerates coding tasks, and helps in writing better code by learning from your style and preferences. It also supports a wide range of programming languages and frameworks, enhancing developer productivity."
+    },
+    {
+     "t": "p",
+     "text": "Includes: The subscription includes access to GitHub Copilot’s full suite of features, priority support, and advanced AI features that adapt to your unique coding style, ensuring a more personalized and efficient coding experience."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Role-Based"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Sales"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Dynamics 365 for Sales."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Requires a Dynamics 365 Sales subscription. (Users who want to use Copilot for Sales need to be licensed users of Dynamics 365 Sales.)"
+    },
+    {
+     "t": "p",
+     "text": "‍Benefits: Streamlines sales processes by providing insights, generating content, and automating tasks."
+    },
+    {
+     "t": "p",
+     "text": "Reference Links"
+    },
+    {
+     "t": "p",
+     "text": "Copilot in Dynamics 365 Sales overview - https://learn.microsoft.com/en-us/dynamics365/sales/copilot-overview"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Finance"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Dynamics 365 Finance."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Requires a Dynamics 365 Finance subscription. (Users who want to use Copilot for Finance need to be licensed users of Dynamics 365 Finance.)"
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Automates financial reporting and analysis, enhances budgeting processes, and provides real-time financial insights."
+    },
+    {
+     "t": "p",
+     "text": "Reference links"
+    },
+    {
+     "t": "p",
+     "text": "Overview of Copilot in Finance and Operations apps - https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/copilot/copilot-for-finance-operations"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Service"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Dynamics 365 Customer Service."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. (Dynamics 365 Customer Service Enterprise license for summarize cases, ask a question, draft emails, and copilot analytics features, Customer Service add-in (Chat, Digital Messaging, or Voice) license for draft a chat response and summarize conversations features.)"
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Enhances customer service through automated responses, insights into customer queries, and streamlined service operations."
+    },
+    {
+     "t": "p",
+     "text": "Reference links"
+    },
+    {
+     "t": "p",
+     "text": "Manage Copilot features in Customer Service - https://learn.microsoft.com/en-us/dynamics365/customer-service/administer/configure-copilot-features"
+    },
+    {
+     "t": "p",
+     "text": "Dynamics 365 Customer Service - https://dynamics.microsoft.com/en-us/customer-service/pricing/"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Employee Experience"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Viva"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Microsoft Viva."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Available as part of specific Viva subscriptions."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Improves employee experience and engagement through personalized insights and recommendations."
+    },
+    {
+     "t": "p",
+     "text": "Reference Links"
+    },
+    {
+     "t": "p",
+     "text": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/20/introducing-copilot-in-microsoft-viva-a-new-way-to-boost-employee-engagement-and-performance/"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Azure"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Azure"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Azure Services."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Requires Azure subscription."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Facilitates cloud management and development with AI-driven insights and automation."
+    },
+    {
+     "t": "p",
+     "text": "Reference Links‍"
+    },
+    {
+     "t": "p",
+     "text": "https://learn.microsoft.com/en-us/azure/copilot/capabilities"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Reporting and Visualization"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Power Platform"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Power Platform."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Available with Power Platform subscriptions. (Copilot for Power Platform is available with Power Platform subscriptions, Requires a valid subscription to Power Platform services such as Power Apps, Power Automate, or Power BI, Each user who wants to use Copilot features must be licensed under the relevant Power Platform service.)"
+    },
+    {
+     "t": "p",
+     "text": "Benefits: ‍"
+    },
+    {
+     "t": "p",
+     "text": "a. Streamlined App Development: Provides AI-powered suggestions and automation to simplify app development within Power Apps. ‍"
+    },
+    {
+     "t": "p",
+     "text": "b. Enhanced Data Analysis: Offers advanced AI-driven insights and data analysis capabilities in Power BI. ‍"
+    },
+    {
+     "t": "p",
+     "text": "c. Automation of Processes: Automates workflows and repetitive tasks using AI in Power Automate, increasing efficiency."
+    },
+    {
+     "t": "p",
+     "text": "Reference links"
+    },
+    {
+     "t": "p",
+     "text": "Licensing Guide - https://go.microsoft.com/fwlink/?linkid=2085130"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Data Platform"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Cosmos DB (Copilot for Azure)"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Azure Cosmos DB."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Requires Azure Cosmos DB subscription."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Enhances database management and query optimization with AI-driven insights."
+    },
+    {
+     "t": "p",
+     "text": "For more information, https://learn.microsoft.com/en-us/azure/copilot/capabilities"
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for SQL DB (Copilot for Azure)"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Azure SQL Database."
+    },
+    {
+     "t": "p",
+     "text": "Licensing: Licensed. Requires Azure SQL Database subscription."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Automates database management tasks and provides performance tuning recommendations."
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Fabric (Copilot for Azure)"
+    },
+    {
+     "t": "p",
+     "text": "Product Availability: Azure OpenAI Service."
+    },
+    {
+     "t": "p",
+     "text": "Benefits: Streamlines microservices development and deployment with AI-powered insights and automation."
+    },
+    {
+     "t": "h4",
+     "text": "Copilot for Real-Time Intelligence"
+    },
+    {
+     "t": "p",
+     "text": "Benefits: It is an advanced AI tool designed to help you explore your data and extract valuable insights. You can input questions about your data, which are then automatically translated into Kusto Query Language (KQL) queries. Copilot streamlines the process of analyzing data for both experienced KQL users and citizen data scientists."
+    },
+    {
+     "t": "p",
+     "text": "For more information, https://learn.microsoft.com/en-us/fabric/get-started/copilot-real-time-analytics"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h2",
+     "text": "Conclusion"
+    },
+    {
+     "t": "p",
+     "text": "This guide from Quadra aims to help users navigate the landscape of Microsoft Copilots, understanding where each can be applied, their cost, and how they can transform the way we work and interact with technology."
+    },
+    {
+     "t": "p",
+     "text": "For more information, and to discover how to create positive business outcomes using AI, please contact Quadra. We’re here to help!"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

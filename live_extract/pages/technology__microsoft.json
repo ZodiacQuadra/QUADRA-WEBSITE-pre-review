@@ -1,0 +1,224 @@
+{
+ "path": "/technology/microsoft",
+ "url": "https://www.quadrasystems.net/technology/microsoft",
+ "title": "Microsoft Premier Partner | Quadra",
+ "description": "Quadra is a Microsoft Premier Partner with 25+ years of Azure, Modern Work, and Security expertise. We help enterprises architect, migrate, and manage Microsoft cloud environments for lasting competitive advantage.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Microsoft Premier Partner"
+    },
+    {
+     "t": "h1",
+     "text": "20 Years Architecting on Microsoft Cloud"
+    },
+    {
+     "t": "p",
+     "text": "We are a premier Microsoft solutions partner, leveraging the full, integrated power of the Microsoft ecosystem to architect the secure, intelligent, and future-ready enterprise your ambition demands."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Premier Partner for Microsoft"
+    },
+    {
+     "t": "p",
+     "text": "An Unprecedented Achievement"
+    },
+    {
+     "t": "h3",
+     "text": "20 Consecutive Years of Microsoft Global Recognition"
+    },
+    {
+     "t": "p",
+     "text": "For two decades, through every major technology shift, Quadra has been honored by Microsoft at a global level for our innovation, customer impact, and ability to deliver on the promise of their technology. This unbroken streak is a testament to our enduring quality and our ability to architect solutions that keep our partners ahead of the curve. It is the ultimate proof of our stability and expertise"
+    },
+    {
+     "t": "h5",
+     "text": "Microsoft Solutions Partner Designations"
+    },
+    {
+     "t": "p",
+     "text": "Azure (Infrastructure, Data & AI, Digital & App Innovation), Modern Work, Security."
+    },
+    {
+     "t": "h5",
+     "text": "Advanced Specializations"
+    },
+    {
+     "t": "p",
+     "text": "Windows Server & SQL Migration, Meetings & Meeting Rooms for Microsoft Teams, Identity and Access Management, Threat Protection."
+    },
+    {
+     "t": "h5",
+     "text": "Microsoft FastTrack Ready"
+    },
+    {
+     "t": "p",
+     "text": "Among the first and top-performing partners globally, accelerating successful cloud adoption and ensuring rapid ROI."
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Your Microsoft Ecosystem"
+    },
+    {
+     "t": "p",
+     "text": "Our practice is built on three integrated pillars, designed to architect a cohesive, intelligent, and fortified enterprise on the Microsoft Cloud."
+    },
+    {
+     "t": "p",
+     "text": "Azure"
+    },
+    {
+     "t": "p",
+     "text": "Modern Work"
+    },
+    {
+     "t": "p",
+     "text": "Security"
+    },
+    {
+     "t": "h2",
+     "text": "Modernize Your Foundation & Innovate with AI"
+    },
+    {
+     "t": "p",
+     "text": "We architect and manage scalable, secure, and AI-ready infrastructure on Microsoft Azure. We help you migrate and modernize legacy applications, build powerful data platforms with Microsoft Fabric, and innovate with Azure AI and OpenAI services."
+    },
+    {
+     "t": "link",
+     "text": "Explore Our Azure Capabilities",
+     "href": "./microsoft/azure"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/a14ERX3GanoOcn29Zw6QNpS2gfw.png",
+     "alt": "person writing on white paper",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized on the"
+    },
+    {
+     "t": "h2",
+     "text": "Microsoft Cloud"
+    },
+    {
+     "t": "p",
+     "text": "For a high-growth financial services ISV encumbered by a complex, multi-vendor environment, we architected a complete \"all-in\" migration to the Microsoft Cloud. This strategic consolidation provided a single, secure platform for both their infrastructure and their workforce productivity."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9KyWAYBvYkUbASCckXa16Fgc.jpg",
+     "alt": "people sitting and using laptops",
+     "w": 1440
+    },
+    {
+     "t": "p",
+     "text": "80% reduction in operational overhead"
+    },
+    {
+     "t": "p",
+     "text": "Accelerated their product roadmap using Azure Machine Learning"
+    },
+    {
+     "t": "p",
+     "text": "Unified their entire business on a single, secure, and intelligent platform"
+    },
+    {
+     "t": "link",
+     "text": "View More Microsoft Success Stories",
+     "href": "../happy"
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Q0hM5to1tkvV3wbHaXi0AlzNHA.png",
+     "alt": "bg-image",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "The Quadra Advantage for Microsoft"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4icENhbhA66RT9VTepOsYc9Q3o.png",
+     "alt": "line-image",
+     "w": 368
+    },
+    {
+     "t": "h5",
+     "text": "Unrivaled Strategic Relationship"
+    },
+    {
+     "t": "p",
+     "text": "Our 20-year history gives us unparalleled access and influence within Microsoft. This translates into deeper insights, better support, and a stronger advocacy for your business needs."
+    },
+    {
+     "t": "h5",
+     "text": "Holistic, Integrated Architecture"
+    },
+    {
+     "t": "p",
+     "text": "We see the Microsoft Cloud as one powerful, integrated platform. Our cross-functional teams ensure your Azure, Modern Work, and Security solutions are architected to work together seamlessly, maximizing value and minimizing complexity"
+    },
+    {
+     "t": "h5",
+     "text": "Proven, Stable Team"
+    },
+    {
+     "t": "p",
+     "text": "We combine award-winning custom IP on the Power Platform with the power of a deeply experienced team. Our unique culture of employee longevity ensures your projects are guided by consistent, expert hands from start to finish."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Microsoft Advantage"
+    },
+    {
+     "t": "p",
+     "text": "Schedule a strategic session with our Microsoft architects to map out the blueprint for your enterprise ambition."
+    },
+    {
+     "t": "link",
+     "text": "Book a Microsoft Strategy Session",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

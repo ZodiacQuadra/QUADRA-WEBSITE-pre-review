@@ -1,0 +1,445 @@
+{
+ "path": "/contact-us",
+ "url": "https://www.quadrasystems.net/contact-us",
+ "title": "Contact Quadra | Enterprise Cloud & AI Consulting Services",
+ "description": "Connect with Quadra for enterprise cloud consulting and AI-driven transformation strategies. Our experts help design secure, scalable solutions aligned to your business vision.",
+ "ogImage": "https://framerusercontent.com/assets/gjThN2gpSl7drPXTnCcXQthvPE.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Talk to Our Architects"
+    },
+    {
+     "t": "h1",
+     "text": "Start Your Transformation"
+    },
+    {
+     "t": "p",
+     "text": "This is the first step in a strategic dialogue. We're here to listen, understand your ambition, and begin designing the blueprint for your success"
+    }
+   ]
+  },
+  {
+   "name": "Form",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Start the Dialogue"
+    },
+    {
+     "t": "p",
+     "text": "Fill out the form below, and one of our senior strategists will be in touch to schedule a preliminary conversation. We don't have a sales pitch; we have a partnership discussion."
+    },
+    {
+     "t": "p",
+     "text": "First Name"
+    },
+    {
+     "t": "p",
+     "text": "Last Name"
+    },
+    {
+     "t": "p",
+     "text": "Work Email"
+    },
+    {
+     "t": "p",
+     "text": "Phone Number"
+    },
+    {
+     "t": "p",
+     "text": "Company Name"
+    },
+    {
+     "t": "p",
+     "text": "What is your enterprise ambition?"
+    },
+    {
+     "t": "p",
+     "text": "Submit"
+    }
+   ]
+  },
+  {
+   "name": "Content",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "What to Expect"
+    },
+    {
+     "t": "p",
+     "text": "A Prompt, Professional Response"
+    },
+    {
+     "t": "p",
+     "text": "We respect your time. You will hear from us within one business day."
+    },
+    {
+     "t": "p",
+     "text": "A Conversation with an Expert"
+    },
+    {
+     "t": "p",
+     "text": "Your first call will be with a senior strategist, not a junior sales representative."
+    },
+    {
+     "t": "p",
+     "text": "A No-Obligation Dialogue"
+    },
+    {
+     "t": "p",
+     "text": "Our initial goal is to understand your challenges and determine if we are the right partner to help you solve them"
+    }
+   ]
+  },
+  {
+   "name": "Content",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Other Ways to Connect"
+    },
+    {
+     "t": "h4",
+     "text": "Email"
+    },
+    {
+     "t": "p",
+     "text": "For strategic inquiries, please email us at"
+    },
+    {
+     "t": "p",
+     "text": "architects@quadrasystems.net"
+    },
+    {
+     "t": "h4",
+     "text": "Phone"
+    },
+    {
+     "t": "p",
+     "text": "To speak with us directly, please call"
+    },
+    {
+     "t": "p",
+     "text": "+91 95244-66000"
+    }
+   ]
+  },
+  {
+   "name": "Content",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Offices"
+    },
+    {
+     "t": "p",
+     "text": "Bangalore - Registered Office"
+    },
+    {
+     "t": "p",
+     "text": "#219, 2nd Floor, Chamundi Enclave 9th Main Road, Sector 6, HSR Layout Bengaluru – 560 102."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 98409-01998"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "blr@quadrasystems.net"
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/i43giAiloRBHQFQqxzekWwy3XEA.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Bangalore - Center of Excellence"
+    },
+    {
+     "t": "p",
+     "text": "#246, Ram Plaza, 3rd Floor Sector 6, HSR Layout Bengaluru – 560 102."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 98409 01884"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/p6hUGeOjweHekPFvxhf77LbzHJ0.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Mumbai"
+    },
+    {
+     "t": "p",
+     "text": "Vaman Techno Centre, 5th floor, Makwana Road, Marol, Andheri East, Mumbai - 400 059."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 84969-44000"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "mum@quadrasystems.net"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vqJYJ1DX3CSjjLVh6Xe0Pl9wds.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Pune"
+    },
+    {
+     "t": "p",
+     "text": "4th Floor, Keystone Eminence, Near Bhumkar square, Wakad, Pune -411057 Phones: +91 95244-66000"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "pune@quadrasystems.net"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/UsdGW3bKW6K5R2xuYKdXMBfYaE.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Chennai"
+    },
+    {
+     "t": "p",
+     "text": "3rd Floor, Jupiter Complex, New No.67, Dr. Ranga Road, Mylapore, Chennai - 600 004."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 83444-33053"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "chn@quadrasystems.net"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/bHQBtQGBZOW4585W7NYL1Mr97jA.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Hyderabad"
+    },
+    {
+     "t": "p",
+     "text": "7th floor, Block C, Lakshmi Cyber City, Whitefields, HiTech City, Kondapur, Hyderabad - 500 081."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 87478-14000"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "hyd@quadrasystems.net"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Ab4HNoB4DRyhel9BaPP3KkzT1Y.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Coimbatore - Corporate Office"
+    },
+    {
+     "t": "p",
+     "text": "#45, Srinivasa Towers 100 Feet Road, Gandhipuram Coimbatore – 641 012."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 95244-66000"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "qsc@quadrasystems.net"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yqanRwuyyDSll935nyMFnMIpbg.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Coimbatore - Center of Excellence"
+    },
+    {
+     "t": "p",
+     "text": "#99, 7th Street, Tatabad, Coimbatore - 641012"
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 98409-01887"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "cbe@quadrasystems.net"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/XXRIDNY9pk6U2XaHaSNFwMrlQ.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Kochi"
+    },
+    {
+     "t": "p",
+     "text": "MezMatrix, Chittoor Road, (Adj. M.G. Road) Kochi - 682 011."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 91598-74000"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "p",
+     "text": "koc@quadrasystems.net"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pp5ufICkDpUdwPhFLiTiKtysHQ.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    },
+    {
+     "t": "p",
+     "text": "Coimbatore - Admin Office"
+    },
+    {
+     "t": "p",
+     "text": "#354, Avarampalayam Road, New Sidhapudur Coimbatore - 641 044."
+    },
+    {
+     "t": "p",
+     "text": "Phones: +91 95000-97991"
+    },
+    {
+     "t": "p",
+     "text": "Email:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Z0YQxERC9YNVuje4SbGfUzhWxf4.png",
+     "alt": "",
+     "w": 128
+    },
+    {
+     "t": "p",
+     "text": "Open in maps"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Partner with a Proven Leader"
+    },
+    {
+     "t": "p",
+     "text": "When you contact Quadra, you're engaging with a partner built for the long term. For a quarter-century, we have been the trusted architect for the world's leading businesses, navigating every major technology shift with a singular focus on our clients' success. This 25-year legacy of excellence is our promise to you. We look forward to bringing that same level of partnership and enduring commitment to your ambition."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

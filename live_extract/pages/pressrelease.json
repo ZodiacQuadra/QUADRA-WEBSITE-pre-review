@@ -1,0 +1,81 @@
+{
+ "path": "/pressrelease",
+ "url": "https://www.quadrasystems.net/pressrelease",
+ "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+ "description": "Stay informed with expert insights on enterprise cloud AI solutions and intelligent enterprise architecture, powered by Quadra’s Microsoft cloud expertise.",
+ "ogImage": "https://framerusercontent.com/assets/GEXXMfVbhM87WjmlhwBHhXtRlE.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Page Title",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Press Releases"
+    },
+    {
+     "t": "card",
+     "href": "./pressrelease/quadra-bridges-the-‘execution-gap’-in-ai",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/eukMMjR2xiGy4706tjDuT7rRwBE.png",
+       "alt": "",
+       "w": 1440
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./pressrelease/quadra-bridges-the-‘execution-gap’-in-ai",
+     "blocks": [
+      {
+       "t": "h2",
+       "text": "Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001:2023, the World’s First International Standard for AI Management Systems"
+      },
+      {
+       "t": "p",
+       "text": "Quadrasystems.net India Private Limited today announced that its AI practice has achieved ISO/IEC 42001:2023 certification, the world’s first international standard for Artificial Intelligence Management Systems, following a successful audit by TÜV SÜD. A small number of organizations worldwide hold this certification; Quadrasystems.net is among the first in India."
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "Read more",
+     "href": "./pressrelease/quadrasystems.net-among-the-first-in-india-to-achieve-iso-iec-42001-2023"
+    },
+    {
+     "t": "card",
+     "href": "./pressrelease/quadrasystems.net-among-the-first-in-india-to-achieve-iso-iec-42001-2023",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./pressrelease/quadra-bridges-the-‘execution-gap’-in-ai",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/ZoRu74f22yDX2n2Xb3dgzamATE.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Quadra Bridges the ‘Execution Gap’ in AI"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Load More"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

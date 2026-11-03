@@ -1,0 +1,345 @@
+{
+ "path": "/",
+ "url": "https://www.quadrasystems.net/",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, empowers intelligent business with enterprise cloud AI solutions and intelligent enterprise architecture. As a Microsoft cloud partner, we drive secure, scalable digital transformation.",
+ "ogImage": "https://framerusercontent.com/assets/x68iTy9o222P7aguFcMIObZb7fo.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Beyond Technology"
+    },
+    {
+     "t": "h1",
+     "text": "We Architect Your Ambition with Cloud & AI"
+    },
+    {
+     "t": "p",
+     "text": "For 25 years, we’ve partnered with global business leaders to architect and build Intelligent Enterprises. We translate complex Cloud and AI innovation into a clear competitive edge"
+    },
+    {
+     "t": "link",
+     "text": "Schedule Your Ambition Blueprint Session",
+     "href": "./contact-us"
+    },
+    {
+     "t": "h6",
+     "text": "Trusted by Business Leaders"
+    }
+   ]
+  },
+  {
+   "name": "global reg",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "An Unprecedented Achievement"
+    },
+    {
+     "t": "h2",
+     "text": "20 Consecutive Years of Microsoft Global Recognition"
+    },
+    {
+     "t": "p",
+     "text": "For twenty consecutive years, through every major technology shift from the data center to the cloud to the AI era, Microsoft has recognized Quadra on the world stage for our innovation and customer impact."
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./awards"
+    }
+   ]
+  },
+  {
+   "name": "Top Tier",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Top Tier Recognition from Industry Leaders"
+    }
+   ]
+  },
+  {
+   "name": "Prefer",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Prefer not to navigate? Tell us what you're architecting"
+    },
+    {
+     "t": "p",
+     "text": "Get an answer customized for you. Just like our solution"
+    }
+   ]
+  },
+  {
+   "name": "Founderblog",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "From the Founder's Desk"
+    },
+    {
+     "t": "p",
+     "text": "Perspective on AI, enterprise transformation, and building at scale. Insights shaped by real-world execution, long-term partnerships, and systems build to last."
+    },
+    {
+     "t": "link",
+     "text": "Read our Founders’ Blog",
+     "href": "./foundersblog"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Questions Defining the AI Era"
+    },
+    {
+     "t": "p",
+     "text": "We architect the answers. Every enterprise ambition today revolves around a few critical questions. We partner with leaders to build the strategic and technical blueprints that turn these questions into a competitive advantage"
+    },
+    {
+     "t": "p",
+     "text": "The Growth Question"
+    },
+    {
+     "t": "h5",
+     "text": "How can AI create new products, new revenue streams, and disrupt markets?"
+    },
+    {
+     "t": "p",
+     "text": "We help you see what's possible. We are your innovation partner. In strategic workshops, we co-ideate new AI-native business models and architect the powerful, scalable platforms required to launch them."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6X60Da0OUI6ab5YbiI7WTpF8Tno.jpg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1870
+    },
+    {
+     "t": "link",
+     "text": "Explore Innovation Strategy",
+     "href": "./solutions/modernize-your-foundation"
+    },
+    {
+     "t": "p",
+     "text": "The Foundation Question"
+    },
+    {
+     "t": "h5",
+     "text": "What are the right investments in data, cloud, and security to succeed in AI, and how do we manage the risks?"
+    },
+    {
+     "t": "p",
+     "text": "We build the bedrock. We provide clear, vendor-agnostic roadmaps for an AI-ready data estate and architect the robust security and governance frameworks to protect it."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/osye0dLsuWWUEqmZSOzjw7pdw.jpg",
+     "alt": "two men shaking hands in a conference room",
+     "w": 1870
+    },
+    {
+     "t": "link",
+     "text": "Assess Your Foundation",
+     "href": "./solutions/fortify-your-defenses"
+    },
+    {
+     "t": "p",
+     "text": "The Productivity Question"
+    },
+    {
+     "t": "h5",
+     "text": "How do we deploy AI to achieve radical efficiency and reinvent core processes?"
+    },
+    {
+     "t": "p",
+     "text": "We find the value. We architect for efficiency. Through intelligent process audits, we pinpoint high-ROI automation opportunities and build the robust, AI-driven workflows required to capture that value."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yvRy2EYg6VqUNKd3BNM4Krzg.jpeg",
+     "alt": "a man and a woman sitting at a table looking at a laptop",
+     "w": 1870
+    },
+    {
+     "t": "link",
+     "text": "See Automation in Action",
+     "href": "./solutions/innovate-with-ai-data"
+    },
+    {
+     "t": "p",
+     "text": "The Transformation Question"
+    },
+    {
+     "t": "h5",
+     "text": "How do we lead this change and bring our people and culture with us on the journey?"
+    },
+    {
+     "t": "p",
+     "text": "We guide the transformation. We provide the strategic counsel and change management expertise to navigate the cultural and talent shifts required to become a true Intelligent Enterprise."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Iiyld1jrFjGwL1tcZZfZLJ7ClQ.jpg",
+     "alt": "two men sitting at a table with a laptop",
+     "w": 1870
+    },
+    {
+     "t": "link",
+     "text": "Discuss Your AI Strategy",
+     "href": "./solutions/empower-your-workforce"
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Scale of the Ambitions We Architect"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RCgePOOFsJJyAsFD29ioK04rf0o.jpg",
+     "alt": "woman looking on microscope inside room",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "20,000 scientists accelerating their critical research"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YD3L0GQMtyqLEVjD1iWsc2lHlVo.jpeg",
+     "alt": "woman looking on microscope inside room",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Every 4 seconds, enabling critical business decisions"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/CkZaCxf0eg8fVpgA046QGnebxs8.jpeg",
+     "alt": "",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Architecting hundreds of thousands of dollars in cloud savings for a financial leader"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DO6UJQLMUwasBMRtUI0yWzqqv7c.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "30,000 factory workers driving plant efficiency"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wOw0sjKjOiSqjhpceVdGrxm0YSw.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Reducing document retrieval time by 96% with Generative AI"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mHRpUuJUQk2dbt4FwLxZwASAmLo.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Accelerating software development cycles by over 50% with DevOps"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0sfWMjwkXcW4ablYwb1SKCW89o.jpeg",
+     "alt": "",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Architecting the security for over 70,000 banking professionals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/XWYcQ1tw8pfzP3dNCOjWXWBTfvY.jpeg",
+     "alt": "woman looking on microscope inside room",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Reducing application layer attacks by 90% for a pharma innovator."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fyS1kwrrvu8F7jNG5ImlVRPZwo.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Architecting 100% uptime for an e-commerce leader during peak sales"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RCEBb9ZM25wHAOAXpr1l5OhhcJc.jpeg",
+     "alt": "Woman works at a factory machine.",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Enabling 60% faster decision-making for a leading healthcare provider"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/j5J6laQIOxbFRoj8qGQGVG0js.jpg",
+     "alt": "",
+     "w": 1870
+    },
+    {
+     "t": "h3",
+     "text": "Reducing manual IT infrastructure tasks by 85% through automation"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect"
+    },
+    {
+     "t": "h2",
+     "text": "What's Next"
+    },
+    {
+     "t": "p",
+     "text": "The future is not something you navigate. It is something you build"
+    },
+    {
+     "t": "link",
+     "text": "Talk to Our Architects",
+     "href": "./contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

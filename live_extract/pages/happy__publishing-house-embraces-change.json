@@ -1,0 +1,116 @@
+{
+ "path": "/happy/publishing-house-embraces-change",
+ "url": "https://www.quadrasystems.net/happy/publishing-house-embraces-change",
+ "title": "Publishing House IT Backbone Case Study | Quadra",
+ "description": "Architected and executed a complete revamp of their network and server infrastructure, delivering a secure, reliable, and centrally managed platform that increased uptime to 99.9% and eliminated security incidents.",
+ "ogImage": "https://framerusercontent.com/images/X7tiM91DqcJzbR7c1JrQQL0.jpg?width=4076&height=2712",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern IT Backbone for a Historic Publishing House"
+    },
+    {
+     "t": "p",
+     "text": "Publishing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/X7tiM91DqcJzbR7c1JrQQL0.jpg",
+     "alt": "person using MacBook Pro",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading and well-respected publishing house in South India with a rich history of over 60 years."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To build a robust and scalable IT infrastructure, moving from an entire generation behind to a modern platform ready to support their digital future."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and executed a complete revamp of their network and server infrastructure, delivering a secure, reliable, and centrally managed platform that increased uptime to 99.9% and eliminated security incidents."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading and well-respected publishing house in South India with a rich history of over 60 years."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their internal IT infrastructure was a major stumbling block. Desktops were in unmanaged workgroups, files were stored locally with no central backup, and frequent system crashes were a severe drain on productivity. The lack of central management and security was putting their entire operation at risk."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to embrace the digital age and continue its legacy of innovation. Keenly aware of the changing media landscape, they needed to replace their aging, unreliable IT infrastructure with a powerful IT backbone that could support their next generation of publishing."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new infrastructure provided the scalable and reliable platform they needed to build their future. The implementation had a direct and immediate impact: uptime increased to 99.9%, users spent 50% less time searching for data, and data loss was completely eliminated. The robust design and endpoint management meant that security incidents were a thing of the past, giving them a secure foundation to embrace change."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Increased Infrastructure Uptime to 99.9%"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated Data Loss with Centralized Storage & Backup"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Time Spent Searching for Data by 50%"
+    },
+    {
+     "t": "p",
+     "text": "Completely Eliminated Security Incidents"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "version": "0.5",
+  "page_views": 74,
+  "practice_pages": 50,
+  "hcdw_pages": 7,
+  "hcdw_sections": 51,
+  "hcdw_source_coverage_records": 152,
+  "old_ids_preserved": true,
+  "changed_existing_page_ids": [
+    "technology",
+    "hcdw",
+    "hcdw-infrastructure",
+    "hcdw-workspace",
+    "hcdw-resilience"
+  ],
+  "new_page_ids": [
+    "hcdw-commvault",
+    "hcdw-druva",
+    "hcdw-veeam"
+  ],
+  "homepage_preserved": true,
+  "happy_customers_preserved": true,
+  "AIG_AWS_GCP_Azure_ISPG_CSG_copy_preserved": true,
+  "menu_enhancement_preserved": true,
+  "original_source_unchanged": true,
+  "hcdw_seo_present": true,
+  "clarification_questions": 21,
+  "clarification_priorities": {
+    "publication_gate": 13,
+    "can_progress": 7,
+    "staging_blocker": 1
+  },
+  "framer_import_tested": false,
+  "framer_site_created": false,
+  "production_changed": false
+}

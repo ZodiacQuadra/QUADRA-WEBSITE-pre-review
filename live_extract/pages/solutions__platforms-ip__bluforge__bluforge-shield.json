@@ -1,0 +1,139 @@
+{
+ "path": "/solutions/platforms-ip/bluforge/bluforge-shield",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip/bluforge/bluforge-shield",
+ "title": "BluForge Shield: Enterprise Security Architecture & Hardening | Quadra",
+ "description": "BluForge Shield provides enterprise security architecture hardening services, designing and implementing robust defensive controls aligned to Zero Trust principles and leading security frameworks such as NIST and CIS.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "BluForge Shield"
+    },
+    {
+     "t": "h1",
+     "text": "Enterprise Security Architecture & Hardening"
+    },
+    {
+     "t": "p",
+     "text": "BluForge Shield™ is our expert-led advisory and implementation service. We help you proactively enhance your security posture by architecting and deploying the full suite of modern security tools"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Powerful Tool is Only as Good as its Architecture"
+    },
+    {
+     "t": "p",
+     "text": "You've invested in powerful security platforms, but are they configured for optimal performance? Are they integrated correctly? Is your security posture aligned with modern Zero Trust principles and ready for your next compliance audit?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uXNZXskdiqV15MurFLB1PQBfWgI.jpeg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "From Potential to Protection"
+    },
+    {
+     "t": "p",
+     "text": "Our blueprint is to transform your security tools into a cohesive, fortified ecosystem"
+    },
+    {
+     "t": "h6",
+     "text": "Posture & Architecture Review"
+    },
+    {
+     "t": "p",
+     "text": "We begin with a deep assessment of your current security posture, identifying gaps and opportunities for improvement"
+    },
+    {
+     "t": "h6",
+     "text": "Strategic Deployment"
+    },
+    {
+     "t": "p",
+     "text": "We lead the expert deployment and configuration of your security stack, including Microsoft Defender, Sentinel, Intune, and Purview, ensuring they are implemented according to best practices"
+    },
+    {
+     "t": "h6",
+     "text": "Incident Readiness"
+    },
+    {
+     "t": "p",
+     "text": "We go beyond technology to prepare your team, conducting incident readiness planning and mapping your defenses to compliance frameworks."
+    },
+    {
+     "t": "h6",
+     "text": "Strategic Deployment"
+    },
+    {
+     "t": "h6",
+     "text": "Incident Readiness"
+    },
+    {
+     "t": "h6",
+     "text": "Strategic Deployment"
+    },
+    {
+     "t": "h6",
+     "text": "Incident Readiness"
+    },
+    {
+     "t": "h6",
+     "text": "Strategic Deployment"
+    },
+    {
+     "t": "h6",
+     "text": "Incident Readiness"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Deployment & Configuration of Microsoft Defender, Sentinel, Intune & Purview"
+    },
+    {
+     "t": "p",
+     "text": "Comprehensive Security Posture Reviews"
+    },
+    {
+     "t": "p",
+     "text": "Compliance Mapping (DPDPA, etc.)"
+    },
+    {
+     "t": "p",
+     "text": "Incident Readiness Planning & Tabletop Exercises"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/EsS4kFe65gppSiCS8GioJxAzgo.jpeg",
+     "alt": "group of people with laptops",
+     "w": 1440
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

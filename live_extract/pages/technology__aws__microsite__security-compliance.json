@@ -1,0 +1,118 @@
+{
+ "path": "/technology/aws/microsite/security-compliance",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/security-compliance",
+ "title": "AWS Security & Compliance: Architect a Confident Cloud | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Security & Compliance"
+    },
+    {
+     "t": "h1",
+     "text": "Architect a Confident Cloud Environment"
+    },
+    {
+     "t": "p",
+     "text": "We architect a proactive, intelligent, and unified security posture for your AWS environment. We help you build with confidence, embedding security and governance into the very foundation of your cloud to protect your data, applications, and reputation"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "As You Innovate on AWS, Your Risk Landscape Evolves"
+    },
+    {
+     "t": "p",
+     "text": "Moving to the cloud brings incredible agility, but it also creates new security and compliance challenges. Leaders need to know: \"How do we gain a unified view of our security posture? How do we detect threats in real time? And how do we ensure we are continuously compliant with regulations like the DPDPA?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nKbsECfFjmSTAYbPCZMFeJhrC4.jpg",
+     "alt": "a group of people sitting around a wooden table",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/8a3cnwzBwAOb9nlf53HCQUZkVg.jpg",
+     "alt": "Two people sitting across from each other in an office working on a Surface laptop",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Resilient AWS Environment"
+    },
+    {
+     "t": "p",
+     "text": "Our security philosophy is built on the principle of Shared Responsibility. AWS secures the cloud; we architect the security in your cloud. Our blueprint is grounded in a Zero Trust model, using AWS's powerful, integrated tools to provide unified visibility, proactive threat detection, and robust, automated governance"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Security Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Centralized Governance (AWS Control Tower)"
+    },
+    {
+     "t": "p",
+     "text": "Architecting secure, multi-account environments with built-in governance."
+    },
+    {
+     "t": "p",
+     "text": "Unified Security Posture Management (AWS Security Hub)"
+    },
+    {
+     "t": "p",
+     "text": "Intelligent Threat Detection (Amazon GuardDuty"
+    },
+    {
+     "t": "p",
+     "text": "Application & Network Protection (AWS WAF & Firewall"
+    },
+    {
+     "t": "p",
+     "text": "Data Security & Privacy"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YfQ6X4bFKpBuD1I5BDDVspvA.jpg",
+     "alt": "a woman giving a presentation to a group of people",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Centralized Governance (AWS Control Tower)"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect a More Secure Cloud?"
+    },
+    {
+     "t": "link",
+     "text": "Request a Security Posture Review",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

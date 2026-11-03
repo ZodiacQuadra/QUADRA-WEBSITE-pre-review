@@ -1,0 +1,122 @@
+{
+ "path": "/technology/google-cloud/cloud-security-governance",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/cloud-security-governance",
+ "title": "Google Cloud Security: Architect a Secure-by-Design Enterprise | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Google Cloud Security"
+    },
+    {
+     "t": "h1",
+     "text": "Architect a Secure-by-Design Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "We architect a proactive, intelligent, and unified security posture, leveraging Google's secure global backbone and advanced security services to protect your most critical assets"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Can You Innovate with Absolute Confidence?"
+    },
+    {
+     "t": "p",
+     "text": "Moving to the cloud brings incredible agility, but it also creates new security and compliance challenges. You need a partner who can help you architect a security posture that is as innovative as the workloads it protects."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GDcUMEQIZ2tkKod6UgVKCwPofVA.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ukzELss5jvhp3d2TQPZbyCYjw.jpeg",
+     "alt": "",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "A Blueprint for Integrated, Intelligent Defense"
+    },
+    {
+     "t": "p",
+     "text": "Our security philosophy is built on the principle of Shared Responsibility. Google secures the cloud; we architect the security in your cloud. Our blueprint is grounded in a Zero Trust model, using Google's powerful, integrated tools to provide unified visibility, proactive threat detection, and robust data governance."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a 360-Degree Security Fabric on Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "We architect a proactive, intelligent, and unified security posture, leveraging Google's secure global backbone and advanced security services to protect your most critical assets."
+    },
+    {
+     "t": "p",
+     "text": "Threat Detection & Response (Google SecOps SIEM)"
+    },
+    {
+     "t": "p",
+     "text": "We architect and manage your modern Security Operations Center (SOC) using Google Security Operations. We move beyond simple alert monitoring to build an intelligent, AI-driven SIEM that provides continuous threat detection, rapid investigation, and orchestrated response, enhancing your security team's accuracy and efficiency."
+    },
+    {
+     "t": "p",
+     "text": "Intelligence-Driven Defense (Google Threat Intelligence & VirusTotal)"
+    },
+    {
+     "t": "p",
+     "text": "Unified Security Management (Security Command Center)"
+    },
+    {
+     "t": "p",
+     "text": "Zero Trust Access (BeyondCorp Enterprise)"
+    },
+    {
+     "t": "p",
+     "text": "Data Security & Governance"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/bqRJIYcIeyw8kwV4dOjKtY7xDQ.jpg",
+     "alt": "black and silver laptop computer",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Threat Detection & Response (Google SecOps SIEM)"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your Resilient Enterprise"
+    },
+    {
+     "t": "link",
+     "text": "Request a Security Posture Review",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

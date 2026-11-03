@@ -1,0 +1,241 @@
+{
+ "path": "/why-quadra/our-people",
+ "url": "https://www.quadrasystems.net/why-quadra/our-people",
+ "title": "Our People & Culture | Quadra Systems",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Our People"
+    },
+    {
+     "t": "h1",
+     "text": "The Culture That Powers Quadra's Competitive Advantage"
+    },
+    {
+     "t": "p",
+     "text": "In an industry defined by transience, we have built something rare and powerful: a culture of stability. Our remarkable employee longevity isn't just an internal metric; it is the core of our value proposition and your greatest strategic asset when you partner with us"
+    }
+   ]
+  },
+  {
+   "name": "Content",
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/A8kV9PZhfbAF9zQQGYNog73BVvI.webp",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/njnx6m4sszDxdR63qMKU7JwQEo.webp",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RsruacpjdFewW5HWISsPU1egpRI.webp",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "h2",
+     "text": "The Hidden Risk in Technology Partnerships"
+    },
+    {
+     "t": "p",
+     "text": "The IT industry faces a constant \"revolving door\" of talent. This creates immense, often hidden, risks for clients: knowledge gaps when key people leave, inconsistent service quality, and endless cycles of re-training your partner on the specifics of your business. It is a model built on inefficiency. We chose to build something different."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/G7hUBQ7VjW2WkKEnoRL508A4DW8.jpeg",
+     "alt": "person in black long sleeve shirt holding persons hand",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Bedrock of Trust Our People"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yFYLyx8lLdeCvizV2goHJZvQ6OI.jpg",
+     "alt": "people inside room",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Deep Institutional Knowledge"
+    },
+    {
+     "t": "p",
+     "text": "The person who architects your solution today is likely the same person who will be here to help you evolve it in five years. Our teams have a deep, historical understanding of your environment, your challenges, and your goals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/b0y3DY8yV2UPRg76FmjPsrpOqo.jpg",
+     "alt": "photography of people inside room during daytime",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "Unmatched Stability & Consistency"
+    },
+    {
+     "t": "p",
+     "text": "Your projects are not subject to the risks of team turnover. You get a consistent, experienced, and cohesive team from day one, ensuring smoother execution, fewer errors, and a more profound partnership"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RWWBZ3JrOJSm2qG49oiU1CJZVI.jpg",
+     "alt": "person using phone and laptop",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "A True Partnership Mindset"
+    },
+    {
+     "t": "p",
+     "text": "A company that invests in its people inherently invests in its relationships. Our culture of loyalty and long-term commitment extends directly to our clients. We are built for enduring partnerships, not short-term transactions"
+    },
+    {
+     "t": "h5",
+     "text": "With a significant number of our team members celebrating 10, 15, and even 20+ years with Quadra, we offer a level of stability and accumulated knowledge that is virtually unmatched in the industry."
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Human Foundation of Ambition"
+    },
+    {
+     "t": "p",
+     "text": "At the heart of every breakthrough lies human ambition. We combine innovation, insight, and determination to build a foundation where ideas turn into impact and ambition transforms into reality"
+    },
+    {
+     "t": "h2",
+     "text": "20+ Years of Architectural Excellence"
+    },
+    {
+     "t": "h4",
+     "text": "Ganapathy G"
+    },
+    {
+     "t": "h4",
+     "text": "Ramkumar K"
+    },
+    {
+     "t": "h4",
+     "text": "Murali K V"
+    },
+    {
+     "t": "h4",
+     "text": "Rajesh Kumar T"
+    },
+    {
+     "t": "h4",
+     "text": "Vinukumar T K"
+    },
+    {
+     "t": "h4",
+     "text": "Anandakumar M"
+    },
+    {
+     "t": "h2",
+     "text": "15+ Years of Architectural Excellence"
+    },
+    {
+     "t": "h4",
+     "text": "Manikandan R"
+    },
+    {
+     "t": "h4",
+     "text": "Prabhu Rajan"
+    },
+    {
+     "t": "h4",
+     "text": "Yesudass R"
+    },
+    {
+     "t": "h4",
+     "text": "Renukappa K N"
+    },
+    {
+     "t": "h2",
+     "text": "10+ Years of Architectural Excellence"
+    },
+    {
+     "t": "h4",
+     "text": "Krishnajeth M S"
+    },
+    {
+     "t": "h4",
+     "text": "Jayesh Babu"
+    },
+    {
+     "t": "h4",
+     "text": "Divya Aruchamy"
+    },
+    {
+     "t": "h4",
+     "text": "Kiruthigayini K S"
+    },
+    {
+     "t": "h4",
+     "text": "Balaji G"
+    },
+    {
+     "t": "h4",
+     "text": "Jayanthi P"
+    },
+    {
+     "t": "h4",
+     "text": "Tamizharasan N"
+    },
+    {
+     "t": "h4",
+     "text": "Pranesan T"
+    },
+    {
+     "t": "h4",
+     "text": "Senthil Kumar M"
+    },
+    {
+     "t": "h4",
+     "text": "Solomon Benny"
+    },
+    {
+     "t": "h4",
+     "text": "Balaji S"
+    },
+    {
+     "t": "h4",
+     "text": "Kirubakaran S"
+    },
+    {
+     "t": "h4",
+     "text": "Stephen C"
+    },
+    {
+     "t": "h4",
+     "text": "Vanitha M"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

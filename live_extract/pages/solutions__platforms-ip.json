@@ -1,0 +1,179 @@
+{
+ "path": "/solutions/platforms-ip",
+ "url": "https://www.quadrasystems.net/solutions/platforms-ip",
+ "title": "Proprietary Enterprise Platforms & IP | Quadra",
+ "description": "Explore Quadra's proprietary enterprise platforms — MaxIT, Intellient, IntelliLink, BluForge, and Thankz — purpose-built to accelerate cloud operations, AI adoption, cybersecurity, and employee engagement.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Proprietary Enterprise Technology Platforms"
+    },
+    {
+     "t": "h1",
+     "text": "Quadra IP Platforms"
+    },
+    {
+     "t": "h6",
+     "text": "( BlueForge, Intellient, IntelliLink, MaxIT & Thankz )"
+    },
+    {
+     "t": "p",
+     "text": "We don't just architect solutions; we engineer the intelligent platforms that make them better. Our proprietary IP and solution accelerators are the product of 25 years of real-world experience, designed to deliver faster, smarter, and more efficient outcomes for our partners."
+    }
+   ]
+  },
+  {
+   "name": "Scroll Cards",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Our Blueprints for"
+    },
+    {
+     "t": "h1",
+     "text": "Accelerated Value"
+    },
+    {
+     "t": "p",
+     "text": "Explore our family of proprietary platforms and solutions, each architected to solve a critical enterprise challenge."
+    },
+    {
+     "t": "h2",
+     "text": "The Intelligent Multi-Cloud Management Platform"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT delivers unified governance, continuous cost optimization, and a robust security posture for your entire multi-cloud estate, turning cloud complexity into your competitive advantage."
+    },
+    {
+     "t": "link",
+     "text": "Explore Max-IT",
+     "href": "./platforms-ip/max-it"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cHrMCuYT8VZZPYMWaomPDaHfFFQ.png",
+     "alt": "two people sitting at a table with laptops",
+     "w": 505
+    },
+    {
+     "t": "h2",
+     "text": "The Multi-Agent AI Platform for Complex Problem-Solving"
+    },
+    {
+     "t": "p",
+     "text": "Move beyond simple automation. Intellient architects autonomous, collaborative AI agents that can plan, reason, and orchestrate complex workflows to solve your most challenging business problems"
+    },
+    {
+     "t": "link",
+     "text": "Explore Intellient",
+     "href": "./platforms-ip/intellient"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/96XzSmK7NedhbgRbs0RS0zQlqBg.png",
+     "alt": "MacBook Pro",
+     "w": 505
+    },
+    {
+     "t": "h2",
+     "text": "Conversational AI Agents for Your Enterprise Systems"
+    },
+    {
+     "t": "p",
+     "text": "IntelliLink brings your mission-critical data into the flow of work. Securely trigger actions in SAP, ServiceNow, and Oracle directly from Microsoft Copilot, eliminating context-switching and boosting productivity"
+    },
+    {
+     "t": "link",
+     "text": "Explore IntelliLink",
+     "href": "./platforms-ip/intellilink"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uhHtJBqWTlIKb9tlueWQqJWYDI.png",
+     "alt": "black smartphone near person",
+     "w": 505
+    },
+    {
+     "t": "h2",
+     "text": "The Unified SecOps Platform for the Microsoft Cloud"
+    },
+    {
+     "t": "p",
+     "text": "BluForge unifies managed SOC expertise and AI-driven detection into one Microsoft-native platform, delivering continuous visibility and rapid remediation so you can operate with confidence."
+    },
+    {
+     "t": "link",
+     "text": "Explore BluForge",
+     "href": "./platforms-ip/bluforge"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/jxNCs0EW9blq2h47j4fTR2S2T3s.png",
+     "alt": "man's hands on MacBook Pro",
+     "w": 505
+    },
+    {
+     "t": "h2",
+     "text": "The Employee Recognition & Engagement Platform"
+    },
+    {
+     "t": "p",
+     "text": "Thankz architects a high-performance culture. Our platform makes recognition visible and ties it to your core values, helping you attract, retain, and motivate the top talent that drives your ambition."
+    },
+    {
+     "t": "link",
+     "text": "Explore Thankz",
+     "href": "./platforms-ip/thankz"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YwGMquC6nqoK1fvENA8eWKqtHU.png",
+     "alt": "man's hands on MacBook Pro",
+     "w": 505
+    }
+   ]
+  },
+  {
+   "name": "Logos",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "You're in good company"
+    },
+    {
+     "t": "p",
+     "text": "Trusted by over 3000 companies"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Design"
+    },
+    {
+     "t": "h2",
+     "text": "Your Blueprint?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a conversation about your challenges and architect a solution that is perfectly tailored to your enterprise ambition."
+    },
+    {
+     "t": "link",
+     "text": "Talk to Our Architects",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

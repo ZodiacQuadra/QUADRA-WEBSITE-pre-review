@@ -1,0 +1,116 @@
+{
+ "path": "/happy/empowering-precision-agriculture",
+ "url": "https://www.quadrasystems.net/happy/empowering-precision-agriculture",
+ "title": "Digital Dealer Onboarding Platform Case Study | Quadra",
+ "description": "Architected and rapidly developed a custom, mobile-responsive application on a low-code platform that eliminated paper, enhanced data validation, and significantly accelerated the entire dealer onboarding cycle.",
+ "ogImage": "https://framerusercontent.com/images/PruFLmU6OaqbezQSUpYHNqnKbg.jpg?width=8272&height=5445",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Digital Dealer Onboarding Platform for an Agricultural Leader"
+    },
+    {
+     "t": "p",
+     "text": "Agricultural"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/PruFLmU6OaqbezQSUpYHNqnKbg.jpg",
+     "alt": "green tractor on brown grass field under blue sky during daytime",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A prominent manufacturer recognized for its compact tractors and agricultural implements."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To digitize and dramatically accelerate their dealer onboarding process, moving from a slow, paper-based system to a modern, mobile-first application."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and rapidly developed a custom, mobile-responsive application on a low-code platform that eliminated paper, enhanced data validation, and significantly accelerated the entire dealer onboarding cycle."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A prominent manufacturer recognized for its compact tractors and agricultural implements."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their traditional dealer onboarding system was a major impediment. It was entirely paper-based, making it slow, inefficient, and prone to errors. This manual workflow was a significant bottleneck, delaying the integration of new dealers and hindering their ability to respond quickly to market opportunities."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to increase their market agility and accelerate growth by being able to identify and onboard new dealers with unprecedented speed and efficiency. They needed to transform a core business process to support their strategic expansion goals."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new digital application represented a significant leap forward. Field agents could now capture and submit dealer information instantly from their tablets, completely eliminating paperwork. Leadership teams gained real-time visibility into the application pipeline and could authenticate dealer data much more swiftly. This digital initiative yielded considerable time savings and acted as a powerful catalyst for the company's growth."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Digitized a 100% Paper-Based Manual Process"
+    },
+    {
+     "t": "p",
+     "text": "Significantly Accelerated Dealer Onboarding Cycle Time"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Real-Time Visibility for Leadership"
+    },
+    {
+     "t": "p",
+     "text": "Delivered Rapid Time-to-Value with a Low-Code Platform"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

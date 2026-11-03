@@ -1,0 +1,118 @@
+{
+ "path": "/technology/google-cloud/data-analytics",
+ "url": "https://www.quadrasystems.net/technology/google-cloud/data-analytics",
+ "title": "Google Cloud Data Analytics: Architect Your Data-Driven | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Google Cloud Data Analytics"
+    },
+    {
+     "t": "h1",
+     "text": "Architect Your Data-Driven Future"
+    },
+    {
+     "t": "p",
+     "text": "We architect modern data platforms on Google Cloud that break down silos and transform your data into your most valuable asset. From BigQuery to Looker, we build the intelligent engine for your enterprise"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Data Has Answers. Can Your Business Hear Them?"
+    },
+    {
+     "t": "p",
+     "text": "Your enterprise is generating more data than ever, but is it creating value? Many businesses struggle with siloed data, slow and complex analytics, and an inability to provide self-service insights to the teams that need them most."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HyBHD96WU8rgQOCyUKcrKltdo8.jpg",
+     "alt": "person using MacBook Pro",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Qw4N10BYe4YgFZnwm1sAZbedj8g.jpg",
+     "alt": "person holding white Samsung Galaxy Tab",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "A Blueprint for a Unified Data Estate"
+    },
+    {
+     "t": "p",
+     "text": "We architect a single source of truth. Our blueprint focuses on building a serverless, infinitely scalable data analytics platform with BigQuery at its core. We design a modern data fabric that unifies your disparate data sources and empower your teams with real-time, actionable insights through Looker and conversational analytics – Data agents"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Full Spectrum of Data Intelligence"
+    },
+    {
+     "t": "p",
+     "text": "We leverage Google's market-leading, serverless data platform to transform your information into predictive insights and a clear competitive advantage"
+    },
+    {
+     "t": "p",
+     "text": "Data Warehouse Modernization with BigQuery"
+    },
+    {
+     "t": "p",
+     "text": "We architect and migrate your legacy data warehouses to BigQuery, Google's serverless, petabyte-scale analytics platform. We design a unified data estate that eliminates infrastructure management and enables lightning-fast queries across all your business data."
+    },
+    {
+     "t": "p",
+     "text": "Business Intelligence & Visualization with Looker"
+    },
+    {
+     "t": "p",
+     "text": "Real-Time Data Pipelines & ETL"
+    },
+    {
+     "t": "p",
+     "text": "Data Governance & Quality"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/eYzfAVrkkIFQv2An3tvCEaWomY.jpg",
+     "alt": "person in blue shirt writing on white paper",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Data Warehouse Modernization with BigQuery"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your Data Blueprint"
+    },
+    {
+     "t": "link",
+     "text": "Design Your Data Platform",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

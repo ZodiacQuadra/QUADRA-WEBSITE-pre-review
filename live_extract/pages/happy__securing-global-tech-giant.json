@@ -1,0 +1,116 @@
+{
+ "path": "/happy/securing-global-tech-giant",
+ "url": "https://www.quadrasystems.net/happy/securing-global-tech-giant",
+ "title": "Unified Cyber Resilience Framework Case Study | Quadra",
+ "description": "Architected and deployed a unified security and compliance platform that delivered advanced threat protection, eliminated shadow IT, and fortified their defenses across the globe.",
+ "ogImage": "https://framerusercontent.com/images/s0JbxxbxhSGq15mD7dvLOXyrbQ.jpeg?width=6016&height=4016",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified Cyber Resilience Framework for a Global Tech Giant"
+    },
+    {
+     "t": "p",
+     "text": "Information Technology"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/s0JbxxbxhSGq15mD7dvLOXyrbQ.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading provider of technology services with a global workforce exceeding 10,000 employees."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To enhance their security infrastructure from a standard setup to an advanced, enterprise-grade solution to defend against sophisticated cyber threats and streamline operations."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a unified security and compliance platform that delivered advanced threat protection, eliminated shadow IT, and fortified their defenses across the globe."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading provider of technology services with a global workforce exceeding 10,000 employees."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their previous system was struggling to keep up with the modern threat landscape. It had insufficient defenses against phishing attempts, provided poor risk reporting, and had no visibility into the use of unsanctioned 'shadow IT' applications by employees. This left them vulnerable and created significant compliance risks."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to establish a world-class, proactive security posture that could protect its global operations and client data. They needed to move beyond a basic security setup to a more sophisticated, integrated suite that could provide robust email protection, advanced identity safeguards, and superior cloud application security."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The integrated solution delivered a unified security and compliance framework, dramatically reducing the complexity and cost of their cyber defense strategy. The organization now has a proactive stance against cyber threats, with vastly improved detection and response capabilities. The new framework protects against advanced email threats, provides a robust identity protection strategy, and offers complete visibility and control over cloud application usage, safeguarding their sensitive data across the globe."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Established a Unified Security & Compliance Framework"
+    },
+    {
+     "t": "p",
+     "text": "Gained a Proactive Stance Against Advanced Threats"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated 'Shadow IT' & Controlled Application Usage"
+    },
+    {
+     "t": "p",
+     "text": "Reduced TCO by Consolidating Security Solutions"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

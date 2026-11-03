@@ -1,0 +1,120 @@
+{
+ "path": "/edm",
+ "url": "https://www.quadrasystems.net/edm",
+ "title": "Insights Hub | Enterprise Cloud, AI & Technology Strategy",
+ "description": "Stay informed with expert insights on enterprise cloud AI solutions and intelligent enterprise architecture, powered by Quadra’s Microsoft cloud expertise.",
+ "ogImage": "https://framerusercontent.com/assets/GEXXMfVbhM87WjmlhwBHhXtRlE.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Page Title",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Accelerate Your Business"
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/eNGB/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/uWhKh2lLBN70YMQaEMKNMb0NGE.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Are You Overlooking DPDP Risks? Join Quadra’s Session"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fffq/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/ogRVxjMA0unMqA90rdnHahV99xI.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "Are you Overwhelmed with Digital clutter ? Quadra unifies workflow in one AI workspace"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fElr/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/U4B5hlKhqFKx5k3mJ0hoQZVgCU.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "AWS protects your cloud. It doesn't cover your endpoints"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fxNu/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/Q3tixR90kbAKEXdPCiwOdHhBY4.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "One unified BI layer across your entire stack — Quadra architects it."
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fdiW/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/oW1dD2PEqAp9dgZ3RiL9H4AJbo.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "High Data Costs? Meet Quadra’s AWS Efficiency Blueprint."
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://campaign-statistics.com/campaigns/fiAy/preview",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/OwlhQdWUI3UoqaOPNmVLRJk.png",
+       "alt": "",
+       "w": 1440
+      },
+      {
+       "t": "h5",
+       "text": "How to give your Board the AI results they’ve been asking for."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Load More"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,379 @@
+{
+ "path": "/newsroom/why-migrating-vms-from-aws-to-google-cloud-is-a-smart-move",
+ "url": "https://www.quadrasystems.net/newsroom/why-migrating-vms-from-aws-to-google-cloud-is-a-smart-move",
+ "title": "Why migrating VMs from AWS to Google Cloud is a Smart Move",
+ "description": "Migrating to virtual machines by Google Cloud not only improves your IT infrastructure, but also provides added benefits such as scalability, security, and cost savings. With the ability to...",
+ "ogImage": "https://framerusercontent.com/images/74obQtICDMW9L9BzAL3llFbbCGU.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Why migrating VMs from AWS to Google Cloud is a Smart Move"
+    },
+    {
+     "t": "p",
+     "text": "Why migrating VMs from AWS to Google Cloud is a Smart Move"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/74obQtICDMW9L9BzAL3llFbbCGU.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Migrating to virtual machines by Google Cloud not only improves your IT infrastructure, but also provides added benefits such as scalability, security, and cost savings. With the ability to..."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "Migrating Virtual Machines (VMs) from one cloud provider to another can be a daunting task, but it doesn't have to be. With the right tools and strategies in place, you can easily move your VMs from Amazon Web Services (AWS) to Google Cloud."
+    },
+    {
+     "t": "p",
+     "text": "Migrating to virtual machines by Google Cloud not only improves your IT infrastructure, but also provides added benefits such as scalability, security, and cost savings. With the ability to easily scale up or down based on your business needs, you can save money on unnecessary resources while still having the ability to handle unexpected traffic or growth."
+    },
+    {
+     "t": "p",
+     "text": "Additionally, Google Cloud's security features and compliance certifications ensure that your data is protected and compliant with industry standards."
+    },
+    {
+     "t": "p",
+     "text": "This guide will provide you with the knowledge and resources you need to make the transition smoothly and efficiently."
+    },
+    {
+     "t": "p",
+     "text": "Below are the advantages of using GCP VM migration."
+    },
+    {
+     "t": "p",
+     "text": "Fast, efficient migration"
+    },
+    {
+     "t": "p",
+     "text": "Simplicity at scale"
+    },
+    {
+     "t": "p",
+     "text": "Minimal downtime and risk"
+    },
+    {
+     "t": "p",
+     "text": "Lower cost, higher staff productivity"
+    },
+    {
+     "t": "p",
+     "text": "So, let's dive in and see how you can migrate your VMs from AWS to Google Cloud!"
+    },
+    {
+     "t": "h4",
+     "text": "High Level Migration Architecture from AWS to GCP"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yWTphr4cKO34kI1s34MeycRS7bc.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Pre-requisites for the successful migration:"
+    },
+    {
+     "t": "p",
+     "text": "1. Configure GCP IAM credentials with the roles below and enable “VM Migration API”."
+    },
+    {
+     "t": "p",
+     "text": "Compute Instance Admin"
+    },
+    {
+     "t": "p",
+     "text": "Compute Network Admin"
+    },
+    {
+     "t": "p",
+     "text": "Resource Manager Admin"
+    },
+    {
+     "t": "p",
+     "text": "2. Configure AWS IAM policy credentials with the following policy."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yFGfsCqoRaKCjXbpOlE7545vcQA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. Create an IAM user and apply the policy we have created earlier to the user."
+    },
+    {
+     "t": "h4",
+     "text": "Supported OS versions"
+    },
+    {
+     "t": "p",
+     "text": "CentOS – 7,8"
+    },
+    {
+     "t": "p",
+     "text": "Debian – 8.7,9.13"
+    },
+    {
+     "t": "p",
+     "text": "Linux – 6.8 – 6.10, 7.2 – 7.9"
+    },
+    {
+     "t": "p",
+     "text": "RHEL – 6.8-6.10, 7.0-7.9,8.0-8.6"
+    },
+    {
+     "t": "p",
+     "text": "SLES – 15, 15SP1 – 15SP3"
+    },
+    {
+     "t": "p",
+     "text": "Ubuntu – 14.04 – 20.04.03"
+    },
+    {
+     "t": "p",
+     "text": "Windows Server – 2008 R2 Sp1 – 2022"
+    },
+    {
+     "t": "p",
+     "text": "Reference URL: Supported operating systems (AWS as a source)"
+    },
+    {
+     "t": "h4",
+     "text": "Steps to Migrate:"
+    },
+    {
+     "t": "p",
+     "text": "In the Google cloud console, search for Migrate to Virtual Machines."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uco9CpxmEoxCWK9BkZcrdw3FnA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Migrate to virtual machine dashboard will appear as below,"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/djdgviDeewqHGuFc33tQGI2kug.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Where you can manage Source, Migration process, Groups and Targets in a single dashboard. You can also see the summary of the migration in the dashboard."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/2enlfNSVKKaSkrqSzSI3sahK1s.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Navigate to Manage sources and chose the source, here I click on “ADD AWS SOURCE”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/rl4KAO4NUboZrHwG7G6QICk5Uw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Complete the details below for the sources."
+    },
+    {
+     "t": "p",
+     "text": "Name: Give a friendly name for the migration process"
+    },
+    {
+     "t": "p",
+     "text": "GCP Region: Choose the GCP region where AWS resources should be moved to"
+    },
+    {
+     "t": "p",
+     "text": "AWS Region: Choose the AWS region where resources are residing. ‍"
+    },
+    {
+     "t": "p",
+     "text": "Access Key ID: Provide the access key for IAM polices created in AWS (provide access for Ec2, Disks, Project level) ‍"
+    },
+    {
+     "t": "p",
+     "text": "Secret Key: Secret key will be created along with Access key."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iIg5GMrING2dLDru0OTlDi4RYE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "If the credentials are fed right, you will be able to see it in the dashboard."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/IFvu4gBvbeC5GaU1SGqaN1l0.png",
+     "alt": "",
+     "w": 135
+    },
+    {
+     "t": "p",
+     "text": "Now, Configure the targets section, go to Targets section and select your desired project where the VM from AWS should be resided and click ADD"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Bv87VuY5TKFhCkpx7dhZ0L4g.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Now configure the migration process, go to the source and you will be able to see list VM’s running in the AWS project."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0IOi59YCeXcNC7g3kouoD3v7v0.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Select your desired VM which needs to be moved to GCP and click “ADD MIGRATIONS”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DsJIvQJoISz79fxspeFh7NQGoQU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In the migration section you will be able to see the selected VM’s which are in ready state"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nZt7ppUa0WKXDd50iMfYm173Fwk.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Start the migration process by selecting the VM and click “START REPLICATION”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GjRWoTPXYyL7fI13A90PZZc8eLM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "The replication process will happen, and you will be able to see the exact details in the dashboard itself."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/rjiuNlB8Q3V3vb1BOFPRja31nM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YVvrSAju8HIAWtdwRKa7ckM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Once the replication is done it will be asking to completely migrate the VM from source, where the VM will be deleted in the AWS and by clicking “CUT-OVER AND TEST-CLONE” it will process the VM migration, and it will be created in GCP."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ETctSaQ23Lhd60t9R5L3fys7l4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "You can also create a GROUP in source section to migrate a group of VM’s from AWS"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zUNcwGtrajuwCcDX51ewU4dj68.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Once the migration process is completed you will be able to see the VM migrated from AWS to GCP"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Kd1HuYgsY8wAbYH8xxXD3cfVQs.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Note: If you are running your application in VM is not working after migration, kindly check the firewall and tags allotted for the VM"
+    },
+    {
+     "t": "h4",
+     "text": "Conclusion:"
+    },
+    {
+     "t": "p",
+     "text": "We have successfully migrated VM from AWS to GCP in simple steps."
+    },
+    {
+     "t": "p",
+     "text": "Note: This is a glimpse of migration flavor given, however during the actual migration – Kindly follow the methodology as below, which will be written in the upcoming blog"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/B0d0qW7Lww6jAaKGW9L5Sx5MLVg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "As an additional to this blog, please find the Migration cheat sheet common use case scenarios."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/niuHMkh8bl8u8iHxeMfIzq7nJPA.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

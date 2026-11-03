@@ -1,0 +1,531 @@
+{
+ "path": "/newsroom/stay-on-top-of-your-costs-with-detailed-tracking-from-looker-studio-at-no-cost",
+ "url": "https://www.quadrasystems.net/newsroom/stay-on-top-of-your-costs-with-detailed-tracking-from-looker-studio-at-no-cost",
+ "title": "Stay on Top of Your Costs with Detailed Tracking from Looker Studio at No Cost",
+ "description": "Cloud costs can quickly escalate if not properly managed. Detailed tracking and visualization of your cloud spend can help your business stay agile and efficient. With Looker Studio, you can gain deep insights into your Google Cloud costs, identify spending patterns, and make informed financial decisions",
+ "ogImage": "https://framerusercontent.com/images/DtNMxlu4aNEb3kLoM9lPO3Kn2Y.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Stay on Top of Your Costs with Detailed Tracking from Looker Studio at No Cost"
+    },
+    {
+     "t": "p",
+     "text": "Stay on Top of Your Costs with Detailed Tracking from Looker Studio at No Cost"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DtNMxlu4aNEb3kLoM9lPO3Kn2Y.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Cloud costs can quickly escalate if not properly managed. Detailed tracking and visualization of your cloud spend can help your business stay agile and efficient. With Looker Studio, you can gain deep insights into your Google Cloud costs, identify spending patterns, and make informed financial decisions"
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "In today’s fast-paced business environment, understanding and managing your cloud spend is crucial. Google Cloud’s cost management features, such as Cloud Billing data export to BigQuery combined with Looker Studio, offer powerful tools for tracking and visualizing costs in detailed."
+    },
+    {
+     "t": "p",
+     "text": "Additionally, the integration of Gemini in Looker enhances your ability to interact with data through advanced AI features such as conversational analytics. This blog will guide you through setting up a comprehensive billing usage and cost insights dashboard, ensuring you can effectively monitor and control your Google Cloud expenses."
+    },
+    {
+     "t": "h2",
+     "text": "Importance of Understanding and Managing Google Cloud Spend"
+    },
+    {
+     "t": "h2",
+     "text": "Introduction to the Billing Usage and Cost Insights Dashboard"
+    },
+    {
+     "t": "p",
+     "text": "The Billing Usage and Cost Insights Dashboard offered by Looker Studio provides a detailed view of your Google Cloud costs. This dashboard allows you to:"
+    },
+    {
+     "t": "p",
+     "text": "· Analyze spending patterns."
+    },
+    {
+     "t": "p",
+     "text": "· Forecast future expenses."
+    },
+    {
+     "t": "p",
+     "text": "· Gain detailed insights into cost distribution."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5ImIuekyPRrQF0rplggCU8o7SI8.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "This dashboard is an essential tool for any organization that relies on Google Cloud services."
+    },
+    {
+     "t": "h2",
+     "text": "Setting Up the Dashboard"
+    },
+    {
+     "t": "p",
+     "text": "Prerequisites:"
+    },
+    {
+     "t": "p",
+     "text": "Required IAM Roles"
+    },
+    {
+     "t": "p",
+     "text": "Ensure the following IAM roles are assigned for setting up and accessing the Billing usage and cost insights dashboard:"
+    },
+    {
+     "t": "p",
+     "text": "Billing Account Roles: Billing Account Administrator or Billing Account Costs Manager"
+    },
+    {
+     "t": "p",
+     "text": "Project Roles: Project Creator (Organization level)"
+    },
+    {
+     "t": "p",
+     "text": "Service Account Role: Service account user"
+    },
+    {
+     "t": "p",
+     "text": "BigQuery Roles: BigQuery Admin or BigQuery Data Editor"
+    },
+    {
+     "t": "p",
+     "text": "APIs: some text"
+    },
+    {
+     "t": "p",
+     "text": "Enable BigQuery API, BigQuery Data Transfer API and Cloud billing API to facilitate data export and analysis"
+    },
+    {
+     "t": "h3",
+     "text": "Step 1: Enable Data Export to BigQuery"
+    },
+    {
+     "t": "p",
+     "text": "To analyze your Google Cloud costs effectively, enable Cloud Billing data export to BigQuery. This feature automatically exports detailed billing data, including usage, cost estimates, and pricing information, into a specified BigQuery dataset for in-depth analysis."
+    },
+    {
+     "t": "p",
+     "text": "Ensure both Standard and Detailed Cloud Billing usage data exports are enabled for comprehensive insights. To activate this, navigate to Billing > Billing Export in your Google Cloud Console and create a BigQuery dataset to store the data."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/b8A81r6V5AIQD7r1Ex2fEgIdCw.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Note: Data export starts from the date of enabling and may take some time before billing data is fully reflected in the dataset."
+    },
+    {
+     "t": "h3",
+     "text": "Step 2: Verify BigQuery Dataset and Tables"
+    },
+    {
+     "t": "p",
+     "text": "After enabling export, verify that billing data is being loaded into the specified BigQuery dataset and tables. This step ensures that the data is ready for validation and further analysis."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/utNFn2M7heWas6nmTQ3HNv4Cg.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "h3",
+     "text": "Step 3: Execute Sample Queries in BigQuery"
+    },
+    {
+     "t": "p",
+     "text": "To get a preliminary understanding of your billing data, execute sample queries in BigQuery. This will help you familiarize yourself with the data set and the type of insights it can provide."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/N4xYipNKtd6OesjdHpKNsHX5qE.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "h3",
+     "text": "Step 4: Gather Required Information for Dashboard Setup"
+    },
+    {
+     "t": "p",
+     "text": "Before moving forward, gather the necessary details about your Google Cloud environment:"
+    },
+    {
+     "t": "p",
+     "text": "Project ID: The ID of the project where your Cloud Billing BigQuery dataset is hosted."
+    },
+    {
+     "t": "p",
+     "text": "Dataset Names: Names of the datasets for Standard and Detailed cost data exports."
+    },
+    {
+     "t": "p",
+     "text": "Typically, the exports are found within the same dataset."
+    },
+    {
+     "t": "h3",
+     "text": "Step 5: Setting Up Your Dashboard"
+    },
+    {
+     "t": "h4",
+     "text": "Setting Up Your Dashboard via Looker Studio"
+    },
+    {
+     "t": "p",
+     "text": "Open Looker Studio and start with a blank report."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YpDDZW6ZLVVp6jnJ2w5KAShX1I.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "1. Select Data Source: some text"
+    },
+    {
+     "t": "p",
+     "text": "Choose BigQuery as your data source."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/twNQOevvGMlALt6vTfJXD3Ze8gM.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Select the appropriate project, dataset, and table where your billing data has been exported."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/k9UiDhe8xAOMXwPC4M0GRuYKleU.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "2. Create Your Visualizations: some text"
+    },
+    {
+     "t": "p",
+     "text": "Utilize Looker Studio features to add tables, charts, bars, and other visuals as per your analysis requirements. Tailor the dashboard to represent the specific billing insights needed for your organization."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YN0oaqh50dFeM5LuD4bS1qDhzhY.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Creating Your Own Copy of the Dashboard Using Python"
+    },
+    {
+     "t": "p",
+     "text": "To create your own copy of the dashboard using Python, follow these steps. This process involves cloning a GitHub repository and using Cloud Shell, an interactive shell environment for Google Cloud accessible from your browser."
+    },
+    {
+     "t": "p",
+     "text": "High-Level Overview of the Setup Script"
+    },
+    {
+     "t": "p",
+     "text": "The setup script in the repository performs these tasks:"
+    },
+    {
+     "t": "p",
+     "text": "Creates a new BigQuery view in the dataset that contains your Standard cost data export."
+    },
+    {
+     "t": "p",
+     "text": "Copies the dashboard template and links it to the BigQuery view of your data."
+    },
+    {
+     "t": "p",
+     "text": "Provides you with a Looker Studio link to your newly created copy, which you can then save to your Looker Studio dashboards."
+    },
+    {
+     "t": "p",
+     "text": "Step 1: Cloning the Repository in Cloud Shell"
+    },
+    {
+     "t": "p",
+     "text": "Open Cloud Shell and clone the repository by running the following command:"
+    },
+    {
+     "t": "p",
+     "text": "cloudshell_open --repo_url\"https://github.com/GoogleCloudPlatform/professional-services/\"--page \"editor\" --force_new_clone"
+    },
+    {
+     "t": "p",
+     "text": "Step 2: Navigate to the Billboard Directory"
+    },
+    {
+     "t": "p",
+     "text": "Move to the billboard directory with this command:"
+    },
+    {
+     "t": "p",
+     "text": "cd examples/billboard"
+    },
+    {
+     "t": "p",
+     "text": "Step 3: Set Up the Python Environment"
+    },
+    {
+     "t": "p",
+     "text": "Set up the Python environment for the script by running these commands:"
+    },
+    {
+     "t": "p",
+     "text": "rm -rf bill-env"
+    },
+    {
+     "t": "p",
+     "text": "pip install virtualenv"
+    },
+    {
+     "t": "p",
+     "text": "virtualenv bill-env"
+    },
+    {
+     "t": "p",
+     "text": "source bill-env/bin/activate"
+    },
+    {
+     "t": "p",
+     "text": "pip install -r requirements.txt"
+    },
+    {
+     "t": "p",
+     "text": "Step 4: Run the Script to Create Your Dashboard"
+    },
+    {
+     "t": "p",
+     "text": "To execute the script, replace the placeholder variables and run the following command:"
+    },
+    {
+     "t": "p",
+     "text": "python billboard.py \\"
+    },
+    {
+     "t": "p",
+     "text": "-pr 'PROJECT_ID' \\"
+    },
+    {
+     "t": "p",
+     "text": "-se 'STANDARD_BILLING_EXPORT_DATASET' \\"
+    },
+    {
+     "t": "p",
+     "text": "-bb 'BILLBOARD_DATASET'"
+    },
+    {
+     "t": "p",
+     "text": "Replace the variables as follows:"
+    },
+    {
+     "t": "p",
+     "text": "PROJECT_ID: The project ID that hosts your Cloud Billing datasets."
+    },
+    {
+     "t": "p",
+     "text": "STANDARD_BILLING_EXPORT_DATASET: The BigQuery dataset containing your Standard usage cost data export."
+    },
+    {
+     "t": "p",
+     "text": "BILLBOARD_DATASET: The name of the BigQuery dataset where the view for the dashboard is created, e.g., gcp-billing-spend. If this dataset doesn't already exist, the script creates it."
+    },
+    {
+     "t": "p",
+     "text": "Once initiated, a URL will be generated to launch the Data Studio report."
+    },
+    {
+     "t": "h3",
+     "text": "Step 6: Access and Save Your Dashboard"
+    },
+    {
+     "t": "p",
+     "text": "Upon script completion, you will be provided with a Looker Studio link to your dashboard. Click the Looker Studio link to open the dashboard. In Looker Studio. In Looker Studio, click Edit and share to initiate the save process."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TquGephIvy6H7p59uuT22fYd4.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "When prompted, click Acknowledge and save to include necessary data sources in your report for optimal visualization. Once saved, you can now access your Google Cloud Billing Dashboard from your Looker Studio home page at any time."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1JlT7jzZ2KbWhNBAGtxLd8Nun8Y.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/G16H7erqXRM8LiwS7uQuZYk1kQ.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Gemini in Looker"
+    },
+    {
+     "t": "p",
+     "text": "Gemini in Looker offers advanced AI assistance to enhance your data interaction in Looker Studio Pro and Google Slides. Here’s how it can help:"
+    },
+    {
+     "t": "p",
+     "text": "• Conversational Analytics: Ask questions using natural language, and Gemini will present relevant Looker Studio charts or data tables."
+    },
+    {
+     "t": "p",
+     "text": "• Integrate with Google Slides: Import Looker Studio report components into Slides, with Gemini generating and inserting summaries for each chart."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h3",
+     "text": "Accessing Gemini in Looker:"
+    },
+    {
+     "t": "p",
+     "text": "Looker Studio Left Navigation: Use Conversational Analytics and select the Sandbox project for queries."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TW8VWBJaYjcSypfQPc9cuuCWouY.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dVqMuGfFCq7TBAPzQVFLjbCo10.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WtiPt0i384mdeLQDCTgZQP5JKw.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Gemini Panel: Open a Looker Studio report and select Generate Slides for presentation creation."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ixPogg0vnkNiONNOWsX8ndXeM.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/W7ZPd3xLz469FucGqH9JutSoSE.png",
+     "alt": "__wf_reserved_inherit",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Conclusion"
+    },
+    {
+     "t": "p",
+     "text": "Visualizing and managing your Google Cloud costs is essential for maintaining financial control over your cloud resources. By following this blog, you can set up a robust billing dashboard with Looker Studio for deeper insights and informed financial decisions."
+    },
+    {
+     "t": "p",
+     "text": "With Gemini in Looker, enhance your data interaction through conversational analytics and seamless integration with Google Slides. Leverage these advanced features to optimize cloud usage and maintain financial agility in today's dynamic business environment."
+    },
+    {
+     "t": "h2",
+     "text": "FAQs"
+    },
+    {
+     "t": "h5",
+     "text": "How often is Cloud Billing data updated in BigQuery?"
+    },
+    {
+     "t": "p",
+     "text": "• Billing data is updated daily."
+    },
+    {
+     "t": "h5",
+     "text": "Can I use this dashboard with multiple Google Cloud projects?"
+    },
+    {
+     "t": "p",
+     "text": "• Yes, you can customize the dashboard to handle multiple projects."
+    },
+    {
+     "t": "h5",
+     "text": "Is there a cost associated with exporting Cloud Billing data to BigQuery?"
+    },
+    {
+     "t": "p",
+     "text": "• Yes, storing and querying data in BigQuery incurs costs. Use the Google Cloud Pricing Calculator to estimate these costs."
+    },
+    {
+     "t": "h5",
+     "text": "Can the dashboard handle billing data in different currencies?"
+    },
+    {
+     "t": "p",
+     "text": "• Yes, the dashboard can be modified to support multiple currencies."
+    },
+    {
+     "t": "h5",
+     "text": "What additional benefits does Gemini in Looker offer?"
+    },
+    {
+     "t": "p",
+     "text": "• Gemini in Looker enhances your data interaction with features like conversational analytics and seamless integration with Google Slides, making it easier to visualize and manage your cloud costs intelligently."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

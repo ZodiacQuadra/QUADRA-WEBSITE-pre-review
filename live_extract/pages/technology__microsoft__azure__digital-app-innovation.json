@@ -1,0 +1,171 @@
+{
+ "path": "/technology/microsoft/azure/digital-app-innovation",
+ "url": "https://www.quadrasystems.net/technology/microsoft/azure/digital-app-innovation",
+ "title": "Digital App Innovation Services | Azure | Quadra",
+ "description": "Quadra accelerates digital app innovation on Azure using cloud-native architectures, microservices, containers, Azure Kubernetes Service, and DevOps — helping enterprises modernize faster and reduce application technical debt.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on the"
+    },
+    {
+     "t": "h1",
+     "text": "The Future of Your Business One Application at a Time"
+    },
+    {
+     "t": "p",
+     "text": "We architect and modernize your applications on Azure, transforming them into agile, intelligent, and resilient engines for digital innovation and competitive advantage"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ppxR0ClRRLBqkqoFHanqwPTg.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Your Applications are Your Business"
+    },
+    {
+     "t": "h2",
+     "text": "Are They Built for the Future?"
+    },
+    {
+     "t": "p",
+     "text": "We partner with enterprise leaders to solve the most critical challenges in application modernization and cloud-native development"
+    },
+    {
+     "t": "h6",
+     "text": "How do we break free from our slow, monolithic legacy applications?"
+    },
+    {
+     "t": "h6",
+     "text": "How can we accelerate our development and release cycles securely?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we choose the right modernization path for our diverse app portfolio?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we empower developers with AI while ensuring governance?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Applied Excellence on Azure"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is founded on a deep understanding of cloud-native architecture and DevOps principles, ensuring your applications are not just moved to Azure, but reborn on it"
+    },
+    {
+     "t": "p",
+     "text": "Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Strategy First: Your Modernization Roadmap"
+    },
+    {
+     "t": "p",
+     "text": "We start with a thorough assessment of your application portfolio, collaborating with you to define the right strategy for each app—from re-hosting to re-platforming on Azure PaaS or re-architecting for microservices"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uUCwDXbcFUeOHuE2tRTMuJMYa5U.jpg",
+     "alt": "man in blue long sleeve shirt holding woman in gray sweater",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Application Innovation & Architecture Capabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Dq0dZZ6vdJajA3m1Kk0Z8BRMcs.jpg",
+     "alt": "man standing behind flat screen computer monitor",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Infrastructure as Code (IaC)"
+    },
+    {
+     "t": "p",
+     "text": "Automating infrastructure provisioning using Terraform for repeatable, governed deployments"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/y9hfOMzgE8lW3evQ50EwkL1BV3U.jpg",
+     "alt": "three men sitting while using laptops and watching man beside whiteboard",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "CI/CD & DevOps Automation"
+    },
+    {
+     "t": "p",
+     "text": "Architecting end-to-end CI/CD pipelines with Azure DevOps for reliable and efficient application delivery"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yN6McZObwg1NUsTnQuu9PGyXM.jpg",
+     "alt": "unknown person using laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Web App Transformation"
+    },
+    {
+     "t": "p",
+     "text": "Migrating and modernizing web applications on the scalable Azure App Service platform"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wM1IyPvTt5djWbe4AQnqtE19zI.jpg",
+     "alt": "man operating laptop on top of table",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "GitHub Copilot Integration & Enablement"
+    },
+    {
+     "t": "p",
+     "text": "Architecting a strategy to securely adopt and integrate GitHub Copilot to accelerate development with AI-assisted coding"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

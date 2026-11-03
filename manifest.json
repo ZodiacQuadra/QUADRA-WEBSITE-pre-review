@@ -1,0 +1,50 @@
+{
+  "version": "0.5",
+  "as_of": "2026-11-02",
+  "purpose": "Internal content review plus protected Framer staging preparation",
+  "source_of_truth": "content.json",
+  "html": "Quadra_Website_Review.html",
+  "publish_to_production": false,
+  "script": "One self-contained navigation enhancement only; no network, storage or animation",
+  "images": "labelled placeholders only",
+  "animations": false,
+  "functional": [
+    "local anchor navigation",
+    "native expandable menus with auto-close",
+    "outside-click and Escape dismissal",
+    "one dropdown open at a time",
+    "keyboard focus management"
+  ],
+  "not_functional": [
+    "Compass AI answers",
+    "case-study search and filters",
+    "contact or newsletter submission"
+  ],
+  "case_studies": "Representative existing public entries only; no case records changed",
+  "review_notes": "Separate REVIEW_NOTES.md and external_validation files",
+  "maintain": "Edit content.json then rerun render_mockup.py; retain stable page and section IDs; do not hand-edit duplicate copies.",
+  "framer": "Staging content export prepared with proposed collection/component mapping; actual project schema and pilot not verified.",
+  "source_content_sha256": "5b71b71c6ea6c15b8cac3aabac6f4709f9abebb898361ccf7c0bd54aa2994605",
+  "review_version": "2 November 2026 · v0.5",
+  "html_page_views": 74,
+  "qa": "Structural validation, menu interaction regressions and all-page desktop/mobile checks passed. See NOV02_UPDATE_QA.json, qa_report.json and browser_qa.json.",
+  "last_content_review": "2026-11-02",
+  "navigation_revision": "2026-10-30",
+  "aig_update_status": "Supplied v1.3 replacement copy applied after user confirmed decision references closed; original subpages retained; absent closing line not invented.",
+  "pending_decision_ids": [],
+  "latest_update": "HCDW priorities developed within common framework; AWS v1.2 and closed AIG v1.3 decisions retained.",
+  "iteration_phase": "content_review_and_private_staging_preparation",
+  "final_framer_export_started": false,
+  "production_approval": false,
+  "pending_practice_updates": [
+    "EAICG"
+  ],
+  "gcp_source_recheck": "byte_identical_no_rewrite",
+  "staging_export_status": "Prepared data and mapping contract; actual Framer schema not supplied or tested",
+  "html_sha256": "febd3a8b1f33a755823503e8b64aa1a7046d4156f2b9735b0d40872b346b6029",
+  "content_sha256": "5b71b71c6ea6c15b8cac3aabac6f4709f9abebb898361ccf7c0bd54aa2994605",
+  "practice_pages": 50,
+  "hcdw_sections": 51,
+  "latest_qa": "NOV02_UPDATE_QA.json",
+  "delivery_scope": "Delivered current review; attached-folder sync has separate status."
+}

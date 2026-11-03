@@ -1,0 +1,116 @@
+{
+ "path": "/happy/enabling-hosting-service-provider-to-deliver-superior-cx",
+ "url": "https://www.quadrasystems.net/happy/enabling-hosting-service-provider-to-deliver-superior-cx",
+ "title": "Modern CRM Platform Case Study | Quadra",
+ "description": "Architected and deployed an upgraded, modern CRM platform with custom-developed plugins, which resolved performance bottlenecks, automated key workflows, and enhanced the overall customer experience.",
+ "ogImage": "https://framerusercontent.com/images/isLU1uAXupVs1j2jEIRNaiTeUh0.jpeg?width=6016&height=4016",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Modern CRM Platform for a European Hosting Provider"
+    },
+    {
+     "t": "p",
+     "text": "Hosting"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/isLU1uAXupVs1j2jEIRNaiTeUh0.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading hosting service provider in the Nordic region with a sterling reputation for exceptional customer service."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To upgrade their aging, on-premise CRM platform to a modern solution that could eliminate performance issues and improve the productivity of their customer service teams."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed an upgraded, modern CRM platform with custom-developed plugins, which resolved performance bottlenecks, automated key workflows, and enhanced the overall customer experience."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading hosting service provider in the Nordic region with a sterling reputation for exceptional customer service."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their aging on-premise CRM was struggling under the load of a growing customer base. Performance issues and a lack of proper integration with their customer portal were hampering staff productivity and compromising the customer experience. Furthermore, they had invested significantly in expensive third-party add-ons that were providing sub-par performance and had integration issues."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to maintain their reputation for exceptional customer service. Their CRM solution was the backbone of all customer interactions, and they needed to modernize it to ensure their teams could work efficiently and without the friction caused by a slow, aging system."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The upgraded platform, enhanced with our custom plugins, resolved their core challenges. The new 'Email-To-Case' functionality, a critical requirement, automated their support workflows and improved responsiveness. The solution provided rich, improved functionality at a greatly reduced Total Cost of Ownership (TCO) compared to their previous reliance on expensive third-party tools. The project was delivered with minimal disruption, culminating in another exceptional customer experience."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Modernized a Mission-Critical CRM Platform"
+    },
+    {
+     "t": "p",
+     "text": "Reduced TCO by Replacing Expensive Third-Party Plugins"
+    },
+    {
+     "t": "p",
+     "text": "Automated Key Workflows to Enhance Productivity"
+    },
+    {
+     "t": "p",
+     "text": "Improved Performance & Overall Customer Experience"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

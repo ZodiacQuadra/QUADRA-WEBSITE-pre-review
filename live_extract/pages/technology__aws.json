@@ -1,0 +1,614 @@
+{
+ "path": "/technology/aws",
+ "url": "https://www.quadrasystems.net/technology/aws",
+ "title": "AWS Premier Partner: Architecting Agility & Innovation | Quadra",
+ "description": "Quadra is an AWS Premier Tier Partner delivering enterprise-grade cloud migration, application modernization, data analytics, AI, security, and managed services that unlock agility and innovation at scale.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Premier Partner"
+    },
+    {
+     "t": "h1",
+     "text": "Architecting Agility & Innovation on AWS"
+    },
+    {
+     "t": "p",
+     "text": "As an AWS Premier Partner, we leverage the full power of the world's leading cloud platform to architect secure, scalable, and intelligent solutions that power your enterprise ambition"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Premier Partner for AWS"
+    },
+    {
+     "t": "p",
+     "text": "The Highest Tier of AWS Partnership"
+    },
+    {
+     "t": "h3",
+     "text": "AWS Premier Partner"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/hcNug93ooLose0gFPe2dz5V7U.png",
+     "alt": "",
+     "w": 322
+    },
+    {
+     "t": "p",
+     "text": "Achieving AWS Premier Partner status is a rigorous validation of our expertise, reserved for the top tier of partners globally. It signifies a deep, strategic relationship with AWS, a long history of proven customer success in deploying enterprise-scale solutions, and a significant investment in a highly trained, certified technical team. When you partner with Quadra, you are engaging with the best of the AWS ecosystem."
+    },
+    {
+     "t": "h3",
+     "text": "Certified Expertise"
+    },
+    {
+     "t": "p",
+     "text": "40+ AWS Accredited Solution Architects and professionals dedicated to designing and building on AWS."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mIZUrGI0U77Iwh9SsrvOrgQaVnQ.jpeg",
+     "alt": "woman in black long sleeve shirt sitting beside man in gray crew neck shirt",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Key AWS Competencies"
+    },
+    {
+     "t": "p",
+     "text": "3 AWS Competencies"
+    },
+    {
+     "t": "p",
+     "text": "2 Partner Programs"
+    },
+    {
+     "t": "p",
+     "text": "11 AWS Service Validations"
+    },
+    {
+     "t": "p",
+     "text": "100+ AWS Certifications"
+    },
+    {
+     "t": "p",
+     "text": "400+ Customer Launches"
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "AWS Validated Qualifications"
+    },
+    {
+     "t": "h2",
+     "text": "AWS Competencies"
+    },
+    {
+     "t": "p",
+     "text": "AWS Competencies"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pFIPKOvxRDiV8uR9twdVFXkXvQ.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Migration & Modernization Consulting Competency"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/migration"
+    },
+    {
+     "t": "p",
+     "text": "AWS Competencies"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/OCap8bFNAtKYRtSA1FJ5caGEE.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "DevOps Consulting Competency"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/modernization"
+    },
+    {
+     "t": "p",
+     "text": "AWS Competencies"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fjvsX67z5eYhWHTLeW5FB9cZSHQ.jpg",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Generative AI Services Competency"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/generative-ai"
+    },
+    {
+     "t": "h2",
+     "text": "Partner Programs"
+    },
+    {
+     "t": "p",
+     "text": "Partner Programs"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/T40DfIPC8DbJmUJPEUnEG88zAzs.jpg",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Premier Tier Services"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "p",
+     "text": "Partner Programs"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/oS0SDO7MMzdalCbJqi13Th2VUgc.png",
+     "alt": "",
+     "w": 250
+    },
+    {
+     "t": "p",
+     "text": "Authorized Commercial Reseller"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "p",
+     "text": "Partner Programs"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fb9WqsqtVSbDnKi420p12RUb2Q.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "AWS Well-Architected Partner Program"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "h2",
+     "text": "AWS Certifications"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certifications"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certified Solutions Architect - Associate"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certifications"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certified Cloud Practitioner"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certifications"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certified Solutions Architect - Professional"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certifications"
+    },
+    {
+     "t": "p",
+     "text": "AWS Certified AI Practitioner"
+    },
+    {
+     "t": "h2",
+     "text": "AWS Service Validations"
+    },
+    {
+     "t": "p",
+     "text": "AWS Service Validations"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/CDubiPFHHqVumzKsd4FTgQ3XFk.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Amazon EC2 for Windows Server Delivery"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YlnGfK8k8pVTRFmf5DOXMq8Nso.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "AWS WAF Delivery"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/waf"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SSCqDId0q2pDl2vOef4I0VWhq5o.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Amazon QuickSight"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/quicksight"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VnfPdSD9ksQKXaoiCfnpSi9w4.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Amazon API Gateway Delivery"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fT1ws2c6d80sUXAp9GzK8TYk11s.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Amazon Systems Manager Delivery"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/systems-manager"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iOAHhSZudwdYplF7eYIUeqUXno.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "AWS Control Tower Delivery"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/control-tower"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/BbEho8LCS8ANBHPzu936NKY5Xo.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "AWS Glue Delivery"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/glue"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nbKwt2fR9MJFf0VEThZsERajc.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Amazon Redshift Delivery"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/redshift"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/g1x3qdi5uVkSiwW6J75ppbTkQ4.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Amazon ECS Delivery"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/z6qcgPBR6KmGsLroHTibcbhZd8.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "Amazon CloudFront Delivery"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/UhQtGLJsrLwkJ3TtC2fIH9UOQ.png",
+     "alt": "",
+     "w": 120
+    },
+    {
+     "t": "p",
+     "text": "AWS Config"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    },
+    {
+     "t": "h2",
+     "text": "AWS FTR"
+    },
+    {
+     "t": "p",
+     "text": "AWS FTR"
+    },
+    {
+     "t": "p",
+     "text": "Quadra DRaaS"
+    },
+    {
+     "t": "link",
+     "text": "View More",
+     "href": "./aws/microsite/quadra-draas"
+    },
+    {
+     "t": "p",
+     "text": "AWS FTR"
+    },
+    {
+     "t": "p",
+     "text": "Quadra Max-IT Security"
+    },
+    {
+     "t": "p",
+     "text": "View More"
+    }
+   ]
+  },
+  {
+   "name": "Showcase",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Your AWS Ecosystem"
+    },
+    {
+     "t": "p",
+     "text": "Our practice is built on four integrated pillars, designed to architect a cohesive, future-ready enterprise on the AWS platform"
+    },
+    {
+     "t": "p",
+     "text": "Migration & Modernization"
+    },
+    {
+     "t": "p",
+     "text": "Data Analytics & AI"
+    },
+    {
+     "t": "p",
+     "text": "Security & Governance"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT™"
+    },
+    {
+     "t": "h2",
+     "text": "Migration & Modernization"
+    },
+    {
+     "t": "p",
+     "text": "We architect your seamless transition to the AWS cloud. Leveraging proven frameworks like the AWS Migration Acceleration Program (MAP), we de-risk your journey and ensure your new foundation is secure, optimized, and built for agility."
+    },
+    {
+     "t": "link",
+     "text": "Explore Migration & Modernization",
+     "href": "./aws/migration-modernization"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uqW09Jl2VKfpXlL4hdXbEm0FzvM.png",
+     "alt": "person writing on white paper",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized on"
+    },
+    {
+     "t": "h2",
+     "text": "AWS"
+    },
+    {
+     "t": "p",
+     "text": "For a global life sciences leader, we architected a pioneering Intelligent Document Management System. This enterprise-grade solution, built on Amazon Bedrock, transformed their ability to analyze over 10,000 complex, unstructured documents with unprecedented speed and accuracy."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GzNuEmBaVrbabejaIEmW30A.jpeg",
+     "alt": "a woman sitting on a bed using a laptop",
+     "w": 1200
+    },
+    {
+     "t": "h3",
+     "text": "96%"
+    },
+    {
+     "t": "p",
+     "text": "reduction in document retrieval time"
+    },
+    {
+     "t": "h3",
+     "text": "93%+"
+    },
+    {
+     "t": "p",
+     "text": "improvement in data extraction accuracy"
+    },
+    {
+     "t": "h3",
+     "text": "40%"
+    },
+    {
+     "t": "p",
+     "text": "reduction in associated operational costs"
+    },
+    {
+     "t": "link",
+     "text": "View More AWS Success Stories",
+     "href": "../happy"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Quadra Advantage for AWS"
+    },
+    {
+     "t": "h5",
+     "text": "Business-First Mindset, Not Just Technology-First"
+    },
+    {
+     "t": "p",
+     "text": "We share AWS's obsession with the customer. We start with your business challenges and work backwards, architecting AWS solutions that are laser-focused on delivering your specific strategic outcomes."
+    },
+    {
+     "t": "h5",
+     "text": "A Holistic, Multi-Cloud Perspective"
+    },
+    {
+     "t": "p",
+     "text": "Our deep expertise across other platforms means we provide unbiased, pragmatic advice. We architect the right AWS solution for you, ensuring it integrates seamlessly into your broader enterprise ecosystem without creating vendor lock-in."
+    },
+    {
+     "t": "h5",
+     "text": "Proven Methodologies & A Stable Team"
+    },
+    {
+     "t": "p",
+     "text": "We combine AWS best practices (7R, Well-Architected) with the power of a deeply experienced team. Our unique culture of employee longevity ensures your critical AWS projects are guided by consistent, expert hands from start to finish."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "AWS Advantage"
+    },
+    {
+     "t": "p",
+     "text": "Schedule a strategic session with our AWS Premier architects to map out the blueprint for your enterprise ambition"
+    },
+    {
+     "t": "link",
+     "text": "Book an AWS Strategy Session",
+     "href": "../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

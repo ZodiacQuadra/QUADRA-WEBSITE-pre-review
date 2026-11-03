@@ -1,0 +1,539 @@
+{
+ "path": "/newsroom/accessing-virtual-machines-in-google-cloud-using-iap-desktop",
+ "url": "https://www.quadrasystems.net/newsroom/accessing-virtual-machines-in-google-cloud-using-iap-desktop",
+ "title": "Accessing Virtual Machines in Google Cloud using IAP desktop",
+ "description": "The TCP forwarding functionality of IAP enables you to manage who can access administrative services like SSH and RDP on your backends via the open internet. These services are shielded from the public internet via the TCP forwarding capability. Instead, to access their intended resource, requests to your services must first....",
+ "ogImage": "https://framerusercontent.com/images/qb8zIs7caBVvMN5d5pCqHNs5Z9Y.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Accessing Virtual Machines in Google Cloud using IAP desktop"
+    },
+    {
+     "t": "p",
+     "text": "Accessing Virtual Machines in Google Cloud using IAP desktop"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/qb8zIs7caBVvMN5d5pCqHNs5Z9Y.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "The TCP forwarding functionality of IAP enables you to manage who can access administrative services like SSH and RDP on your backends via the open internet. These services are shielded from the public internet via the TCP forwarding capability. Instead, to access their intended resource, requests to your services must first...."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "h5",
+     "text": "Introduction"
+    },
+    {
+     "t": "p",
+     "text": "Security in cloud computing is a major concern especially when it comes to an enterprise workload. Exposing services and virtual machines to the internet is surrounded by the risk of security breaches and increased surface attacks. Since all the data is transferred using the Internet, data security is important in the cloud. Key mechanisms for protecting data in the cloud include"
+    },
+    {
+     "t": "p",
+     "text": "Access Control"
+    },
+    {
+     "t": "p",
+     "text": "Auditing"
+    },
+    {
+     "t": "p",
+     "text": "Authentication"
+    },
+    {
+     "t": "p",
+     "text": "Authorization"
+    },
+    {
+     "t": "p",
+     "text": "In this tutorial below, we will be seeing how to Access virtual machines in your google cloud project with IAP Desktop using the concept of TCP forwarding."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h5",
+     "text": "What is IAP TCP Forwarding?"
+    },
+    {
+     "t": "p",
+     "text": "The TCP forwarding functionality of IAP enables you to manage who can access administrative services like SSH and RDP on your backends via the open internet. These services are shielded from the public internet via the TCP forwarding capability. Instead, to access their intended resource, requests to your services must first pass authentication and authorization checks."
+    },
+    {
+     "t": "p",
+     "text": "Running workloads in the cloud exposes administrative services directly to the internet, which poses a danger. You can lower that risk by using IAP to forward TCP traffic and guarantee that only authorized users have access to these sensitive services."
+    },
+    {
+     "t": "p",
+     "text": "SSH, RDP, and other types of traffic can be forwarded to VM instances using IAP TCP forwarding by creating an encrypted tunnel. You can also have precise control over which users are permitted to create tunnels and which VM instances users are permitted to connect to with IAP TCP forwarding."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h5",
+     "text": "How does IAP’s TCP Forwarding work?"
+    },
+    {
+     "t": "p",
+     "text": "The TCP forwarding function of IAP enables users to establish connections to any TCP port on Compute Engine instances. IAP establishes a listening port on the local host that directs all general TCP traffic to a particular instance. IAP then encrypts all client traffic before sending it. If users successfully authenticate and are authorized by the Identity and Access Management (IAM) policy for the target resource, they are granted access to the interface and port."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h5",
+     "text": "Sample Architecture"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/LLF9CZ6B0z9NehGZS3lU1sxQI4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In a special case, establishing an SSH connection using gcloud compute ssh wraps the SSH connection inside HTTPS and forwards it to the remote instance without the need for a listening port on the local host."
+    },
+    {
+     "t": "p",
+     "text": "Direct requests to an admin resource are not immediately barred when IAP is enabled. IAP only denies TCP requests to pertinent services on the resource that are not coming from IAP TCP forwarding IPs."
+    },
+    {
+     "t": "p",
+     "text": "The assignment of a public, routable IP address to your resource is not necessary for TCP forwarding with IAP. It makes use of internal IPs instead."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "What is an IAP Desktop?"
+    },
+    {
+     "t": "p",
+     "text": "IAP Desktop is a Windows programme that enables you to manage several Remote Desktop and SSH connections to Google Cloud-based virtual machine instances."
+    },
+    {
+     "t": "p",
+     "text": "IAP Desktop uses Identity-Aware-Proxy TCP tunnelling to connect to VM instances, combining the convenience of a Remote Desktop connection manager with the security and flexibility of Identity-Aware-Proxy:"
+    },
+    {
+     "t": "p",
+     "text": "You can connect from anywhere, not only from selected networks."
+    },
+    {
+     "t": "p",
+     "text": "You can connect to VM instance that does not have a public IP address or NAT access to the internet."
+    },
+    {
+     "t": "p",
+     "text": "Even if your workstation is protected by a corporate firewall or proxy, you can connect because the TCP forwarding tunnel is created over HTTPS."
+    },
+    {
+     "t": "p",
+     "text": "Using Cloud IAM, you can precisely manage who is permitted to connect to a virtual machine."
+    },
+    {
+     "t": "p",
+     "text": "SSH and RDP do not need to be accessible over the open internet."
+    },
+    {
+     "t": "h4",
+     "text": "Pre-Requisites"
+    },
+    {
+     "t": "p",
+     "text": "Before you start with this tutorial, you will need the following:"
+    },
+    {
+     "t": "p",
+     "text": "Google Cloud Project"
+    },
+    {
+     "t": "p",
+     "text": "Custom mode VPC network"
+    },
+    {
+     "t": "h4",
+     "text": "Preparing your project for IAP TCP forwarding"
+    },
+    {
+     "t": "h5",
+     "text": "Create a firewall rule"
+    },
+    {
+     "t": "p",
+     "text": "Create a firewall rule to allow IAP to connect your VM instance, following the below:"
+    },
+    {
+     "t": "p",
+     "text": "This applies to all VM instances that you wish to be reachable via IAP in order to permit IAP to connect to them."
+    },
+    {
+     "t": "p",
+     "text": "Permits traffic from the IP range 35.235.240.0/20 to enter. All IP addresses that IAP use for TCP forwarding is included in this range."
+    },
+    {
+     "t": "p",
+     "text": "Enables connections to all ports that you want open, such as port 22 for SSH and port 3389 for RDP, by using IAP TCP forwarding."
+    },
+    {
+     "t": "h6",
+     "text": "Steps:"
+    },
+    {
+     "t": "p",
+     "text": "Log in to the Google Cloud Console"
+    },
+    {
+     "t": "p",
+     "text": "From the Navigation Menu select the VPC Networks"
+    },
+    {
+     "t": "p",
+     "text": "Select Firewall Rules from the left Navigation"
+    },
+    {
+     "t": "p",
+     "text": "Click, Create firewall rule on the Firewall Rules page"
+    },
+    {
+     "t": "p",
+     "text": "Configure the following settings:"
+    },
+    {
+     "t": "p",
+     "text": "Name: allow-ingress-from-iap"
+    },
+    {
+     "t": "p",
+     "text": "Direction of traffic: Ingress"
+    },
+    {
+     "t": "p",
+     "text": "Target: All instances in the network"
+    },
+    {
+     "t": "p",
+     "text": "Source filter: IP ranges"
+    },
+    {
+     "t": "p",
+     "text": "Source IP ranges: 35.235.240.0/20"
+    },
+    {
+     "t": "p",
+     "text": "Protocols and ports: Select TCP and enter 22,3389 to allow both RDP and SSH."
+    },
+    {
+     "t": "p",
+     "text": "Create"
+    },
+    {
+     "t": "h5",
+     "text": "Grant permissions to use IAP TCP forwarding"
+    },
+    {
+     "t": "p",
+     "text": "Configure Identity and Access Management (IAM) permissions to determine which users and groups may utilize IAP TCP forwarding and which VM instances they can connect to."
+    },
+    {
+     "t": "p",
+     "text": "We recommend granting below mentioned IAM Role:"
+    },
+    {
+     "t": "p",
+     "text": "roles/iap.tunnelResourceAccessor (project or VM)"
+    },
+    {
+     "t": "p",
+     "text": "roles/compute.instanceAdmin.v1 (project)"
+    },
+    {
+     "t": "h6",
+     "text": "Steps"
+    },
+    {
+     "t": "p",
+     "text": "Open the IAM & Admin page in the Google Cloud console."
+    },
+    {
+     "t": "p",
+     "text": "On the IAM & Admin page, click Add and configure the following:"
+    },
+    {
+     "t": "p",
+     "text": "New principals: Specify the user or group you want to grant access."
+    },
+    {
+     "t": "p",
+     "text": "Select a role: Select Cloud IAP > IAP-Secured Tunnel User."
+    },
+    {
+     "t": "p",
+     "text": "Click Add another role and configure the following"
+    },
+    {
+     "t": "p",
+     "text": "Select a role Select Compute Engine > Compute Instance Admin (v1)."
+    },
+    {
+     "t": "p",
+     "text": "Click Save"
+    },
+    {
+     "t": "h4",
+     "text": "Installing IAP Desktop within your Local Machine"
+    },
+    {
+     "t": "h5",
+     "text": "Prerequisites for Installing IAP Desktop"
+    },
+    {
+     "t": "p",
+     "text": "To install IAP Desktop, you need:"
+    },
+    {
+     "t": "p",
+     "text": "Operating systems Windows 8 or later, Windows Server 2012 or higher"
+    },
+    {
+     "t": "p",
+     "text": "Internet access (at least to Google APIs), either directly, via an HTTP proxy, or via NAT"
+    },
+    {
+     "t": "p",
+     "text": "You do not need admin rights unless you are installing on Windows Server."
+    },
+    {
+     "t": "h5",
+     "text": "IAP Desktop Installation"
+    },
+    {
+     "t": "p",
+     "text": "To install IAP Desktop on your computer, follow these steps:"
+    },
+    {
+     "t": "p",
+     "text": "1. Download the latest installer package ."
+    },
+    {
+     "t": "p",
+     "text": "2. To begin the installation, double-click the downloaded IapDesktop.msi file."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9QGwAtrvybP43F9DPj1quIvl1UY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. Click Install if you agree to the Apache 2.0 license."
+    },
+    {
+     "t": "p",
+     "text": "‍ 4. When the installation is done, click Finish to start IAP Desktop:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/asKf8aYseOlMsaaAAUyXjGAaKc.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "Connecting to Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "You now set up IAP Desktop for first use:"
+    },
+    {
+     "t": "p",
+     "text": "1. On the Sign-in dialog, click Sign in:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/2fYhNeZk4xrto63VX19kZcxxoo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "2. A web browser window opens."
+    },
+    {
+     "t": "p",
+     "text": "3. Sign in with your Google account."
+    },
+    {
+     "t": "p",
+     "text": "4. Allow IAP Desktop to See, Edit, Configure, and Delete Your Google Cloud Data by checking the box on the IAP Desktop wants to access your Google account page:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/KGXgGGxwAORBdFlAQbyWflIA9U.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "IAP Desktop requires this scope to access your Google Cloud projects and to use IAP TCP forwarding."
+    },
+    {
+     "t": "p",
+     "text": "1. To finish the sign-in process, click Continue."
+    },
+    {
+     "t": "p",
+     "text": "2. Select your Google Cloud project in the Add project dialog and click Add project."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/8x1TlygB4FDjePmid4zP3j1YwZY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "The Project Explorer now displays the project and all VM instances:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/k328DgiYIigaX5pGNpo7bEwkoPo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. Optionally, click File > Add project in the menu to add additional projects."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h5",
+     "text": "Connecting to Linux instances"
+    },
+    {
+     "t": "p",
+     "text": "To connect to a Linux VM by using SSH, do the following:"
+    },
+    {
+     "t": "p",
+     "text": "1. Right-click a VM instance in the Project Explorer tool window and select Connect:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lez27uLlLljWTTHG1sR8jDFVFg.png",
+     "alt": "",
+     "w": 235
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "2. IAP Desktop now automatically publishes your SSH public key, creates an IAP TCP forwarding tunnel , and opens a terminal:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lpHKcPGVwjL1E9JiLNjyP3IBW1U.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h5",
+     "text": "Connecting to windows Instances"
+    },
+    {
+     "t": "p",
+     "text": "To connect to a Windows VM by using Remote Desktop (RDP), do the following:"
+    },
+    {
+     "t": "p",
+     "text": "1. In the Project Explorer tool window, right-click a VM instance and select Connect:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/koQ6OzLnCJnd42TpcNG8FiDhqM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "2. If this is the first time you connect to the VM instance, you'll see a prompt:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/03XspycuhGtHpLPFcRmve3tPPA.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "Click Generate new credentials to create a Windows user account on the chosen virtual machine instance and log in with it. Special permissions are necessary to create a Windows user account. This option is hidden if you lack such rights."
+    },
+    {
+     "t": "p",
+     "text": "Click Configure credentials to open the Connection Settings tool window and enter and save your Windows credentials. These saved credentials will be used by IAP Desktop during subsequent connection attempts."
+    },
+    {
+     "t": "p",
+     "text": "If you don't want to save any credentials, choose Connect without setting credentials. The username and password will not be saved for later use, but you will still get a prompt for your credentials."
+    },
+    {
+     "t": "p",
+     "text": "3. IAP Desktop now automatically builds an IAP TCP forwarding tunnel and connects you to the Windows VM's Remote Desktop:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tbJsx3EQeERFvbpuN2kEQZE9I.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

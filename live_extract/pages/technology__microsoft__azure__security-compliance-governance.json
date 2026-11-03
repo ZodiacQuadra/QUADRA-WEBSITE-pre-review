@@ -1,0 +1,171 @@
+{
+ "path": "/technology/microsoft/azure/security-compliance-governance",
+ "url": "https://www.quadrasystems.net/technology/microsoft/azure/security-compliance-governance",
+ "title": "Azure Security & Compliance: Build a Confident Cloud Foundation | Quadra",
+ "description": "Quadra secures Azure environments end-to-end using Microsoft Defender, Sentinel, Entra, Purview, and Azure Policy — delivering continuous protection, regulatory compliance, and cloud governance enterprises can rely on.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on the"
+    },
+    {
+     "t": "h1",
+     "text": "Architect a Confident Cloud Posture"
+    },
+    {
+     "t": "p",
+     "text": "We architect intelligent, multi-layered security for your Azure estate, embedding security and governance into its very foundation to protect your data, applications, and reputation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/k9o4IUfr8Kr81pQlHQAg9ClZso.jpeg",
+     "alt": "",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Your Attack Surface is Growing."
+    },
+    {
+     "t": "h2",
+     "text": "Your Defense Must Evolve"
+    },
+    {
+     "t": "p",
+     "text": "As you innovate on Azure, we partner with you to answer the most critical questions about protecting your digital assets in a complex threat landscape"
+    },
+    {
+     "t": "h6",
+     "text": "How do we detect and respond to sophisticated threats in real-time?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we secure our network and protect our applications from attack?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we maintain a unified security posture across all our cloud resources?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we ensure and demonstrate continuous compliance with regulations?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for Resilient Security Posture on Azure"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is built on a foundation of Zero Trust principles and defense-in-depth, ensuring your Azure environment is architected for security from day one"
+    },
+    {
+     "t": "p",
+     "text": "Strategy"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Strategy First: Governance-Driven Security"
+    },
+    {
+     "t": "p",
+     "text": "We begin by architecting a comprehensive governance framework using Azure Policy. This codifies your security and compliance requirements, automatically enforcing them to ensure your environment is built and remains compliant by design"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/IEhe8mzhWCiHCiqjWP1Wh3DYM.jpg",
+     "alt": "woman using black laptop computer near turned on flat screen computer monitor",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Security & Governance Architecture Capabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/jnIfzhFTsHRB2xVBzKqTzotJXY.jpg",
+     "alt": "man sitting in front of table",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Intelligent SIEM & SOAR"
+    },
+    {
+     "t": "p",
+     "text": "Implementing and managing Microsoft Sentinel for proactive, AI-driven threat detection and automated response"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vMjZGwaUemcmSrU6Z0VXzc4Epmg.jpg",
+     "alt": "two women sitting at a table looking at a computer screen",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Cloud Security Posture Management (CSPM)"
+    },
+    {
+     "t": "p",
+     "text": "Fortifying your hybrid cloud environment using Microsoft Defender for Cloud to identify and remediate vulnerabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5LcbaZdpcLYvytaiJNhM7g8Dgk.jpg",
+     "alt": "a man sitting at a table using a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Application Protection (WAF)"
+    },
+    {
+     "t": "p",
+     "text": "Securing your web applications from common exploits by implementing the Azure Web Application Firewall"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Y1CHG8VqdjSoGUQQAsmrJ2LC4Gs.jpg",
+     "alt": "man writing on paper",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Policy-Driven Governance & Compliance"
+    },
+    {
+     "t": "p",
+     "text": ": Implementing enterprise-wide governance using Azure Policy to ensure continuous compliance with standards like the DPDP Act"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

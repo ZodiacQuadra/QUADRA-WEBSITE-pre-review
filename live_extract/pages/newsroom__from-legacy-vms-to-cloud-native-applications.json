@@ -1,0 +1,1157 @@
+{
+ "path": "/newsroom/from-legacy-vms-to-cloud-native-applications",
+ "url": "https://www.quadrasystems.net/newsroom/from-legacy-vms-to-cloud-native-applications",
+ "title": "From Legacy VMs to Cloud-Native Applications: Practical Workload Migration Strategies with Google Kubernetes Engine.",
+ "description": "Many VM-to-GKE migrations appear successful at cutover, but issues surface later: OOMKilled events, HTTP 502 responses during rollout, or data loss from local container storage. Early workload assessment prevents most of these failures.",
+ "ogImage": "https://framerusercontent.com/images/onnX8dR5lQOJlXVlTl0TKGSQiQA.png?width=3780&height=1890",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "From Legacy VMs to Cloud-Native Applications: Practical Workload Migration Strategies with Google Kubernetes Engine."
+    },
+    {
+     "t": "p",
+     "text": "From Legacy VMs to Cloud-Native Applications: Practical Workload Migration Strategies with Google Kubernetes Engine."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/onnX8dR5lQOJlXVlTl0TKGSQiQA.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Many VM-to-GKE migrations appear successful at cutover, but issues surface later: OOMKilled events, HTTP 502 responses during rollout, or data loss from local container storage. Early workload assessment prevents most of these failures."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "h2",
+     "text": "Why GKE Migrations Fail Weeks After Launch"
+    },
+    {
+     "t": "p",
+     "text": "Kubernetes exposes assumptions that long-lived virtual machines can hide, especially around memory, storage, identity, startup, and shutdown."
+    },
+    {
+     "t": "p",
+     "text": "The guide follows the migration lifecycle from assessment to decommissioning and focuses on decisions with lasting operational impact."
+    },
+    {
+     "t": "h2",
+     "text": "Why This Guide Exists"
+    },
+    {
+     "t": "p",
+     "text": "This guide turns recurring migration lessons into a practical review path for engineers modernising applications on Google Cloud."
+    },
+    {
+     "t": "h2",
+     "text": "What This Guide Covers"
+    },
+    {
+     "t": "p",
+     "text": "· Building a container image that behaves correctly under an orchestrator"
+    },
+    {
+     "t": "p",
+     "text": "· Creating a GKE cluster with the security and networking defaults set correctly the first time"
+    },
+    {
+     "t": "p",
+     "text": "· Writing a Deployment that survives rescheduling, rollouts and node upgrades"
+    },
+    {
+     "t": "p",
+     "text": "· Cutting over as a weighted traffic shift, with a rollback that actually works"
+    },
+    {
+     "t": "p",
+     "text": "· Decommissioning the source estate safely"
+    },
+    {
+     "t": "p",
+     "text": "· The seven failure modes behind most post-migration incidents"
+    },
+    {
+     "t": "h2",
+     "text": "Key Takeaways for a VM-to-GKE Migration"
+    },
+    {
+     "t": "p",
+     "text": "• Assess each workload separately. Replatform, refactor, rehost, or defer based on evidence."
+    },
+    {
+     "t": "p",
+     "text": "• Measure CPU, memory, ports, storage writes, dependencies, and latency before defining container resources."
+    },
+    {
+     "t": "p",
+     "text": "• Use Workload Identity Federation instead of exported service account keys."
+    },
+    {
+     "t": "p",
+     "text": "• Plan VPC-native networking and IP ranges before cluster creation."
+    },
+    {
+     "t": "p",
+     "text": "• Use startup, readiness, and liveness probes for different health decisions."
+    },
+    {
+     "t": "p",
+     "text": "• Move production traffic in controlled stages and retain a tested rollback path."
+    },
+    {
+     "t": "p",
+     "text": "• Decommission the legacy environment only after validation, ownership approval, and retention checks."
+    },
+    {
+     "t": "h2",
+     "text": "Key Concepts"
+    },
+    {
+     "t": "p",
+     "text": "Twelve terms that the rest of this guide uses without stopping to explain. If these are already familiar, skip ahead."
+    },
+    {
+     "t": "p",
+     "text": "Term"
+    },
+    {
+     "t": "p",
+     "text": "What it actually is"
+    },
+    {
+     "t": "p",
+     "text": "Cluster"
+    },
+    {
+     "t": "p",
+     "text": "The whole GKE environment: a control plane plus the machines that run your applications"
+    },
+    {
+     "t": "p",
+     "text": "Control plane"
+    },
+    {
+     "t": "p",
+     "text": "The Google-managed brain of the cluster. It decides what runs where. You never patch or restart it"
+    },
+    {
+     "t": "p",
+     "text": "Node"
+    },
+    {
+     "t": "p",
+     "text": "One virtual machine inside the cluster. Your application actually runs here"
+    },
+    {
+     "t": "p",
+     "text": "Pod"
+    },
+    {
+     "t": "p",
+     "text": "The smallest thing GKE runs: one or more containers that share an IP address and start and stop together. Pods are disposable and get replaced routinely"
+    },
+    {
+     "t": "p",
+     "text": "Container image"
+    },
+    {
+     "t": "p",
+     "text": "A packaged, read-only snapshot of your application and everything it needs to run"
+    },
+    {
+     "t": "p",
+     "text": "Artifact Registry"
+    },
+    {
+     "t": "p",
+     "text": "Where container images are stored so the cluster can download them"
+    },
+    {
+     "t": "p",
+     "text": "Deployment"
+    },
+    {
+     "t": "p",
+     "text": "The object that says “keep three copies of this pod running”. It recreates pods when they die and handles version upgrades"
+    },
+    {
+     "t": "p",
+     "text": "Replica"
+    },
+    {
+     "t": "p",
+     "text": "One running copy of the pod. Three replicas means three copies"
+    },
+    {
+     "t": "p",
+     "text": "Manifest"
+    },
+    {
+     "t": "p",
+     "text": "A YAML file describing what you want to exist. You send it to the cluster and the cluster reconciles reality against it"
+    },
+    {
+     "t": "p",
+     "text": "Rollout"
+    },
+    {
+     "t": "p",
+     "text": "Replacing running pods with a new version, a few at a time, without taking the service down"
+    },
+    {
+     "t": "p",
+     "text": "Probe"
+    },
+    {
+     "t": "p",
+     "text": "A health check GKE runs against your container to decide whether it is alive and whether it should receive traffic"
+    },
+    {
+     "t": "p",
+     "text": "Namespace"
+    },
+    {
+     "t": "p",
+     "text": "A folder inside the cluster that keeps one team's workloads separate from another's"
+    },
+    {
+     "t": "h2",
+     "text": "Two Recent Platform Changes That Older Guides Get Wrong"
+    },
+    {
+     "t": "p",
+     "text": "Two platform changes affect migration planning and older implementation guidance."
+    },
+    {
+     "t": "h3",
+     "text": "Container Registry Is Shut Down — Artifact Registry Is the Target"
+    },
+    {
+     "t": "p",
+     "text": "Container Registry as a Google-hosted product is gone. Writes to gcr.io stopped on 18 March 2025, reads stopped on 3 June 2025, and from 14 October 2025 all gcr.io URLs are served from Artifact Registry, with anything never copied across now unavailable."
+    },
+    {
+     "t": "p",
+     "text": "Any tutorial that tells you to configure Docker authentication with no arguments and push to a gcr.io path is describing a service that no longer accepts your images. Artifact Registry is the target, and its hostnames are regional — the location is baked into the hostname rather than passed as a setting. A repository in Mumbai lives under an asia-south1 host, and an image reference that omits the region will not resolve."
+    },
+    {
+     "t": "h3",
+     "text": "Autopilot Mode Can Now Run Inside a Standard Cluster"
+    },
+    {
+     "t": "p",
+     "text": "A Compute Class is a workload-level setting that tells GKE what kind of node to run a pod on. Autopilot ComputeClasses are now available inside Standard clusters, which means you can run specific workloads in Autopilot mode — Google-managed nodes, billed per pod request — while the rest of the cluster stays on node pools you control."
+    },
+    {
+     "t": "p",
+     "text": "This allows a Standard cluster to retain self-managed node pools while selected, validated workloads use an Autopilot ComputeClass."
+    },
+    {
+     "t": "h2",
+     "text": "Before You Start: Choose an Approach and Confirm Readiness"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/oa0d9AkEcWDg3AKA5DUxS6tYERQ.gif",
+     "alt": "Title: Figure 1 — Strategy selection. The two questions that decide the route are whether you own the source code and whether the workload is stateless. - Description: Decision tree branching from “Legacy workload” through questions about source code ownership and statelessness to four outcomes: replatform with Migrate to Containers, rehost and defer, refactor to managed compute, or replatform now and refactor later.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Strategy is set per workload, not per estate. Most teams replatform first — container in, architecture unchanged — and refactor later, against real production telemetry rather than assumptions."
+    },
+    {
+     "t": "p",
+     "text": "Approach"
+    },
+    {
+     "t": "p",
+     "text": "What it means"
+    },
+    {
+     "t": "p",
+     "text": "Choose it when"
+    },
+    {
+     "t": "p",
+     "text": "Replatform"
+    },
+    {
+     "t": "p",
+     "text": "Container the application with minimal change; architecture stays as it is"
+    },
+    {
+     "t": "p",
+     "text": "The app containerizes cleanly, or you are exiting a data centre on a deadline"
+    },
+    {
+     "t": "p",
+     "text": "Refactor"
+    },
+    {
+     "t": "p",
+     "text": "Decompose into services, externalize state, adopt cloud-native patterns"
+    },
+    {
+     "t": "p",
+     "text": "The workload is strategically important and release velocity is the constraint"
+    },
+    {
+     "t": "p",
+     "text": "Rehost or defer"
+    },
+    {
+     "t": "p",
+     "text": "Lift to a VM, or leave where it is"
+    },
+    {
+     "t": "p",
+     "text": "Rare batch jobs, vendor appliances, anything needing kernel modules or host access"
+    },
+    {
+     "t": "p",
+     "text": "Not every workload belongs on GKE. Infrequent jobs, appliances, or host-dependent applications may be better rehosted or deferred."
+    },
+    {
+     "t": "h3",
+     "text": "Readiness Checklist: Five Things to Confirm First"
+    },
+    {
+     "t": "p",
+     "text": "Work through these before the first workload moves. Each has an artifact that proves it is done — a written answer, a diagram, a captured baseline. “We discussed it” does not count."
+    },
+    {
+     "t": "p",
+     "text": "Check"
+    },
+    {
+     "t": "p",
+     "text": "Done when"
+    },
+    {
+     "t": "p",
+     "text": "Statefulness audit"
+    },
+    {
+     "t": "p",
+     "text": "Every workload has a written answer to: where does it write? Anything writing to local disk needs a PersistentVolume or externalization before it moves"
+    },
+    {
+     "t": "p",
+     "text": "Network design"
+    },
+    {
+     "t": "p",
+     "text": "A Virtual Private Cloud (VPC)-native cluster, with pod and service IP ranges sized for three years of growth. Range exhaustion cannot be fixed in place"
+    },
+    {
+     "t": "p",
+     "text": "Identity model"
+    },
+    {
+     "t": "p",
+     "text": "Workload Identity enabled, so pods authenticate as a Google service account without a key file. No exported service account keys anywhere in the design"
+    },
+    {
+     "t": "p",
+     "text": "Data migration"
+    },
+    {
+     "t": "p",
+     "text": "Databases and file shares have their own track (Database Migration Service, Storage Transfer Service) with a tested rollback"
+    },
+    {
+     "t": "p",
+     "text": "Observability baseline"
+    },
+    {
+     "t": "p",
+     "text": "Current 50th, 95th and 99th percentile (p50, p95, p99) latency, error rate and resource use captured from the legacy system"
+    },
+    {
+     "t": "p",
+     "text": "An observability baseline provides the evidence needed to confirm that latency, errors, and resource behaviour have not regressed after cutover."
+    },
+    {
+     "t": "h3",
+     "text": "How to Size Containers: Measure the Workload, Do Not Copy the VM Spec"
+    },
+    {
+     "t": "p",
+     "text": "A workload on a virtual machine with 4 virtual CPUs (vCPU) and 16 GB of memory almost certainly does not need 4 vCPU and 16 GB. That figure was chosen years ago with a comfortable margin, and copying it into a resource request carries the guess forward and multiplies it by the replica count."
+    },
+    {
+     "t": "p",
+     "text": "Instead, capture what the application actually uses over a full business cycle, month-end included. Three measurements are worth taking before anything moves:"
+    },
+    {
+     "t": "p",
+     "text": "• Peak memory and CPU across a sampling window long enough to include the busiest hour of the busiest day, not an average over a quiet afternoon."
+    },
+    {
+     "t": "p",
+     "text": "• Every port the process is listening on. Each one becomes a Service definition, and any port nobody can account for is a finding in itself."
+    },
+    {
+     "t": "p",
+     "text": "• Open file handles against the local filesystem, excluding shared libraries. This is the list that tells you which workloads are quietly stateful — and it is almost always longer than the team expects."
+    },
+    {
+     "t": "h2",
+     "text": "Target Architecture: What You Are Building"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/PwtdTDEv1jLuUloT07pPO533o.gif",
+     "alt": "Title: Figure 2 — Reference architecture. The platform services row is the part teams skip, and the part that causes the incidents. - Description: Three-zone architecture diagram: source estate feeding a build and supply chain zone containing Cloud Build, Artifact Registry, and Binary Authorization, feeding a regional GKE runtime zone; a platform services bar spans all three.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Workload Identity, Secret Manager, centralised logging and the VPC design are far cheaper to get right before the first workload moves than to retrofit across forty namespaces afterwards. Retrofitting Workload Identity in particular means recreating node pools — a maintenance window per cluster, which means the work never quite gets scheduled."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RL6mmGQMEeU4ThWRkN3fRZHNtXE.gif",
+     "alt": "Title: Figure 3 — GKE separates the Google-managed control plane from the node layer. What you manage at the node layer is what distinguishes Autopilot from Standard. - Description: GKE cluster diagram showing a Google-managed control plane with API server, scheduler, controllers and storage, a node layer running user pods, and connected Google Cloud services for networking, disk, load balancing and operations.",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Step 1 — Build a Container Image That Runs Safely on GKE"
+    },
+    {
+     "t": "p",
+     "text": "In plain terms: Take the application and package it into a container image. The decisions in this one file determine whether it survives contact with Kubernetes — most images that crash in production do so because of a choice made here, weeks before anyone noticed."
+    },
+    {
+     "t": "p",
+     "text": "Most images that fail in production fail for the same handful of reasons. They run as root. They ignore the container memory limit. They do not handle SIGTERM, the signal Kubernetes sends to ask a process to shut down. And they ship an entire operating system worth of known vulnerabilities, catalogued as CVEs — Common Vulnerabilities and Exposures."
+    },
+    {
+     "t": "p",
+     "text": "None is exotic, and all are fixed in the build rather than at runtime. The production pattern is a multi-stage build: one stage compiles the application with the full toolchain available, a second copies only the resulting artifact onto a minimal runtime base, creates a dedicated non-root user with a numeric ID, takes ownership of the application directory, drops to that user, and starts the process container-aware."
+    },
+    {
+     "t": "h3",
+     "text": "What Each Build Decision Prevents"
+    },
+    {
+     "t": "p",
+     "text": "Decision"
+    },
+    {
+     "t": "p",
+     "text": "Prevents"
+    },
+    {
+     "t": "p",
+     "text": "Multi-stage build"
+    },
+    {
+     "t": "p",
+     "text": "Shipping the build toolchain and source code to production. Cuts image size by 60–70% and removes a whole class of findings from vulnerability scan results"
+    },
+    {
+     "t": "p",
+     "text": "Non-root numeric user ID"
+    },
+    {
+     "t": "p",
+     "text": "Rejection by Autopilot and hardened Standard clusters. Setting the user ID (UID) as a number rather than a username also lets the cluster validate that the container genuinely is not root"
+    },
+    {
+     "t": "p",
+     "text": "Container-aware heap sizing"
+    },
+    {
+     "t": "p",
+     "text": "CrashLoopBackOff with exit code 137, the signature of an out-of-memory kill. Older Java Virtual Machines read the node's total memory rather than the container limit — on a 64 GB node with a 2 GB limit, the JVM sizes its heap for 64 GB and the kernel kills it"
+    },
+    {
+     "t": "p",
+     "text": "Exit on out-of-memory"
+    },
+    {
+     "t": "p",
+     "text": "A Java Virtual Machine that has exhausted its heap but keeps its network socket open, failing health checks slowly while still accepting traffic"
+    },
+    {
+     "t": "p",
+     "text": "Test the image locally before it goes near a registry, and test it under constraint rather than on a laptop with 32 GB free — an explicit memory ceiling and a read-only root filesystem. The read-only filesystem is the important part: it surfaces every hidden write path at your desk, instead of at three in the morning when a pod reschedules."
+    },
+    {
+     "t": "h3",
+     "text": "Push to a Regional Repository, Deploy by Digest"
+    },
+    {
+     "t": "p",
+     "text": "Creating the repository and configuring Docker authentication against the regional host are one-time operations. After that the build, tag and push cycle is conventional — the only difference from older guides is the hostname, which now carries the region."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/FEft69nXfGXStLXNgpfGkjui1bs.gif",
+     "alt": "Title: Figure 4 — The regional pkg.dev repository that replaces gcr.io. The location is part of the hostname, not a setting. - Description: Artifact Registry console showing the webapp package with three tagged versions, each with its digest, upload time and size, in an asia-south1 repository.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Once the image is pushed, retrieve its digest and deploy that, not the tag. Deploying by digest guarantees the image running in production is byte-identical to the one your pipeline tested. Mutable tags are how the wrong build reaches production without anyone changing a manifest."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NZaz5kkhECThdnUpcifwo3xgzB8.gif",
+     "alt": "Title: Figure 5 — Artifact Registry scans on push. Wire the severity threshold into your pipeline as a gate, rather than a report nobody reads. - Description: Artifact Registry vulnerability tab reporting 415 total findings for a container image, broken down by severity with five critical and twenty-five high, and a table of individual CVEs with CVSS scores.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Vulnerability scanning runs automatically on push, but the number it produces is only useful if something acts on it — a severity threshold wired into the pipeline as a build gate."
+    },
+    {
+     "t": "h2",
+     "text": "Step 2 — Create the Cluster With Secure Defaults"
+    },
+    {
+     "t": "p",
+     "text": "In plain terms: Create the environment the containers will run in. Several of these choices cannot be changed later without rebuilding the cluster or recreating every node pool, so they are worth getting right the first time."
+    },
+    {
+     "t": "p",
+     "text": "Before any cluster operation will succeed, the Kubernetes Engine and Artifact Registry APIs need enabling on the project, and the default project and region set."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5FKq2FD9aLW92epBaLYUDkNiWs.gif",
+     "alt": "Title: Figure 6 — The Kubernetes Engine API must be enabled before any cluster operation will succeed. - Description: Google Cloud console showing the Kubernetes Engine API in an enabled state.",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/wbRnzLJ1hj4LDVkU0tlVWjeOpI.gif",
+     "alt": "Title: Figure 7 — The console's mode choice sets the cluster default. With Autopilot ComputeClasses, it no longer locks in the operating model for every workload. - Description: GKE cluster creation screen offering a choice between Autopilot and Standard cluster modes.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Autopilot creation is deliberately sparse: a name, a region, a release channel and a private-nodes decision, because Google manages the node layer. Standard creation is the opposite — a longer specification where the defaults are not the ones you want, and three choices are effectively permanent."
+    },
+    {
+     "t": "h3",
+     "text": "The Settings You Cannot Change Later"
+    },
+    {
+     "t": "p",
+     "text": "These are the ones worth slowing down for. Everything else on a Standard cluster can be adjusted after the fact; these three cannot, or not without work that will never be scheduled."
+    },
+    {
+     "t": "p",
+     "text": "Setting"
+    },
+    {
+     "t": "p",
+     "text": "Why it matters"
+    },
+    {
+     "t": "p",
+     "text": "Changeable later?"
+    },
+    {
+     "t": "p",
+     "text": "Workload Identity Federation"
+    },
+    {
+     "t": "p",
+     "text": "Without it, pods authenticate using node credentials or exported key files — the most common source of credential leaks in Kubernetes"
+    },
+    {
+     "t": "p",
+     "text": "Only by recreating every node pool"
+    },
+    {
+     "t": "p",
+     "text": "VPC-native networking (IP aliasing)"
+    },
+    {
+     "t": "p",
+     "text": "Pod and Service traffic use native VPC routes. The secondary IP ranges it derives are effectively permanent, and exhaustion cannot be fixed in place"
+    },
+    {
+     "t": "p",
+     "text": "No"
+    },
+    {
+     "t": "p",
+     "text": "Regional rather than zonal"
+    },
+    {
+     "t": "p",
+     "text": "A regional control plane spreads nodes across zones. Note that node count is specified per zone, so a three-zone region triples it — this surprises people at billing time"
+    },
+    {
+     "t": "p",
+     "text": "No"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VyU6qT7F1LN8AniQpLsx3GcVWo.gif",
+     "alt": "Title: Figure 8 — A regional Standard cluster with Workload Identity enabled. Total size reads 3, not 1: that is the per-zone multiplier at work. - Description: GKE cluster details page showing a regional cluster in asia-south1 spread across three node zones with a total size of three, on the Regular release channel, and a Security section confirming Shielded nodes and Workload Identity are enabled.",
+     "w": 1200
+    },
+    {
+     "t": "h3",
+     "text": "Give the Workload Access to Google Cloud APIs"
+    },
+    {
+     "t": "p",
+     "text": "With Workload Identity enabled at the cluster level, the binding itself is a short sequence: create a Google service account, grant it only the roles the application genuinely needs, allow the Kubernetes service account to impersonate it, and annotate the Kubernetes service account so the cluster knows which identity to present."
+    },
+    {
+     "t": "p",
+     "text": "The binding string is where this goes wrong. It names a project, a namespace and a Kubernetes service account, and a mismatch in any of the three produces the same symptom — the pod authenticates as the node's default service account instead."
+    },
+    {
+     "t": "p",
+     "text": "Verify it explicitly rather than assuming. Run a throwaway pod in the target namespace using the service account in question and ask it which identity it holds. If the answer is the Compute Engine default service account, the binding did not take."
+    },
+    {
+     "t": "h2",
+     "text": "Step 3 — Write a Deployment That Survives Restarts and Upgrades"
+    },
+    {
+     "t": "p",
+     "text": "In plain terms: Tell the cluster how to run your container: how many copies, how to health-check them, how much memory they get, and how to replace them without dropping traffic."
+    },
+    {
+     "t": "p",
+     "text": "A Deployment containing nothing but an image reference and a replica count will deploy successfully. It will also drop traffic on every rollout, every node upgrade and every preemption. The manifest that does not do this is not much longer, but it is deliberate about five things."
+    },
+    {
+     "t": "h3",
+     "text": "The Five Settings That Prevent Downtime"
+    },
+    {
+     "t": "p",
+     "text": "Setting"
+    },
+    {
+     "t": "p",
+     "text": "What it prevents"
+    },
+    {
+     "t": "p",
+     "text": "Memory limit equal to request, and no CPU limit"
+    },
+    {
+     "t": "p",
+     "text": "Memory is incompressible — exceeding the limit means the kernel kills the process, so matching request and limit earns the Guaranteed Quality of Service (QoS) class. A CPU limit instead causes throttling, which presents as unexplained latency while the node sits at 30% utilisation"
+    },
+    {
+     "t": "p",
+     "text": "Three separate probes"
+    },
+    {
+     "t": "p",
+     "text": "A startup probe gives a slow legacy application time to boot without the liveness probe killing it mid-start. Using one probe for all three jobs is why legacy applications restart-loop on Kubernetes but ran fine on a VM"
+    },
+    {
+     "t": "p",
+     "text": "A pre-stop delay plus a generous termination grace period"
+    },
+    {
+     "t": "p",
+     "text": "Kubernetes removes the pod from the load balancer and sends SIGTERM at the same moment. Without the delay, the pod stops accepting connections before load balancers have finished draining, and clients see HTTP 502 errors"
+    },
+    {
+     "t": "p",
+     "text": "Zero maximum unavailable during rollouts"
+    },
+    {
+     "t": "p",
+     "text": "Capacity dipping below the replica count mid-deploy. A pod is added before one is removed, rather than the other way round"
+    },
+    {
+     "t": "p",
+     "text": "Topology spread constraints"
+    },
+    {
+     "t": "p",
+     "text": "The scheduler legitimately placing all three replicas on one node, turning a single node failure into a full outage"
+    },
+    {
+     "t": "p",
+     "text": "Set the pod-level security context from the first deploy rather than as a hardening pass later: non-root numeric user, no privilege escalation, all Linux capabilities dropped, root filesystem read-only with a small writable volume for temporary files."
+    },
+    {
+     "t": "h3",
+     "text": "Protect Availability During Node Upgrades"
+    },
+    {
+     "t": "p",
+     "text": "A PodDisruptionBudget sets a floor on how many replicas should remain available during voluntary disruptions such as node upgrades or autoscaler scale-down. Without an appropriate budget and sufficient replica distribution, maintenance activity may reduce application availability. The workload team remains responsible for defining and testing that availability policy."
+    },
+    {
+     "t": "h3",
+     "text": "Deploy and Verify"
+    },
+    {
+     "t": "p",
+     "text": "After fetching cluster credentials and applying the manifests, watch the rollout to completion rather than trusting that it finished. Two checks are worth making immediately: confirm the pods landed in different zones, and compare live CPU and memory usage against the baseline captured from the legacy system."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/CU3riXNjqJRcXfO6uaX6AWdcZQ4.gif",
+     "alt": "Title: Figure 9 — Deploy and verify. The zone spread in the NODE column is what the topology constraints bought you; the live usage figures are the input to right-sizing. - Description: Terminal output showing a successful Kubernetes rollout, three webapp pods running on three separate nodes in different zones, and CPU and memory usage well below the configured requests.",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lW1qDaDDBzsFURFD63TBD0k.gif",
+     "alt": "Title: Figure 10 — A rollout with zero maximum unavailable. Four pods against three replicas, because the new ReplicaSet reaches readiness before the old one is scaled down. - Description: GKE Deployment details page during a rolling update, reporting one updated, four ready, three available and one unavailable replica, with two active revisions listed and four managed pods running.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "The temporary fourth pod in Figure 10 is the setting working correctly: capacity goes up before it comes down, so there is no window in which the service runs below its replica count."
+    },
+    {
+     "t": "h3",
+     "text": "Scale Automatically, but Only After Requests Are Set"
+    },
+    {
+     "t": "p",
+     "text": "A Horizontal Pod Autoscaler adjusts replica count against observed CPU utilisation between a floor and a ceiling. The critical detail is that it computes utilisation as a percentage of the CPU request — so an autoscaler attached to a Deployment with no CPU request does nothing at all, silently, while appearing to be configured."
+    },
+    {
+     "t": "p",
+     "text": "Set a stabilization window on scale-down as well. Without one, spiky traffic makes the workload oscillate every fifteen seconds."
+    },
+    {
+     "t": "h2",
+     "text": "Step 4 — Cut Over Gradually, Not All at Once"
+    },
+    {
+     "t": "p",
+     "text": "In plain terms: Move real users from the old system to the new one a slice at a time — 5%, then 25%, then 50% — checking at each stage. If something looks wrong, you move the traffic back in seconds."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/XS940SWkusoWc1StjhtjeHw3Q.gif",
+     "alt": "Title: Figure 11 — Cutover sequence. Do not delete the source VM at Stage 4; hold it until the soak window at Stage 5 closes. - Description: Stacked bar chart across six stages showing traffic shifting from the legacy VM to GKE at 0, 5, 25, 50, 100 and 100 percent, with a promotion gate panel below.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A single Domain Name System (DNS) cutover gives you one shot and a rollback that takes as long as the record's time to live (TTL). A weighted shift lets you move 5% of production traffic, watch what happens, and reverse it in seconds."
+    },
+    {
+     "t": "p",
+     "text": "The mechanism is straightforward. Expose the legacy VM to the cluster as a Service with no selector — the absence of a selector is what stops Kubernetes managing the endpoints itself and lets you point them at a machine outside the cluster — and register the VM's internal address as an endpoint. From the cluster's perspective the legacy VM is now just another backend."
+    },
+    {
+     "t": "p",
+     "text": "With both backends addressable, an HTTP Route splits traffic between them by weight. Promotion is then a matter of editing two integers: reduce the legacy weight, raise the new one, apply. Rollback is the same edit in reverse — in seconds, with no image rebuild, no DNS propagation and no deploy pipeline anywhere in the path."
+    },
+    {
+     "t": "h3",
+     "text": "Promotion Gates: When It Is Safe to Send More Traffic"
+    },
+    {
+     "t": "p",
+     "text": "Advance on evidence, not on a schedule. All four gates must hold for the full soak window at each stage before the next weight increase."
+    },
+    {
+     "t": "p",
+     "text": "Gate"
+    },
+    {
+     "t": "p",
+     "text": "Signal"
+    },
+    {
+     "t": "p",
+     "text": "Fail condition"
+    },
+    {
+     "t": "p",
+     "text": "Error budget"
+    },
+    {
+     "t": "p",
+     "text": "HTTP 5xx server-error rate on the new backend"
+    },
+    {
+     "t": "p",
+     "text": "Any elevation above the legacy baseline"
+    },
+    {
+     "t": "p",
+     "text": "Latency"
+    },
+    {
+     "t": "p",
+     "text": "p95 and p99 against the captured baseline"
+    },
+    {
+     "t": "p",
+     "text": "p99 above baseline for more than 5 minutes"
+    },
+    {
+     "t": "p",
+     "text": "Saturation"
+    },
+    {
+     "t": "p",
+     "text": "Out-of-memory kills, CPU throttling, autoscaler behaviour"
+    },
+    {
+     "t": "p",
+     "text": "Any out-of-memory kill, or the autoscaler pinned at its maximum replica count"
+    },
+    {
+     "t": "p",
+     "text": "Data integrity"
+    },
+    {
+     "t": "p",
+     "text": "Reconciliation across both backends"
+    },
+    {
+     "t": "p",
+     "text": "Any divergence"
+    },
+    {
+     "t": "p",
+     "text": "Soak through at least one full business cycle at 50%, including a peak-hour window and whatever your equivalent of month-end is. Migrations that look clean at three on a Tuesday afternoon routinely fail at nine on Monday morning."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vioJ8dPTUcYrt8W7tbzJlkGytk.gif",
+     "alt": "Title: Figure 12 — p95 latency for the migrated workload against the legacy baseline during a canary ramp. This chart is the promotion decision. - Description: Time-series chart comparing 95th-percentile latency of the GKE backend and the legacy VM backend across a canary rollout at 5, 25, 50 and 100 percent, with promotion points marked.",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Step 5 — Decommission the Legacy System Safely"
+    },
+    {
+     "t": "p",
+     "text": "In plain terms: Shut down the old system properly: stop it rather than delete it, take a snapshot first, and close off the credentials it was using."
+    },
+    {
+     "t": "p",
+     "text": "Only after the soak window closes. The sequence is: confirm nothing still routes to the legacy backend, remove the legacy Service and its endpoints, snapshot the disks, and then stop the instance."
+    },
+    {
+     "t": "p",
+     "text": "Stop the virtual machine before considering deletion. A short retention window gives the team time to identify undocumented dependencies, scheduled jobs, or validation gaps while preserving a reversible rollback option. The exact retention period should follow the organisation's change, backup, cost, and data-retention policies."
+    },
+    {
+     "t": "p",
+     "text": "Deleting the disks is a separate decision, taken later, by someone with the authority to accept that it is irreversible."
+    },
+    {
+     "t": "h3",
+     "text": "Close Out the Security Posture"
+    },
+    {
+     "t": "p",
+     "text": "Two checks close the loop. Confirm no user-managed service account keys remain — if the identity model was built correctly there will be none — and require signed images before admission, so only artifacts your pipeline produced and attested can run in the cluster."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nf0SK2fpfrB83GP1QsR50Feco.gif",
+     "alt": "Title: Figure 13 — Closing the loop. No user-managed keys remain, and Binary Authorization will only admit images your pipeline signed. - Description: Terminal output showing a service account key listing that returns zero items, followed by an imported Binary Authorization policy requiring attestations in enforced mode for the production cluster.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Move Binary Authorization from dry-run to enforced mode once the pipeline produces attestations reliably."
+    },
+    {
+     "t": "h2",
+     "text": "Seven Failure Modes and How to Diagnose Them"
+    },
+    {
+     "t": "p",
+     "text": "These seven account for the overwhelming majority of post-migration incidents. Each has a specific diagnostic."
+    },
+    {
+     "t": "p",
+     "text": "Symptom"
+    },
+    {
+     "t": "p",
+     "text": "Root cause"
+    },
+    {
+     "t": "p",
+     "text": "Fix"
+    },
+    {
+     "t": "p",
+     "text": "CrashLoopBackOff, exit code 137, no application error"
+    },
+    {
+     "t": "p",
+     "text": "The language runtime ignores the container memory limit and sizes its heap for the whole node"
+    },
+    {
+     "t": "p",
+     "text": "Set container-aware heap sizing for the runtime in use. Confirm by describing the pod and checking for an OOMKilled last state"
+    },
+    {
+     "t": "p",
+     "text": "Pods stuck Pending"
+    },
+    {
+     "t": "p",
+     "text": "Requests exceed any schedulable node, or the pod IP range is exhausted"
+    },
+    {
+     "t": "p",
+     "text": "Describing the pod shows which. IP exhaustion needs a new node pool with a different range — it cannot be fixed in place"
+    },
+    {
+     "t": "p",
+     "text": "ImagePullBackOff"
+    },
+    {
+     "t": "p",
+     "text": "The node service account lacks Artifact Registry read access, or the manifest still points at gcr.io"
+    },
+    {
+     "t": "p",
+     "text": "Grant the Artifact Registry Reader role on the repository, and repoint the image at the regional pkg.dev host"
+    },
+    {
+     "t": "p",
+     "text": "502s on every rollout"
+    },
+    {
+     "t": "p",
+     "text": "No readiness probe, or no pre-stop delay before SIGTERM"
+    },
+    {
+     "t": "p",
+     "text": "Add a readiness probe, a pre-stop delay, and a termination grace period long enough to cover it"
+    },
+    {
+     "t": "p",
+     "text": "Worked on the VM, permission denied in the container"
+    },
+    {
+     "t": "p",
+     "text": "The application ran as root on the VM; the container runs as a non-root user"
+    },
+    {
+     "t": "p",
+     "text": "Fix ownership at build time. Do not solve this by running as root"
+    },
+    {
+     "t": "p",
+     "text": "Cannot reach Cloud SQL or Cloud Storage from the pod"
+    },
+    {
+     "t": "p",
+     "text": "The Workload Identity annotation is missing, or the Identity and Access Management (IAM) binding names the wrong namespace and service account pair"
+    },
+    {
+     "t": "p",
+     "text": "Verify with the identity check from Step 2. The binding names a project, a namespace and a Kubernetes service account, and all three must match"
+    },
+    {
+     "t": "p",
+     "text": "Data disappears after a restart"
+    },
+    {
+     "t": "p",
+     "text": "The application writes to the container filesystem"
+    },
+    {
+     "t": "p",
+     "text": "Mount a PersistentVolume or externalize the state. A read-only root filesystem catches this in staging instead of production"
+    },
+    {
+     "t": "p",
+     "text": "A container filesystem is ephemeral. Any data required after a restart must use a PersistentVolume or an external data service."
+    },
+    {
+     "t": "h2",
+     "text": "What to Handle Yourself, and What to Escalate"
+    },
+    {
+     "t": "p",
+     "text": "Not every problem in this guide is a first-line fix. These are the ones to hand on rather than work around."
+    },
+    {
+     "t": "p",
+     "text": "Situation"
+    },
+    {
+     "t": "p",
+     "text": "Action"
+    },
+    {
+     "t": "p",
+     "text": "A symptom listed in the failure table above, with a matching diagnostic"
+    },
+    {
+     "t": "p",
+     "text": "Handle it. The fix is in the table and the diagnostic confirms the cause"
+    },
+    {
+     "t": "p",
+     "text": "Pod IP range exhausted"
+    },
+    {
+     "t": "p",
+     "text": "Escalate. This cannot be fixed in place — it needs a new node pool on a different range, which is a design change"
+    },
+    {
+     "t": "p",
+     "text": "Choosing memory and CPU requests for a workload that has never run on GKE"
+    },
+    {
+     "t": "p",
+     "text": "Escalate. Requests should come from measured usage on the legacy system, not from a guess made under deadline"
+    },
+    {
+     "t": "p",
+     "text": "Advancing or halting a canary when the gates are ambiguous"
+    },
+    {
+     "t": "p",
+     "text": "Escalate. A clear gate failure means halt. Anything less clear is a judgement call that needs the service owner"
+    },
+    {
+     "t": "p",
+     "text": "Any change to IAM bindings, Workload Identity, or Binary Authorization policy"
+    },
+    {
+     "t": "p",
+     "text": "Escalate. These are security controls; changing them to unblock a deploy is how incidents start"
+    },
+    {
+     "t": "p",
+     "text": "Deleting the legacy virtual machine or its disks"
+    },
+    {
+     "t": "p",
+     "text": "Escalate. Stopping is reversible, deleting is not. This needs the service owner's sign-off"
+    },
+    {
+     "t": "h2",
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "h3",
+     "text": "Can every virtual machine workload be migrated directly to GKE?"
+    },
+    {
+     "t": "p",
+     "text": "No. Workloads that require host access, kernel modules, specialised appliances, or unsupported licensing models may be better suited to Compute Engine or deferred until refactoring is practical."
+    },
+    {
+     "t": "h3",
+     "text": "How long should the rollback path remain available?"
+    },
+    {
+     "t": "p",
+     "text": "Keep rollback available until the migrated service has passed the agreed validation and soak criteria, including representative peak periods. The duration should be defined by the service owner and aligned with change, backup, cost, and data-retention policies."
+    },
+    {
+     "t": "h3",
+     "text": "What should be assessed before containerising a legacy application?"
+    },
+    {
+     "t": "p",
+     "text": "Start with state, storage paths, ports, external dependencies, identity, startup and shutdown behaviour, resource usage, operational ownership, and recovery requirements. The assessment should produce evidence, not only meeting notes."
+    },
+    {
+     "t": "h3",
+     "text": "Should a team choose GKE Autopilot or Standard?"
+    },
+    {
+     "t": "p",
+     "text": "Choose based on workload behaviour, operational control, governance, networking, cost allocation, and platform-management requirements. A mixed operating model may be appropriate where supported, but the decision should be validated against current Google Cloud documentation and organisational standards."
+    },
+    {
+     "t": "h3",
+     "text": "What is the safest way to cut over a production workload?"
+    },
+    {
+     "t": "p",
+     "text": "Use a staged traffic shift with measurable promotion gates for errors, latency, saturation, and data integrity. Test the rollback procedure before production traffic is moved."
+    },
+    {
+     "t": "h2",
+     "text": "Closing: The Assumptions Are the Hard Part"
+    },
+    {
+     "t": "p",
+     "text": "The main migration challenge is identifying assumptions inherited from virtual machines, including unrestricted memory, persistent local disks, root access, and predictable shutdown behaviour."
+    },
+    {
+     "t": "p",
+     "text": "Rescheduling, upgrades, memory pressure, and autoscaling expose these assumptions during normal platform operation."
+    },
+    {
+     "t": "p",
+     "text": "Three habits make the difference. Work workload by workload rather than in waves, so that a discovery on one does not block forty. Size from measurement rather than from the old VM's specification sheet. And make the cutover a weighted shift with a rollback you have actually executed at least once, rather than one you are confident would work."
+    },
+    {
+     "t": "p",
+     "text": "Applied together, these practices help teams detect issues during low-risk canary stages while the legacy rollback path remains available."
+    },
+    {
+     "t": "h1",
+     "text": "Target Audience & Core Scope"
+    },
+    {
+     "t": "p",
+     "text": "Intended Reader: Hands-on engineers and operators doing the migration work, not high-level approvers."
+    },
+    {
+     "t": "p",
+     "text": "Prerequisites: Requires Linux, container, and cloud experience; no prior Kubernetes knowledge needed."
+    },
+    {
+     "t": "p",
+     "text": "Platform & SRE: Cutover sequences, permanent settings, failure-mode diagnostics, and canary gates."
+    },
+    {
+     "t": "p",
+     "text": "Architects & DevOps: Workload strategies, reference architectures, and supply chain security (digest deploys, image signing)."
+    },
+    {
+     "t": "p",
+     "text": "Reading Path: Beginners must read sequentially; GKE veterans should review the initial platform updates to unlearn outdated practices."
+    },
+    {
+     "t": "p",
+     "text": "No Copy-Paste Scripts: Omits raw code commands so teams intentionally configure their own regions, IPs, and service accounts."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

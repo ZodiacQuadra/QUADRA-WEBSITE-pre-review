@@ -1,0 +1,116 @@
+{
+ "path": "/happy/integrated-backup-mitigates-risk-and-drives-compliance-across-the-globe",
+ "url": "https://www.quadrasystems.net/happy/integrated-backup-mitigates-risk-and-drives-compliance-across-the-globe",
+ "title": "Architecting an Integrated Data Protection Strategy for a Global BPO",
+ "description": "Architected and deployed a centralized, flexible data protection solution that provided a single-pane-of-glass view, improved backup success rates to 95%, and ensured peace of mind for mission-critical data.",
+ "ogImage": "https://framerusercontent.com/images/SQ8i2r0b3bETKdCNS8Wx8prFVIs.jpeg?width=6144&height=4069",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Integrated Data Protection Strategy for a Global BPO"
+    },
+    {
+     "t": "p",
+     "text": "Business Process Outsourcing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SQ8i2r0b3bETKdCNS8Wx8prFVIs.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global BPO focusing on a diverse bouquet of financial, corporate, and ICT services for a broad range of customers."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To consolidate a disparate array of backup solutions into a single, unified data protection platform to mitigate risk and ensure compliance across 20+ global offices."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a centralized, flexible data protection solution that provided a single-pane-of-glass view, improved backup success rates to 95%, and ensured peace of mind for mission-critical data."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global BPO focusing on a diverse bouquet of financial, corporate, and ICT services for a broad range of customers."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their existing data protection strategy was a major challenge. They were using a fragmented array of different backup tools across their multiple offices, making central management impossible. This lack of integration meant they had no unified view of their data protection status, which was a significant compliance risk. The diversity of platforms and exploding data volumes were also causing shrinking backup windows and impacting IT productivity."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate with the highest levels of data integrity and security to maintain the trust of their global customers. This required a robust, scalable, and centrally managed data protection strategy that could handle a rapidly growing and geographically dispersed data landscape."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The new platform transformed their data management operations. They now benefit from centralized management of their entire backup and recovery environment, with real-time monitoring and reporting. The solution's proven scalability provided massive headroom for growth. The percentage of successful backups increased to nearly 95%, and we successfully met their shrinking backup windows, increasing IT administrator productivity. Most importantly, it provided stability and peace of mind for their mission-critical data."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unified Data Protection Across 20+ Global Offices"
+    },
+    {
+     "t": "p",
+     "text": "Achieved a Single-Pane-of-Glass Management View"
+    },
+    {
+     "t": "p",
+     "text": "Increased Backup Success Rate to Nearly 95%"
+    },
+    {
+     "t": "p",
+     "text": "Ensured Compliance for the Financial Services Domain"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

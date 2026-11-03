@@ -1,0 +1,96 @@
+{
+ "path": "/technology/cyber-security/threat-endpoint-protection",
+ "url": "https://www.quadrasystems.net/technology/cyber-security/threat-endpoint-protection",
+ "title": "Threat & Endpoint Protection: Intelligent Defense Architecture| Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on"
+    },
+    {
+     "t": "h1",
+     "text": "Intelligent Defense Architecture"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Endpoints are the new front line. How do you defend against sophisticated threats like ransomware and fileless malware when your workforce is distributed and your attack surface is constantly changing?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Kz3ruThuuUoDjNaWSmYLBWDBuU.jpeg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ukzELss5jvhp3d2TQPZbyCYjw.jpeg",
+     "alt": "man drawing on dry-erase board",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Quadra Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "We architect an AI-powered defense fabric. Our blueprint leverages the industry-leading EDR and XDR platforms from CrowdStrike and Sophos. We move beyond simple antivirus to engineer a solution that provides deep visibility, behavioral threat detection, and rapid, orchestrated response across your entire digital estate."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting Your Intelligent Endpoint Defense"
+    },
+    {
+     "t": "p",
+     "text": "We leverage industry-leading EDR and XDR platforms from CrowdStrike and Sophos to provide deep visibility, AI-powered threat detection, and rapid, orchestrated response across your entire digital estate."
+    },
+    {
+     "t": "p",
+     "text": "Endpoint Detection & Response (EDR)"
+    },
+    {
+     "t": "p",
+     "text": "Expert deployment of CrowdStrike Falcon and Sophos Intercept X for real-time, AI-driven protection."
+    },
+    {
+     "t": "p",
+     "text": "Extended Detection & Response (XDR)"
+    },
+    {
+     "t": "p",
+     "text": "Managed Extended Detection & Response (MXDR)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/H3dftT4XNMFJQkBkiZuxRmVc.jpg",
+     "alt": "two people sitting at a table with laptops",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Endpoint Detection & Response (EDR)"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

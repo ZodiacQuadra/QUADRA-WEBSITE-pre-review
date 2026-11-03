@@ -1,0 +1,54 @@
+[
+  {
+    "page": "gcp-ai",
+    "action": "Added verified platform/runtime naming and explicit migration assessment.",
+    "evidence": [
+      "GCP-01"
+    ]
+  },
+  {
+    "page": "gcp-gemini",
+    "action": "Added edition and availability qualification for notebook experiences.",
+    "evidence": [
+      "GCP-02",
+      "GCP-04"
+    ]
+  },
+  {
+    "page": "gcp-data",
+    "action": "Distinguished warehouse, reporting and Looker/Data Studio roles.",
+    "evidence": [
+      "GCP-03"
+    ]
+  },
+  {
+    "page": "azure-data-ai",
+    "action": "Added interoperability and access-model qualification.",
+    "evidence": [
+      "AZ-03"
+    ]
+  },
+  {
+    "page": "microsoft-workplace",
+    "action": "Separated Agent 365 governance from Azure agent development/runtime context.",
+    "evidence": [
+      "AZ-02",
+      "ISPG-02"
+    ]
+  },
+  {
+    "page": "csg and security subpages",
+    "action": "Removed Microsoft delivery claims under the user-confirmed CSG/ISPG boundary; retained explicit links.",
+    "evidence": [
+      "CSG-01",
+      "User clarification 27 October 2026"
+    ]
+  },
+  {
+    "page": "recognition",
+    "action": "Retained user-approved planned 21-year line in the internal preview; marked publication dependent on public award announcement.",
+    "evidence": [
+      "ISPG-03"
+    ]
+  }
+]

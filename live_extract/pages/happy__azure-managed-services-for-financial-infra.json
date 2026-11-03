@@ -1,0 +1,116 @@
+{
+ "path": "/happy/azure-managed-services-for-financial-infra",
+ "url": "https://www.quadrasystems.net/happy/azure-managed-services-for-financial-infra",
+ "title": "Resilient & Optimized Managed Cloud Case Study | Quadra",
+ "description": "Delivered end-to-end managed services that saved ₹1.7 crores in cloud costs, improved their secure score to over 70%, and ensured full audit readiness for all regulatory bodies.",
+ "ogImage": "https://framerusercontent.com/images/DNUEhukQLVYlDqN7sBJUXClKbbg.jpeg?width=4160&height=6240",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Resilient & Optimized Managed Cloud for a Financial Infrastructure Leader"
+    },
+    {
+     "t": "p",
+     "text": "Financial Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DNUEhukQLVYlDqN7sBJUXClKbbg.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A leading financial infrastructure services provider in India, governed by stringent RBI, SEBI, and PCI-DSS standards."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To ensure continuous availability, stringent security compliance, and cost-efficiency for their mission-critical Azure infrastructure through a dedicated managed services partnership."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Delivered end-to-end managed services that saved ₹1.7 crores in cloud costs, improved their secure score to over 70%, and ensured full audit readiness for all regulatory bodies."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A leading financial infrastructure services provider in India, governed by stringent RBI, SEBI, and PCI-DSS standards."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "They were operating a complex IT environment across multiple environments (Production, UAT, DR) and modern, high-throughput workloads on AKS and Azure Container Apps. This required 24/7 monitoring and deep, specialized expertise to keep the platform secure, optimized, and continuously compliant with the demanding, overlapping regulations of the financial industry."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to focus on their core business of serving the financial services sector, with the absolute confidence that their complex Azure infrastructure was being managed to the highest standards of availability, security, and compliance. They needed a partner who could act as a true extension of their team."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "Our proactive, automation-led Azure management empowered the customer with a resilient, secure, and highly optimized cloud operation. The sustained cost savings of ₹1.7 crores over 24 months delivered a massive ROI. Their security posture improved measurably, and most critically, they were always prepared for their frequent and stringent PCI-DSS, SEBI, and RBI audits. This partnership has set a strong foundation for their continued digital growth."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Saved ₹1.7 Crores in Cloud Costs Over 24 Months"
+    },
+    {
+     "t": "p",
+     "text": "Improved Secure Score to Over 70%"
+    },
+    {
+     "t": "p",
+     "text": "Ensured Full Audit Readiness (PCI-DSS, SEBI, RBI)"
+    },
+    {
+     "t": "p",
+     "text": "Delivered 24x7 High Availability for Critical Platforms"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

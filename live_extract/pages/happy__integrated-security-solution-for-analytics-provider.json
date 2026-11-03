@@ -1,0 +1,116 @@
+{
+ "path": "/happy/integrated-security-solution-for-analytics-provider",
+ "url": "https://www.quadrasystems.net/happy/integrated-security-solution-for-analytics-provider",
+ "title": "Architecting an Integrated Security Posture for a Global Analytics Leader",
+ "description": "Architected and deployed an integrated, SaaS-based cloud workload protection solution that provided complete visibility and consistent security across their on-premise and cloud environments.",
+ "ogImage": "https://framerusercontent.com/images/kZzg2vOCOqk9JashLQ1mh9cdGpw.jpeg?width=6144&height=4069",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting an Integrated Security Posture for a Global Analytics Leader"
+    },
+    {
+     "t": "p",
+     "text": "Analytics"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/kZzg2vOCOqk9JashLQ1mh9cdGpw.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A high-growth, influential leader in data visualization, advanced analytics, and machine learning, serving clients in Silicon Valley and India."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To implement a unified, best-in-class security solution to protect their mission-critical, hybrid infrastructure and maintain the trust of their global clients."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed an integrated, SaaS-based cloud workload protection solution that provided complete visibility and consistent security across their on-premise and cloud environments."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A high-growth, influential leader in data visualization, advanced analytics, and machine learning, serving clients in Silicon Valley and India."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their servers were running in a hybrid environment—one public cloud and two on-premise data centers. While their on-premise servers were protected, their cloud servers were not, creating a significant security gap. They were looking for a single, integrated solution that could manage and protect both environments without adding complexity."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "As a company dealing with confidential enterprise data, the client's ambition was to operate with an ironclad security posture. Any data leakage would lead to a total erosion of goodwill and trust. They needed a single, integrated solution that could protect their hybrid workloads and provide continuous monitoring and compliance."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The integrated solution brought several immediate benefits. They now have complete visibility of their workload security and compliance from a single console. A secure IT atmosphere improves the trust and confidence of their clients, enabling them to expand their client base. The SaaS model also saved them significant upfront expenditure, and the pay-as-you-go model allowed them to budget for IT with clarity and foresight."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Unified Security Across a Hybrid, Multi-Location Environment"
+    },
+    {
+     "t": "p",
+     "text": "Gained Complete Visibility into Workload Security & Compliance"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Client Trust & Confidence"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Costs with a Modern SaaS-Based Security Model"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

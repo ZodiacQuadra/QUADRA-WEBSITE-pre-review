@@ -1,0 +1,114 @@
+{
+ "path": "/technology/aws/microsite/waf",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/waf",
+ "title": "AWS WAF Web Application Firewall | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS WAF"
+    },
+    {
+     "t": "h1",
+     "text": "Web Application Firewall & Front Line Defense"
+    },
+    {
+     "t": "p",
+     "text": "We architect and implement a powerful, intelligent defense for your web applications with the AWS Web Application Firewall (WAF). We help you protect your business from common exploits and bot attacks that can affect availability, compromise security, or consume excessive resources."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Your Applications are Your Business. And They Are Under Constant Attack"
+    },
+    {
+     "t": "p",
+     "text": "In a digital-first world, your web applications are your most critical, public-facing assets—and a primary target for attackers. Leaders need to know: \"How do we protect our applications from common threats like SQL injection and cross-site scripting? How do we stop malicious bots from scraping our data and overwhelming our servers?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/isLU1uAXupVs1j2jEIRNaiTeUh0.jpeg",
+     "alt": "a group of people sitting around a wooden table",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/rO4muOG50CNNQV7I5ejPOk8qTx4.jpeg",
+     "alt": "Two people sitting across from each other in an office working on a Surface laptop",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for an Intelligent, Layered Defense"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to architect a proactive, intelligent, and scalable defense that sits at the very edge of your cloud. We design a comprehensive WAF strategy that moves beyond simple IP blocking to provide sophisticated, rule-based filtering of all your web traffic. Our blueprint focuses on creating a multi-layered defense that is easy to deploy and manage."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our AWS WAF Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Protection Against Common Vulnerabilities"
+    },
+    {
+     "t": "p",
+     "text": "We architect rulesets to protect your applications against the OWASP Top 10 security risks."
+    },
+    {
+     "t": "p",
+     "text": "Intelligent Bot Control"
+    },
+    {
+     "t": "p",
+     "text": "Custom, Granular Rule Creation"
+    },
+    {
+     "t": "p",
+     "text": "Centralized Management & Deployment"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/c60iE25HXGpYM52auiZ2T52Dpw.jpeg",
+     "alt": "a woman giving a presentation to a group of people",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Protection Against Common Vulnerabilities"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Fortify Your Applications?"
+    },
+    {
+     "t": "link",
+     "text": "Request a WAF Security Assessment",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

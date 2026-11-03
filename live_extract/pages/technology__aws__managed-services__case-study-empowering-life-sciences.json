@@ -1,0 +1,193 @@
+{
+ "path": "/technology/aws/managed-services/case-study-empowering-life-sciences",
+ "url": "https://www.quadrasystems.net/technology/aws/managed-services/case-study-empowering-life-sciences",
+ "title": "AWS Cloud Transformation Case Study | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Empowering Life Sciences Through Secure AWS Infrastructure and Managed Services Partnership"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GVkPSyWGKjTKYhxfPo6V6yDU.jpg",
+     "alt": "A scientist works in a lab hood, conducting research.",
+     "w": 6125
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Customer Overview"
+    },
+    {
+     "t": "p",
+     "text": "The customer is a science-led, AI-native full-service CRO specializing in drug safety, regulatory compliance, and clinical development across the entire product lifecycle. Headquartered in the USA with global operations in Europe and Asia-Pacific, the company provides end-to-end services from pre-clinical research to post-marketing activities in pharmacovigilance, clinical trial management, regulatory submissions, biostatistics, and real-world evidence analytics. Operating in alignment with global regulatory standards (FDA, EMA, PMDA) and ISO-certified processes, the customer helps pharmaceutical companies accelerate development, reduce risk, and enhance patient safety across therapeutic areas"
+    },
+    {
+     "t": "h3",
+     "text": "Business Need"
+    },
+    {
+     "t": "p",
+     "text": "As the customer expanded globally, its AWS infrastructure became the backbone for AI-driven analytics, clinical data management and secure collaboration with healthcare authorities. However, rapid growth brought challenges in maintaining governance, backup compliance and operational visibility in their AWS environment."
+    },
+    {
+     "t": "h3",
+     "text": "Key Challenges"
+    },
+    {
+     "t": "h6",
+     "text": "Misconfiguration and Misalignment in Critical Configurations"
+    },
+    {
+     "t": "p",
+     "text": "Continuous changes by diverse teams caused resource misconfigurations and configuration deviations like unsecured S3 buckets, overly broad security groups and disabled encryption settings impacted compliance with HIPAA and internal controls. Detecting and correcting these issues rapidly at scale remains a significant challenge."
+    },
+    {
+     "t": "h6",
+     "text": "Insufficient Role-Based Access Control"
+    },
+    {
+     "t": "p",
+     "text": "Overly permissive or legacy IAM policies grant broader-than-necessary permissions, increasing exposure to accidental or malicious misuse and violating security best practices"
+    },
+    {
+     "t": "h6",
+     "text": "Exposure to Internet-Based Threats"
+    },
+    {
+     "t": "p",
+     "text": "Applications are hosted directly on the public internet which resulted in their application got attacks in-form of Distributed Denial of Service (DDoS) & brute force login attempts and exploitation of internet-facing vulnerabilities."
+    },
+    {
+     "t": "h6",
+     "text": "Non-Standardized Backup Policies"
+    },
+    {
+     "t": "p",
+     "text": "Diverse backup methods lacked uniformed standards leads to increased operational complexity and costs. Reliance on manual backup processes also raises the risk of errors and gaps in audit trails"
+    },
+    {
+     "t": "h6",
+     "text": "Incomplete Monitoring and Log Management"
+    },
+    {
+     "t": "p",
+     "text": "Inconsistent adoption of AWS CloudWatch, GuardDuty, and CloudTrail on AWS accounts leads to critical log gaps, delayed threat detection and insufficient forensic traceability."
+    },
+    {
+     "t": "h6",
+     "text": "Skill Gap"
+    },
+    {
+     "t": "p",
+     "text": "Users often lack advanced cloud skills, deliver compliance, monitoring, and root cause analysis at any time of day is impacting the decisions taken by management."
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Quadra at Work and Solution Design"
+    },
+    {
+     "t": "p",
+     "text": "As an AWS Premier Tier Partner Quadra collaborated with the customer to modernize and streamline its AWS operations. The engagement delivered a scalable, compliant and cost-efficient cloud foundation to support Customer’s global expansion and regulatory requirements."
+    },
+    {
+     "t": "h6",
+     "text": "Strengthening Governance and Secure Access"
+    },
+    {
+     "t": "p",
+     "text": "Quadra implemented IAM by enforcing granular access control and role-based permissions. AWS Secrets Manager were configured for storing and managing credential, while jump server and SSM access were tightly controlled."
+    },
+    {
+     "t": "h6",
+     "text": "Building a Segregated and Resilient Network Foundation"
+    },
+    {
+     "t": "p",
+     "text": "The AWS environment was restructured with isolated private subnets for production and non-prod workloads and leveraged ALB with WAF ensuring secure access boundaries and streamlined network communication."
+    },
+    {
+     "t": "h6",
+     "text": "Standardizing Backup and Data Lifecycle Management"
+    },
+    {
+     "t": "p",
+     "text": "Automated backups for EC2 and RDS were configured with consistent policies which meet regulatory compliance. S3 lifecycle management was applied to optimize storage while ensuring adherence to data retention requirements."
+    },
+    {
+     "t": "h6",
+     "text": "Enabling Intelligent Monitoring and Compliance Automation"
+    },
+    {
+     "t": "p",
+     "text": "CloudWatch integrated with SNS, enabled proactive alerting and detailed insights across workloads. Security Hub and AWS Config ensured continuous compliance monitoring and misconfiguration detection with unified dashboards for complete visibility."
+    },
+    {
+     "t": "h6",
+     "text": "Operational Excellence and Documentation Alignment"
+    },
+    {
+     "t": "p",
+     "text": "Standard Operating Procedures (SOPs) were aligned and version-controlled, ensuring smooth operational handoffs. Standard EC2 Patch Policy was enforced for consistent OS-level updates."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Quantifiable Outcomes"
+    },
+    {
+     "t": "p",
+     "text": "Through Quadra’s managed service engagement, the customer achieved significant operational improvements:"
+    },
+    {
+     "t": "p",
+     "text": "Implemented standardized EC2 and RDS backup policies, ensuring 100% backup consistency and full recoverability across all critical workloads."
+    },
+    {
+     "t": "p",
+     "text": "Optimized S3 lifecycle rules to streamline data retention and tiering, resulting in a 30% reduction in overall storage costs."
+    },
+    {
+     "t": "p",
+     "text": "Strengthened governance by automating Security Hub and AWS Config checks, driving an 80% decrease in compliance deviations."
+    },
+    {
+     "t": "p",
+     "text": "Enhanced incident response through automated alert correlation, achieving a 60% improvement in MTTR (Mean Time to Recovery)."
+    },
+    {
+     "t": "p",
+     "text": "Delivered 25–30% cost savings by rightsizing EC2 instances and optimizing backup storage utilization."
+    },
+    {
+     "t": "p",
+     "text": "Accelerated compliance workflows with immutable CloudTrail and Config reporting, enabling 70% faster audit readiness."
+    },
+    {
+     "t": "p",
+     "text": "Improved network security posture by deploying ALB with WAF protections, achieving an 80% enhancement in secure access control across production and non-production environments."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

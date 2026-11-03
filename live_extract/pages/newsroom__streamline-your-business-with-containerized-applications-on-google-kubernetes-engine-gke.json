@@ -1,0 +1,425 @@
+{
+ "path": "/newsroom/streamline-your-business-with-containerized-applications-on-google-kubernetes-engine-gke",
+ "url": "https://www.quadrasystems.net/newsroom/streamline-your-business-with-containerized-applications-on-google-kubernetes-engine-gke",
+ "title": "Streamline Your Business with Containerized Applications on Google Kubernetes Engine (GKE)",
+ "description": "Google Kubernetes Engine (GKE) is a managed Kubernetes service by Google Cloud that simplifies the deployment and management of containerized applications. This blog will guide you through the process of hosting containers on GKE using the \"Hello App\" as an example.",
+ "ogImage": "https://framerusercontent.com/images/fy4duRHZ4voRcshc6HL4fDPbOo.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Streamline Your Business with Containerized Applications on Google Kubernetes Engine (GKE)"
+    },
+    {
+     "t": "p",
+     "text": "Streamline Your Business with Containerized Applications on Google Kubernetes Engine (GKE)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fy4duRHZ4voRcshc6HL4fDPbOo.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Google Kubernetes Engine (GKE) is a managed Kubernetes service by Google Cloud that simplifies the deployment and management of containerized applications. This blog will guide you through the process of hosting containers on GKE using the \"Hello App\" as an example."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "Introduction: Google Kubernetes Engine (GKE) is amanaged Kubernetes service by Google Cloud that simplifies the deployment andmanagement of containerized applications. This blog will guide you through theprocess of hosting containers on GKE using the \"Hello App\" as an example."
+    },
+    {
+     "t": "h4",
+     "text": "Objectives:"
+    },
+    {
+     "t": "p",
+     "text": "• Create a GKE cluster"
+    },
+    {
+     "t": "p",
+     "text": "• Deploy a sample app to GKE"
+    },
+    {
+     "t": "p",
+     "text": "• Expose the sample app to the internet"
+    },
+    {
+     "t": "p",
+     "text": "• Deploy a new version of the sample app"
+    },
+    {
+     "t": "p",
+     "text": "• Clean up resources after completion"
+    },
+    {
+     "t": "p",
+     "text": "Costs: Before starting, be aware that this may incur costs for the usage of Google Cloud resources, including GKE cluster instances, storage, and network egress. You can refer to the Google Cloud Pricing documentation for more details on pricing, else reach us at cssdm@quadrasystems.net to estimate."
+    },
+    {
+     "t": "h4",
+     "text": "Before You Begin:"
+    },
+    {
+     "t": "p",
+     "text": "1. Create a Google Cloud project or use an existing one."
+    },
+    {
+     "t": "p",
+     "text": "2. Enable the necessary APIs, such as the Kubernetes Engine API, Cloud Build API, and Artifact Registry API."
+    },
+    {
+     "t": "p",
+     "text": "3. Set up the Cloud SDK and authenticate with your Google Cloud account."
+    },
+    {
+     "t": "p",
+     "text": "4. Install Git and Docker on your local machine (optional)."
+    },
+    {
+     "t": "h5",
+     "text": "Create a Repository:"
+    },
+    {
+     "t": "p",
+     "text": "1. Create a new repository or use an existing one to store your source code and Docker configuration files."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tDAECuBerYWuZp7tgERiEvVvpxU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "Building the Container Image:"
+    },
+    {
+     "t": "p",
+     "text": "GKE accepts Docker images as the application deployment format. Before deploying hello-app to GKE, you must package the hello-app source code as a Docker image."
+    },
+    {
+     "t": "p",
+     "text": "To build a Docker image, you need source code and a Dockerfile, A Dockerfile contains instructions on how the image is built."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MuEgu48ZOiLEzWz31fg0HC3T8.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HRrb6t7BEJmr9eutfHvLICyetnI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "Running Your Container Locally (optional):"
+    },
+    {
+     "t": "p",
+     "text": "1. Run the container locally to test and verify its functionality."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/X5Hdp2s1Dnv4SQEICAe1iOmHq8.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "Pushing the Docker Image to Artifact Registry:"
+    },
+    {
+     "t": "p",
+     "text": "1. Configure Docker to authenticate with Artifact Registry."
+    },
+    {
+     "t": "p",
+     "text": "gcloud auth configure-docker REGION-docker.pkg.dev"
+    },
+    {
+     "t": "p",
+     "text": "2. Tag the container image with the Artifact Registry repository's location."
+    },
+    {
+     "t": "p",
+     "text": "3. Push the container image to Artifact Registry."
+    },
+    {
+     "t": "p",
+     "text": "docker push REGION-docker.pkg.dev/${PROJECT_ID}/hello-repo/hello-app:v1"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Creating a GKE Cluster:"
+    },
+    {
+     "t": "p",
+     "text": "Use the Cloud Console to create a GKE cluster."
+    },
+    {
+     "t": "p",
+     "text": "1. Go to the Google Kubernetes Engine page in the Google Cloud console."
+    },
+    {
+     "t": "p",
+     "text": "2. Click + Create."
+    },
+    {
+     "t": "p",
+     "text": "3. For GKE Autopilot, click Configure."
+    },
+    {
+     "t": "p",
+     "text": "4. In the Name field, enter the name hello-cluster."
+    },
+    {
+     "t": "p",
+     "text": "5. Select a Compute Engine region from the Region drop-down list, such as us-west1."
+    },
+    {
+     "t": "p",
+     "text": "6. Click Create."
+    },
+    {
+     "t": "p",
+     "text": "7. Wait for the cluster to be created. When the cluster is ready, a checkmark appears next to the cluster name."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Deploying the Sample App to GKE:"
+    },
+    {
+     "t": "p",
+     "text": "Deploy the sample app to the GKE cluster using the Kubernetes deployment manifest."
+    },
+    {
+     "t": "p",
+     "text": "1. Go to the Workloads page in the Google Cloud console."
+    },
+    {
+     "t": "p",
+     "text": "2. Click + Deploy."
+    },
+    {
+     "t": "p",
+     "text": "3. In the Specify container section, select Existing container image."
+    },
+    {
+     "t": "p",
+     "text": "4. In the Image path field, click Select."
+    },
+    {
+     "t": "p",
+     "text": "5. In the Select container image pane, select the hello-app image you pushed to Artifact Registry and click Select."
+    },
+    {
+     "t": "p",
+     "text": "6. In the Container section, click Done, then click Continue."
+    },
+    {
+     "t": "p",
+     "text": "7. In the Configuration section, under Labels, enter app for Key and hello-app for Value."
+    },
+    {
+     "t": "p",
+     "text": "8. Under Configuration YAML, click View YAML. This opens a YAML configuration file representing the two Kubernetes API resources about to be deployed into your cluster: one Deployment, and one HorizontalPodAutoscaler for that Deployment."
+    },
+    {
+     "t": "p",
+     "text": "9. Click Close, then click Deploy."
+    },
+    {
+     "t": "p",
+     "text": "10. When the Deployment Pods are ready, the Deployment details page opens."
+    },
+    {
+     "t": "p",
+     "text": "11. Under Managed pods, note the three running Pods for the hello-app Deployment."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Exposing the Sample App to the Internet:"
+    },
+    {
+     "t": "p",
+     "text": "Create a Kubernetes service to expose the sample app to the internet."
+    },
+    {
+     "t": "p",
+     "text": "2. Click hello-app"
+    },
+    {
+     "t": "p",
+     "text": "3. From the Deployment details page, click list Actions > Expose."
+    },
+    {
+     "t": "p",
+     "text": "4. In the Expose dialog, set the Target port to 8080. This is the port the hello-app container listens on."
+    },
+    {
+     "t": "p",
+     "text": "5. From the Service type drop-down list, select Load balancer."
+    },
+    {
+     "t": "p",
+     "text": "6. Click Expose to create a Kubernetes Service for hello-app."
+    },
+    {
+     "t": "p",
+     "text": "7. When the Load Balancer is ready, the Service details page opens."
+    },
+    {
+     "t": "p",
+     "text": "8. Scroll down to the External endpoints field and copy the IP address."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Deploying a New Version of the Sample App:"
+    },
+    {
+     "t": "p",
+     "text": "You will upgrade hello-app to a new version by building and deploying a new Docker image to your GKE cluster."
+    },
+    {
+     "t": "p",
+     "text": "GKE's rolling update feature lets you update your Deployments without downtime. During a rolling update, your GKE cluster incrementally replaces the existing hello-app Pods with Pods containing the Docker image for the new version. During the update, your load balancer service routes traffic only into available Pods."
+    },
+    {
+     "t": "p",
+     "text": "Return to Cloud Shell, where you have cloned the hello app source code and Dockerfile, Update the function hello() in the main.go file to report the new version 2.0.0."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VSjJkGbbKmWkowRYjuIwFIfP7Fw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Now you're ready to update your hello-app Kubernetes Deployment to use a new Docker image."
+    },
+    {
+     "t": "p",
+     "text": "2. Click hello-app."
+    },
+    {
+     "t": "p",
+     "text": "3. On the Deployment details page, click list Actions > Rolling update."
+    },
+    {
+     "t": "p",
+     "text": "4. In the Rolling update dialog, set the Image of hello-app field to REGION-docker.pkg.dev/PROJECT_ID/hello-repo/hello-app:v2."
+    },
+    {
+     "t": "p",
+     "text": "5. Click Update."
+    },
+    {
+     "t": "p",
+     "text": "6. On the Deployment details page, inspect the Active Revisions section. You should now see two Revisions, 1 and 2. Revision 1 corresponds to the initial Deployment you created earlier. Revision 2 is the rolling update you just started."
+    },
+    {
+     "t": "p",
+     "text": "7. After a few moments, refresh the page. Under Managed pods, all of the replicas of hello-app now correspond to Revision 2."
+    },
+    {
+     "t": "p",
+     "text": "8. In a separate tab, navigate again to the Service IP address you copied. The Version should be 2.0.0."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Clean Up:"
+    },
+    {
+     "t": "p",
+     "text": "1. Delete the GKE services to avoid incurring unnecessary costs."
+    },
+    {
+     "t": "p",
+     "text": "kubectl delete service hello-app-service"
+    },
+    {
+     "t": "p",
+     "text": "2. Delete the cluster & Container Images"
+    },
+    {
+     "t": "p",
+     "text": "gcloud container clusters delete hello-cluster --region REGION"
+    },
+    {
+     "t": "p",
+     "text": "gcloud artifacts docker images delete \\"
+    },
+    {
+     "t": "p",
+     "text": "REGION-docker.pkg.dev/${PROJECT_ID}/hello-repo/hello-app:v1 \\"
+    },
+    {
+     "t": "p",
+     "text": "--delete-tags --quiet"
+    },
+    {
+     "t": "p",
+     "text": "REGION-docker.pkg.dev/${PROJECT_ID}/hello-repo/hello-app:v2 \\"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "Conclusion: In this blog, you might have learnt how to host containers on Google Kubernetes Engine (GKE) using the \"Hello App\" example. Kudos, you accomplished objectives such as creating a GKE cluster, deploying the sample app, exposing it to the internet, deploying a new version, and cleaning up resources afterward."
+    },
+    {
+     "t": "p",
+     "text": "GKE provides a reliable and scalable platform for containerized application hosting, empowering you to build and manage robust systems with ease. Refer to the official Google Cloud documentation for more in-depth guidance and explore advanced features of GKE. else reach us at cssdm@quadrasystems.net to handhold wherever needed."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

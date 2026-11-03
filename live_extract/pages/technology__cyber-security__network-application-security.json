@@ -1,0 +1,96 @@
+{
+ "path": "/technology/cyber-security/network-application-security",
+ "url": "https://www.quadrasystems.net/technology/cyber-security/network-application-security",
+ "title": "Network & Application Security Services | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Architecting Ambition on"
+    },
+    {
+     "t": "h1",
+     "text": "Protect Your Digital Perimeter"
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Your email gateways and web applications are the most targeted entry points for attackers. How do you protect against phishing, business email compromise (BEC), and OWASP Top 10 vulnerabilities in a cohesive way?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lIQ7rRi0VgzUsAdLX9HTLUe3c.jpeg",
+     "alt": "3 women sitting on chair in front of table with laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GeqgmqQdQ8G9KPvU3jyNyuemM.jpeg",
+     "alt": "man drawing on dry-erase board",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Quadra Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "We architect a multi-layered defense for your critical ingress points. We leverage the industry-leading platforms from Fortinet and Barracuda to design a cohesive security architecture that protects your email gateways with AI-powered threat detection and your web applications and APIs with a robust Web Application Firewall (WAF)."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Multi-Layered Perimeter Defense"
+    },
+    {
+     "t": "p",
+     "text": "Our capabilities, powered by Fortinet and Barracuda, are designed to protect your most targeted entry points—your web applications, APIs, and email gateways—from sophisticated attacks before they can breach your defenses."
+    },
+    {
+     "t": "p",
+     "text": "Advanced Email Security"
+    },
+    {
+     "t": "p",
+     "text": "AI-powered defense against phishing, BEC, and ransomware"
+    },
+    {
+     "t": "p",
+     "text": "Web Application & API Protection (WAAP)"
+    },
+    {
+     "t": "p",
+     "text": "Next-Generation Firewall (NGFW)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1eCphmAaXrkWMLL2qcD9ZvS8Gw.jpg",
+     "alt": "blue and white logo guessing game",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Advanced Email Security"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

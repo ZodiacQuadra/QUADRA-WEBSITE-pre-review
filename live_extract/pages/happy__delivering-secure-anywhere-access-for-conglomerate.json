@@ -1,0 +1,116 @@
+{
+ "path": "/happy/delivering-secure-anywhere-access-for-conglomerate",
+ "url": "https://www.quadrasystems.net/happy/delivering-secure-anywhere-access-for-conglomerate",
+ "title": "Conglomerate Secure DaaS Platform Case Study | Quadra",
+ "description": "Architected and deployed a scalable Desktop-as-a-Service (DaaS) solution that provided granular control over data, eliminated endpoint security risks, and dramatically simplified third-party user management.",
+ "ogImage": "https://framerusercontent.com/images/gh7GtKqq5V2qEg5rG2QKxGGJ0.jpg?width=6720&height=4480",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Secure DaaS Platform for a Diversified Multinational Conglomerate"
+    },
+    {
+     "t": "p",
+     "text": "Manufacturing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gh7GtKqq5V2qEg5rG2QKxGGJ0.jpg",
+     "alt": "woman in blue long sleeve shirt using macbook pro",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "One of India's most valued business groups, a diversified multinational conglomerate with a global network of vendors and partners."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To provide thousands of global vendors, partners, and suppliers with secure, on-demand access to corporate desktops and applications without the risks of a traditional VPN."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a scalable Desktop-as-a-Service (DaaS) solution that provided granular control over data, eliminated endpoint security risks, and dramatically simplified third-party user management."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "One of India's most valued business groups, a diversified multinational conglomerate with a global network of vendors and partners."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their traditional VPN access model was fraught with issues. While it provided a secure tunnel, it offered no control over the security of the partner's endpoint device or what happened to corporate data once it was accessed. The VPNs were also slow, complex to manage, and difficult to troubleshoot, creating a poor user experience and a significant management burden."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to create a seamless and highly secure collaboration environment for their vast external ecosystem of partners and suppliers. They needed a modern solution that could provide the necessary access while giving their IT security team absolute control over corporate data and applications."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The DaaS solution transformed how they managed their external partners. The need for endpoint management was completely eliminated, as all desktops and apps could be managed from a single console. Data security was assured, as corporate data never left their environment. The solution was instantly scalable, allowing them to provision and de-provision desktops on demand. This delivered a superior TCO, a vastly improved security posture, and a better user experience for their global partners."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated Endpoint Security Risks for Third-Party Users"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened Data Security & Centralized Control"
+    },
+    {
+     "t": "p",
+     "text": "Enabled Instant, Scalable Onboarding for Partners"
+    },
+    {
+     "t": "p",
+     "text": "Reduced IT Management Complexity & TCO"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

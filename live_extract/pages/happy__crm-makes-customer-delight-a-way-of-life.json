@@ -1,0 +1,116 @@
+{
+ "path": "/happy/crm-makes-customer-delight-a-way-of-life",
+ "url": "https://www.quadrasystems.net/happy/crm-makes-customer-delight-a-way-of-life",
+ "title": "Unified CRM Platform Case Study | Quadra",
+ "description": "Architected and deployed a comprehensive CRM platform that provided a 360-degree customer view, streamlined sales and service processes, and turned forecasting into a science.",
+ "ogImage": "https://framerusercontent.com/images/VjkUNKJBcgJUzstqyaSj1GFPCE.jpeg?width=5481&height=3654",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified CRM Platform to Drive Growth for an IT Services Firm"
+    },
+    {
+     "t": "p",
+     "text": "Information Technology"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VjkUNKJBcgJUzstqyaSj1GFPCE.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A fast-growing IT services and consultancy firm with varied technology delivery streams."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To consolidate all customer-related data into a single, unified platform to drive sales effectiveness, improve customer satisfaction, and support high levels of growth."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a comprehensive CRM platform that provided a 360-degree customer view, streamlined sales and service processes, and turned forecasting into a science."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A fast-growing IT services and consultancy firm with varied technology delivery streams."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Customer data resided in multiple, disconnected formats across various locations. This made it incredibly difficult for the sales force to get a unified view of the customer, hindering their ability to sell effectively. Administration and billing teams struggled to reconcile data, and it was impossible to present an integrated view of service delivery to clients. This lack of a central repository was a major obstacle to their growth."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to build a high-performance, customer-centric organization. To maintain their high growth and customer satisfaction levels, they needed to move beyond disparate, siloed systems and create a single source of truth for all customer information."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The CRM platform delivered business benefits from day one. The sales team now had a complete 360-degree view of the customer, and with drill-down funnel reports, forecasting became more of a science than an art. The time spent locating customer data was drastically reduced. Access to a structured engagement mechanism and automated workflows meant that customer satisfaction with service levels reached an all-time high, boosting revenue and profits."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Created a Unified, 360-Degree View of the Customer"
+    },
+    {
+     "t": "p",
+     "text": "Streamlined Sales, Service & Marketing Processes"
+    },
+    {
+     "t": "p",
+     "text": "Drove Higher Levels of Customer Satisfaction"
+    },
+    {
+     "t": "p",
+     "text": "Improved Sales Forecasting Accuracy"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

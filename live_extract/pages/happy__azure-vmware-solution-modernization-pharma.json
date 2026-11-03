@@ -1,0 +1,116 @@
+{
+ "path": "/happy/azure-vmware-solution-modernization-pharma",
+ "url": "https://www.quadrasystems.net/happy/azure-vmware-solution-modernization-pharma",
+ "title": "Azure VMware Solution Hybrid Cloud Case Study | Quadra",
+ "description": "Architected a zero-downtime 'lift-and-shift' migration to Azure VMware Solution, which unified their entire VMware estate, reduced infrastructure costs by approximately 35%, and streamlined management by 40%.",
+ "ogImage": "https://framerusercontent.com/images/4EzvvdMU8LfD1N7chmibCT1q0.jpg?width=4032&height=3024",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Unified Hybrid Cloud with Azure VMware Solution"
+    },
+    {
+     "t": "p",
+     "text": "Pharmaceuticals"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4EzvvdMU8LfD1N7chmibCT1q0.jpg",
+     "alt": "person in green shirt wearing white mask",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A global pharmaceutical company with over 3,000 employees, managing critical workloads across fragmented legacy datacenters and multiple public clouds."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To consolidate a high-risk, fragmented infrastructure onto a secure, scalable, and cost-effective hybrid cloud platform without the complexity of re-architecting applications."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected a zero-downtime 'lift-and-shift' migration to Azure VMware Solution, which unified their entire VMware estate, reduced infrastructure costs by approximately 35%, and streamlined management by 40%."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A global pharmaceutical company with over 3,000 employees, managing critical workloads across fragmented legacy datacenters and multiple public clouds."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their IT landscape was dangerously fragmented, with over 150 VMs on aging hardware in a third-party datacenter and another 80+ VMs hosted on AWS. This dual setup resulted in frequent hardware failures, high maintenance costs, disconnected security and backup systems, and a complete lack of unified visibility, creating massive operational overhead."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to build a modern, future-ready cloud platform that could eliminate the operational risks and escalating costs of their aging hardware. They needed a unified solution that would provide a single point of management for their entire VMware environment, enhance security, and lay the foundation for future digital innovation."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The migration transformed a fragmented, high-risk infrastructure into a secure, future-ready cloud platform. The transition was achieved with zero downtime for their critical workloads. By retiring legacy infrastructure and reducing their AWS dependency, they achieved a significant ~35% cost reduction. They now have a centralized, resilient, and efficient platform, which has set the stage for their next phase of application modernization and digital innovation."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Achieved a Zero-Downtime Migration for Critical Workloads"
+    },
+    {
+     "t": "p",
+     "text": "Reduced Infrastructure Costs by ~35%"
+    },
+    {
+     "t": "p",
+     "text": "Streamlined Management Effort by 40%"
+    },
+    {
+     "t": "p",
+     "text": "Built a Future-Ready Cloud Foundation without Rework"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

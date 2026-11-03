@@ -1,0 +1,296 @@
+{
+ "path": "/technology/microsoft/modern-work",
+ "url": "https://www.quadrasystems.net/technology/microsoft/modern-work",
+ "title": "Microsoft Modern Work Services | M365, Teams & Copilot | Quadra",
+ "description": "Quadra enables enterprise Modern Work transformation using Microsoft 365, Teams, SharePoint, Viva, and Copilot adoption — driving secure collaboration, workforce productivity, and measurable digital workplace outcomes.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Microsoft Modern Work"
+    },
+    {
+     "t": "h1",
+     "text": "Build the Intelligent Digital Workplace"
+    },
+    {
+     "t": "p",
+     "text": "We architect the modern work environments that unlock human potential. Leveraging the full power of Microsoft 365—from Teams to Copilot—we design secure, intelligent, and collaborative ecosystems that empower your people to do their best work, together"
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Modern Enterprise Runs on Intelligence, Not Just Information"
+    },
+    {
+     "t": "p",
+     "text": "Leaders are moving beyond basic productivity to ask how AI can fundamentally reinvent their business processes"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iNybHyn2ecySOW7eNCg1SPLRFw.jpg",
+     "alt": "people sitting near table with laptop computer",
+     "w": 1200
+    },
+    {
+     "t": "h5",
+     "text": "How do we make Generative AI (like Copilot) actually understand our business?"
+    },
+    {
+     "t": "p",
+     "text": "Off-the-shelf AI doesn't know your customers, products, or processes. You need custom intelligence that is securely connected to your unique systems of record."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/P7qChx43b6H53RQy453RfmFJqg.jpg",
+     "alt": "person wearing long-sleeve top working on laptop",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How can we automate complex processes, not just simple tasks?"
+    },
+    {
+     "t": "p",
+     "text": "You've automated the easy things. Now you need to tackle the complex, multi-step business workflows that are the real drain on your high-value employees."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lDIJpcJxZEYVFqlgtjGUgxoTR0.jpg",
+     "alt": "a man sitting in front of a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we break down the silos between our collaboration tools and our core business applications?"
+    },
+    {
+     "t": "p",
+     "text": "Productivity suffers when your teams live in Teams and chat, but your critical data lives in Dynamics, SAP, or other LOB apps. You need to bridge this gap."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/G7wZmso17YSyOkk5VpuqJMVUsqU.jpg",
+     "alt": "woman placing sticky notes on wall",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we empower our teams to innovate with low-code and AI without creating security risks or chaos?"
+    },
+    {
+     "t": "p",
+     "text": "You need a framework for \"citizen development\" that fosters innovation while maintaining enterprise-grade security, governance, and control over your data"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Connected, Intelligent Enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to fuse collaboration with intelligence. We architect solutions that bring AI and automation directly into the flow of work"
+    },
+    {
+     "t": "p",
+     "text": "Engineer"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Empower"
+    },
+    {
+     "t": "h2",
+     "text": "We Engineer AI into the Fabric of Your Work"
+    },
+    {
+     "t": "p",
+     "text": "Our blueprint centers on Microsoft Teams as the unified hub, extending its power with custom AI agents and integrated business processes"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pwOCQ86eV6uTDBY7fWUfJB09WU.jpg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting the Full Spectrum of Business Transformation"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yFYLyx8lLdeCvizV2goHJZvQ6OI.jpg",
+     "alt": "people inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "AI Copilots & Agents"
+    },
+    {
+     "t": "p",
+     "text": "We are experts in Copilot Studio, architecting custom AI agents that securely connect Microsoft 365 to your enterprise data. We accelerate this with our proprietary IntelliLink family of agents, which provide pre-built, secure connectors to critical systems like SAP and ServiceNow, bringing your most important data into the flow of work."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/b0y3DY8yV2UPRg76FmjPsrpOqo.jpg",
+     "alt": "photography of people inside room during daytime",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Business Process Automation (Power Platform)"
+    },
+    {
+     "t": "p",
+     "text": "We design and deploy enterprise-grade solutions using Power Apps, Power Automate, and Power BI, with robust governance and security. We also have expertise in integrating with Dynamics 365."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nl6SYzLFUGiazQlPLnYyjzTPkZg.jpg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Adoption & Change Management"
+    },
+    {
+     "t": "p",
+     "text": "Our dedicated practice ensures your people are at the heart of your transformation, driving rapid adoption and maximizing the ROI of your investment"
+    },
+    {
+     "t": "h4",
+     "text": "AI Copilots & Agents"
+    },
+    {
+     "t": "h4",
+     "text": "AI Copilots & Agents"
+    },
+    {
+     "t": "h4",
+     "text": "AI Copilots & Agents"
+    }
+   ]
+  },
+  {
+   "name": "Reviews",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "h2",
+     "text": "Transforming the Work Experience for 20,000 Scientists"
+    },
+    {
+     "t": "p",
+     "text": "For a global pharmaceutical giant, we architected a modern, secure collaboration platform on Microsoft 365. This initiative unified their global research teams, breaking down silos and enabling seamless collaboration on critical R&D projects"
+    },
+    {
+     "t": "h4",
+     "text": "20,000+"
+    },
+    {
+     "t": "p",
+     "text": "Modernized and secured the work experience for 20,000+ employees"
+    },
+    {
+     "t": "h4",
+     "text": "Seamless collaboration"
+    },
+    {
+     "t": "p",
+     "text": "Enabled seamless collaboration between geographically dispersed research teams"
+    },
+    {
+     "t": "h4",
+     "text": "Protection"
+    },
+    {
+     "t": "p",
+     "text": "Strengthened protection of mission-critical intellectual property"
+    },
+    {
+     "t": "link",
+     "text": "Explore More Modern Work Stories",
+     "href": "../../happy"
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Answering Your Strategic Questions on the Modern Workplace"
+    },
+    {
+     "t": "p",
+     "text": "Is Microsoft 365 Copilot a real business driver or just a feature?"
+    },
+    {
+     "t": "p",
+     "text": "Copilot is a fundamental productivity multiplier. Its strategic value lies in its ability to reduce time spent on low-value tasks (like summarizing meetings or finding information) and reallocate that time to high-value work (like strategy, client relationships, and innovation). We help you architect a deployment strategy that focuses on use cases with the highest potential business ROI, transforming it from a feature into a competitive advantage."
+    },
+    {
+     "t": "p",
+     "text": "How do we \"fix\" hybrid meetings to be more effective and inclusive?"
+    },
+    {
+     "t": "p",
+     "text": "How do we enable a 'work from anywhere' culture without increasing our security risks?"
+    },
+    {
+     "t": "p",
+     "text": "How does our digital workplace impact employee engagement and retention?"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "People Potential"
+    },
+    {
+     "t": "p",
+     "text": "Schedule a strategic session with our Modern Work architects to design the blueprint for a more productive, collaborative, and intelligent workplace"
+    },
+    {
+     "t": "link",
+     "text": "Book a Modern Work Strategy Session",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

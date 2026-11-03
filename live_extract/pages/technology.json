@@ -1,0 +1,248 @@
+{
+ "path": "/technology",
+ "url": "https://www.quadrasystems.net/technology",
+ "title": "Enterprise Cloud Technology Consulting | Quadra",
+ "description": "Quadra's enterprise cloud technology practice spans Microsoft, AWS, Google Cloud, Hybrid Cloud, Cybersecurity, and Intelligent Platform solutions — delivering secure, scalable, and outcome-driven transformation across Asia Pacific and beyond.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Technology Platforms:"
+    },
+    {
+     "t": "h1",
+     "text": "AWS, Azure, Google Cloud, Hybrid & Cybersecurity"
+    },
+    {
+     "t": "p",
+     "text": "We are premier partners with the world's leading technology innovators. Our deep, certified expertise across Microsoft, AWS, Google Cloud, and more allows us to architect the right solution for your ambition, not just the one in a single catalog"
+    }
+   ]
+  },
+  {
+   "name": "Hero",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Best-Fit Architecture,"
+    },
+    {
+     "t": "h2",
+     "text": "Not a Forced Fit"
+    },
+    {
+     "t": "p",
+     "text": "The modern enterprise is a complex, multi-cloud ecosystem. A one-size-fits-all approach from a single vendor is a strategy for the past. Our philosophy is to be your unbiased, vendor-agnostic architect. Our deep, certified expertise across competing and complementary platforms is your greatest advantage. It guarantees that the blueprint we design is driven by one thing only: what is best for your business, your users, and your budget."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lBabFIdSN53VpUYZJdpdychgYw.jpeg",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Scroll Cards",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Explore Our"
+    },
+    {
+     "t": "h2",
+     "text": "Architectural Expertise"
+    },
+    {
+     "t": "p",
+     "text": "Discover how we leverage our premier partnerships to architect value on the platforms that power the global economy"
+    },
+    {
+     "t": "h2",
+     "text": "Microsoft"
+    },
+    {
+     "t": "p",
+     "text": "We leverage our unparalleled expertise across the entire Microsoft Cloud—from Cloud & AI Platforms to AI Business Solutions and Security—to architect a truly integrated and intelligent enterprise"
+    },
+    {
+     "t": "p",
+     "text": "An unprecedented"
+    },
+    {
+     "t": "p",
+     "text": "20 Consecutive Years of Microsoft Global Recognition"
+    },
+    {
+     "t": "link",
+     "text": "Explore Our Microsoft Practice",
+     "href": "./technology/microsoft"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mKfMJgVVsviqEkZWCplTB85UY.jpg",
+     "alt": "a glass of beer",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "AWS"
+    },
+    {
+     "t": "p",
+     "text": "As an AWS Premier Partner, we architect for agility and innovation. We build scalable, resilient, and data-driven solutions on the world's leading cloud platform."
+    },
+    {
+     "t": "p",
+     "text": "AWS Premier Partner – The highest tier of partnership"
+    },
+    {
+     "t": "link",
+     "text": "Explore Our AWS Practice",
+     "href": "./technology/aws"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zGRccuIWzAQnkrvey13UGjjiQo.jpeg",
+     "alt": "a close up of a dice with an amazon logo on it",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "We architect for data-driven intelligence. We leverage Google Cloud's market-leading capabilities in data, analytics, and AI to build the intelligent engine for your enterprise"
+    },
+    {
+     "t": "p",
+     "text": "Google Cloud Premier Sell and Service Partner with deep data specializations"
+    },
+    {
+     "t": "link",
+     "text": "Explore Our Google Cloud Practice",
+     "href": "./technology/google-cloud"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zUHkVa58AplFwtVGGLab4XlWFw.jpg",
+     "alt": "The logo for google is shown on a wall",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Cybersecurity"
+    },
+    {
+     "t": "p",
+     "text": "We architect a holistic, resilient defense. We integrate best-of-breed technologies from the world's leading security vendors to create a single, unified, and fortified enterprise."
+    },
+    {
+     "t": "p",
+     "text": "Top-tier partnerships with Crowdstrike, Fortinet, ZScaler, and more"
+    },
+    {
+     "t": "link",
+     "text": "Explore Our Cybersecurity Practice",
+     "href": "./technology/cyber-security"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3RWWpsCoe4jB4oDJR3Mp6PpasE.jpg",
+     "alt": "person using black laptop computer",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Hybrid Cloud & Digital Work"
+    },
+    {
+     "t": "p",
+     "text": "We architect your hybrid freedom. We design seamless, productive, and resilient digital environments using our deep expertise across VMware, Citrix, Veeam, and more."
+    },
+    {
+     "t": "p",
+     "text": "Premier partnerships with all leaders in virtualization and data resilience."
+    },
+    {
+     "t": "link",
+     "text": "Explore Our Hybrid Cloud Practice",
+     "href": "./technology/hybrid-cloud"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GjuCEc3VTzQ5osnFXD5Vu6Tx8Y.jpg",
+     "alt": "MacBook Pro on table beside white iMac and Magic Mouse",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Thread That Connects Our Practices"
+    },
+    {
+     "t": "p",
+     "text": "Our value is not just in knowing one platform, but in understanding how they all work together"
+    },
+    {
+     "t": "p",
+     "text": "Unbiased Architectural Guidance"
+    },
+    {
+     "t": "p",
+     "text": "Our multi-cloud expertise ensures the solutions we recommend are always in your best interest."
+    },
+    {
+     "t": "p",
+     "text": "Deep Integration Expertise"
+    },
+    {
+     "t": "p",
+     "text": "A Stable Team of Certified Architects"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vMjZGwaUemcmSrU6Z0VXzc4Epmg.jpg",
+     "alt": "two women sitting at a table looking at a computer screen",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Unbiased Architectural Guidance"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Architect Your"
+    },
+    {
+     "t": "h2",
+     "text": "Technology Future?"
+    },
+    {
+     "t": "p",
+     "text": "Let's have a strategic conversation about the right platform and architecture for your enterprise ambition."
+    },
+    {
+     "t": "link",
+     "text": "Talk to Our Architects",
+     "href": "./contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

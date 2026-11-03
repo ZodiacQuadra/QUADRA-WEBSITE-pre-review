@@ -1,0 +1,385 @@
+{
+ "path": "/newsroom/increase-business-agility-by-up-to-45-percentage-with-google-cloud-vmware-engine",
+ "url": "https://www.quadrasystems.net/newsroom/increase-business-agility-by-up-to-45-percentage-with-google-cloud-vmware-engine",
+ "title": "Increase business agility by up to 45% with Google Cloud VMware Engine",
+ "description": "Companies are constantly searching for ways to improve their operations and stay ahead of the competition. One way to achieve this is by...",
+ "ogImage": "https://framerusercontent.com/images/AbkFxObb5wF1ypjEvBdgHNg47ms.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Increase business agility by up to 45% with Google Cloud VMware Engine"
+    },
+    {
+     "t": "p",
+     "text": "Increase business agility by up to 45% with Google Cloud VMware Engine"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/AbkFxObb5wF1ypjEvBdgHNg47ms.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Companies are constantly searching for ways to improve their operations and stay ahead of the competition. One way to achieve this is by..."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "As the business world becomes increasingly digital, the need for efficient and reliable cloud computing solutions becomes paramount."
+    },
+    {
+     "t": "p",
+     "text": "Companies are constantly searching for ways to improve their operations and stay ahead of the competition."
+    },
+    {
+     "t": "p",
+     "text": "One way to achieve this is by leveraging the power of the cloud."
+    },
+    {
+     "t": "p",
+     "text": "One of the most popular and widely used cloud platforms is Google Cloud, and its latest offering - Google Cloud VMware Engine - is set to revolutionize the way businesses operate."
+    },
+    {
+     "t": "p",
+     "text": "This powerful platform allows businesses to run their existing VMware-based applications on Google Cloud, providing a seamless and secure experience."
+    },
+    {
+     "t": "p",
+     "text": "In this blog, we will explore:"
+    },
+    {
+     "t": "p",
+     "text": "1. The various features and benefits of Google Cloud VMware Engine."
+    },
+    {
+     "t": "p",
+     "text": "2. How it can help businesses to improve their operations and stay competitive in today's fast-paced digital landscape."
+    },
+    {
+     "t": "h4",
+     "text": "Introducing Google Cloud VMware Engine"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/jcyWAqlOj2weqJKj6e1dwSEpoU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A fully managed service that lets you run the VMware platform in Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Bring your VMware-based environments to Google Cloud without major modifications"
+    },
+    {
+     "t": "p",
+     "text": "Management, networking services, operating platform, and backend infrastructure run at scale by Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Sold and supported by Google."
+    },
+    {
+     "t": "h4",
+     "text": "What you get with VMware Engine"
+    },
+    {
+     "t": "p",
+     "text": "Built-in virtual private cloud networking"
+    },
+    {
+     "t": "p",
+     "text": "Direct, high-speed access to all Google Cloud services, including BigQuery, Anthos, Cloud Operations, and Cloud Storage"
+    },
+    {
+     "t": "p",
+     "text": "End-to-end Google Cloud support"
+    },
+    {
+     "t": "p",
+     "text": "Sold on the basis of hyperconverged nodes."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ybcY7YYSYfcWBjZ7WugPLrPQLms.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A note on node sizes:"
+    },
+    {
+     "t": "p",
+     "text": "Larger nodes give better density and lower TCO."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/jkMUDyDP41qkoVDhnHoz0FVJWU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "In a nutshell"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/2CFj6P7fWOxTVG3VAr2i63zM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Why Google Cloud VMware Engine - one level deeper"
+    },
+    {
+     "t": "p",
+     "text": "Single relationship"
+    },
+    {
+     "t": "p",
+     "text": "One-stop shop: Google operated and supported service."
+    },
+    {
+     "t": "p",
+     "text": "Unified billing, identity and access management just like any other Google Cloud service"
+    },
+    {
+     "t": "p",
+     "text": "Cloud-integrated"
+    },
+    {
+     "t": "p",
+     "text": "Ability to support complex networking topologies, while leveraging Google Cloud native networking with minimal overhead"
+    },
+    {
+     "t": "p",
+     "text": "Private access to rich Google Cloud services like BigQuery, Google Cloud operations suite, Cloud Storage, and more"
+    },
+    {
+     "t": "p",
+     "text": "Cloud-optimized"
+    },
+    {
+     "t": "p",
+     "text": "Enterprise grade redundancy and reliability in Google Cloud"
+    },
+    {
+     "t": "p",
+     "text": "Up to 64 nodes per private cloud supporting large scale architectures"
+    },
+    {
+     "t": "p",
+     "text": "High-performance 100 Gbps networking, with no oversubscription and with redundant switching"
+    },
+    {
+     "t": "p",
+     "text": "Fast provisioning—add capacity in about 30 minutes, on demand"
+    },
+    {
+     "t": "p",
+     "text": "Highest availability - 99.99% uptime for a cluster in a single zone, without the need to create stretched clusters."
+    },
+    {
+     "t": "p",
+     "text": "Ecosystem flexibility"
+    },
+    {
+     "t": "p",
+     "text": "Unique flexibility in supporting wide ecosystem of Google, VMware, and third-party tools."
+    },
+    {
+     "t": "p",
+     "text": "Elevated vSphere privileges let you customize VMs for application needs."
+    },
+    {
+     "t": "p",
+     "text": "Lower TCO"
+    },
+    {
+     "t": "p",
+     "text": "Superior CPU oversubscription capabilities - lowers cost of infrastructure. ‍"
+    },
+    {
+     "t": "p",
+     "text": "38% TCO savings compared to on-premises and compelling storage/core/$ and memory/core/$ due to SKU configuration."
+    },
+    {
+     "t": "p",
+     "text": "External storage options along with third-party DR, backup solution providers like NetApp, Zerto, Veeam, Actifio, SRM"
+    },
+    {
+     "t": "p",
+     "text": "Security"
+    },
+    {
+     "t": "p",
+     "text": "Single vendor model and security posture"
+    },
+    {
+     "t": "p",
+     "text": "End-to-end security from point of origin to destination with capabilities such as Interconnect, NSX-T micro-segmentation, vSan encryption using third-party external KMS (CMEK) and Google Cloud Key Management Service (KMS)"
+    },
+    {
+     "t": "h4",
+     "text": "The efficiency of VMware Engine can unblock the larger app migration initiative."
+    },
+    {
+     "t": "p",
+     "text": "1. Ease migration."
+    },
+    {
+     "t": "p",
+     "text": "Move VMware workloads to the cloud as-is."
+    },
+    {
+     "t": "p",
+     "text": "No refactoring."
+    },
+    {
+     "t": "p",
+     "text": "Maintain continuity."
+    },
+    {
+     "t": "p",
+     "text": "2. Lower costs."
+    },
+    {
+     "t": "p",
+     "text": "Deliver efficiency."
+    },
+    {
+     "t": "p",
+     "text": "Leverage Google Cloud economies of scale."
+    },
+    {
+     "t": "p",
+     "text": "3. Run securely."
+    },
+    {
+     "t": "p",
+     "text": "Run with confidence."
+    },
+    {
+     "t": "p",
+     "text": "Provide best in class security."
+    },
+    {
+     "t": "p",
+     "text": "4. Create operational agility."
+    },
+    {
+     "t": "p",
+     "text": "Operational continuity"
+    },
+    {
+     "t": "p",
+     "text": "Unified management"
+    },
+    {
+     "t": "p",
+     "text": "5. Innovate"
+    },
+    {
+     "t": "p",
+     "text": "Build on Google Cloud services."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/S58MaBF6H79gmhCKAutVbxKCRY.png",
+     "alt": "",
+     "w": 190
+    },
+    {
+     "t": "h4",
+     "text": "Google can reduce your VMware environment TCO by 25% or more."
+    },
+    {
+     "t": "p",
+     "text": "*Example calculation based on 200 VMs, 8 hosts, 2 FTE needed to operate on-premises infrastructure"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/JWRiMaEbRkBtBX54d1Gzwpj2Q.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "What Google Cloud can do for VMware workloads."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Lb0T8cInGnyoVmkFz0N0zmCcM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Delivering for a variety of customer use cases."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tJs5bZgHtxhd29pKpLxyYSCdpY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Delivering on the promise of Cloud Economics and Speed."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vNNyeW4qqNzc0ADw7sN9GYKXpA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Conclusion"
+    },
+    {
+     "t": "p",
+     "text": "Google Cloud VMware Engine offers a powerful and flexible solution for businesses looking to migrate their on-premises workloads to the cloud, with the ability to run VMware environments natively on Google Cloud, businesses can take advantage of the scalability, security, and cost-efficiency of the cloud while maintaining consistency and compatibility with their existing infrastructure."
+    },
+    {
+     "t": "p",
+     "text": "And leads to easily lift and shift your VMware-based applications to Google Cloud without changes to your apps, tools, or processes. Includes all the hardware and VMware licenses to run in a dedicated VMware SDDC in Google Cloud."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

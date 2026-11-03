@@ -1,0 +1,321 @@
+{
+ "path": "/newsroom/achieve-data-security-and-scalability-with-google-cloud-storage-a-business-guide",
+ "url": "https://www.quadrasystems.net/newsroom/achieve-data-security-and-scalability-with-google-cloud-storage-a-business-guide",
+ "title": "Achieve Data Security and Scalability with Google Cloud Storage: A Business Guide",
+ "description": "Whether you're new to cloud storage or an experienced user, this guide will walk you through the process of creating a new storage bucket, uploading files, and managing your data in the cloud.",
+ "ogImage": "https://framerusercontent.com/images/PvygzHOkj3RCFPVJaNbSYzbLJU.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Achieve Data Security and Scalability with Google Cloud Storage: A Business Guide"
+    },
+    {
+     "t": "p",
+     "text": "Achieve Data Security and Scalability with Google Cloud Storage: A Business Guide"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/PvygzHOkj3RCFPVJaNbSYzbLJU.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Whether you're new to cloud storage or an experienced user, this guide will walk you through the process of creating a new storage bucket, uploading files, and managing your data in the cloud."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "In today's business world, data security and scalability are essential for success. Companies must protect sensitive information from cyber threats while also being able to quickly and easily access and process large amounts of data."
+    },
+    {
+     "t": "p",
+     "text": "This is where Google Cloud Storage comes in. This powerful platform offers businesses a secure and scalable solution for storing and managing data in the cloud"
+    },
+    {
+     "t": "p",
+     "text": "In this step-by-step guide, we will show you how to set up Google Cloud Storage and start using it to store and access your data in the cloud."
+    },
+    {
+     "t": "p",
+     "text": "Whether you're new to cloud storage or an experienced user, this guide will walk you through the process of creating a new storage bucket, uploading files, and managing your data in the cloud. So, let's get started and explore the world of cloud storage with Google Cloud Storage!"
+    },
+    {
+     "t": "h4",
+     "text": "Cloud storage Use case"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gWI7geTpoBX5XWvC30rezdiRQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In this blog we are going to configure GCS (Google Cloud Storage) in Google Cloud console,"
+    },
+    {
+     "t": "h4",
+     "text": "Pre – requisites:"
+    },
+    {
+     "t": "p",
+     "text": "Google cloud project"
+    },
+    {
+     "t": "p",
+     "text": "Billing account mapped to the project"
+    },
+    {
+     "t": "p",
+     "text": "Owner permission for the project"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Storage and Cloud Storage API enabled."
+    },
+    {
+     "t": "h4",
+     "text": "Configuration Steps:"
+    },
+    {
+     "t": "p",
+     "text": "Go to Google cloud console page and search for cloud storage in the list of services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dEUNPRxbO9vd5ynC4hOmV6nEcE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "After clicking Buckets, the dashboard will be shown here where you can see the list of buckets that are created in your projects, click CREATE."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/A98hd2Kh0VudkhvhbSTY3F5R84.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "You will be asked to fill the details for your bucket,"
+    },
+    {
+     "t": "p",
+     "text": "1. Name your bucket: Give a globally unique name"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/P79vioKcjHX6K8cz0IcUjvzPGQg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "2. Choose where to store your data: Choose the region where your data should be residing,"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Fkgy2E6nzVUHmJtKYHXsNTtvrGE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. Choose a storage class for your data: Choose your storage which suits your business requirement"
+    },
+    {
+     "t": "p",
+     "text": "a) Autoclass: Autoclass will transit each object to hotter or colder based on object-level activity, it will be used for optimization and to reduce latency"
+    },
+    {
+     "t": "p",
+     "text": "b) Standard: frequently accessed data, data retrieve is free"
+    },
+    {
+     "t": "p",
+     "text": "c) Nearline: data that are accessed once in a month"
+    },
+    {
+     "t": "p",
+     "text": "d) Coldline: data that are accessed once in 3 months"
+    },
+    {
+     "t": "p",
+     "text": "e) Archive: data that are accessed once a year"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/07BSq1FqX4esaLpc3tLJ3uRsFw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "4. Choose how to control access to objects: Choose the access control methods for your objects in the buckets"
+    },
+    {
+     "t": "p",
+     "text": "A) Check public prevention for the bucket if you are not using the bucket for public"
+    },
+    {
+     "t": "p",
+     "text": "B) Uniform: It’s a bucket level permission applies to all objects"
+    },
+    {
+     "t": "p",
+     "text": "C) Fine-Grained: It’s a object level permission applies to individual objects"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GG0lSONV4oFUE9UCFw5Fh1OkBo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "5. Choose how to protect object data: Choose how to protect your data"
+    },
+    {
+     "t": "p",
+     "text": "A) Versioning: Create a version for all objects"
+    },
+    {
+     "t": "p",
+     "text": "B) Retention: used for accidental deletion, it can be in days/months/years"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/g5W6NCBIgnUAVa4Bu5CAUpKl4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "6. Click CREATE, your bucket will be created in the specified region"
+    },
+    {
+     "t": "p",
+     "text": "After creating the bucket, you will be able to see the bucket related details in the dashboard."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HtHtP81igK94kKkFOzk4hJu4Yk.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In the objects folder you can be able to do the following:"
+    },
+    {
+     "t": "p",
+     "text": "UPLOAD FILES: Directly upload your files from your local machine."
+    },
+    {
+     "t": "p",
+     "text": "UPLOAD FOLDER: Directly upload folders from your local machine."
+    },
+    {
+     "t": "p",
+     "text": "CREATE FOLDER: Create a folder directly in cloud storage."
+    },
+    {
+     "t": "p",
+     "text": "TRANSFER DATA: To transfer data in or out."
+    },
+    {
+     "t": "p",
+     "text": "DELETE: Delete the selected file or folder"
+    },
+    {
+     "t": "p",
+     "text": "In the configuration folder, you will be able to see the bucket details."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/AWVObgehRmzHW6gi1zvOy2jnBoM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In the permissions tab, you can grant access to the users you want, or you can make your bucket publicly accessible."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/hTqXvTjiU83PsMbSmNXnJKjhIU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In the protection tab, if you have configured versioning or retention for your bucket’s, you can be able to see those details,"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Iq2ltgiFw1whXn72KApq7uQft3U.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In the Lifecycle tab, you can be able to set policies for your data whether to delete the data after a certain period or change the storage class type after certain days or based on version type."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xasTt4iQ09tI3f7ci1Xgi5Q9qU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In the observability tab, you can see the dashboard of your required data for the buckets"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GKwWpURpRqZNgJnQF2j86qP675Y.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Conclusions:"
+    },
+    {
+     "t": "p",
+     "text": "We were able to create a bucket with required permission for the data that are residing in it, we have also configured security policies and monitoring for our bucket."
+    },
+    {
+     "t": "p",
+     "text": "Additional info: One pager with 360-degree coverage on Google Cloud Storage"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dDxwx2RJFsQOxoQTa87Sc0Iwko.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

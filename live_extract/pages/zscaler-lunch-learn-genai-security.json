@@ -1,0 +1,227 @@
+{
+ "path": "/zscaler-lunch-learn-genai-security",
+ "url": "https://www.quadrasystems.net/zscaler-lunch-learn-genai-security",
+ "title": "Join Us: Securing the Era of GenAI | Zscaler Lunch & Learn",
+ "description": "Step into the future with “Securing the Era of GenAI,” a Lunch & Learn by Zscaler. Discover how to safely adopt AI, protect data, and modernize security—while networking with experts over lunch.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Securing the Era of GenAI"
+    },
+    {
+     "t": "h2",
+     "text": "Empower Innovation. Eliminate Risk. Master the Security of Generative AI."
+    },
+    {
+     "t": "link",
+     "text": "Register Now Register Now",
+     "href": "https://forms.office.com/Pages/ResponsePage.aspx?id=YR6aqZzWWESbyrmFfiWHcpzA0FG-YYhNjtAyc_TtfJlUMlA4TUg2NUVMUlRFVE9GOUVHRkI2Qk9HRS4u"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9zugimb1megJvxRYlImWW7bMmUU.jpg",
+     "alt": "people sitting down near table with assorted laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "28 April 2026, Tuesday"
+    },
+    {
+     "t": "h5",
+     "text": "Zscaler Corporate Office Bren Optimus, 3rd Floor, 8/2 Dr. M.H. Marigowda Road Dairy Colony, Adugodi, Bengaluru – 560029"
+    },
+    {
+     "t": "h5",
+     "text": "10:00 AM – 1:30 PM"
+    }
+   ]
+  },
+  {
+   "name": "About",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "About the event"
+    },
+    {
+     "t": "p",
+     "text": "As enterprises race to adopt GenAI, the line between productivity and data exposure has blurred."
+    },
+    {
+     "t": "p",
+     "text": "Join us for an exclusive session to bridge the gap between AI innovation and enterprise security, exploring how Zscaler’s Zero Trust architecture eliminates the risks of data leakage and Shadow AI."
+    }
+   ]
+  },
+  {
+   "name": "Speakers",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Speakers"
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/amit-raaj/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/RTKwcvGsgePYxPpvAFDbhpXGBo.jpg",
+       "alt": "",
+       "w": 400
+      },
+      {
+       "t": "h5",
+       "text": "Amit raj"
+      },
+      {
+       "t": "p",
+       "text": "Saler Engineer - SASE & Secure Networking"
+      },
+      {
+       "t": "p",
+       "text": "Zscaler"
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "https://www.linkedin.com/in/krishnajeth-ms-a51a4964/",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/YBlhtJVQBtyWr6XpCAsbTmPjl7k.png",
+       "alt": "",
+       "w": 1870
+      },
+      {
+       "t": "h5",
+       "text": "Krishnajeth M S"
+      },
+      {
+       "t": "p",
+       "text": "Vice President - Cyber Security Group"
+      },
+      {
+       "t": "p",
+       "text": "Quadrasystems"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Agenda"
+    },
+    {
+     "t": "link",
+     "text": "Register Now",
+     "href": "https://forms.office.com/Pages/ResponsePage.aspx?id=YR6aqZzWWESbyrmFfiWHcpzA0FG-YYhNjtAyc_TtfJlUMlA4TUg2NUVMUlRFVE9GOUVHRkI2Qk9HRS4u"
+    },
+    {
+     "t": "h5",
+     "text": "Welcome Note & Registration"
+    },
+    {
+     "t": "p",
+     "text": "Zscaler & Quadra"
+    },
+    {
+     "t": "p",
+     "text": "10:00 AM – 10:15 AM"
+    },
+    {
+     "t": "h5",
+     "text": "The Rise of GenAI in the Enterprise Ecosystem"
+    },
+    {
+     "t": "p",
+     "text": "Krishnajeth M S"
+    },
+    {
+     "t": "p",
+     "text": "10:15 AM – 11:00 AM"
+    },
+    {
+     "t": "h5",
+     "text": "Understanding GenAI Security Risks – Data Exposure, Shadow AI & Compliance"
+    },
+    {
+     "t": "p",
+     "text": "Amit raj"
+    },
+    {
+     "t": "p",
+     "text": "11:00 AM – 11:45 AM"
+    },
+    {
+     "t": "h5",
+     "text": "How Zscaler Enables Secure GenAI Adoption"
+    },
+    {
+     "t": "p",
+     "text": "Amit raj"
+    },
+    {
+     "t": "p",
+     "text": "11:45 AM – 12:15 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Architecture & Approach for Safe AI Usage"
+    },
+    {
+     "t": "p",
+     "text": "Amit raj"
+    },
+    {
+     "t": "p",
+     "text": "12:15 PM – 12:45 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Customer Use Cases & Best Practices"
+    },
+    {
+     "t": "p",
+     "text": "Amit raj"
+    },
+    {
+     "t": "p",
+     "text": "12:45 PM – 01:10 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Open Q&A"
+    },
+    {
+     "t": "p",
+     "text": "Amit raj"
+    },
+    {
+     "t": "p",
+     "text": "01:10 PM – 01:30 PM"
+    },
+    {
+     "t": "h5",
+     "text": "Networking Lunch"
+    },
+    {
+     "t": "p",
+     "text": "01:30 PM Onwards"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

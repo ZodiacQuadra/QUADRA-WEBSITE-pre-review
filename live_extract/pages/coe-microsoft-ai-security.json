@@ -1,0 +1,121 @@
+{
+ "path": "/coe-microsoft-ai-security",
+ "url": "https://www.quadrasystems.net/coe-microsoft-ai-security",
+ "title": "Quadra CoE for Microsoft AI & Security",
+ "description": "Explore Quadra’s AI and security offerings. Share your interests, and our team will connect with you to arrange a relevant session.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "QUADRA COE FOR MICROSOFT AI & SECURITY"
+    },
+    {
+     "t": "h1",
+     "text": "Discover what’s possible for your business."
+    },
+    {
+     "t": "p",
+     "text": "Explore Quadra’s AI and security offerings. Share your interests, and our team will connect with you to arrange a relevant session."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/aCC0Upfx5MWW5dVVZQReLgQHAw.webp",
+     "alt": "IntelliXperience",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5GeeFwpaMCbWLbQfvPGHa5N2Pc.webp",
+     "alt": "BluForge IntelliGuard",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nAZKwoYDB0TyLLt6SV7jn9CE5ZE.webp",
+     "alt": "IntelliAssure",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ArawqTUd3NmVIRnmjAAilnA3zvQ.png",
+     "alt": "Quadra AIR",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Form",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let’s start a conversation."
+    },
+    {
+     "t": "p",
+     "text": "Full name*"
+    },
+    {
+     "t": "p",
+     "text": "Work email*"
+    },
+    {
+     "t": "p",
+     "text": "Organisation*"
+    },
+    {
+     "t": "p",
+     "text": "Which offering interests you?*"
+    },
+    {
+     "t": "p",
+     "text": "Select an offering:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/aCC0Upfx5MWW5dVVZQReLgQHAw.webp",
+     "alt": "IntelliXperience",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nAZKwoYDB0TyLLt6SV7jn9CE5ZE.webp",
+     "alt": "IntelliAssure",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5GeeFwpaMCbWLbQfvPGHa5N2Pc.webp",
+     "alt": "BluForge IntelliGuard",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ArawqTUd3NmVIRnmjAAilnA3zvQ.png",
+     "alt": "Quadra AIR",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Help me choose"
+    },
+    {
+     "t": "p",
+     "text": "What would you like to explore? (Optional)"
+    },
+    {
+     "t": "p",
+     "text": "By submitting, you agree to be contacted by Quadra about your enquiry. Privacy Policy"
+    },
+    {
+     "t": "p",
+     "text": "Request a session"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,116 @@
+{
+ "path": "/happy/portal-extends-erp-functionality",
+ "url": "https://www.quadrasystems.net/happy/portal-extends-erp-functionality",
+ "title": "Architecting a Smart Portal to Extend ERP Functionality and Reduce Costs",
+ "description": "Architected and built a custom portal solution that leveraged existing investments to provide seamless, integrated access to ERP workflows, saving significant licensing costs.",
+ "ogImage": "https://framerusercontent.com/images/cQXAWjjLCAASDiyQvnvkUHNaUDE.jpeg?width=4000&height=2667",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Smart Portal to Extend ERP Functionality and Reduce Costs"
+    },
+    {
+     "t": "p",
+     "text": "Information Technology"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cQXAWjjLCAASDiyQvnvkUHNaUDE.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A large engineering and IT services provider working on a project for a major manufacturer of heavy electrical equipment."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To extend critical ERP workflows to a wider group of users without incurring the prohibitively high cost of additional ERP licenses."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and built a custom portal solution that leveraged existing investments to provide seamless, integrated access to ERP workflows, saving significant licensing costs."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A large engineering and IT services provider working on a project for a major manufacturer of heavy electrical equipment."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The core challenge was cost. While their SAP ERP was a powerful and essential system, deploying full licenses to every user who needed occasional access to specific workflows was not financially feasible. They had made a significant investment in a separate collaboration platform (SharePoint) but lacked a way to integrate the two systems to solve this business problem."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to improve collaboration and efficiency by extending key specification and costing workflows from their core SAP system to additional users. They needed a solution that could achieve this business goal in a highly cost-effective manner, avoiding millions in potential software licensing fees."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The integrated portal was a significant win, delivering the full required business functionality at a minimal incremental cost. The solution successfully broke down the technology silos, allowing the client to leverage their existing investments to solve a critical business need. Multiple complex approval processes were automated, enhancing team productivity. Most importantly, this was achieved without impacting the uptime of their mission-critical production ERP system."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Saved Significant Costs on ERP Licensing"
+    },
+    {
+     "t": "p",
+     "text": "Maximized ROI on Existing Technology Investments"
+    },
+    {
+     "t": "p",
+     "text": "Seamlessly Integrated Disparate Enterprise Systems"
+    },
+    {
+     "t": "p",
+     "text": "Automated Complex Workflows for Enhanced Productivity"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

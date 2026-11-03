@@ -1,0 +1,161 @@
+{
+ "path": "/technology/hybrid-cloud/digital-workspace",
+ "url": "https://www.quadrasystems.net/technology/hybrid-cloud/digital-workspace",
+ "title": "Digital Workspace: Architect the Secure 'Work from Anywhere | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Digital Workspace"
+    },
+    {
+     "t": "h1",
+     "text": "'Work from Anywhere' Experience"
+    },
+    {
+     "t": "p",
+     "text": "We architect and deliver secure, scalable, and high-performance virtual desktop and application solutions that empower today’s hybrid workforce and provide a seamless, productive user experience on any device."
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "Balancing"
+    },
+    {
+     "t": "h2",
+     "text": "Productivity, Security, and Experience"
+    },
+    {
+     "t": "p",
+     "text": "The modern workplace demands flexibility, but delivering it securely and with a great user experience is a complex architectural challenge"
+    },
+    {
+     "t": "h6",
+     "text": "How do we deliver a consistent, high-performance experience to users on any device, in any location?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we secure corporate data and enforce compliance in a distributed, BYOD-friendly environment?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we efficiently scale our infrastructure to support a dynamic, hybrid workforce?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Secure, Productive Workspace"
+    },
+    {
+     "t": "p",
+     "text": "Our approach designs a flexible digital workspace architecture that supports hybrid work with centralized management and robust, layered security"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Engineer"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Architect for a Consistent & High-Performance User Experience"
+    },
+    {
+     "t": "p",
+     "text": "We implement intelligent traffic management and adaptive display protocols to ensure low latency and superior responsiveness across all network conditions for every application"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uTnqXU77SlhQo1Y7DYETklMk.jpeg",
+     "alt": "person in black long sleeve shirt using macbook pro",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Digital Workspace Architecture Capabilities"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DdLX7OlmEJ1Oqd6cYfowLw1VaCk.jpeg",
+     "alt": "person sitting front of laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Virtual Desktop & Application Delivery (Citrix, Omnissa)"
+    },
+    {
+     "t": "p",
+     "text": "Architecting flexible, high-performance VDI and DaaS solutions."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fatU8r6ZUyOYqUTE5ZJUNKVzts.jpeg",
+     "alt": "a laptop computer sitting on top of a desk",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Unified Endpoint Management (UEM) (Citrix, Omnissa)"
+    },
+    {
+     "t": "p",
+     "text": "Managing iOS, Android, Windows, macOS, and Linux devices with unified policy enforcement."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/eTqsBP9rbc4KBn2u1okua6xvdU.jpg",
+     "alt": "black flat screen computer monitor turned on beside black computer keyboard",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Secure File Sharing & Collaboration"
+    },
+    {
+     "t": "p",
+     "text": "Building flexible, policy-driven storage and network virtualization."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vuP3WfN2z73iXjVUlleWgtCYJ3M.jpeg",
+     "alt": "man sitting facing silver MacBook inside room",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Secure Application Delivery (Citrix NetScaler)"
+    },
+    {
+     "t": "p",
+     "text": "Ensuring high availability and robust security for all your delivered applications with an intelligent application delivery fabric."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

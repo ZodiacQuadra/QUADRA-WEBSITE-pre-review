@@ -1,0 +1,137 @@
+{
+ "path": "/why-quadra",
+ "url": "https://www.quadrasystems.net/why-quadra",
+ "title": "Why Quadra | 20-Year Microsoft Gold Partner | Proven Excellence",
+ "description": "A 20-year Microsoft Gold Partner, Quadra is a proven enterprise technology partner trusted for excellence, expertise, and impact.",
+ "ogImage": "https://framerusercontent.com/assets/qC8HQ6ILLNzRtpl2ebMimsc5yE.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Why Choose Quadra"
+    },
+    {
+     "t": "h1",
+     "text": "Proven Partner, Measurable Results"
+    },
+    {
+     "t": "p",
+     "text": "Technology can be bought. Trust must be earned. For 25 years, we have served as the strategic partner for the world's leading enterprises, architecting the intelligent, secure, and resilient systems that transform ambition into lasting advantage"
+    }
+   ]
+  },
+  {
+   "name": "Tabs/style-1",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Is Your Infrastructure an Accelerator or an Anchor?"
+    },
+    {
+     "t": "p",
+     "text": "We partner with leaders who are asking the tough but essential questions about their technology foundation"
+    }
+   ]
+  },
+  {
+   "name": "Desktop",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Our Story"
+    },
+    {
+     "t": "h2",
+     "text": "A 25-Year Journey of Evolution & Trust"
+    },
+    {
+     "t": "p",
+     "text": "We have navigated every major technology shift of the last quarter-century, not by following trends, but by leading our partners through them. Our history is the foundation of your future, defined by an unparalleled record of consistency and excellence"
+    },
+    {
+     "t": "link",
+     "text": "Discover Our Story & Values",
+     "href": "./why-quadra/our-story"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xpx7XAPqal1XW3bSeawgBcWToA.jpg",
+     "alt": "person in black long sleeve shirt holding persons hand",
+     "w": 1440
+    },
+    {
+     "t": "p",
+     "text": "Our Culture"
+    },
+    {
+     "t": "h2",
+     "text": "Your Enduring Advantage"
+    },
+    {
+     "t": "p",
+     "text": "Our single greatest asset is our people—and their remarkable longevity with us. In an industry of transience, we have built a culture of stability. This provides our partners with what money can't buy: a consistent, deeply experienced team invested in your long-term success"
+    },
+    {
+     "t": "link",
+     "text": "Learn About Our Culture of Partnership",
+     "href": "./why-quadra/how-we-partner"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yN6McZObwg1NUsTnQuu9PGyXM.jpg",
+     "alt": "unknown person using laptop",
+     "w": 1440
+    },
+    {
+     "t": "p",
+     "text": "Our Leadership"
+    },
+    {
+     "t": "h2",
+     "text": "Visionaries with a Vested Interest"
+    },
+    {
+     "t": "p",
+     "text": "Our leadership team is comprised of hands-on architects and strategists who are deeply engaged in our partners' success. They foster our culture and guide our vision with a clear, singular focus: to be the most trusted and impactful technology partner for your enterprise ambition."
+    },
+    {
+     "t": "link",
+     "text": "Meet Our Leadership Team",
+     "href": "./why-quadra/leadership"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HZW1G1WAkfINmwxSgQ1D1f0JS4M.jpg",
+     "alt": "woman in brown coat using macbook air",
+     "w": 1440
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Let's Build a"
+    },
+    {
+     "t": "h2",
+     "text": "Partnership That Lasts"
+    },
+    {
+     "t": "p",
+     "text": "Discover how a partnership with Quadra can provide the foundation for your enterprise's next great achievement"
+    },
+    {
+     "t": "link",
+     "text": "Start a Dialogue",
+     "href": "./contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,387 @@
+{
+ "path": "/technology/aws/aws-security-assessment-compliance",
+ "url": "https://www.quadrasystems.net/technology/aws/aws-security-assessment-compliance",
+ "title": "AWS Security Assessment & Compliance: Quadra SecureCloud | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Security Assessment"
+    },
+    {
+     "t": "h1",
+     "text": "Assess. Fix. Prove It."
+    },
+    {
+     "t": "p",
+     "text": "Our Quadra SecureCloud Security Assessment transforms uncertainty into evidence. We combine AWS Well-Architected Framework Reviews with automated posture scanning to show you exactly where you’re exposed — and back it with remediation plans your team can act on the same week."
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Is Your Cloud Actually Secure, or Does It Just Feel Secure?"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/E93yzTEH9WgGulJg8lSxKuQ8.jpeg",
+     "alt": "group of people with laptops",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we know where we're exposed?"
+    },
+    {
+     "t": "p",
+     "text": "Most teams are flying on assumptions, not evidence. You need a systematic review across IAM, network, data, and logging not a checklist, a real posture assessment mapped to AWS Foundational Security Best Practices and the Well-Architected Security Pillar."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ncOnt2OvGPzOsKqBTcIzpOAdBmQ.jpeg",
+     "alt": "a person pointing at a calculator on a desk",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we prove we're compliant when the auditor calls?"
+    },
+    {
+     "t": "p",
+     "text": "Passing an audit isn't about being secure it's about being able to show it. You need controls mapped to frameworks like HIPAA and PCI DSS, plus an evidence package ready before the questionnaire lands in your inbox."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/14WcNjp1mLQMgf0f7Uy3c86YtaI.jpeg",
+     "alt": "Someone analyzes financial data on a tablet",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we turn findings report into real fixes?"
+    },
+    {
+     "t": "p",
+     "text": "A PDF of gaps doesn't close any of them. You need every finding paired with an owner, a priority, and a remediation timeline and a partner who implements the fix, not just documents it."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gD3BcocRpDaUPqF5mkdFBqmqs.jpeg",
+     "alt": "man in black jacket using computer",
+     "w": 1440
+    },
+    {
+     "t": "h5",
+     "text": "How do we manage security across multiple AWS accounts without chaos?"
+    },
+    {
+     "t": "p",
+     "text": "Point fixes in a single account don't scale. You need org-wide guardrails SCPs, RCPs, and cross-account IAM treated as a first-class priority, not an afterthought."
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Quadra SecureCloud™ Blueprint: Assess, Implement, Remediate"
+    },
+    {
+     "t": "p",
+     "text": "Our AWS Managed Services are a partnership in continuous improvement. We architect a framework for operational excellence across three key pillars."
+    },
+    {
+     "t": "p",
+     "text": "Assess"
+    },
+    {
+     "t": "p",
+     "text": "Implement"
+    },
+    {
+     "t": "p",
+     "text": "Remediate"
+    },
+    {
+     "t": "h2",
+     "text": "Assess A Foundation Built on Evidence, Not Assumptions"
+    },
+    {
+     "t": "p",
+     "text": "A 2-week posture review across every in-scope account and region automated Well-Architected Framework Reviews and multi-service security scanning covering AWS services. Every finding is severity-ranked and mapped to real business risk, delivered as a prioritized tracker your team can act on immediately."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mavYzgg4jTYZFjoZkE83uwaRI.jpeg",
+     "alt": "person using black laptop computer",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Case Studies"
+    },
+    {
+     "t": "p",
+     "text": "Designed a scalable and secure cloud architecture on AWS to support reliable application performance."
+    },
+    {
+     "t": "card",
+     "href": "./aws-security-assessment-compliance/case-study-empowering-a-global-life-sciences",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/xvHOZ6tYgtYfJ44HQW11N1Qu6U.jpeg",
+       "alt": "A scientist in a white lab coat using a laptop in a laboratory",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./aws-security-assessment-compliance/case-study-empowering-a-global-life-sciences",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Empowering a Global Life Sciences Firm Through a Multi-Region AWS Security Overhaul"
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "Read more",
+     "href": "./aws-security-assessment-compliance/case-study-empowering-a-global-life-sciences"
+    },
+    {
+     "t": "card",
+     "href": "./aws-security-assessment-compliance/case-study-securing-a-multi-account-aws-environment",
+     "blocks": [
+      {
+       "t": "img",
+       "src": "https://framerusercontent.com/images/l3FANWi4UdSstAFqk7djLM0krdM.jpeg",
+       "alt": "Trader analyzing stock market data on smartphone and phone",
+       "w": 1200
+      }
+     ]
+    },
+    {
+     "t": "card",
+     "href": "./aws-security-assessment-compliance/case-study-securing-a-multi-account-aws-environment",
+     "blocks": [
+      {
+       "t": "h5",
+       "text": "Securing a Multi-Account AWS Environment for a Leading Financial Services Customer"
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "Read more",
+     "href": "./aws-security-assessment-compliance/case-study-securing-a-multi-account-aws-environment"
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "A Comprehensive Service Portfolio, Architected for Your Needs"
+    },
+    {
+     "t": "p",
+     "text": "Max-IT™ provides an indispensable advantage through a wide range of managed services covering your entire AWS estate"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1ECp8DHu2czhd8d8OTNsA5oO9k.jpeg",
+     "alt": "woman sitting at table",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "IAM & Identity Security"
+    },
+    {
+     "t": "p",
+     "text": "Least-privilege corrections, MFA enforcement, access key hygiene, cross-account role review, and SSO/identity federation via Entra ID or IAM Identity Center."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/65ERm5LPvyZ01IIjodsHFdAOLvo.jpg",
+     "alt": "two men working on computers in an office",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Network & Perimeter Security"
+    },
+    {
+     "t": "p",
+     "text": "Security group and NACL review, AWS WAF rule design and tuning, public exposure inventory across the estate."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/14WcNjp1mLQMgf0f7Uy3c86YtaI.jpeg",
+     "alt": "a person using a laptop computer",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Logging & Detective Controls"
+    },
+    {
+     "t": "p",
+     "text": "CloudTrail, Config, GuardDuty, and Security Hub enablement and tuning for continuous visibility."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xXRrbvTjT6r4wM2lWsrBhoiBFY0.jpeg",
+     "alt": "office desk with smartphone and financial charts",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Multi-Account Guardrails"
+    },
+    {
+     "t": "p",
+     "text": "Organizations-wide SCPs and RCPs, designed for real multi-account environments, not single-account fixes."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/I1ZDYKz1DhkwB7qd87syoGMZ5E.jpeg",
+     "alt": "person using laptop computers",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Compliance Mapping & Evidence"
+    },
+    {
+     "t": "p",
+     "text": "Controls mapped to AWS Foundational Security Best Practices, Well-Architected Security Pillar, PCI DSS, and HIPAA with audit-ready evidence packages."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/MZ9mtnbRTBNz43pLb6e0eMM4.jpg",
+     "alt": "Two people working on computer code at monitors in a bright office workspace",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Continuous Posture Monitoring"
+    },
+    {
+     "t": "p",
+     "text": "CSPM-driven checks with drift detection and quarterly re-assessment to keep controls from silently decaying."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xhyoVOusF3b2V3K3UP6DCSTJrUI.jpg",
+     "alt": "man sitting in front of the MacBook Pro",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Data Protection"
+    },
+    {
+     "t": "p",
+     "text": "Encryption-at-rest and in-transit review across S3, EFS, RDS, and EBS, plus Secrets Manager configuration and rotation."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5JFVnw5tt3iK3NZdKqLlAVAlKW0.jpg",
+     "alt": "a person holding a piece of paper over a laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Audit & VAPT Rebuttal Support"
+    },
+    {
+     "t": "p",
+     "text": "Evidence-backed responses to third-party audit and VAPT findings, so disputed claims don't become compliance debt."
+    },
+    {
+     "t": "h4",
+     "text": "Data Protection"
+    },
+    {
+     "t": "h4",
+     "text": "Data Protection"
+    },
+    {
+     "t": "h4",
+     "text": "Data Protection"
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Smarter Approach to Cloud Operations"
+    },
+    {
+     "t": "p",
+     "text": "Isn't a security assessment just a scan and a report?"
+    },
+    {
+     "t": "p",
+     "text": "No that's exactly the gap we built Quadra SecureCloud to close. Most assessments stop at the PDF. Ours doesn't: the same team that finds the gaps implements the fix and stays on to prove it held. It's one accountable engagement across assess, implement, and remediate not three separate vendors."
+    },
+    {
+     "t": "p",
+     "text": "How long does the assessment phase take?"
+    },
+    {
+     "t": "p",
+     "text": "Do you only assess, or do you also fix what you find?"
+    },
+    {
+     "t": "p",
+     "text": "Is this only for regulated industries?"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Move from"
+    },
+    {
+     "t": "h2",
+     "text": "\"We Think We're Secure\" to \"We Can Prove It\"?"
+    },
+    {
+     "t": "p",
+     "text": "Let's talk about how Quadra SecureCloud™ can take you from posture review to audit-ready evidence in one engagement, with one accountable team."
+    },
+    {
+     "t": "link",
+     "text": "Discuss Your Security Assessment",
+     "href": "../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

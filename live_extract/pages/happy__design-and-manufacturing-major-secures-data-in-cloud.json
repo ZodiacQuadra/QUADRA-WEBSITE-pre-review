@@ -1,0 +1,116 @@
+{
+ "path": "/happy/design-and-manufacturing-major-secures-data-in-cloud",
+ "url": "https://www.quadrasystems.net/happy/design-and-manufacturing-major-secures-data-in-cloud",
+ "title": "Cloud-Based Data Protection Strategy Case Study | Quadra",
+ "description": "Architected and deployed a unified, cloud-based backup and DR service that reliably protected disparate data types, eliminated the need for a dedicated DR site, and saved millions in upfront investment.",
+ "ogImage": "https://framerusercontent.com/images/DF2gzPqqVW8QGp7Jxwp1y5257xk.jpeg?width=6000&height=4000",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Cloud-Based Data Protection Strategy for a Global Design & Manufacturing Major"
+    },
+    {
+     "t": "p",
+     "text": "Manufacturing"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/DF2gzPqqVW8QGp7Jxwp1y5257xk.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A design and manufacturing major specializing in RFIDs, magnetics, and memory products with a huge IP base."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To find a scalable, secure, and cost-effective solution for storing a rapidly growing volume of high-fidelity product images and backing up mission-critical ERP data."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected and deployed a unified, cloud-based backup and DR service that reliably protected disparate data types, eliminated the need for a dedicated DR site, and saved millions in upfront investment."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A design and manufacturing major specializing in RFIDs, magnetics, and memory products with a huge IP base."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their existing local file storage systems were struggling with scalability, security, and access issues. The cost of investing in a new, scalable on-premise backup and disaster recovery infrastructure for both their image files and their commercial database was prohibitively expensive and would have severely impacted their IT budgets."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to ensure their most critical data—their product IP in the form of high-fidelity images and their core ERP data—was secure, protected, and recoverable. They needed a modern solution that could handle their rapid data growth without straining their finances."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "The cloud solution was a perfect fit, providing a reliable and cost-effective backup strategy for their diverse data sources. The inherent disaster recovery capabilities of the cloud eliminated the need for a dedicated, expensive DR site. The move saved the customer millions of rupees in upfront investment, which was better utilized for core business needs. The flexible, pay-as-you-go model allowed them to structure their cash flows more effectively, providing peace of mind and financial flexibility."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Saved Millions in Upfront Capital Expenditure"
+    },
+    {
+     "t": "p",
+     "text": "Eliminated the Need for a Dedicated DR Site"
+    },
+    {
+     "t": "p",
+     "text": "Provided Unified Backup for Disparate Data Types"
+    },
+    {
+     "t": "p",
+     "text": "Enhanced Data Security & Compliance"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

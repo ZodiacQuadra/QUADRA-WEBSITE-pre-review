@@ -1,0 +1,629 @@
+{
+ "path": "/newsroom/finding-sensitive-data-in-azure-cloud-storage",
+ "url": "https://www.quadrasystems.net/newsroom/finding-sensitive-data-in-azure-cloud-storage",
+ "title": "Finding Sensitive Data in Azure Cloud Storage: Why Checking Files One by One Just Doesn’t Work",
+ "description": "In many organizations, cloud storage quietly fills up with reports, logs, exports, backups, and all kinds of files. Some of those files may contain PII, confidential records, or other sensitive information.",
+ "ogImage": "https://framerusercontent.com/images/k5pFYLQLtiWuoA0L25iu7HCFM3M.png?width=3780&height=1890",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Finding Sensitive Data in Azure Cloud Storage: Why Checking Files One by One Just Doesn’t Work"
+    },
+    {
+     "t": "p",
+     "text": "Finding Sensitive Data in Azure Cloud Storage: Why Checking Files One by One Just Doesn’t Work"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/k5pFYLQLtiWuoA0L25iu7HCFM3M.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "In many organizations, cloud storage quietly fills up with reports, logs, exports, backups, and all kinds of files. Some of those files may contain PII, confidential records, or other sensitive information."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "Have you ever stopped to think about what is sitting inside your Azure Cloud Storage?"
+    },
+    {
+     "t": "p",
+     "text": "Now imagine trying to open and review thousands—or even 1 lakh files—just to find out which ones contain sensitive data. That is not just time-consuming; it is almost impossible to do reliably. This is where a smarter way to discover and protect sensitive data becomes important."
+    },
+    {
+     "t": "h1",
+     "text": "The Problem with Checking Files Manually"
+    },
+    {
+     "t": "p",
+     "text": "Cloud storage grows faster than most teams realize. Every day, people upload documents, logs, images, backups, and application files. Before long, the storage account becomes a huge collection of data that keeps changing."
+    },
+    {
+     "t": "p",
+     "text": "If you only have a handful of files, manual review might be fine. But when there are thousands of files, it quickly becomes slow, inconsistent, and easy to get wrong. One missed file with personal information, financial data, credentials, or confidential business records can create a real security or compliance risk."
+    },
+    {
+     "t": "p",
+     "text": "That is why automated sensitive data discovery matters. Instead of checking each file one by one, security teams can use cloud security tools to scan storage accounts, detect sensitive information, and focus first on the areas that need attention."
+    },
+    {
+     "t": "h1",
+     "text": "The Solution: Microsoft Purview Data Map and Unified Catalog"
+    },
+    {
+     "t": "p",
+     "text": "This is where Microsoft Purview Data Map and Unified Catalog can make the process much easier. Instead of depending on manual checks, Microsoft Purview helps you build a clear view of your data estate by scanning data sources, capturing metadata, and making those assets easier to find and understand."
+    },
+    {
+     "t": "p",
+     "text": "With Data Map, you can connect to supported data sources and scan them to collect technical metadata such as file names, schemas, columns, and classifications. This gives security and governance teams a better starting point than opening files one by one."
+    },
+    {
+     "t": "p",
+     "text": "Once the data is scanned and ingested, Unified Catalog provides a searchable experience where teams can discover data assets, understand what they contain, and use governance metadata such as classifications, glossary terms, and data quality information to make better decisions."
+    },
+    {
+     "t": "p",
+     "text": "In simple terms, Purview helps turn a messy storage environment into something more visible, searchable, and manageable. You can identify where sensitive data may exist, assign ownership, improve governance, and focus your review efforts on the files and locations that matter most."
+    },
+    {
+     "t": "h1",
+     "text": "Benefits of Microsoft Purview Data Map"
+    },
+    {
+     "t": "p",
+     "text": "The biggest benefit of Microsoft Purview Data Map is visibility. It helps you move from guessing what is inside your storage account to knowing what data assets exist, where they are located, and what metadata is available for them."
+    },
+    {
+     "t": "p",
+     "text": "Better data discovery: Data Map scans supported sources and captures metadata, so teams can find data assets faster without manually checking every file or folder."
+    },
+    {
+     "t": "p",
+     "text": "Improved classification: Built-in scanning and classification help identify sensitive or important data, making it easier to focus on areas that need protection."
+    },
+    {
+     "t": "p",
+     "text": "Centralized metadata: Technical, business, operational, and semantic metadata can be stored in one place, giving teams a more complete understanding of the data estate."
+    },
+    {
+     "t": "p",
+     "text": "Always-updated inventory: Scans can be scheduled so the Data Map stays current as new files and assets are added over time."
+    },
+    {
+     "t": "p",
+     "text": "Stronger governance: By adding ownership, glossary terms, descriptions, and relationships, organizations can make data easier to manage, trust, and use responsibly."
+    },
+    {
+     "t": "p",
+     "text": "So instead of treating Azure Cloud Storage like a black box, Data Map gives you a structured and searchable foundation. It helps security, compliance, and data governance teams understand the data landscape and act with more confidence."
+    },
+    {
+     "t": "h1",
+     "text": "Steps to Register and Scan Data from Azure Blob Storage"
+    },
+    {
+     "t": "p",
+     "text": "Prerequisites:"
+    },
+    {
+     "t": "p",
+     "text": "An Azure Account with Active Subscription"
+    },
+    {
+     "t": "p",
+     "text": "Entra ID Tenant. Your users and services rely on this for authentication and RBAC."
+    },
+    {
+     "t": "p",
+     "text": "You will need to be a Data Source Admin and Data reader to register a source and manage it in the Purview."
+    },
+    {
+     "t": "p",
+     "text": "Configure the authentication method in the azure blob storage to have access to scan. The below options are supported:"
+    },
+    {
+     "t": "p",
+     "text": "Managed Identity (Recommended) – As soon as the Purview account is created, a system identity is created automatically in Azure AD tenant. Depending on the type of resource, Specific RBAC Role assignments are required for the Azure purview MSI to perform the scans."
+    },
+    {
+     "t": "p",
+     "text": "Account Key"
+    },
+    {
+     "t": "p",
+     "text": "Service principal"
+    },
+    {
+     "t": "p",
+     "text": "Step 1: Enterprise Purview Account is Required to get Started with Data Map."
+    },
+    {
+     "t": "p",
+     "text": "Navigate to Purview Portal Settings > Account > Upgrade Account"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SCNndmJb5ztPdDEQy420fGA2RQ0.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Link Azure Subscription and Resource Group"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cnZYILfH6WoV8ucBztJ0eXgNFmY.png",
+     "alt": "",
+     "w": 228
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/c0S8bsmiCUAZLk8dHm9Hk2gkNfo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "After Linking Purview Account is Automatically Created in the Azure portal"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/luLeKPaIc3HhcqnwkXZo8y1Dx7c.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 1: Navigate to Microsoft Purview Data Map Solution Then Navigate to Domains then Create a New Collection."
+    },
+    {
+     "t": "p",
+     "text": "Domain:"
+    },
+    {
+     "t": "p",
+     "text": "A Domain is the highest level of organization in the Purview Data Map. It represents a major business unit, subsidiary, or environment and provides logical isolation for governance resources."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/CDv2XxtbkQaZ47QVFQt5waZOSY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Collection"
+    },
+    {
+     "t": "p",
+     "text": "A Collection is a child of a Domain and is used to organize data sources, scans, and assets. Collections mainly provide operational organization and access control."
+    },
+    {
+     "t": "p",
+     "text": "Step 2: Complete the Details for the Collection and Define the Collection Admin."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/E4qbt6iY725QNrtvBKKfot6Y1f0.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A Collection Admin is a user who manages a specific collection in Microsoft Purview by administering its data sources, scans, assets, and access permissions within that collection."
+    },
+    {
+     "t": "p",
+     "text": "Step 3: Navigate to Data Source and Click on Register.s"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gYCu7dNbY5npBbQ6LV33zEtOOKo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 4: Select Azure Blob Storage from the Available Data Sources to Register then click on continue."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Et9IZb7g4znpeEmZhTkxS7hfPnI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 5: Provide the Name for the Data Source and Map the Blob Storage you want to register from the Azure subscription then Map Under the Domain and Collection."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/W7S94uIBInk1hJ8W1stJnYEycM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Once your Register the Data Source it will Appears under your Collection."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pUK97DbNxic6SiEjbJsbkQK128g.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "To establish secure authentication between the Azure Storage Account and Microsoft Purview Data Map, a credential must be configured. Microsoft Purview supports the following credential methods for Azure Blob Storage scanning:"
+    },
+    {
+     "t": "p",
+     "text": "1. Managed Identity (System-Assigned or User-Assigned)"
+    },
+    {
+     "t": "p",
+     "text": "Managed Identity enables Microsoft Purview to authenticate to Azure Blob Storage using Microsoft Entra ID without storing secrets or credentials. Access is controlled through Azure RBAC by assigning the required roles to the managed identity."
+    },
+    {
+     "t": "p",
+     "text": "2. Account Key"
+    },
+    {
+     "t": "p",
+     "text": "Account Key authentication allows Microsoft Purview to connect to Azure Blob Storage using the storage account access key. The key is securely stored as a credential in Purview and used during scan execution"
+    },
+    {
+     "t": "p",
+     "text": "3. Service Principal"
+    },
+    {
+     "t": "p",
+     "text": "It enables Microsoft Purview to authenticate to Azure Blob Storage using a Microsoft Entra ID application. Authentication is performed using the Tenant ID, Application (Client) ID, and Client Secret, while access is controlled through Azure RBAC by assigning the required roles to the Service Principal."
+    },
+    {
+     "t": "p",
+     "text": "Environment"
+    },
+    {
+     "t": "p",
+     "text": "Integration Runtime"
+    },
+    {
+     "t": "p",
+     "text": "Supported Credentials"
+    },
+    {
+     "t": "p",
+     "text": "No firewall or private endpoints"
+    },
+    {
+     "t": "p",
+     "text": "Azure Integration Runtime"
+    },
+    {
+     "t": "p",
+     "text": "Managed Identity (Recommended), Service Principal, Account Key"
+    },
+    {
+     "t": "p",
+     "text": "Firewall enabled (No Private Endpoint)"
+    },
+    {
+     "t": "p",
+     "text": "Managed Identity"
+    },
+    {
+     "t": "p",
+     "text": "Private Endpoint enabled"
+    },
+    {
+     "t": "p",
+     "text": "Self-Hosted Integration Runtime"
+    },
+    {
+     "t": "p",
+     "text": "Service Principal, Account Key"
+    },
+    {
+     "t": "p",
+     "text": "Choose the authentication method based on your network environment. In this blog, we will use Managed Identity as the preferred authentication method."
+    },
+    {
+     "t": "p",
+     "text": "Step 1: To Establish Connection Between Blob Storage and Purview Account Navigate to your storage account then Navigate to Access Control."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/aSjm3D1Wk6cAZCoLEgxRioN97c.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 2: Click on Add then Add Role Assignment Then Select Storage Blob Data Reader role."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zET0ZeAsdsrFpVueqli6ZhM75mk.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 3: On the Members tab Select Managed Identify then assign to your Azure Purview Account Then Save."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/beiD4C7s3Wmj6zcAhrkDDqQmQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 4: To validate the Authentication and Role access Navigate to your Data Source Page then click on new Scan."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3hcrmxe9OSyNoEuk2j4EGcZ7ak.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 5: To validate the Authentication, Click on the Test Connection and Confirm the Same."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/sj8FHCLHMNjPjRP6txT32yY8J5M.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Upv06AcW3lWQ141o0aAyxiWsWA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "After the registration and authentication are successfully configured, we can begin scanning and classifying the data stored in Azure Blob Storage."
+    },
+    {
+     "t": "p",
+     "text": "Step 1: Setup the Scan Configuration page name Your Scan then Configure the Managed Identify Credential for the Scan."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/g3hHUqX0RtbUR9N30p5mTzvkrps.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 2: Configure the Level of Scanning based on your Requirement then click on Continue."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4hRHs8Lcnr0MwVSHvhh85QpPvS0.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 3: Scope the Container which you want to scan and Classify the Data."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/D5pEzKfarM3Hel9RQMcRUjuivSw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "A Scan Rule Set specifies how Microsoft Purview scans your data source. It controls the file types to be scanned, the classification system rules to apply, and other scan settings to optimize the discovery of sensitive information."
+    },
+    {
+     "t": "p",
+     "text": "Step 4: Select the Scan Set for you Scan based on your Required In this Blob I am continue with the Default Microsoft Scan Set for Azure Blob Storage."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cj1B6mBubduRfBgZ7MIy9fGyE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 5: Configure the Recurrence of the scanning whether it is onetime or Recurring."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TE1IUFR0esoMpSSVKmqyaAbGUY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 6: Review the Scan and Click on Save and Run."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/U60eAFpuofq22h9Di2j2DRCeVU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Monitoring of Scan"
+    },
+    {
+     "t": "p",
+     "text": "Monitor the Scanning from the Monitoring Section from the Data Map Solution."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0pg3idoClfN5qYKXpAoEHID1yk8.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Once the Scanning gets Completed Navigate to Unified CatLog Solution to View the Result."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/qLTkRIMTH0HN2Qoo8hbTdpmISg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Navigate to Data Assets and Click on Collection"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3ShVMrtaGGjgH6lTSEAcF9BWyQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Select the Collection we Scanned and for Results."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Q46A2Kzoo14szYwCB3eHLsQzvlQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "(Data Stored inside the Blob Storage Container for Blob Readers Visiblity)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/kKuAwx3udB6NMfRrbTn5iAFY4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Explore the File Scanned by the Data Map."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/k79OSqmcudaQS3YstVNyXxYrQs.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Click any of the asset to view full details about the data."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/JE49e6gfzdiGyI1hB11n4d4xQM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Wrapping Up"
+    },
+    {
+     "t": "p",
+     "text": "In this guide, we covered the complete process of configuring Azure Blob Storage scanning in Microsoft Purview Data Map—from creating the credential and registering the data source to configuring the scan rule set and executing the scan. Following these steps enables Microsoft Purview to automatically discover and classify data stored in your Azure Blob Storage environment."
+    },
+    {
+     "t": "p",
+     "text": "Beyond Azure Blob Storage"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Purview Data Map supports scanning a wide range of data sources across Azure, AWS, on-premises, and multi-cloud environments. The same onboarding process demonstrated in this guide can be applied to other supported data sources with only minor configuration changes."
+    },
+    {
+     "t": "p",
+     "text": "You can similarly configure scans for:"
+    },
+    {
+     "t": "p",
+     "text": "Azure Data Lake Storage Gen2 (ADLS Gen2)"
+    },
+    {
+     "t": "p",
+     "text": "Azure SQL Database and Azure SQL Managed Instance"
+    },
+    {
+     "t": "p",
+     "text": "Amazon S3"
+    },
+    {
+     "t": "p",
+     "text": "Amazon RDS"
+    },
+    {
+     "t": "p",
+     "text": "Azure Cosmos DB"
+    },
+    {
+     "t": "p",
+     "text": "SQL Server (On premises)"
+    },
+    {
+     "t": "p",
+     "text": "Oracle Database"
+    },
+    {
+     "t": "p",
+     "text": "SAP, Snowflake, and many other supported data sources"
+    },
+    {
+     "t": "p",
+     "text": "Each data source follows a similar workflow:"
+    },
+    {
+     "t": "p",
+     "text": "Register the data source."
+    },
+    {
+     "t": "p",
+     "text": "Configure the appropriate authentication method."
+    },
+    {
+     "t": "p",
+     "text": "Create a Scan Rule Set."
+    },
+    {
+     "t": "p",
+     "text": "Run the scan and review the discovered assets in Microsoft Purview."
+    },
+    {
+     "t": "p",
+     "text": "As you expand your Microsoft Purview deployment, you can onboard additional data sources to build a unified Data Map, enabling centralized data discovery, classification, governance, and compliance across your entire data estate"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

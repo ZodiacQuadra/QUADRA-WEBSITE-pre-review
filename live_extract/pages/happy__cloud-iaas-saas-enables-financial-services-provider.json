@@ -1,0 +1,116 @@
+{
+ "path": "/happy/cloud-iaas-saas-enables-financial-services-provider",
+ "url": "https://www.quadrasystems.net/happy/cloud-iaas-saas-enables-financial-services-provider",
+ "title": "Hybrid Cloud Model Case Study | Quadra",
+ "description": "Architected an innovative, hybrid cloud solution that balanced advanced features with ultra-low-cost alternatives, meeting all business needs while staying within a strict budget.",
+ "ogImage": "https://framerusercontent.com/images/25Ae6YHS6T0Mb3M3lmJZg2Re3Gg.jpeg?width=5861&height=3913",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a Hybrid Cloud Model for a Cost-Conscious Financial Services Provider"
+    },
+    {
+     "t": "p",
+     "text": "Financial Services"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/25Ae6YHS6T0Mb3M3lmJZg2Re3Gg.jpeg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h4",
+     "text": "Client"
+    },
+    {
+     "t": "p",
+     "text": "A financial services provider focused on delivering financial inclusion for the urban poor through microfinance."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition"
+    },
+    {
+     "t": "p",
+     "text": "To replace an antiquated, unreliable email system with a modern, secure, and highly cost-effective collaboration platform that aligned with their lean operating model."
+    },
+    {
+     "t": "h4",
+     "text": "Outcome"
+    },
+    {
+     "t": "p",
+     "text": "Architected an innovative, hybrid cloud solution that balanced advanced features with ultra-low-cost alternatives, meeting all business needs while staying within a strict budget."
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "The Ambition"
+    },
+    {
+     "t": "p",
+     "text": "A financial services provider focused on delivering financial inclusion for the urban poor through microfinance."
+    },
+    {
+     "t": "h4",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Their basic, low-cost public mail provider suffered from limited storage, poor support, and a lack of security, hampering productivity. However, a full-fledged enterprise SaaS solution was not economically feasible for every single user across the organization."
+    },
+    {
+     "t": "h4",
+     "text": "The Architectural Blueprint"
+    },
+    {
+     "t": "p",
+     "text": "The client's ambition was to operate with a modern, secure, and reliable collaboration platform without making a heavy upfront investment that would conflict with their lean operating cost model. They needed to provide enterprise-grade tools to key users while finding an affordable solution for their wider user base."
+    },
+    {
+     "t": "h4",
+     "text": "Ambition, Realized"
+    },
+    {
+     "t": "p",
+     "text": "By thinking out of the box, we delivered a solution that met all their business needs while staying within a strict budget. End-user productivity was greatly enhanced with enterprise-class functionality for those who needed it. The hybrid model ensured significant cost savings by allocating licenses based on user profiles instead of a one-size-fits-all approach. System downtime was virtually eliminated, and the solution delivered a positive ROI in a short span of time."
+    },
+    {
+     "t": "h4",
+     "text": "Key Business Impact"
+    },
+    {
+     "t": "p",
+     "text": "Achieved Significant Cost Savings with a Hybrid Licensing Model"
+    },
+    {
+     "t": "p",
+     "text": "Balanced Enterprise Features with Low-Cost Alternatives"
+    },
+    {
+     "t": "p",
+     "text": "Increased Productivity & Eliminated System Downtime"
+    },
+    {
+     "t": "p",
+     "text": "Delivered a Positive ROI in a Short Timeframe"
+    },
+    {
+     "t": "link",
+     "text": "Back to Happy Customer Back to Happy Customer",
+     "href": "../happy"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

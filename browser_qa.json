@@ -1,0 +1,1358 @@
+{
+  "status": "pass",
+  "engine": "Chromium",
+  "checks": 40,
+  "results": [
+    {
+      "name": "desktop opens",
+      "passed": true
+    },
+    {
+      "name": "desktop closes on selection",
+      "passed": true
+    },
+    {
+      "name": "desktop navigates to page",
+      "passed": true
+    },
+    {
+      "name": "desktop moves focus to content",
+      "passed": true
+    },
+    {
+      "name": "desktop same-page link dismisses",
+      "passed": true
+    },
+    {
+      "name": "desktop Escape closes",
+      "passed": true
+    },
+    {
+      "name": "desktop Escape restores focus",
+      "passed": true
+    },
+    {
+      "name": "desktop only one menu open",
+      "passed": true
+    },
+    {
+      "name": "desktop outside click closes",
+      "passed": true
+    },
+    {
+      "name": "desktop keyboard opens",
+      "passed": true
+    },
+    {
+      "name": "desktop focus leaving closes",
+      "passed": true
+    },
+    {
+      "name": "desktop hash change closes",
+      "passed": true
+    },
+    {
+      "name": "desktop panel reopens at top",
+      "passed": true
+    },
+    {
+      "name": "desktop panel within viewport",
+      "passed": true
+    },
+    {
+      "name": "desktop visible close button closes",
+      "passed": true
+    },
+    {
+      "name": "desktop close button restores focus",
+      "passed": true
+    },
+    {
+      "name": "desktop no horizontal page overflow",
+      "passed": true
+    },
+    {
+      "name": "desktop no JavaScript errors",
+      "passed": true
+    },
+    {
+      "name": "desktop no network requests",
+      "passed": true
+    },
+    {
+      "name": "desktop form previews remain disabled",
+      "passed": true
+    },
+    {
+      "name": "mobile opens",
+      "passed": true
+    },
+    {
+      "name": "mobile closes on selection",
+      "passed": true
+    },
+    {
+      "name": "mobile navigates to page",
+      "passed": true
+    },
+    {
+      "name": "mobile moves focus to content",
+      "passed": true
+    },
+    {
+      "name": "mobile same-page link dismisses",
+      "passed": true
+    },
+    {
+      "name": "mobile Escape closes",
+      "passed": true
+    },
+    {
+      "name": "mobile Escape restores focus",
+      "passed": true
+    },
+    {
+      "name": "mobile only one menu open",
+      "passed": true
+    },
+    {
+      "name": "mobile outside click closes",
+      "passed": true
+    },
+    {
+      "name": "mobile keyboard opens",
+      "passed": true
+    },
+    {
+      "name": "mobile focus leaving closes",
+      "passed": true
+    },
+    {
+      "name": "mobile hash change closes",
+      "passed": true
+    },
+    {
+      "name": "mobile panel reopens at top",
+      "passed": true
+    },
+    {
+      "name": "mobile panel within viewport",
+      "passed": true
+    },
+    {
+      "name": "mobile visible close button closes",
+      "passed": true
+    },
+    {
+      "name": "mobile close button restores focus",
+      "passed": true
+    },
+    {
+      "name": "mobile no horizontal page overflow",
+      "passed": true
+    },
+    {
+      "name": "mobile no JavaScript errors",
+      "passed": true
+    },
+    {
+      "name": "mobile no network requests",
+      "passed": true
+    },
+    {
+      "name": "mobile form previews remain disabled",
+      "passed": true
+    }
+  ],
+  "production_changed": false,
+  "content_changes": true,
+  "content_scope": "HCDW v0.5; all page layouts rechecked; AIG/AWS/GCP and customer evidence preserved",
+  "all_page_layout_checks": [
+    {
+      "page": "home",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "solutions",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "modernize",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "transform",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "secure",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "empower",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "platforms-ip",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "intellient",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "technology",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "microsoft",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-migration",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-apps",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-data-ai",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-security",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-managed",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "microsoft-workplace",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "ispg-migration",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "microsoft-security",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "ispg-hybrid",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "ispg-managed",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-migration",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-apps",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-data-ai",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-agentic-ai",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-ai-use-cases",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-managed",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-security",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "google-cloud",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-ai",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-gemini",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-data",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-infrastructure",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-apps",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-databases",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-security",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-managed",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-startups",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-zero-trust",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-endpoint",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-network-apps",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-cnapp",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-ai-security",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-managed",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-advisory",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-infrastructure",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-workspace",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-resilience",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-commvault",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-veeam",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-druva",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-advisory",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-engineering",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-automation",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-managed",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-governance",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "why-quadra",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "how-we-work",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "people",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "partners",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "coe",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "recognition",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "happy-customers",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "insights",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "founder",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "newsroom",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "contact",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "careers",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "privacy",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "terms",
+      "width": 1360,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "solutions",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "modernize",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "transform",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "secure",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "empower",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "platforms-ip",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "intellient",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "technology",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "microsoft",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-migration",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-apps",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-data-ai",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-security",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "azure-managed",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "microsoft-workplace",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "ispg-migration",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "microsoft-security",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "ispg-hybrid",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "ispg-managed",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-migration",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-apps",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-data-ai",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-agentic-ai",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-ai-use-cases",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-managed",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aws-security",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "google-cloud",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-ai",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-gemini",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-data",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-infrastructure",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-apps",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-databases",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-security",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-managed",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "gcp-startups",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-zero-trust",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-endpoint",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-network-apps",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-cnapp",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-ai-security",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-managed",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "csg-advisory",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-infrastructure",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-workspace",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-resilience",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-commvault",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-veeam",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "hcdw-druva",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-advisory",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-engineering",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-automation",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-managed",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "aig-governance",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "why-quadra",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "how-we-work",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "people",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "partners",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "coe",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "recognition",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "happy-customers",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "insights",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "founder",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "newsroom",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "contact",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "careers",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "privacy",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    },
+    {
+      "page": "terms",
+      "width": 390,
+      "one_visible_page": true,
+      "one_h1": true,
+      "no_horizontal_overflow": true,
+      "section_headings_present": true
+    }
+  ],
+  "checked_version": "0.5",
+  "checked_on": "2026-11-02"
+}

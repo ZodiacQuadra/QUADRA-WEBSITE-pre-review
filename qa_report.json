@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "page_views": 74,
+  "practice_pages": 50,
+  "stage_counts": {
+    "prior_review_copy": 2,
+    "review_draft": 56,
+    "classification_review": 4,
+    "structure_only": 10,
+    "release_gated": 1,
+    "form_preview": 1
+  },
+  "internal_links": 1040,
+  "broken_internal_links": 0,
+  "external_case_links": 8,
+  "scripts": 1,
+  "images": 0,
+  "animations": 0,
+  "forms_connected": false,
+  "cases_modified": false,
+  "html_bytes": 339144,
+  "visual_check": "See browser_qa.json for browser interaction and layout checks."
+}

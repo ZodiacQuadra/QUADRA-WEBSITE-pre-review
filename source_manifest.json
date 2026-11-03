@@ -1,0 +1,100 @@
+{
+  "as_of": "2026-11-02",
+  "documents": [
+    {
+      "name": "AIG Website Content - Draft.docx",
+      "source_modified_utc": "2026-10-11T05:31:04Z",
+      "content_snapshot_sha256": "dee878b793d22581c270bfef1a2c018a9dfd386010f9900265f8646420ee499f",
+      "review_status": "read_for_content_alignment",
+      "source_content_unchanged": true
+    },
+    {
+      "name": "ISPG - Content for Quadra Website.docx",
+      "source_modified_utc": "2026-10-11T08:49:28Z",
+      "content_snapshot_sha256": "4da4cb7bb3cb9628111ca0ac6018f51fbf3514bc62f7f1d61b42b8f26f45ab60",
+      "review_status": "read_for_content_alignment",
+      "source_content_unchanged": true
+    },
+    {
+      "name": "Quadra GCP Website Content - Oct 2026.docx",
+      "source_modified_utc": "2026-10-11T08:56:09Z",
+      "content_snapshot_sha256": "829cd6e9ec84163f5010ee8dfbd282f3d7528aa0190476563d621b930ea891d1",
+      "review_status": "read_for_content_alignment",
+      "source_content_unchanged": true,
+      "rechecked_date": "2026-11-01",
+      "file_sha256": "cf00aa4b3f2803f328ddf239baf77c215466dedf27e2894e2569b082e9697a3b",
+      "latest_attachment_comparison": "Byte-for-byte identical to earlier original; preserve existing corrected review copy."
+    },
+    {
+      "name": "Quadra_Azure_Website_Content_Oct_2026_Ver1.1.docx",
+      "source_modified_utc": "2026-10-27T10:31:04Z",
+      "content_snapshot_sha256": "aa7fcc7c31ff78094b8c2373b7206bb3c3ba2629667c48fbb1aa45f53efa8203",
+      "review_status": "read_for_content_alignment",
+      "source_content_unchanged": true
+    },
+    {
+      "name": "Quadra_Cybersecurity_Website_Revamp_Content_v2.docx",
+      "source_modified_utc": "2026-10-27T10:31:04Z",
+      "content_snapshot_sha256": "86c56268c31624982445cbb0cc6a619c801b714d416dd626747802bd03c81929",
+      "review_status": "read_for_content_alignment",
+      "source_content_unchanged": true
+    },
+    {
+      "name": "AWS Web Site Content Update - Oct2026 Ver1.2.docx",
+      "source_modified_utc": "2026-11-01T12:08:10Z",
+      "file_sha256": "c4486f98ddbfac2c9e9c73f5263f6117112c8085147b1f481b5c9ade41ec634d",
+      "content_snapshot_sha256": "3000ec8ac06b060a992e2d706438245e283982c3f1538fc665fca980c8f2fa62",
+      "review_status": "incorporated into review v0.4; independent company claims withheld",
+      "source_content_unchanged": true
+    },
+    {
+      "name": "Quadra_Hybrid_Cloud_Website_Content_Refresh.docx",
+      "received_date": "2026-11-02",
+      "source_modified_utc": "2026-11-02T01:42:37Z",
+      "file_sha256": "825d731f7f3021eb7d9ec75188de30bb7784414977e035de9a1280d689c6cb33",
+      "review_status": "developed into HCDW draft pages with external product validation and separate owner questions",
+      "source_content_unchanged": true,
+      "metadata_note": "Core created timestamp postdates core modified timestamp; received version and fingerprint identify source, not inferred chronology."
+    }
+  ],
+  "supplementary_deck": "AIG Deck_Final version for internal and customer use.pptx; retained in folder, not re-audited in this pass",
+  "pending_practice_updates": [
+    "EAICG"
+  ],
+  "notes": [
+    "Azure extraction unchanged from 11 October snapshot despite newer modification date.",
+    "External research does not certify company-specific delivery claims."
+  ],
+  "change_requests": [
+    {
+      "name": "Quadra_ChangeRequest_AIGWebsiteContent_2026-10-29_v1.3.docx",
+      "document_date": "2026-10-29",
+      "received_date": "2026-10-30",
+      "version": "1.3",
+      "sha256": "a43cb9207ed8fcf0cebcaadd56584c36e0099d7eb9b471221bd179c7cd4588e5",
+      "status": "reviewed and applied; decision references closed by user",
+      "original_unchanged": true
+    }
+  ],
+  "iterations": [
+    {
+      "date": "2026-11-01",
+      "version": "0.4",
+      "input_practices": [
+        "AWS",
+        "Google Cloud"
+      ],
+      "user_message_practice_names": "AIG and GCP",
+      "reconciliation": "Attachment contents establish AWS and GCP; no new AIG content assumed.",
+      "gcp_diff": {
+        "binary_same": true,
+        "text_same": true,
+        "old_sha256": "cf00aa4b3f2803f328ddf239baf77c215466dedf27e2894e2569b082e9697a3b",
+        "new_sha256": "cf00aa4b3f2803f328ddf239baf77c215466dedf27e2894e2569b082e9697a3b",
+        "old_text_chars": 34621,
+        "new_text_chars": 34621
+      },
+      "original_submissions_modified": false
+    }
+  ]
+}

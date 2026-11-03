@@ -1,0 +1,129 @@
+{
+ "path": "/terms",
+ "url": "https://www.quadrasystems.net/terms",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/assets/m7vkv2jE9xFonBjHpakX7vUN4.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Terms of Use"
+    },
+    {
+     "t": "p",
+     "text": "Last Updated: July 17, 2025"
+    }
+   ]
+  },
+  {
+   "name": "Section",
+   "blocks": [
+    {
+     "t": "h4",
+     "text": "1. Agreement to Terms"
+    },
+    {
+     "t": "p",
+     "text": "By accessing or using the Quadra Systems website (www.quadrasystems.net), you agree to be bound by these Terms of Use. If you disagree with any part of these terms, you may not access the website."
+    },
+    {
+     "t": "h4",
+     "text": "2. Scope of These Terms & Client Agreements"
+    },
+    {
+     "t": "p",
+     "text": "Important: These Terms of Use govern your access to and use of our public website and its content. They do not govern the delivery of our professional services. All client engagements and professional services provided by Quadra are governed by a separate, formal written agreement (such as a Master Services Agreement), the terms of which will prevail over these website terms."
+    },
+    {
+     "t": "h4",
+     "text": "3. Intellectual Property Rights"
+    },
+    {
+     "t": "p",
+     "text": "The website and its original content, features, and functionality—including but not limited to all text, graphics, logos, case studies, whitepapers, and our proprietary solution names and frameworks such as \"Architecting Ambition,\" \"Threat Doctor,\" and \"Max-IT\"—are and will remain the exclusive property of Quadra Systems Net Pvt. Ltd. and are protected by copyright, trademark, and other intellectual property laws."
+    },
+    {
+     "t": "p",
+     "text": "This content is provided for your personal, non-commercial use to learn about our services. You are expressly prohibited from engaging in the systematic retrieval of data or other content from this website to create or compile, directly or indirectly, a collection, compilation, database, or directory without prior written permission from us. This includes the use of any automated data collection tools such as \"robots,\" \"spiders,\" or \"scrapers.\""
+    },
+    {
+     "t": "h4",
+     "text": "4. Acceptable Use"
+    },
+    {
+     "t": "p",
+     "text": "You agree not to use the website:"
+    },
+    {
+     "t": "p",
+     "text": "In any way that violates any applicable national or international law or regulation."
+    },
+    {
+     "t": "p",
+     "text": "To transmit any unsolicited or unauthorized advertising or promotional material."
+    },
+    {
+     "t": "p",
+     "text": "To impersonate or attempt to impersonate Quadra or any of its employees."
+    },
+    {
+     "t": "p",
+     "text": "To engage in any conduct that restricts or inhibits anyone's use or enjoyment of the website, or which may harm Quadra or users of the website."
+    },
+    {
+     "t": "p",
+     "text": "To use any manual or automated process to monitor or copy any of the material on the website for any competitive or unauthorized purpose without our prior written consent."
+    },
+    {
+     "t": "p",
+     "text": "Notwithstanding the foregoing, we grant public search engine operators and Large Language Model (LLM) developers permission to use automated tools to copy materials from the site for the sole purpose of, and solely to the extent necessary for, creating publicly available searchable indices of the materials and for training their models on our publicly available content. We reserve the right to revoke these exceptions either generally or in specific cases at any time."
+    },
+    {
+     "t": "h4",
+     "text": "5. Disclaimers"
+    },
+    {
+     "t": "p",
+     "text": "The information provided on this website is for general informational purposes only. Quadra makes no warranties, expressed or implied, regarding the accuracy, reliability, or completeness of the content. Your use of the site is at your sole risk."
+    },
+    {
+     "t": "h4",
+     "text": "6. Limitation of Liability"
+    },
+    {
+     "t": "p",
+     "text": "In no event shall Quadra, nor its directors, employees, or partners, be liable for any indirect, incidental, special, consequential, or punitive damages arising out of your access to or use of the website."
+    },
+    {
+     "t": "h4",
+     "text": "7. Governing Law"
+    },
+    {
+     "t": "p",
+     "text": "These Terms shall be governed and construed in accordance with the laws of India, with exclusive jurisdiction for any disputes falling within the courts of Chennai, Tamil Nadu."
+    },
+    {
+     "t": "h4",
+     "text": "8. Changes to These Terms"
+    },
+    {
+     "t": "p",
+     "text": "We reserve the right to modify or replace these Terms at any time. We will provide notice of any changes by posting the new Terms on this page."
+    },
+    {
+     "t": "h4",
+     "text": "9. Contact Us"
+    },
+    {
+     "t": "p",
+     "text": "If you have any questions about these Terms, please contact us at: legal@quadrasystems.net"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,39 @@
+{
+ "path": "/thankyou",
+ "url": "https://www.quadrasystems.net/thankyou",
+ "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "link",
+     "text": "Back to home",
+     "href": "./"
+    },
+    {
+     "t": "h2",
+     "text": "Thank you for your interest!"
+    },
+    {
+     "t": "h6",
+     "text": "Your gift pack is on its way…"
+    },
+    {
+     "t": "p",
+     "text": "We’ve received your details and will send the physical copies to the address you provided."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ILXHyLvUy1hFkxwAIs31e7G5ks.gif",
+     "alt": "",
+     "w": 300
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,763 @@
+{
+ "path": "/newsroom/that-file-shared-for-one-project-is-still-open-three-years-later",
+ "url": "https://www.quadrasystems.net/newsroom/that-file-shared-for-one-project-is-still-open-three-years-later",
+ "title": "That File Shared for One Project Is Still Open Three Years Later",
+ "description": "As organizations adopt AI-powered experiences such as Microsoft 365 Copilot, protecting sensitive information has become a critical priority. AI can quickly discover, summarize, and ",
+ "ogImage": "https://framerusercontent.com/images/d4sPRerWvoBHLvJaCI9c2RkKUaA.png?width=3780&height=1890",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "That File Shared for One Project Is Still Open Three Years Later"
+    },
+    {
+     "t": "p",
+     "text": "That File Shared for One Project Is Still Open Three Years Later"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/d4sPRerWvoBHLvJaCI9c2RkKUaA.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "As organizations adopt AI-powered experiences such as Microsoft 365 Copilot, protecting sensitive information has become a critical priority. AI can quickly discover, summarize, and"
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "As organizations adopt AI-powered experiences such as Microsoft 365 Copilot, protecting sensitive information has become a critical priority. AI can quickly discover, summarize, and generate responses from content stored across Microsoft 365. While this significantly improves productivity, it also increases the risk of exposing sensitive information that is overshared, over-permissioned, or lacks appropriate governance controls."
+    },
+    {
+     "t": "p",
+     "text": "To address these challenges, Microsoft provides Data Security Posture Management (DSPM) as part of Microsoft Purview. DSPM helps organizations continuously discover sensitive data, assess security risks, identify data exposure, and recommend remediation actions before sensitive information can be unintentionally accessed by users or AI applications."
+    },
+    {
+     "t": "p",
+     "text": "One of the key capabilities of Microsoft Purview DSPM is Data Risk Assessments, which proactively identify potential data oversharing risks across Microsoft 365 and provide guided remediation recommendations to strengthen an organization’s data security posture."
+    },
+    {
+     "t": "h2",
+     "text": "What is Microsoft Purview Data Security Posture Management (DSPM)?"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Purview Data Security Posture Management (DSPM) is a proactive data security solution that helps organizations discover sensitive data, evaluate data risks, monitor security posture, and improve governance across their Microsoft 365 environment."
+    },
+    {
+     "t": "p",
+     "text": "Rather than reacting to security incidents after they occur, DSPM continuously analyzes data exposure and provides actionable insights that help administrators answer questions such as:"
+    },
+    {
+     "t": "p",
+     "text": "Where is sensitive information stored?"
+    },
+    {
+     "t": "p",
+     "text": "Which files or sites are overshared?"
+    },
+    {
+     "t": "p",
+     "text": "Which sensitive files are missing protection?"
+    },
+    {
+     "t": "p",
+     "text": "What remediation actions should be taken before deploying Microsoft 365 Copilot?"
+    },
+    {
+     "t": "p",
+     "text": "By continuously monitoring these risks, DSPM enables organizations to securely adopt AI while maintaining compliance and protecting sensitive business information."
+    },
+    {
+     "t": "h2",
+     "text": "What are Data Risk Assessments?"
+    },
+    {
+     "t": "p",
+     "text": "Data Risk Assessments are a feature of Microsoft Purview DSPM that help organizations identify and remediate potential data oversharing risks."
+    },
+    {
+     "t": "p",
+     "text": "Data Risk Assessments analyze Microsoft 365 data and sharing configurations to identify content that may expose sensitive information due to:"
+    },
+    {
+     "t": "p",
+     "text": "· Excessive sharing permissions"
+    },
+    {
+     "t": "p",
+     "text": "Anonymous or external sharing links"
+    },
+    {
+     "t": "p",
+     "text": "Missing Sensitivity Labels"
+    },
+    {
+     "t": "p",
+     "text": "Lack of governance controls"
+    },
+    {
+     "t": "p",
+     "text": "Inactive or obsolete content that remains accessible"
+    },
+    {
+     "t": "p",
+     "text": "Instead of only identifying these risks, Data Risk Assessments also provide recommended remediation actions that help administrators reduce data exposure before Microsoft 365 Copilot or users can access sensitive information."
+    },
+    {
+     "t": "p",
+     "text": "Data Risk Assessments can be accessed from:"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Purview Portal → DSPM → Discover → Data Risk Assessments"
+    },
+    {
+     "t": "h2",
+     "text": "Types of Data Risk Assessments"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Purview provides two types of Data Risk Assessments."
+    },
+    {
+     "t": "p",
+     "text": "Assessment"
+    },
+    {
+     "t": "p",
+     "text": "Description"
+    },
+    {
+     "t": "p",
+     "text": "Default Data Risk Assessment"
+    },
+    {
+     "t": "p",
+     "text": "Automatically runs every week to continuously monitor oversharing risks."
+    },
+    {
+     "t": "p",
+     "text": "Custom Data Risk Assessment"
+    },
+    {
+     "t": "p",
+     "text": "Allows administrators to manually select users, SharePoint sites, and scan settings for targeted assessments."
+    },
+    {
+     "t": "h2",
+     "text": "Default Data Risk Assessment"
+    },
+    {
+     "t": "p",
+     "text": "The Default Data Risk Assessment runs automatically every week without requiring any administrator intervention."
+    },
+    {
+     "t": "p",
+     "text": "For Microsoft 365, Microsoft automatically evaluates the top 100 SharePoint sites based on organizational usage to identify potential data oversharing risks. The assessment provides oversharing insights for Microsoft 365, including SharePoint and OneDrive content."
+    },
+    {
+     "t": "p",
+     "text": "Note: The first default assessment takes approximately 4 days before results become available."
+    },
+    {
+     "t": "p",
+     "text": "This image shows the Default Data Risk Assessment in Microsoft Purview Data Security Posture Management. The assessment helps administrators identify potential oversharing risks across Microsoft 365 content, especially SharePoint and OneDrive, by highlighting scanned items, sensitive content, files shared through broad access links, and recommended remediation actions."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6hRktO5CcZEowbuaxD0i5h8I6iw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "The View Details page provides a deeper assessment of each selected site through sections such as Overview, Identify, Protect, and Monitor. These sections help administrators review where sensitive data exists, understand how content is shared, and decide which remediation action should be applied to reduce data exposure before Microsoft 365 Copilot or users can access overshared content."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/kwY6HMhU4Gik1b7CPmgspjJmfA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/T24xs1z3sc79k3GOAIIJ3rRJwqk.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/He1CIcaudE35UUvZiL7wqaeEq4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3VkHaOS0Q6c3kuwvcxMjoLnvw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "After the assessment completes, administrators receive a high-level summary showing:"
+    },
+    {
+     "t": "p",
+     "text": "Total number of scanned items"
+    },
+    {
+     "t": "p",
+     "text": "Sensitive content detected"
+    },
+    {
+     "t": "p",
+     "text": "Files shared using anonymous (“Anyone”) links"
+    },
+    {
+     "t": "p",
+     "text": "Recommended remediation actions"
+    },
+    {
+     "t": "p",
+     "text": "Selecting View Details provides deeper insights into each SharePoint site through four sections:"
+    },
+    {
+     "t": "p",
+     "text": "Overview"
+    },
+    {
+     "t": "p",
+     "text": "Identify - Displays how much content has been scanned or remains unscanned for Sensitive Information Types (SITs). Administrators can also initiate an on-demand classification scan if required."
+    },
+    {
+     "t": "p",
+     "text": "Protect - Provides recommended remediation actions such as Restrict Access by Label, Restrict All Items, Auto-labeling Policies, and Retention Policies."
+    },
+    {
+     "t": "p",
+     "text": "Monitor - Displays sharing insights, including items shared with Anyone, Everyone in the organization, Specific People, and External Users."
+    },
+    {
+     "t": "p",
+     "text": "Each section provides specific information and recommended actions to improve data security."
+    },
+    {
+     "t": "p",
+     "text": "One of the biggest advantages of Data Risk Assessments is that Microsoft doesn’t simply identify risks—it also recommends actions to remediate them."
+    },
+    {
+     "t": "h3",
+     "text": "1. Restrict Access by Sensitivity Label"
+    },
+    {
+     "t": "p",
+     "text": "If sensitive documents already have Sensitivity Labels applied, administrators can create a Microsoft Purview DLP policy that prevents Microsoft 365 Copilot from summarizing those files."
+    },
+    {
+     "t": "h4",
+     "text": "Example"
+    },
+    {
+     "t": "p",
+     "text": "A document is labeled Confidential."
+    },
+    {
+     "t": "p",
+     "text": "A DLP policy is configured to prevent Microsoft 365 Copilot and agents from accessing or summarizing all files with the Confidential label."
+    },
+    {
+     "t": "h4",
+     "text": "Result"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft 365 Copilot cannot use the document when generating responses."
+    },
+    {
+     "t": "h3",
+     "text": "2. Restrict All Items"
+    },
+    {
+     "t": "p",
+     "text": "If an entire SharePoint site contains highly sensitive information, administrators can exclude the entire site from Microsoft 365 Copilot using Restricted Content Discovery."
+    },
+    {
+     "t": "h4",
+     "text": "Example"
+    },
+    {
+     "t": "p",
+     "text": "A SharePoint site stores:"
+    },
+    {
+     "t": "p",
+     "text": "Legal documents"
+    },
+    {
+     "t": "p",
+     "text": "HR records"
+    },
+    {
+     "t": "p",
+     "text": "Executive reports"
+    },
+    {
+     "t": "p",
+     "text": "Instead of protecting each document individually, the administrator blocks the entire SharePoint site from Copilot discovery."
+    },
+    {
+     "t": "h4",
+     "text": "Result"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft 365 Copilot cannot discover or use any content from that site."
+    },
+    {
+     "t": "h3",
+     "text": "3. Create Auto-Labeling Policies"
+    },
+    {
+     "t": "p",
+     "text": "The assessment can identify files containing sensitive information that do not have Sensitivity Labels."
+    },
+    {
+     "t": "p",
+     "text": "Administrators can create an Auto-labeling Policy so that Microsoft Purview automatically applies the appropriate Sensitivity Label."
+    },
+    {
+     "t": "h4",
+     "text": "Example"
+    },
+    {
+     "t": "p",
+     "text": "A document contains:"
+    },
+    {
+     "t": "p",
+     "text": "PAN Number"
+    },
+    {
+     "t": "p",
+     "text": "Salary Information"
+    },
+    {
+     "t": "p",
+     "text": "No Sensitivity Label has been applied."
+    },
+    {
+     "t": "p",
+     "text": "The assessment recommends creating an auto-labeling policy."
+    },
+    {
+     "t": "h4",
+     "text": "Result"
+    },
+    {
+     "t": "p",
+     "text": "Future documents containing similar sensitive information are automatically labeled, strengthening protection."
+    },
+    {
+     "t": "h3",
+     "text": "4. Create Retention Policies"
+    },
+    {
+     "t": "p",
+     "text": "Older content often becomes an oversharing risk because it remains accessible even though it is no longer required."
+    },
+    {
+     "t": "p",
+     "text": "When Data Risk Assessments identify files that haven’t been accessed for at least three years, Microsoft recommends creating a retention policy to automatically delete or manage the inactive content."
+    },
+    {
+     "t": "h4",
+     "text": "Example"
+    },
+    {
+     "t": "p",
+     "text": "A project document has not been opened for more than three years."
+    },
+    {
+     "t": "p",
+     "text": "The assessment recommends applying a retention policy."
+    },
+    {
+     "t": "h4",
+     "text": "Result"
+    },
+    {
+     "t": "p",
+     "text": "Inactive content is automatically managed, reducing unnecessary exposure."
+    },
+    {
+     "t": "h2",
+     "text": "Custom Data Risk Assessment"
+    },
+    {
+     "t": "p",
+     "text": "While the Default Assessment automatically scans commonly used SharePoint sites, administrators may need to evaluate specific users, departments, or SharePoint sites."
+    },
+    {
+     "t": "p",
+     "text": "For these scenarios, Microsoft Purview provides Custom Data Risk Assessments."
+    },
+    {
+     "t": "p",
+     "text": "Administrators can choose:"
+    },
+    {
+     "t": "p",
+     "text": "Specific users"
+    },
+    {
+     "t": "p",
+     "text": "Selected SharePoint sites"
+    },
+    {
+     "t": "p",
+     "text": "Scan level"
+    },
+    {
+     "t": "p",
+     "text": "Data sources"
+    },
+    {
+     "t": "p",
+     "text": "Unlike the default assessment, a custom assessment runs only when initiated by an administrator."
+    },
+    {
+     "t": "p",
+     "text": "After completion, results remain available, but they do not automatically refresh. To view updated results after changes, a new assessment must be created (or duplicated and rerun)."
+    },
+    {
+     "t": "p",
+     "text": "Note: A Custom Data Risk Assessment typically takes up to 48 hours to complete."
+    },
+    {
+     "t": "h3",
+     "text": "Item-Level Scanning"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft 365 Custom Assessments support Item-Level Scanning, A file is considered potentially overshared when it contains anonymous or external sharing links."
+    },
+    {
+     "t": "p",
+     "text": "Currently, Item-Level Scanning supports:"
+    },
+    {
+     "t": "p",
+     "text": "SharePoint Online only"
+    },
+    {
+     "t": "p",
+     "text": "It is not currently supported for OneDrive."
+    },
+    {
+     "t": "h3",
+     "text": "Prerequisites for Item-Level Scanning"
+    },
+    {
+     "t": "p",
+     "text": "To enable Item-Level Scanning in a Custom Data Risk Assessment, Microsoft requires a one-time authentication process using a registered Microsoft Entra application."
+    },
+    {
+     "t": "p",
+     "text": "The administrator performing this configuration must have one of the following Microsoft Entra roles:"
+    },
+    {
+     "t": "p",
+     "text": "Cloud Application Administrator"
+    },
+    {
+     "t": "p",
+     "text": "Application Administrator"
+    },
+    {
+     "t": "p",
+     "text": "Privileged Role Administrator"
+    },
+    {
+     "t": "p",
+     "text": "The registered application should be configured with:"
+    },
+    {
+     "t": "p",
+     "text": "Supported account type"
+    },
+    {
+     "t": "p",
+     "text": "Accounts in this organizational directory only"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Graph Application Permissions"
+    },
+    {
+     "t": "p",
+     "text": "Application.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "Directory.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "Files.ReadWrite.All"
+    },
+    {
+     "t": "p",
+     "text": "SensitivityLabels.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "Sites.ReadWrite.All"
+    },
+    {
+     "t": "p",
+     "text": "User.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "After assigning the permissions:"
+    },
+    {
+     "t": "p",
+     "text": "Grant Admin Consent."
+    },
+    {
+     "t": "p",
+     "text": "Create a Client Secret (store it securely, as it is displayed only once)."
+    },
+    {
+     "t": "p",
+     "text": "Record the Application (Client) ID, which will be required during authentication in the Data Risk Assessment wizard."
+    },
+    {
+     "t": "h3",
+     "text": "To Create Custom Data Risk Assessment:"
+    },
+    {
+     "t": "p",
+     "text": "Step 1: Navigate to Microsoft Purview Portal → DSPM → Discover → Data Risk Assessments → Create Custom Assessment"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/zjTfZr8RDBJauuTSbk0uCuVWM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 2: Provide the Assessment name and click on Next"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/OcRnPJKbvSbM627VuYhhsNfe9Us.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 3: A one-time authentication setup is required to enable Item-Level Scanning."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/59gINBwJooz0eUgCZY2YVmjJM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 4: Navigate to the Entra Admin Portal to create and configure the Registered app with the Following settings:"
+    },
+    {
+     "t": "p",
+     "text": "Supported account types: Accounts in this organizational directory only"
+    },
+    {
+     "t": "p",
+     "text": "API permissions: Microsoft APIs > Microsoft Graph > Application permissions"
+    },
+    {
+     "t": "p",
+     "text": "Application: Application.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "Directory: Directory.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "Files: Files.ReadWrite.All"
+    },
+    {
+     "t": "p",
+     "text": "SensitivityLabels: SensitivityLabels.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "Sites: Sites.ReadWrite.All"
+    },
+    {
+     "t": "p",
+     "text": "User: User.Read.All"
+    },
+    {
+     "t": "p",
+     "text": "Grant admin consent for your tenant"
+    },
+    {
+     "t": "p",
+     "text": "Now create a client secret for this app . Copy and securely save the value immediately. It will only be shown once."
+    },
+    {
+     "t": "p",
+     "text": "You’ll also need the registered application’s ID, which is displayed as Application (client) ID in the Overview tab."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/yLPyg20mfnAazTKtQI2V40jbJZQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/saD83W4Ys45Bmpc6xIAHFxCpf7s.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3iJ9nHrYdytEVNdbqSwh7FCoqA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 5: Select All Users or specific users to include in the assessment."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ra2Q0oRZyKDhhODvAz2H0fWl7hI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 6: Add the Microsoft 365 data source and select up to 10 SharePoint sites for Item-Level Scanning."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3JZKWLmZVlE9GPZ4mCcQggIBjKY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Step 7: Review the assessment configuration and select Run Assessment"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/sRQgqFO4oa4A7uzOMG1C1BvY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Item-Level Remediation Actions"
+    },
+    {
+     "t": "p",
+     "text": "After Item-Level Scanning completes, administrators can perform several remediation actions directly from Microsoft Purview."
+    },
+    {
+     "t": "p",
+     "text": "These include:"
+    },
+    {
+     "t": "p",
+     "text": "Resolve – Mark the item as reviewed if no action is required."
+    },
+    {
+     "t": "p",
+     "text": "Apply Sensitivity Label – Label files that are unlabeled or require stronger protection."
+    },
+    {
+     "t": "p",
+     "text": "Notify Site Owner – Send an email notification informing the site owner about potential oversharing."
+    },
+    {
+     "t": "p",
+     "text": "Remove Sharing Link – Remove anonymous or external sharing links to prevent unauthorized access."
+    },
+    {
+     "t": "p",
+     "text": "These actions help organizations quickly reduce oversharing risks without manually reviewing every file."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nCrAy9xih2OqYavU4SNCSsvu1A.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/EH4PmAVt0eqlhuGywv9BrAJcCU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Current Limitations"
+    },
+    {
+     "t": "p",
+     "text": "At the time of writing, Microsoft documents the following limits:"
+    },
+    {
+     "t": "p",
+     "text": "Maximum 200,000 items can be scanned per location."
+    },
+    {
+     "t": "p",
+     "text": "Item-Level Scanning supports SharePoint only."
+    },
+    {
+     "t": "p",
+     "text": "OneDrive is not currently supported for Item-Level Scanning."
+    },
+    {
+     "t": "p",
+     "text": "A maximum of 10 SharePoint sites can be selected in a single Item-Level Custom Assessment."
+    },
+    {
+     "t": "p",
+     "text": "Custom Assessment results do not refresh automatically. A new assessment must be created to view updated results."
+    },
+    {
+     "t": "p",
+     "text": "Data Risk Assessments play a key role in helping organizations prepare their Microsoft 365 environment for secure AI adoption by reducing oversharing risks before sensitive information can be surfaced by Microsoft 365 Copilot."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

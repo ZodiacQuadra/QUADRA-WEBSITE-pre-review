@@ -1,0 +1,985 @@
+{
+ "path": "/newsroom/purview-network-dlp",
+ "url": "https://www.quadrasystems.net/newsroom/purview-network-dlp",
+ "title": "Purview Network DLP with Global Secure Access",
+ "description": "Microsoft Purview Network DLP integrated with Microsoft Entra Global Secure Access enables organizations to extend Data Loss Prevention beyond Microsoft 365 and protect sensitive information across the entire internet.",
+ "ogImage": "https://framerusercontent.com/images/6RmWgTZXk6AamGZRBpCiVa0k0g.png?width=3780&height=1890",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Purview Network DLP with Global Secure Access"
+    },
+    {
+     "t": "p",
+     "text": "Purview Network DLP with Global Secure Access"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6RmWgTZXk6AamGZRBpCiVa0k0g.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Purview Network DLP integrated with Microsoft Entra Global Secure Access enables organizations to extend Data Loss Prevention beyond Microsoft 365 and protect sensitive information across the entire internet."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "p",
+     "text": "Purview Network DLP with Global Secure Access"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Purview Network DLP integrated with Microsoft Entra Global Secure Access enables organizations to extend Data Loss Prevention beyond Microsoft 365 and protect sensitive information across the entire internet. By inspecting encrypted web traffic through TLS inspection, organizations can prevent sensitive data from being uploaded to AI applications, cloud storage services, personal email, and unmanaged SaaS platforms. Security teams gain deep visibility into user activities, real-time alerts, and forensic investigation capabilities, while end users experience seamless protection with minimal impact on productivity. This makes Purview Network DLP a critical component of a modern Zero Trust and AI governance strategy."
+    },
+    {
+     "t": "h4",
+     "text": "Business Challenge"
+    },
+    {
+     "t": "p",
+     "text": "Employees may upload confidential documents to AI tools such as ChatGPT, Gemini, Claude, DeepSeek, Copilot Chat, or other unmanaged AI services."
+    },
+    {
+     "t": "h4",
+     "text": "Solution"
+    },
+    {
+     "t": "p",
+     "text": "Purview Network DLP inspects files being uploaded through GSA and blocks content containing:"
+    },
+    {
+     "t": "p",
+     "text": "Customer PII"
+    },
+    {
+     "t": "p",
+     "text": "Financial records"
+    },
+    {
+     "t": "p",
+     "text": "Source code"
+    },
+    {
+     "t": "p",
+     "text": "Intellectual property"
+    },
+    {
+     "t": "p",
+     "text": "Sensitive project documents"
+    },
+    {
+     "t": "h4",
+     "text": "Organizational Benefits"
+    },
+    {
+     "t": "p",
+     "text": "Protects intellectual property from AI training exposure."
+    },
+    {
+     "t": "p",
+     "text": "Reduces compliance risks."
+    },
+    {
+     "t": "p",
+     "text": "Enables safe AI adoption without fully blocking AI services."
+    },
+    {
+     "t": "h4",
+     "text": "Demonstrates Regulatory Compliance"
+    },
+    {
+     "t": "p",
+     "text": "Organizations can show auditors:"
+    },
+    {
+     "t": "p",
+     "text": "Policies protecting sensitive data"
+    },
+    {
+     "t": "p",
+     "text": "Blocked data exfiltration attempts"
+    },
+    {
+     "t": "p",
+     "text": "User activity logs"
+    },
+    {
+     "t": "p",
+     "text": "Enforcement actions"
+    },
+    {
+     "t": "h4",
+     "text": "Useful For"
+    },
+    {
+     "t": "p",
+     "text": "GDPR"
+    },
+    {
+     "t": "p",
+     "text": "HIPAA"
+    },
+    {
+     "t": "p",
+     "text": "PCI-DSS"
+    },
+    {
+     "t": "p",
+     "text": "ISO 27001"
+    },
+    {
+     "t": "p",
+     "text": "Indian DPDP Act"
+    },
+    {
+     "t": "h4",
+     "text": "Clear Policy Tips"
+    },
+    {
+     "t": "p",
+     "text": "Instead of silently blocking users, they receive understandable notifications."
+    },
+    {
+     "t": "h4",
+     "text": "Example"
+    },
+    {
+     "t": "h4",
+     "text": "Upload Blocked"
+    },
+    {
+     "t": "p",
+     "text": "Reason:"
+    },
+    {
+     "t": "p",
+     "text": "This file contains Credit Card Information and cannot be uploaded to unmanaged AI applications."
+    },
+    {
+     "t": "h4",
+     "text": "Benefits"
+    },
+    {
+     "t": "p",
+     "text": "Users understand why the action was blocked."
+    },
+    {
+     "t": "p",
+     "text": "Reduces helpdesk tickets."
+    },
+    {
+     "t": "p",
+     "text": "Encourages secure behaviour."
+    },
+    {
+     "t": "h4",
+     "text": "Our Requirement: To Block Sensitive Files Interaction with AI Websites."
+    },
+    {
+     "t": "h4",
+     "text": "To keep this practical, let’s break it into 3 big chunks, then go step‑by‑step:"
+    },
+    {
+     "t": "p",
+     "text": "Prepare Global Secure Access (GSA)"
+    },
+    {
+     "t": "p",
+     "text": "Wire GSA to Purview via file policies"
+    },
+    {
+     "t": "p",
+     "text": "Configure Purview Network DLP (collection policy + DLP policy)"
+    },
+    {
+     "t": "h4",
+     "text": "1. Prerequisites and licensing"
+    },
+    {
+     "t": "p",
+     "text": "Enterprise Mobility & Security E5 License for the Purview capability"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra Internet Access license for GSA"
+    },
+    {
+     "t": "p",
+     "text": "GSA is a paid offering. While the M365 traffic profile in GSA is included with E5, to leverage Network DLP capabilities, you will need one of the following licenses that include Entra Internet Access:"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra Internet Access Standalone License"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft Entra Suite License"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/icn2Fm7LgO5udhgXintg4Kj140s.jpg",
+     "alt": "Diagram showing the architecture of network content filtering with Global Secure Access and Microsoft Purview.",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Global Secure Access (GSA) Setup"
+    },
+    {
+     "t": "p",
+     "text": "Internet Access Profile created and assigned to users: Create and manage internet access profiles"
+    },
+    {
+     "t": "p",
+     "text": "Enable Internet Access traffic profile"
+    },
+    {
+     "t": "p",
+     "text": "In Entra admin centre:"
+    },
+    {
+     "t": "p",
+     "text": "Go to Global Secure Access → Connect → Traffic forwarding profiles."
+    },
+    {
+     "t": "p",
+     "text": "Enable Internet Access profile and scope it to a test pilot group (not all users initially)."
+    },
+    {
+     "t": "p",
+     "text": "Save and wait 10–15 minutes for profile propagation to clients."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4QlONYPgYXhjtzDknHC9leKQlY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "TLS Inspection enabled: Configure Transport Layer Security inspection settings"
+    },
+    {
+     "t": "p",
+     "text": "Network DLP needs TLS inspection, otherwise the traffic is opaque."
+    },
+    {
+     "t": "p",
+     "text": "Go to Global Secure Access → Secure → TLS inspection Then click on Create Policy"
+    },
+    {
+     "t": "p",
+     "text": "Make sure Enable TLS inspection, configure the inspection policy and CA cert distribution (usually via Intune to Trusted Root) Before Creating TLS Policy."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SIJhXHhnJhO4lpreJNTOX9IYGb0.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. Configure Name and Action to Inspect"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/i5rpYM6lSQkR3wU5iqOFCjMxw7o.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "4. Configure the rules as mentioned."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/odZfwTVijJTJ78cf8yh6K3I0w.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "5. Ensure the GSA root cert is trusted on test endpoints to avoid browser errors."
+    },
+    {
+     "t": "p",
+     "text": "GSA client installed, either manually or via Intune: Install the Global Secure Access Windows client"
+    },
+    {
+     "t": "p",
+     "text": "Deploy GSA client and validate routing"
+    },
+    {
+     "t": "p",
+     "text": "Install the Global Secure Access client on your test devices (Windows/macOS), either:"
+    },
+    {
+     "t": "p",
+     "text": "Manually (for lab), or"
+    },
+    {
+     "t": "p",
+     "text": "As a Win32 / LOB app via Intune."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gS2AWjCEmvJ2q6gSN3EVaWLos.png",
+     "alt": "Install the Global Secure Access Client for Windows - Global Secure ...",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "File policy created: Create a file policy to filter network file content"
+    },
+    {
+     "t": "p",
+     "text": "Create GSA file policy (Scan with Purview)"
+    },
+    {
+     "t": "p",
+     "text": "This is on the GSA side and is mandatory for the integration."
+    },
+    {
+     "t": "h4",
+     "text": "Create file policy"
+    },
+    {
+     "t": "p",
+     "text": "In Entra admin centre, go to Global Secure Access → Secure → Content policies."
+    },
+    {
+     "t": "p",
+     "text": "Click + Create policy."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Q5vYiRgDFAUp7tOF8j7aXHDGfVk.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Basics:"
+    },
+    {
+     "t": "p",
+     "text": "Name: e.g. GSA – Purview Network DLP File Policy."
+    },
+    {
+     "t": "p",
+     "text": "Description: explain it routes files to Purview for inspection."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/3KbWr21RSravQFrt2nK7Z2UBce8.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Rules:"
+    },
+    {
+     "t": "p",
+     "text": "Add rule → set Name, Description, Priority, Status."
+    },
+    {
+     "t": "p",
+     "text": "Action = Scan with Purview (critical – this is what hands content to Purview)."
+    },
+    {
+     "t": "p",
+     "text": "Matching conditions:"
+    },
+    {
+     "t": "p",
+     "text": "Activities: choose to upload/download as appropriate."
+    },
+    {
+     "t": "p",
+     "text": "File types: start with common office/PDF or all supported file types for initial test."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gZpg9uXLOrmmzmFjZorM7qSQ9Hw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "5. Destination: Artificial Intelligence Categories"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/sL32qrjI0ICdRhBnv1nsrEZJH8.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Note: wildcards on top‑/second‑level domains are not supported (*, *.com, *contoso.com); configure the exact FQDNs."
+    },
+    {
+     "t": "p",
+     "text": "Review and create."
+    },
+    {
+     "t": "p",
+     "text": "Security profile created with file policy linked: Internet access concepts"
+    },
+    {
+     "t": "p",
+     "text": "Link file policy to a security profile"
+    },
+    {
+     "t": "p",
+     "text": "1. Go to Global Secure Access → Secure → Security profiles."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/mKPjF6tL0LMdzz62UpphJa75p4U.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "2. Open or create a security profile."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/8Gx3Ioe3o5Q6RyKjkBR8McCkmNM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. On Link policies:"
+    },
+    {
+     "t": "p",
+     "text": "o + Link a policy → Existing File policy and TLS policy."
+    },
+    {
+     "t": "p",
+     "text": "Choose the file policy created above."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/w0PeTsacgCJcPMuLEgkYVersuBw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GYpjEFsljQnWNBjegaGeBromFw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/bDuByjHXAxeOupiUZzyrVaWN8Kc.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "4. Review the linked policies and create the security profiles."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nLlHrOos863IoQnnThgKOrTEUU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/S2u8txIBYzEDETso9PDwOFU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Conditional Access policy created to route traffic through GSA and apply the Security profile: Create a Conditional Access policy to route traffic through Global Secure Access"
+    },
+    {
+     "t": "p",
+     "text": "Conditional Access to route traffic through GSA"
+    },
+    {
+     "t": "p",
+     "text": "Go to Identity → Protection → Conditional Access."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/A2u9H9MrgjaBplssnVTSjIdwfI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Create new policy:"
+    },
+    {
+     "t": "p",
+     "text": "Name: Use a Unique Name."
+    },
+    {
+     "t": "p",
+     "text": "Users: your test group."
+    },
+    {
+     "t": "p",
+     "text": "Target resources: All internet resources with Global Secure Access."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7dUyKoi59rHBrQSQHWvsvg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/g9OFgmW9MtA35V0hU79EZ0yGZLM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Under Session:"
+    },
+    {
+     "t": "p",
+     "text": "Enable Use Global Secure Access security profile and select the profile that has your file policy."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gtzkeuSFQOi36wjuRn3wuUWqBVo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Configure other conditions (locations, device filters, etc.) as needed, then create."
+    },
+    {
+     "t": "p",
+     "text": "Once this is applied, traffic from pilot users goes through GSA, gets TLS inspected, and file flows matching the file policy are handed to Purview."
+    },
+    {
+     "t": "p",
+     "text": "Purview – Network DLP collection policy"
+    },
+    {
+     "t": "p",
+     "text": "Collection policy = what telemetry/content Purview ingests from Network/Edge."
+    },
+    {
+     "t": "p",
+     "text": "Create collection policy for Network DLP"
+    },
+    {
+     "t": "h4",
+     "text": "In Purview compliance portal:"
+    },
+    {
+     "t": "p",
+     "text": "Go to Data Loss Prevention → Classifiers → Collection policies."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cxzlvv7cJkGJN0YoevTx54OoPqQ.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Create policy and configure roughly as:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/7bpe4FFmOlPO6mMWH9PvCmqd67A.jpg",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Name: Network DLP Collection Policy."
+    },
+    {
+     "t": "p",
+     "text": "Description: capture sensitive data in transit via GSA."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/5D4aUHD1k65EF2yQpdAvlJoyFR4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. Data to detect: All classifiers (or narrow to required SITs/labels for cost control)."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cMY0hH8XmeGNcwqqTUBs8Pd0Ro.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "4. Activities to detect:"
+    },
+    {
+     "t": "p",
+     "text": "Text sent to or shared with cloud or AI app"
+    },
+    {
+     "t": "p",
+     "text": "File uploaded to or shared with cloud or AI app"
+    },
+    {
+     "t": "p",
+     "text": "Text received from cloud or AI app"
+    },
+    {
+     "t": "p",
+     "text": "File downloaded from cloud or AI app"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WUI5eakkIXV8173gKiOqqrAj7WU.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "5. Data sources:"
+    },
+    {
+     "t": "p",
+     "text": "Unmanaged Cloud Apps: Individual cloud apps as needed."
+    },
+    {
+     "t": "p",
+     "text": "Adaptive App Scope: All unmanaged AI apps (currently the only supported scope for Browser & Network per blog)."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/odiYwo5b4OhgmyKeExiKHj60Ir8.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "6. Where to apply:"
+    },
+    {
+     "t": "p",
+     "text": "Content capture: Capture content."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/dvvbGhGX4fIhKJyDqbMblt7AqLg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "7. Cloud apps detection: Network."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gn9h46RdCIGoKvWESPgeTw79BSc.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/jzNa9r1hf5t6VQIyT9OvN7nD54.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "8. Save the policy and give it some time to start populating Activity explorer."
+    },
+    {
+     "t": "h4",
+     "text": "Purview – Network DLP policy (Inline web traffic)"
+    },
+    {
+     "t": "p",
+     "text": "Network DLP policy is where you define actual enforcement (audit/block)."
+    },
+    {
+     "t": "p",
+     "text": "Create a Network DLP policy"
+    },
+    {
+     "t": "p",
+     "text": "In Purview portal, go to Data loss prevention → Policies → Create policy"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/h7YrVnptNHfFZnJTVNNOsw6Z9A.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Choose Inline web traffic (this is the “Network” fork; cannot combine with classic locations)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/H5x2LDb7WmVeQWTsUizCG90Wd4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Template:"
+    },
+    {
+     "t": "p",
+     "text": "Choose Custom policy (no built‑in templates yet for Network DLP)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/m1VsZEoHUkZ3EbjP2Y2fAKws8U.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Name/Description:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/QGXY8wC5zIU98vd25YsZ8Tj1yM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "5. Locations / Cloud apps:"
+    },
+    {
+     "t": "p",
+     "text": "For Cloud apps"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/fOdKJ9fw2tNu9S54atugUvCXxE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Select Adaptive App Scopes if you want to target All AI Apps."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/uGFNa7EHZaPiDgy4Qykvdek.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Select All unmanaged AI Apps and Cloud Storages Apps."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9JtRwkkiAq5ZdksO9ffODU419Eg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "6. Enforcement options:"
+    },
+    {
+     "t": "p",
+     "text": "Select Enforce Policy to Network Only."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/8Obi2qTzsGxHfxUgvQUU69GkMg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "7. Configure Network DLP rule(s)"
+    },
+    {
+     "t": "p",
+     "text": "Click on the Create New Rule"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/KWvH3SgIQIaZZo2TkBh5nN9L9o4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "8.Enter Rule Name and Description Then Add Conditions as SIT and Target Indian PII Data & Credit Card Number"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/HK5qESKPlf8VBc2F2NVdt80adVw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "9.Actions:"
+    },
+    {
+     "t": "p",
+     "text": "Only action: Restrict browser and network activities"
+    },
+    {
+     "t": "p",
+     "text": "Inside that, you can choose:"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vIII45XnQ7lVqw8WOzFCsBTPh0.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "block for:"
+    },
+    {
+     "t": "p",
+     "text": "Text sent to or shared with cloud or AI apps"
+    },
+    {
+     "t": "p",
+     "text": "File uploaded to or shared with cloud or AI apps"
+    },
+    {
+     "t": "p",
+     "text": "Text received from cloud or AI apps"
+    },
+    {
+     "t": "p",
+     "text": "File received from cloud or AI apps"
+    },
+    {
+     "t": "p",
+     "text": "10.Configure Alerts to Admin for the DLP Policy."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tfSjcah78rofvH5LwS5z7N4wY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "11. Save the DLP Policy and Turn it on."
+    },
+    {
+     "t": "p",
+     "text": "Kindly Wait until the DLP policy to Sync Completely, then Test by Uploading or downloading Sensitive Content via Network"
+    },
+    {
+     "t": "p",
+     "text": "Important limitations and gotchas"
+    },
+    {
+     "t": "p",
+     "text": "Only HTTP/1.1 file flows currently supported; no multipart upload support (e.g. some Google Drive flows)."
+    },
+    {
+     "t": "p",
+     "text": "No text‑only network inspection yet for many scenarios, so still rely on Endpoint DLP/Defender for those."
+    },
+    {
+     "t": "p",
+     "text": "WebSocket’s (e.g. some Copilot flows) not supported at network layer today."
+    },
+    {
+     "t": "p",
+     "text": "Network DLP is pay‑as‑you‑go, currently priced per 10K requests, so use narrow pilot scopes and incremental rollout."
+    },
+    {
+     "t": "p",
+     "text": "Policy Behavior"
+    },
+    {
+     "t": "p",
+     "text": "Make sure All your Internet Traffic has been Route through Entra ID Global Secure Access."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Tc8jmjojvl7fmZn6pof1i2DYdIY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Trying to Download any Sensitive Content from AI Websites."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4z1Lpx3cKBm8EmVAME0CoewfZg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "As Excepted Web Traffic Inspect the Content with Entra ID GSA and Blocks the Download."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/m2o32LfgucCQA6BEgrkRbP6Jg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Try to Upload Sensitive Content to AI Website."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/87t7C584XW3gbMIzqe09T3hGTPI.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "As Excepted Web Traffic Inspect the Content with Entra ID GSA and Blocks the Upload."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/aL8hfqjCy23Ux8dTk5jZMfP3xs.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

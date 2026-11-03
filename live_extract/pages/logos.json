@@ -1,0 +1,265 @@
+{
+ "path": "/logos",
+ "url": "https://www.quadrasystems.net/logos",
+ "title": "Quadra Logos",
+ "description": "Quadra Logos is a centralized repository containing all official Quadra brand logos.\nThis page includes approved logo variations such as primary, secondary, monochrome, and size-specific versions, optimized for digital and print use.",
+ "ogImage": "https://framerusercontent.com/assets/ZmvVtQ8h9f74V54PciwrGosbwo.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h1",
+     "text": "Brand Logo"
+    },
+    {
+     "t": "p",
+     "text": "Last Updated: Jan 7, 2026"
+    }
+   ]
+  },
+  {
+   "name": "Quick Access",
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/orfpOqm6m8ILEqg0U5XLPq0qpo.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "1000 x 260"
+    },
+    {
+     "t": "h4",
+     "text": "Logo Large_Black"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/EpQ296XDm5QVlYk1ha4si0z0BOo.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "1000 x 260"
+    },
+    {
+     "t": "p",
+     "text": "Logo Large_White"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/tCdAAb4uhZECUaPLFnYvog.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "500 x 130"
+    },
+    {
+     "t": "p",
+     "text": "Logo Medium_Black"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/caHNggmO3STnsl09LRM1DN82eFk.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "500 x 130"
+    },
+    {
+     "t": "p",
+     "text": "Logo Medium_White"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6i1Gi68poixswiuHBrPUzpW4F98.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "200 x 52"
+    },
+    {
+     "t": "p",
+     "text": "Logo small_Black"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/2NgBS3A1HGLXr3rYsGF66bhiGtU.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "200 x 52"
+    },
+    {
+     "t": "p",
+     "text": "Logo small_white"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Nq7niJ5TigE6Q3EJCNCxGW5brs.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "4096 x 668"
+    },
+    {
+     "t": "p",
+     "text": "Logo Amb small_White"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VLlAMf8IjNvjrDR4BiGPns3bEmY.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "4096 x 668"
+    },
+    {
+     "t": "p",
+     "text": "Logo Amb small_Black"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GNBhM7rRaGplP6xrmEmjYJacvxg.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "400 x 400"
+    },
+    {
+     "t": "p",
+     "text": "QLogo Medium_White"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YlTvoYHqnsF6Z0cuXMYpRgOF1gI.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "p",
+     "text": "400 x 400"
+    },
+    {
+     "t": "p",
+     "text": "QLogo Medium_Black"
+    }
+   ]
+  },
+  {
+   "name": "Logo Usage",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Logo Usage"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/orfpOqm6m8ILEqg0U5XLPq0qpo.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "h3",
+     "text": "Do’s"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6i1Gi68poixswiuHBrPUzpW4F98.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/2NgBS3A1HGLXr3rYsGF66bhiGtU.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YlTvoYHqnsF6Z0cuXMYpRgOF1gI.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/GNBhM7rRaGplP6xrmEmjYJacvxg.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "h3",
+     "text": "Don’ts"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/EpQ296XDm5QVlYk1ha4si0z0BOo.png",
+     "alt": "",
+     "w": 245
+    }
+   ]
+  },
+  {
+   "name": "Space and Sizing rules",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Space and Sizing rules"
+    },
+    {
+     "t": "h3",
+     "text": "What is Clear Space, and why do we need it?"
+    },
+    {
+     "t": "p",
+     "text": "Whenever we use a logo anywhere, it needs to have a little space around it to protect the visual impact from other factors, and we call this clear space."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6qERUwoa0InrtbvPWSOJPoJ7k8I.png",
+     "alt": "",
+     "w": 313
+    },
+    {
+     "t": "h3",
+     "text": "Do’s"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/6i1Gi68poixswiuHBrPUzpW4F98.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/YlTvoYHqnsF6Z0cuXMYpRgOF1gI.png",
+     "alt": "",
+     "w": 245
+    },
+    {
+     "t": "h3",
+     "text": "Don’ts"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

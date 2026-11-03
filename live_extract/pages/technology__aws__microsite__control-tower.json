@@ -1,0 +1,114 @@
+{
+ "path": "/technology/aws/microsite/control-tower",
+ "url": "https://www.quadrasystems.net/technology/aws/microsite/control-tower",
+ "title": "AWS Control Tower | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Control Tower"
+    },
+    {
+     "t": "h1",
+     "text": "Architect a Well-Governed Cloud Landing Zone"
+    },
+    {
+     "t": "p",
+     "text": "We use AWS Control Tower to architect and build a secure, compliant, and well-architected multi-account AWS environment. We provide the fastest and most effective way to establish a governed foundation, or \"landing zone,\" for your enterprise."
+    }
+   ]
+  },
+  {
+   "name": "Features",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Without a Blueprint, Your Cloud Will Sprawl into Chaos"
+    },
+    {
+     "t": "p",
+     "text": "As your organization scales on AWS, managing multiple accounts can quickly become a major challenge. Leaders are asking: \"How do we ensure every new account is created with our security and compliance standards built-in? How do we centrally manage policies across our entire organization? How do we avoid the chaos of an ungoverned cloud?\""
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/isLU1uAXupVs1j2jEIRNaiTeUh0.jpeg",
+     "alt": "a group of people sitting around a wooden table",
+     "w": 1440
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/lmoURI2xNHPH5uo9UPZ2AHg6CiE.jpeg",
+     "alt": "Two people sitting across from each other in an office working on a Surface laptop",
+     "w": 1440
+    },
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Secure and Scalable Landing Zone"
+    },
+    {
+     "t": "p",
+     "text": "Our approach is to architect a governed foundation from day one. We use AWS Control Tower to automate the setup of a best-practice landing zone. Our blueprint includes a centralized management account, a dedicated log archive, an audit account with security guardrails, and an automated \"Account Factory\" to ensure that every new account you provision is secure, compliant, and ready for your workloads."
+    }
+   ]
+  },
+  {
+   "name": "",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Our Cloud Governance Architecture Capabilities"
+    },
+    {
+     "t": "p",
+     "text": "Landing Zone Design & Deployment"
+    },
+    {
+     "t": "p",
+     "text": "Architecting a secure, multi-account environment using Control Tower best practices."
+    },
+    {
+     "t": "p",
+     "text": "Automated Guardrail Implementation"
+    },
+    {
+     "t": "p",
+     "text": "Centralized Identity & Access Management"
+    },
+    {
+     "t": "p",
+     "text": "Automated Account Provisioning"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/c60iE25HXGpYM52auiZ2T52Dpw.jpeg",
+     "alt": "a woman giving a presentation to a group of people",
+     "w": 1200
+    },
+    {
+     "t": "h2",
+     "text": "Landing Zone Design & Deployment"
+    }
+   ]
+  },
+  {
+   "name": "Call To Action",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Ready to Build Your Cloud on a Solid Foundation?"
+    },
+    {
+     "t": "link",
+     "text": "Schedule a Landing Zone Workshop",
+     "href": "../../../contact-us"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

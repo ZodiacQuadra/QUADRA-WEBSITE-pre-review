@@ -1,0 +1,212 @@
+{
+ "path": "/technology/aws/security-governance",
+ "url": "https://www.quadrasystems.net/technology/aws/security-governance",
+ "title": "AWS Security & Governance: Confident Compliance as You | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "AWS Security & Governance"
+    },
+    {
+     "t": "h1",
+     "text": "Confident Compliance as You Scale"
+    },
+    {
+     "t": "p",
+     "text": "We architect a proactive, intelligent, and unified security posture for your AWS environment. We help you build with confidence, embedding security and governance into the foundation to protect your data, applications, and reputation."
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h6",
+     "text": "As You Innovate on AWS,"
+    },
+    {
+     "t": "h2",
+     "text": "Your Risk Landscape Evolves"
+    },
+    {
+     "t": "p",
+     "text": "We partner with leaders to answer the most critical questions about protecting their digital assets in a complex threat landscape"
+    },
+    {
+     "t": "h6",
+     "text": "How do we gain a single, unified view of our security posture across dozens or hundreds of AWS accounts?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we detect and respond to threats in real-time before they can cause damage?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we ensure and demonstrate continuous compliance with regulations like DPDPA?"
+    },
+    {
+     "t": "h6",
+     "text": "How do we move beyond default security to a truly robust, defense-in-depth architecture?"
+    }
+   ]
+  },
+  {
+   "name": "Bluepirnt",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "The Blueprint for a Resilient AWS Environment"
+    },
+    {
+     "t": "p",
+     "text": "Our security philosophy is built on the principle of Shared Responsibility. AWS secures the cloud; we architect the security in your cloud."
+    },
+    {
+     "t": "p",
+     "text": "Establish"
+    },
+    {
+     "t": "p",
+     "text": "Architect"
+    },
+    {
+     "t": "p",
+     "text": "Build"
+    },
+    {
+     "t": "h2",
+     "text": "Establish a Governed Foundation with Control Tower"
+    },
+    {
+     "t": "p",
+     "text": "We architect your multi-account environment using AWS Control Tower, creating a secure and compliant landing zone. This automates the setup of a well-architected environment with built-in governance and best practices from day one."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/RyaSPC6zvUa64tUJdhdd1HsJ0.jpeg",
+     "alt": "people sitting on chair in front of table while holding pens during daytime",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Spectrum",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting a 360-Degree Security Fabric on AWS"
+    },
+    {
+     "t": "p",
+     "text": "We architect a proactive, intelligent, and unified security posture, leveraging AWS's secure global infrastructure and native security services to protect your most critical assets"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/9VtyzrX99XIJIm2of7RPyCKOiwM.jpg",
+     "alt": "a man sitting at a desk writing on a piece of paper",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Centralized Governance & Compliance"
+    },
+    {
+     "t": "p",
+     "text": "We architect your multi-account environment for security and compliance from day one. Using AWS Control Tower, we establish a secure and well-architected landing zone that automates the setup of a governed environment, ensuring every new account adheres to your established security and compliance guardrails (e.g., for DPDPA)."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/D2q4WXwE67e5iKPHcfwKQCc2CU.jpeg",
+     "alt": "photography of people inside room during daytime",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Unified Security Posture Management"
+    },
+    {
+     "t": "p",
+     "text": "We architect a \"single pane of glass\" for your entire AWS estate. We leverage AWS Security Hub to provide a unified, comprehensive view of your security posture, automating compliance checks against industry standards and providing prioritized insights to remediate risks faster."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/QaIbUs5U0lCS5E90DiCB5EbyTLQ.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Application & Network Protection"
+    },
+    {
+     "t": "p",
+     "text": "We architect a multi-layered defense for your perimeter. We design and implement robust protection for your web applications against common exploits with AWS WAF, and we secure your network with AWS Network Firewall for granular, centralized traffic control."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/iRmA7sc7LrYZH15gJCqNTETnLhQ.jpeg",
+     "alt": "person using phone and laptop",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Intelligent Threat Detection"
+    },
+    {
+     "t": "p",
+     "text": "We architect a proactive defense system. By implementing Amazon GuardDuty, we provide intelligent, continuous threat detection that uses machine learning to identify anomalous activity across your AWS accounts, workloads, and data, enabling you to catch threats before they escalate."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/vuP3WfN2z73iXjVUlleWgtCYJ3M.jpeg",
+     "alt": "person typing on MacBook Pro on brown wooden table during daytime photo",
+     "w": 1440
+    },
+    {
+     "t": "h4",
+     "text": "Modern Identity & Zero Trust Access"
+    },
+    {
+     "t": "p",
+     "text": "We architect a modern, identity-first security model. We use AWS IAM Identity Center to centralize workforce access and implement a Zero Trust framework, ensuring that the right people have the right access to the right resources, based on the principle of least privilege."
+    }
+   ]
+  },
+  {
+   "name": "Accordions",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Architecting Your AWS Advantage"
+    },
+    {
+     "t": "p",
+     "text": "How can Quadra help us maximize the ROI of our AWS investment?"
+    },
+    {
+     "t": "p",
+     "text": "We focus on the full lifecycle of value. 1) We use frameworks like AWS MAP to build a data-driven business case before migration. 2) We architect your environment with FinOps principles from day one, ensuring cost-efficiency. 3) Our AWS Premier Partner status gives us access to funding programs and deep expertise that we pass on to you, ensuring you get the most value from the platform."
+    },
+    {
+     "t": "p",
+     "text": "Why choose Quadra over another AWS partner?"
+    },
+    {
+     "t": "p",
+     "text": "What does success look like for your security and governance initiatives?"
+    },
+    {
+     "t": "p",
+     "text": "What are your top security priorities for the next 12 months?"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

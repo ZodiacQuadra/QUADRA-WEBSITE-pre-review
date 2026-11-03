@@ -1,0 +1,631 @@
+{
+ "path": "/newsroom/building-a-vpn-from-on-premises-hybrid-to-gcp",
+ "url": "https://www.quadrasystems.net/newsroom/building-a-vpn-from-on-premises-hybrid-to-gcp",
+ "title": "Building a VPN from on-premises/hybrid to GCP",
+ "description": "As more and more businesses move to the cloud, it is important to have secure and reliable connections between on-premises and cloud resources. This is where a VPN (Virtual Private Network) comes in.",
+ "ogImage": "https://framerusercontent.com/images/hAffFfWzXvBnaHofcbza0IiRs.png?width=1500&height=750",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Building a VPN from on-premises/hybrid to GCP"
+    },
+    {
+     "t": "p",
+     "text": "Building a VPN from on-premises/hybrid to GCP"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/hAffFfWzXvBnaHofcbza0IiRs.png",
+     "alt": "",
+     "w": 1200
+    }
+   ]
+  },
+  {
+   "name": "Post",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Blog Summary"
+    },
+    {
+     "t": "p",
+     "text": "As more and more businesses move to the cloud, it is important to have secure and reliable connections between on-premises and cloud resources. This is where a VPN (Virtual Private Network) comes in."
+    },
+    {
+     "t": "h3",
+     "text": "Blog Details"
+    },
+    {
+     "t": "h4",
+     "text": "Introduction"
+    },
+    {
+     "t": "p",
+     "text": "Welcome to our blog on building a VPN from on-premises/hybrid to Google Cloud Platform (GCP). As more and more businesses move to the cloud, it is important to have secure and reliable connections between on-premises and cloud resources. This is where a VPN (Virtual Private Network) comes in."
+    },
+    {
+     "t": "p",
+     "text": "A VPN allows you to create a secure, encrypted connection between your on-premises infrastructure and GCP, ensuring that your data is protected as it travels between these two environments."
+    },
+    {
+     "t": "p",
+     "text": "In this blog, we will explore:"
+    },
+    {
+     "t": "p",
+     "text": "The steps involved in building a VPN from on-premises/hybrid to GCP."
+    },
+    {
+     "t": "p",
+     "text": "We will cover topics such as selecting the appropriate VPN gateway, configuring the VPN connection, and testing the connection to ensure it is working properly."
+    },
+    {
+     "t": "p",
+     "text": "How to confidently set one up for your own business."
+    },
+    {
+     "t": "p",
+     "text": "Let's get started!"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Types of GCP Cloud VPN"
+    },
+    {
+     "t": "p",
+     "text": "Classic VPN"
+    },
+    {
+     "t": "p",
+     "text": "HA VPN"
+    },
+    {
+     "t": "p",
+     "text": "CLASSIC VPN gateways has a single interface, a single external IP address, and support tunnels using dynamic (BGP) or static routing (route-based or policy-based). The external IPs and forwarding rules must be created before the setup of the VPN. They provide an SLA of 99.9% service availability, but it doesn’t support IPv6."
+    },
+    {
+     "t": "p",
+     "text": "Classic VPN architecture"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nc7HuYqcgzuJjHJ5xNAe7Kcntpk.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "p",
+     "text": "HA VPN gateways has two external IP addresses and two interfaces. To support high availability, each IP address is automatically selected from a unique address pool. They support only Dynamic Routing (BGP) and provide an SLA of 99.99% service availability when configured with two interfaces and two external IPs, it supports two tunnels from one gateway. It supports IPv6."
+    },
+    {
+     "t": "p",
+     "text": "HA VPN Architecture"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/QlYstFdnRJDStl1D5YoUq8ACfo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Configuration overview for Classic and HA"
+    },
+    {
+     "t": "p",
+     "text": "Create a VPC Network (VPC, subnets, firewall rules) for your workloads in CLI mode"
+    },
+    {
+     "t": "p",
+     "text": "Configure networks in on-premises / other cloud"
+    },
+    {
+     "t": "p",
+     "text": "Create gateway IP in GCP and vice versa for On-premises /other cloud"
+    },
+    {
+     "t": "p",
+     "text": "Create Classic VPN tunnel with gateway IP and pre-shared key"
+    },
+    {
+     "t": "p",
+     "text": "Establish connection and tunnel error troubleshoot overview"
+    },
+    {
+     "t": "p",
+     "text": "Create HA VPN tunnel with gateway IP and BGP protocol"
+    },
+    {
+     "t": "p",
+     "text": "Let’s get started!"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Pre-requisites"
+    },
+    {
+     "t": "p",
+     "text": "1. CREATE VPC NETWORK"
+    },
+    {
+     "t": "p",
+     "text": "Create a new VPC networks by pasting the following command in google cloud shell"
+    },
+    {
+     "t": "p",
+     "text": "Click the Google cloud shell icon on top of the console page"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/R2SYUrxA8dqypoGE2gfqSt46MA.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Paste the following command in cloud shell"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud compute networks create quadra-vpc-sandbox --subnet-mode custom”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ox0f4ErUreYe4uj8M8FRcidPc.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "2. CREATE SUBNETS"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud beta compute networks subnets create quadra-vpc-sandbox-subnet1 \\"
+    },
+    {
+     "t": "p",
+     "text": "--network vpc-demo --range 10.1.1.0/24 --region asia-south1”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/nYb7dnlUVYz1Rki9vTgJivqXKg.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "3. CREATE FIREWALL RULES"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud compute firewall-rules create quadra-vpc-allow-internal \\"
+    },
+    {
+     "t": "p",
+     "text": "--network quadra-vpc-sandbox \\"
+    },
+    {
+     "t": "p",
+     "text": "--allow tcp:0-65535,udp:0-65535,icmp \\"
+    },
+    {
+     "t": "p",
+     "text": "--source-ranges 10.0.0.0/8”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/QuqqNGjQXLmcxTXMuyNdC6aUIw.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "“gcloud compute firewall-rules create quadra-vpc-allow-ssh-icmp \\"
+    },
+    {
+     "t": "p",
+     "text": "--allow tcp:22,icmp”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/pI16jEIJDXZADTJ3jEwwqWhO4.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "4. CONFIGURE ON-PREMISES SETUP"
+    },
+    {
+     "t": "p",
+     "text": "Create VPC network in on-premises:"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud compute networks create on-prem --subnet-mode custom”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ITKJ6qhpGubf5zvdXo8EG36bLM.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Create Subnets for on-premises network"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud beta compute networks subnets create on-prem-subnet1 \\"
+    },
+    {
+     "t": "p",
+     "text": "--network on-prem --range 192.168.1.0/24 --region us-central1”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/VsTF5CedrPr9jhKxrm5NbUEyMo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Create firewall rules for you network connection"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud compute firewall-rules create on-prem-allow-internal \\"
+    },
+    {
+     "t": "p",
+     "text": "--network on-prem \\"
+    },
+    {
+     "t": "p",
+     "text": "--source-ranges 192.168.0.0/16”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xnrU1ge6IMu4X6kERyme9FdEMqE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "5. Configure HA VPN setup (GCP)"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud beta compute vpn-gateways create quadra-vpn-gw1 --network quadra-vpc-sandbox"
+    },
+    {
+     "t": "p",
+     "text": "--region asia-south1”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/gwnDAPVgGXH67wfWq9onoqnf7hE.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "6. Configure HA-VPN setup (On-Prem)"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud beta compute vpn-gateways create on-prem-vpn-gw1 --network on-prem"
+    },
+    {
+     "t": "p",
+     "text": "--region us-central1”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/o9VxcQXsdvR3I4nGMiTJzfEAQA.png",
+     "alt": "",
+     "w": 200
+    },
+    {
+     "t": "p",
+     "text": "View details on both VPN-Gateways"
+    },
+    {
+     "t": "p",
+     "text": "“gcloud beta compute vpn-gateways describe quadra-vpn-gw1 --region asia-south1”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SmTF7D3IL6YyNekliNcsh2cG50.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "“gcloud beta compute vpn-gateways describe on-prem-vpn-gw1 --region us-central1”"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/unRoNLZ5PZ6iuGHgrsp9XrjCMfo.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In console you can verify the status of the tunnel created (refer below image)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/v83GRdMzdmmsC3qdFGJezMT9u8Q.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Now that we have both tunnel IP’s let’s start configuring VPN in the cloud console"
+    },
+    {
+     "t": "p",
+     "text": "Go to console and search for “Hybrid Connectivity à Cloud VPN”"
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Creating a Classic VPN"
+    },
+    {
+     "t": "p",
+     "text": "Search for Hybrid connectivity in list of services and choose cloud VPN"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/4lYd6KRTDrk4kmtLC5mrTgKRmKY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Click on Create VPN connection"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/1Dv8ZxGoYjVJHjgQ14OA5IhEI5E.png",
+     "alt": "",
+     "w": 232
+    },
+    {
+     "t": "p",
+     "text": "Click Classic VPN"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cf3sVe1bjb3DLO34sKvZXJaF4.png",
+     "alt": "",
+     "w": 241
+    },
+    {
+     "t": "p",
+     "text": "In the name field specify as “quadra-vpn ”"
+    },
+    {
+     "t": "p",
+     "text": "In the network, Choose the network you created in the above steps"
+    },
+    {
+     "t": "p",
+     "text": "Specify region as “us-central1”"
+    },
+    {
+     "t": "p",
+     "text": "In IP address tab choose a static IP address or use existing reserved IP"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/bnB6hElvQumXPzi8mTUobaqdVk.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "In tunnels section"
+    },
+    {
+     "t": "p",
+     "text": "Name your tunnel and give the peer IP address (On-prem firewall IP / Other Cloud peer IP)"
+    },
+    {
+     "t": "p",
+     "text": "Choose either IKEv2 or IKEv1 as per your firewall policies."
+    },
+    {
+     "t": "p",
+     "text": "Create a new key or paste the key if you have already had it handy."
+    },
+    {
+     "t": "p",
+     "text": "Choose Route-Based as a routing option and provide the IP address range that will be used in On-Premises/other cloud and click create."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/PUfAWUtmpEbSb2kyTFE4dpBjws0.png",
+     "alt": "",
+     "w": 240
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/TqP90xm2mBKthpQslHfWmyG5E.png",
+     "alt": "",
+     "w": 234
+    },
+    {
+     "t": "p",
+     "text": "Once created wait for few minutes to get the VPN tunnels up and running, you can see the status of the connection in the “VPN Status”, Kindly find the below reasons to troubleshoot in case you are faced with an error"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/ZY1Km6DchznCPFHjQfsib6jVjNs.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    },
+    {
+     "t": "h4",
+     "text": "Creating a HA VPN"
+    },
+    {
+     "t": "p",
+     "text": "Go to console and search for Hybrid connectivity and choose VPN"
+    },
+    {
+     "t": "p",
+     "text": "Click on High-availability (HA) VPN"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/0uAgzfPq6Bq4mHg0uEVzli6XGuQ.png",
+     "alt": "",
+     "w": 232
+    },
+    {
+     "t": "p",
+     "text": "Give necessary details in the gateway details (steps followed in creating classic VPN)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/cNxJTgUgIGC61rggzMvjiwrP2Eo.png",
+     "alt": "",
+     "w": 240
+    },
+    {
+     "t": "p",
+     "text": "Choose on-prem/Other cloud (Since we are trying to connect on-prem)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/NlcE8tsP3vMuzMPxEzQvbROSKs4.png",
+     "alt": "",
+     "w": 252
+    },
+    {
+     "t": "p",
+     "text": "Create Peer VPN gateway Name can be 1,2,4 Interface"
+    },
+    {
+     "t": "p",
+     "text": "Choose the name for your vpn-gateway"
+    },
+    {
+     "t": "p",
+     "text": "Choose the required interface for your workloads"
+    },
+    {
+     "t": "p",
+     "text": "Provide the interface IP(create new one ) and click create."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/Y3TRxbDJbYOYabUCHGS97rDVquY.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Once gateway is created, create router for you gateway interface"
+    },
+    {
+     "t": "p",
+     "text": "Choose Name for your router"
+    },
+    {
+     "t": "p",
+     "text": "Choose Network where you router will be available (chosen by default)"
+    },
+    {
+     "t": "p",
+     "text": "Choose a random Google ASN number, it should also match with peer ASN and click create."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/obVRBWq6HoBiyqjckHkzyOckf8.png",
+     "alt": "",
+     "w": 220
+    },
+    {
+     "t": "p",
+     "text": "After creating router make sure the interface IP are correct and generate pre-shared key or use existing pre-shared key (steps followed in classic VPN)"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/SFpuGvWxC8wfX9qSIJoBrWTx8Gs.png",
+     "alt": "",
+     "w": 242
+    },
+    {
+     "t": "p",
+     "text": "Configure BGP session with peer ASN number and double check the IP address"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/bIMTpv833bOrc9IdNzviKdWhq4.png",
+     "alt": "",
+     "w": 217
+    },
+    {
+     "t": "p",
+     "text": "Once BGP configured, you will see the status of the connection as below"
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/WxvqxriSiycdDhZZjXJ88Nw8rx8.png",
+     "alt": "",
+     "w": 1200
+    },
+    {
+     "t": "p",
+     "text": "Please find the below reasons to troubleshoot in case you faced with an error."
+    },
+    {
+     "t": "p",
+     "text": "Conclusion:"
+    },
+    {
+     "t": "p",
+     "text": "In this blog, we were able to create a secured VPN connection from on-premises / Hybrid to Google Cloud using both classic VPN and HA VPN models."
+    },
+    {
+     "t": "p",
+     "text": "‍"
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,63 @@
+{
+ "path": "/technology/aws/aws-security-assessment-compliance/case-study-empowering-a-global-life-sciences",
+ "url": "https://www.quadrasystems.net/technology/aws/aws-security-assessment-compliance/case-study-empowering-a-global-life-sciences",
+ "title": "AWS Cloud Transformation Case Study | Quadra",
+ "description": "Quadra, a global award-winning partner, architects the Intelligent Enterprise for the world's leading businesses. We transform complex Cloud & AI innovation into a competitive advantage, built on 25 years of deep, vendor-agnostic architectural expertise.",
+ "ogImage": "https://framerusercontent.com/images/nGeKeyFhJZ6SoWkiU8TpyJ9cI.png",
+ "robots": "max-image-preview:large",
+ "sections": [
+  {
+   "name": "Hero Section",
+   "blocks": [
+    {
+     "t": "h2",
+     "text": "Empowering a Global Life Sciences Firm Through a Multi-Region AWS Security Overhaul"
+    },
+    {
+     "t": "p",
+     "text": "A fast-scaling life sciences organization running critical research and data workloads on AWS needed a clear, evidence-based picture of its security posture ahead of an upcoming compliance cycle. With environments spread across five AWS regions and no unified view of risk, the customer's internal team lacked the bandwidth and specialized tooling to assess exposure at scale and had no structured way to prioritize what to fix first."
+    },
+    {
+     "t": "img",
+     "src": "https://framerusercontent.com/images/xvHOZ6tYgtYfJ44HQW11N1Qu6U.jpeg",
+     "alt": "A scientist in a white lab coat using a laptop in a laboratory",
+     "w": 8252
+    }
+   ]
+  },
+  {
+   "name": "Critical Question",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "The Challenge"
+    },
+    {
+     "t": "p",
+     "text": "The customer's AWS footprint had grown organically over several years, resulting in inconsistent security configurations across accounts and regions. Prior point-in-time audits had flagged issues but left the organization without a consolidated, risk-ranked view of its true exposure. With sensitive research and healthcare-adjacent data in scope, the stakes for getting this right were high, and the customer needed a partner who could assess the full estate without disrupting live workloads."
+    },
+    {
+     "t": "h3",
+     "text": "The Approach"
+    },
+    {
+     "t": "p",
+     "text": "Quadra's security team conducted a full AWS Well-Architected Framework Review across all five regions, combining automated posture scanning with manual validation of high-risk areas. The assessment covered IAM configurations, network exposure, data protection controls, logging and monitoring coverage, and encryption practices across the customer's entire multi-account environment. Every finding more than 14,000 in total was catalogued, severity-ranked, and mapped back to specific AWS accounts, services, and business risk."
+    },
+    {
+     "t": "p",
+     "text": "Rather than handing over a static report, Quadra's team translated the findings into a structured remediation roadmap, built around Service Control Policies (SCPs) and Resource Control Policies (RCPs) to enforce guardrails at the organization level, alongside account-specific fixes for the highest-severity issues. The roadmap was delivered as both a prioritized tracker and an executive-level PowerPoint summary, giving the customer's leadership and engineering teams a shared view of what needed to happen and in what order."
+    },
+    {
+     "t": "h3",
+     "text": "The Outcome"
+    },
+    {
+     "t": "p",
+     "text": "The customer moved from a fragmented, undocumented security posture to a fully catalogued risk inventory with a clear, phased path to remediation. Org-wide guardrails closed entire categories of risk in a single implementation step rather than requiring per-account fixes, and the customer's compliance and security teams gained a shared, defensible record of their posture ready to support their next audit cycle and ongoing risk conversations with leadership."
+    }
+   ]
+  }
+ ],
+ "status": 200
+}

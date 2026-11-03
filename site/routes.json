@@ -1,0 +1,1621 @@
+{
+ "contentVersion": "0.5",
+ "asOf": "2026-11-02",
+ "note": "Local paths. Existing live URLs are kept where established; other paths are proposals for this local build only. source: content = content.json, retained = live content kept for a pack placeholder, live = existing live page not in the pack.",
+ "pages": [
+  {
+   "path": "/",
+   "source": "content",
+   "id": "home",
+   "title": "Home"
+  },
+  {
+   "path": "/solutions",
+   "source": "content",
+   "id": "solutions",
+   "title": "Solutions"
+  },
+  {
+   "path": "/solutions/modernize-your-foundation",
+   "source": "content",
+   "id": "modernize",
+   "title": "Modernize Your Foundation"
+  },
+  {
+   "path": "/solutions/innovate-with-ai-data",
+   "source": "content",
+   "id": "transform",
+   "title": "Transform with AI & Data"
+  },
+  {
+   "path": "/solutions/fortify-your-defenses",
+   "source": "content",
+   "id": "secure",
+   "title": "Secure Your Enterprise"
+  },
+  {
+   "path": "/solutions/empower-your-workforce",
+   "source": "content",
+   "id": "empower",
+   "title": "Empower Your Workforce"
+  },
+  {
+   "path": "/solutions/platforms-ip",
+   "source": "content",
+   "id": "platforms-ip",
+   "title": "Platforms & IP"
+  },
+  {
+   "path": "/solutions/platforms-ip/intellient",
+   "source": "content",
+   "id": "intellient",
+   "title": "Intellient"
+  },
+  {
+   "path": "/technology",
+   "source": "content",
+   "id": "technology",
+   "title": "Technology Practices"
+  },
+  {
+   "path": "/technology/microsoft",
+   "source": "content",
+   "id": "microsoft",
+   "title": "Microsoft"
+  },
+  {
+   "path": "/technology/microsoft/azure",
+   "source": "content",
+   "id": "azure",
+   "title": "Microsoft Azure"
+  },
+  {
+   "path": "/technology/microsoft/azure/migration-and-modernization",
+   "source": "content",
+   "id": "azure-migration",
+   "title": "Azure Migration & Modernisation"
+  },
+  {
+   "path": "/technology/microsoft/azure/digital-app-innovation",
+   "source": "content",
+   "id": "azure-apps",
+   "title": "Azure Application Innovation"
+  },
+  {
+   "path": "/technology/microsoft/azure/data-and-ai",
+   "source": "content",
+   "id": "azure-data-ai",
+   "title": "Azure Data, Analytics & AI"
+  },
+  {
+   "path": "/technology/microsoft/azure/security-compliance-governance",
+   "source": "content",
+   "id": "azure-security",
+   "title": "Azure Security, Governance & FinOps"
+  },
+  {
+   "path": "/technology/microsoft/azure/managed-services",
+   "source": "content",
+   "id": "azure-managed",
+   "title": "Azure Managed Services"
+  },
+  {
+   "path": "/technology/microsoft/modern-work",
+   "source": "content",
+   "id": "microsoft-workplace",
+   "title": "Microsoft Modern Workplace"
+  },
+  {
+   "path": "/technology/microsoft/modern-work/microsoft-365-migration",
+   "source": "content",
+   "id": "ispg-migration",
+   "title": "Microsoft 365 Migration"
+  },
+  {
+   "path": "/technology/microsoft/security",
+   "source": "content",
+   "id": "microsoft-security",
+   "title": "Microsoft Security"
+  },
+  {
+   "path": "/technology/microsoft/modern-work/hybrid-integration",
+   "source": "content",
+   "id": "ispg-hybrid",
+   "title": "IntelliCloud Hybrid Integration"
+  },
+  {
+   "path": "/technology/microsoft/modern-work/managed-services",
+   "source": "content",
+   "id": "ispg-managed",
+   "title": "Microsoft Workplace & Hybrid Managed Services"
+  },
+  {
+   "path": "/technology/aws",
+   "source": "content",
+   "id": "aws",
+   "title": "AWS"
+  },
+  {
+   "path": "/technology/aws/migration-modernization",
+   "source": "content",
+   "id": "aws-migration",
+   "title": "AWS Infra & Migration"
+  },
+  {
+   "path": "/technology/aws/application-database-modernization",
+   "source": "content",
+   "id": "aws-apps",
+   "title": "AWS Application & Database Modernization"
+  },
+  {
+   "path": "/technology/aws/data-analytics-ai",
+   "source": "content",
+   "id": "aws-data-ai",
+   "title": "AWS Data Analytics & Machine Learning"
+  },
+  {
+   "path": "/technology/aws/agentic-ai",
+   "source": "content",
+   "id": "aws-agentic-ai",
+   "title": "AWS Agentic AI"
+  },
+  {
+   "path": "/technology/aws/agentic-ai/ai-use-cases",
+   "source": "content",
+   "id": "aws-ai-use-cases",
+   "title": "AWS AI Solutions for Business Workflows"
+  },
+  {
+   "path": "/technology/aws/managed-services",
+   "source": "content",
+   "id": "aws-managed",
+   "title": "AWS Managed Services | Max-IT"
+  },
+  {
+   "path": "/technology/aws/security-governance",
+   "source": "content",
+   "id": "aws-security",
+   "title": "AWS Security & Governance"
+  },
+  {
+   "path": "/technology/google-cloud",
+   "source": "content",
+   "id": "google-cloud",
+   "title": "Google Cloud"
+  },
+  {
+   "path": "/technology/google-cloud/artificial-intelligence",
+   "source": "content",
+   "id": "gcp-ai",
+   "title": "Enterprise AI on Google Cloud"
+  },
+  {
+   "path": "/technology/google-cloud/gemini-enterprise",
+   "source": "content",
+   "id": "gcp-gemini",
+   "title": "Gemini Enterprise Adoption"
+  },
+  {
+   "path": "/technology/google-cloud/data-analytics",
+   "source": "content",
+   "id": "gcp-data",
+   "title": "Google Cloud Data & Analytics"
+  },
+  {
+   "path": "/technology/google-cloud/infrastructure-modernization",
+   "source": "content",
+   "id": "gcp-infrastructure",
+   "title": "Google Cloud Infrastructure Modernisation"
+  },
+  {
+   "path": "/technology/google-cloud/application-modernization",
+   "source": "content",
+   "id": "gcp-apps",
+   "title": "Google Cloud Application Modernisation"
+  },
+  {
+   "path": "/technology/google-cloud/database-modernization",
+   "source": "content",
+   "id": "gcp-databases",
+   "title": "Google Cloud Database Modernisation"
+  },
+  {
+   "path": "/technology/google-cloud/cloud-security-governance",
+   "source": "content",
+   "id": "gcp-security",
+   "title": "Google Cloud Security & Governance"
+  },
+  {
+   "path": "/technology/google-cloud/managed-services",
+   "source": "content",
+   "id": "gcp-managed",
+   "title": "Google Cloud Managed Services — Max-IT"
+  },
+  {
+   "path": "/technology/google-cloud/startup",
+   "source": "content",
+   "id": "gcp-startups",
+   "title": "Google Cloud for Startups"
+  },
+  {
+   "path": "/technology/cyber-security",
+   "source": "content",
+   "id": "csg",
+   "title": "Enterprise Cybersecurity"
+  },
+  {
+   "path": "/technology/cyber-security/zero_trust",
+   "source": "content",
+   "id": "csg-zero-trust",
+   "title": "Zero Trust & SASE"
+  },
+  {
+   "path": "/technology/cyber-security/threat-endpoint-protection",
+   "source": "content",
+   "id": "csg-endpoint",
+   "title": "Endpoint, Identity & Threat Defence"
+  },
+  {
+   "path": "/technology/cyber-security/network-application-security",
+   "source": "content",
+   "id": "csg-network-apps",
+   "title": "Network, Email, Application & API Security"
+  },
+  {
+   "path": "/technology/cyber-security/cloud-native-security",
+   "source": "content",
+   "id": "csg-cnapp",
+   "title": "Cloud-Native Security / CNAPP"
+  },
+  {
+   "path": "/technology/cyber-security/ai-security",
+   "source": "content",
+   "id": "csg-ai-security",
+   "title": "AI Security & Control Governance"
+  },
+  {
+   "path": "/technology/cyber-security/managed-security-operations",
+   "source": "content",
+   "id": "csg-managed",
+   "title": "Managed Security Operations — BluForge"
+  },
+  {
+   "path": "/technology/cyber-security/risk-advisory",
+   "source": "content",
+   "id": "csg-advisory",
+   "title": "Cyber Risk & Advisory — DefenceIQ"
+  },
+  {
+   "path": "/technology/hybrid-cloud",
+   "source": "content",
+   "id": "hcdw",
+   "title": "Hybrid Cloud & Digital Work"
+  },
+  {
+   "path": "/technology/hybrid-cloud/infrastructure",
+   "source": "content",
+   "id": "hcdw-infrastructure",
+   "title": "Hybrid Cloud Infrastructure"
+  },
+  {
+   "path": "/technology/hybrid-cloud/digital-workspace",
+   "source": "content",
+   "id": "hcdw-workspace",
+   "title": "Digital Workspace & Security"
+  },
+  {
+   "path": "/technology/hybrid-cloud/data-resilience",
+   "source": "content",
+   "id": "hcdw-resilience",
+   "title": "Data Resilience & Business Continuity"
+  },
+  {
+   "path": "/technology/hybrid-cloud/data-resilience/commvault",
+   "source": "content",
+   "id": "hcdw-commvault",
+   "title": "Commvault Data & Cyber Resilience"
+  },
+  {
+   "path": "/technology/hybrid-cloud/data-resilience/veeam",
+   "source": "content",
+   "id": "hcdw-veeam",
+   "title": "Veeam Data & Cyber Resilience"
+  },
+  {
+   "path": "/technology/hybrid-cloud/data-resilience/druva",
+   "source": "content",
+   "id": "hcdw-druva",
+   "title": "Druva Data & Cyber Resilience"
+  },
+  {
+   "path": "/technology/enterprise-ai-engineering",
+   "source": "content",
+   "id": "aig",
+   "title": "Enterprise AI Engineering"
+  },
+  {
+   "path": "/technology/enterprise-ai-engineering/advisory-architecture",
+   "source": "content",
+   "id": "aig-advisory",
+   "title": "AI Advisory & Architecture"
+  },
+  {
+   "path": "/technology/enterprise-ai-engineering/engineering-integration",
+   "source": "content",
+   "id": "aig-engineering",
+   "title": "Enterprise AI Engineering & Integration"
+  },
+  {
+   "path": "/technology/enterprise-ai-engineering/process-automation",
+   "source": "content",
+   "id": "aig-automation",
+   "title": "Business Process Automation"
+  },
+  {
+   "path": "/technology/enterprise-ai-engineering/managed-ai",
+   "source": "content",
+   "id": "aig-managed",
+   "title": "AI Factory & Managed AI Services"
+  },
+  {
+   "path": "/technology/enterprise-ai-engineering/governance",
+   "source": "content",
+   "id": "aig-governance",
+   "title": "Enterprise AI Governance"
+  },
+  {
+   "path": "/why-quadra",
+   "source": "content",
+   "id": "why-quadra",
+   "title": "Why Quadra"
+  },
+  {
+   "path": "/why-quadra/how-we-partner",
+   "source": "content",
+   "id": "how-we-work",
+   "title": "How We Work"
+  },
+  {
+   "path": "/why-quadra/our-people",
+   "source": "retained",
+   "id": "people",
+   "title": "People, Culture & Leadership"
+  },
+  {
+   "path": "/why-quadra/partners",
+   "source": "content",
+   "id": "partners",
+   "title": "Partner Ecosystem"
+  },
+  {
+   "path": "/why-quadra/centre-of-excellence",
+   "source": "content",
+   "id": "coe",
+   "title": "Centre of Excellence"
+  },
+  {
+   "path": "/awards",
+   "source": "content",
+   "id": "recognition",
+   "title": "Awards & Recognition"
+  },
+  {
+   "path": "/happy",
+   "source": "content",
+   "id": "happy-customers",
+   "title": "Happy Customers"
+  },
+  {
+   "path": "/blogs",
+   "source": "retained",
+   "id": "insights",
+   "title": "Insights"
+  },
+  {
+   "path": "/foundersblog",
+   "source": "retained",
+   "id": "founder",
+   "title": "Founder Perspectives"
+  },
+  {
+   "path": "/newsroom",
+   "source": "retained",
+   "id": "newsroom",
+   "title": "Newsroom"
+  },
+  {
+   "path": "/contact-us",
+   "source": "content",
+   "id": "contact",
+   "title": "Contact"
+  },
+  {
+   "path": "/careers",
+   "source": "retained",
+   "id": "careers",
+   "title": "Careers"
+  },
+  {
+   "path": "/privacy",
+   "source": "retained",
+   "id": "privacy",
+   "title": "Privacy"
+  },
+  {
+   "path": "/terms",
+   "source": "retained",
+   "id": "terms",
+   "title": "Terms"
+  },
+  {
+   "path": "/2026",
+   "source": "live",
+   "id": null,
+   "title": "Resilience, growth, & realized ambition"
+  },
+  {
+   "path": "/ai-careerguide",
+   "source": "live",
+   "id": null,
+   "title": "Built from 25 years on the hiring floor. Claim your free copy"
+  },
+  {
+   "path": "/aws-migration-modernization",
+   "source": "live",
+   "id": null,
+   "title": "AWS Migration, Modernization & Agentic AI - Mumbai"
+  },
+  {
+   "path": "/coe-microsoft-ai-security",
+   "source": "live",
+   "id": null,
+   "title": "Discover what’s possible for your business."
+  },
+  {
+   "path": "/edm",
+   "source": "live",
+   "id": null,
+   "title": "Accelerate Your Business"
+  },
+  {
+   "path": "/foundersblog/a-new-economics-of-winning-in-ai",
+   "source": "live",
+   "id": null,
+   "title": "A New Economics of Winning in AI"
+  },
+  {
+   "path": "/foundersblog/architecting-ambition-why-purpose-and-curiosity-define-the-ai-era",
+   "source": "live",
+   "id": null,
+   "title": "Architecting Ambition: Why Purpose and Curiosity Define the AI Era"
+  },
+  {
+   "path": "/foundersblog/the-ai-takeover-is-a-myth-the-future-is-human-ai-partnership",
+   "source": "live",
+   "id": null,
+   "title": "The AI Takeover is a Myth: The Future is Human-AI Partnership"
+  },
+  {
+   "path": "/foundersblog/the-most-underrated-enterprise-asset-of-2026",
+   "source": "live",
+   "id": null,
+   "title": "The most underrated enterprise asset of 2026"
+  },
+  {
+   "path": "/foundersblog/the-overlooked-human-skill-that-can-10x-your-ai-productivity",
+   "source": "live",
+   "id": null,
+   "title": "The Overlooked Human Skill That Can 10x Your AI Productivity"
+  },
+  {
+   "path": "/foundersblog/the-overlooked-human-skill-that-can-10x-your-ai-productivity-copy",
+   "source": "live",
+   "id": null,
+   "title": "Is Your Business Transmission-Ready?"
+  },
+  {
+   "path": "/foundersblog/when-intelligence-becomes-abundant-judgement-becomes-scarce",
+   "source": "live",
+   "id": null,
+   "title": "When Intelligence Becomes Abundant, Judgement Becomes Scarce"
+  },
+  {
+   "path": "/from-builders-to-autonomy-agentic-ai",
+   "source": "live",
+   "id": null,
+   "title": "Agentic AI for Bharat's Startups"
+  },
+  {
+   "path": "/from-builders-to-autonomy-agentic-ai-chennai",
+   "source": "live",
+   "id": null,
+   "title": "Agentic AI for Bharat's Startups"
+  },
+  {
+   "path": "/happy/accelerating-contract-intelligence",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a First-of-its-Kind GenAI Platform for a Global Life Sciences Leader"
+  },
+  {
+   "path": "/happy/accelerating-digital-transformation-for-fintech",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Internal Transformation for a Global FinTech SaaS Company"
+  },
+  {
+   "path": "/happy/accelerating-growth-retail-multi-account",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Centralized Cloud Governance Framework for a Retail Conglomerate"
+  },
+  {
+   "path": "/happy/accelerating-research-to-deliver-improved-quality-of-life",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern IT Backbone to Accelerate Life Sciences R&D"
+  },
+  {
+   "path": "/happy/automated-software-deployment-eliminates-risk",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Zero-Disruption OS Migration for a Leading Manufacturer"
+  },
+  {
+   "path": "/happy/automating-active-directory-migration-for-solar-pioneer",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Automated IT Integration for a Solar Energy Pioneer"
+  },
+  {
+   "path": "/happy/azure-managed-services-for-financial-infra",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Resilient & Optimized Managed Cloud for a Financial Infrastructure Leader"
+  },
+  {
+   "path": "/happy/azure-vmware-solution-modernization-pharma",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Hybrid Cloud with Azure VMware Solution"
+  },
+  {
+   "path": "/happy/b2c-portal-drives-forward-and-horizontal-integration",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Strategic eCommerce Platform for a Niche Distributor"
+  },
+  {
+   "path": "/happy/building-a-ciso-dashboard",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified CISO Dashboard for a Global ER&D Leader"
+  },
+  {
+   "path": "/happy/building-custom-communication-platform-low-code",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Custom Internal Communications Platform Using a Low-Code Strategy"
+  },
+  {
+   "path": "/happy/cloud-collaboration-for-general-insurance-major",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern Collaboration Platform for a Leading Insurance Provider"
+  },
+  {
+   "path": "/happy/cloud-iaas-enables-it-major",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a High-Performance IaaS Platform for a Global IT Services Leader"
+  },
+  {
+   "path": "/happy/cloud-iaas-saas-enables-financial-services-provider",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Hybrid Cloud Model for a Cost-Conscious Financial Services Provider"
+  },
+  {
+   "path": "/happy/cloud-native-modern-devops-fuelling-innovation-on-aws",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern DevOps & Serverless Platform for a Pharma Services Innovator"
+  },
+  {
+   "path": "/happy/crm-makes-customer-delight-a-way-of-life",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified CRM Platform to Drive Growth for an IT Services Firm"
+  },
+  {
+   "path": "/happy/customer-experience-specialist-secures-data-with-saas",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Security Fabric for a Global Customer Experience Leader"
+  },
+  {
+   "path": "/happy/delivering-potential-of-people-and-software",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Adoption & Change Management Program for a Hospitality Leader"
+  },
+  {
+   "path": "/happy/delivering-secure-anywhere-access-for-conglomerate",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure DaaS Platform for a Diversified Multinational Conglomerate"
+  },
+  {
+   "path": "/happy/deploying-zero-trust-security-for-business-house",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Zero Trust Security Model for One of India's Most Admired Business Houses"
+  },
+  {
+   "path": "/happy/design-and-manufacturing-major-secures-data-in-cloud",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Cloud-Based Data Protection Strategy for a Global Design & Manufacturing Major"
+  },
+  {
+   "path": "/happy/desktop-virtualization-enables-apparel-major-erp",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Cost-Effective ERP Rollout for a National Apparel Brand"
+  },
+  {
+   "path": "/happy/driving-efficiency-with-centralized-information-access",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Centralized Knowledge Hub for a Global Life Sciences Innovator"
+  },
+  {
+   "path": "/happy/elevating-pharma-infrastructure",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a GxP-Compliant Cloud Foundation for a Pharma Giant"
+  },
+  {
+   "path": "/happy/empowering-healthcare-analytics-with-security-and-compliance",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Security & Compliance Platform for a Healthcare Analytics Leader"
+  },
+  {
+   "path": "/happy/empowering-precision-agriculture",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Digital Dealer Onboarding Platform for an Agricultural Leader"
+  },
+  {
+   "path": "/happy/empowering-rapid-expansion-for-eyecare-chain",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Scalable Cloud POS Platform for a Leading Eyecare Chain"
+  },
+  {
+   "path": "/happy/enabling-asias-largest-pharma-research-organization",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Zero Trust Framework to Protect Mission-Critical IP for Asia's Largest Pharma Research Organization"
+  },
+  {
+   "path": "/happy/enabling-hosting-service-provider-to-deliver-superior-cx",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern CRM Platform for a European Hosting Provider"
+  },
+  {
+   "path": "/happy/enabling-on-time-completion-of-multi-billion-dollar-projects",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern Workplace for a Leading Real Estate Developer"
+  },
+  {
+   "path": "/happy/enabling-seamless-ma-activity",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Seamless IT Integration for a Major Healthcare Acquisition"
+  },
+  {
+   "path": "/happy/enabling-secure-global-app-access-telecom",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure Global Application Delivery Platform for a Telecom Leader"
+  },
+  {
+   "path": "/happy/energizing-the-entertainment-experience",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern IT Infrastructure for a Major Entertainment Destination"
+  },
+  {
+   "path": "/happy/enhancing-collaboration-at-premier-education-institute",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Collaboration Portal for India’s Premier Education Institute"
+  },
+  {
+   "path": "/happy/enhancing-fintech-operations-with-security",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Integrated Identity and Endpoint Security Platform for a Global FinTech"
+  },
+  {
+   "path": "/happy/enterprise-data-protection-solution-secures-critical-corporate-data",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Enterprise Data Protection Platform for a USD 500M Manufacturer"
+  },
+  {
+   "path": "/happy/enterprise-project-management-solution",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Enterprise Project Management Platform for a Global Engineering Leader"
+  },
+  {
+   "path": "/happy/enterprise-security-solution-safeguards-digital-assets",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Resilient Network Security Fabric for a Retail Conglomerate"
+  },
+  {
+   "path": "/happy/fast-growing-bank-deploys-collaboration",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure & Compliant Collaboration Platform for a Fast-Growing Bank"
+  },
+  {
+   "path": "/happy/fostering-an-agile-enterprise-with-integrated-it",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Integrated IT Infrastructure for a Global Pharma Leader"
+  },
+  {
+   "path": "/happy/global-fashion-house-looks-to-the-cloud-for-erp",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a High-Performance Cloud ERP Platform for a Global Fashion House"
+  },
+  {
+   "path": "/happy/global-player-leverages-new-working-models",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure DaaS Platform to Unlock a New Business Model for a Global Healthcare Leader"
+  },
+  {
+   "path": "/happy/heterogeneous-backup-and-dr-on-a-distributed-platform",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Resilient Backup & DR Platform for a Leading Bank"
+  },
+  {
+   "path": "/happy/hybrid-cloud-solution-enables-people-centric-organization",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Hybrid Security & Management Fabric for a Global IT Services Provider"
+  },
+  {
+   "path": "/happy/indias-leading-insurance-provider-implements-hybrid-collaboration",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Hybrid Collaboration Solution for a Leading National Insurance Provider"
+  },
+  {
+   "path": "/happy/integrated-backup-mitigates-risk-and-drives-compliance",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Data Protection Strategy for a Global Financial Services Firm"
+  },
+  {
+   "path": "/happy/integrated-backup-mitigates-risk-and-drives-compliance-across-the-globe",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Integrated Data Protection Strategy for a Global BPO"
+  },
+  {
+   "path": "/happy/integrated-data-management-solution-for-pharmaceuticals-manufacturer",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Integrated Data Protection Strategy for a Global Pharma Manufacturer"
+  },
+  {
+   "path": "/happy/integrated-security-solution-for-analytics-provider",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Integrated Security Posture for a Global Analytics Leader"
+  },
+  {
+   "path": "/happy/iplon-indias-seamless-journey-to-gcp-efficiency",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Cloud Platform for a Renewable Energy Tech Leader"
+  },
+  {
+   "path": "/happy/itsm-help-desk-enhances-employee-satisfaction",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an ITIL-Based Service Desk for a Global Pharma Innovator"
+  },
+  {
+   "path": "/happy/leading-fleet-management-provider-devops-transformation",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern DevOps Framework for a Leading Fleet Management Provider"
+  },
+  {
+   "path": "/happy/leading-pharma-services-provider-leveraging-aws-waf",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Advanced Web Application Firewall for a Pharma Services Leader"
+  },
+  {
+   "path": "/happy/migrating-etms-vehicle-tracking-to-gcp",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Multi-Cloud Strategy for a Mission-Critical Logistics Platform"
+  },
+  {
+   "path": "/happy/modern-analytics-for-patient-flow-management",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern Analytics Platform to Optimize Patient Flow"
+  },
+  {
+   "path": "/happy/modern-it-infrastructure-powers-growth-capital-market",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern, Secure IT Infrastructure for a Capital Market Services Leader"
+  },
+  {
+   "path": "/happy/modernizing-patch-management-with-azure",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Cloud-Native Update Management Strategy for a Diversified Conglomerate"
+  },
+  {
+   "path": "/happy/move-to-a-saas-model",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Global SaaS Platform for a HealthTech Innovator"
+  },
+  {
+   "path": "/happy/multi-billion-dollar-two-wheeler-manufacturer",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Hybrid Cloud Foundation for India's Most Trusted Two-Wheeler Manufacturer"
+  },
+  {
+   "path": "/happy/niche-ecom-portal-cloud-scale",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Hyperscale Cloud Foundation for a High-Growth eCommerce Portal"
+  },
+  {
+   "path": "/happy/offshore-it-services-delivery",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Global Delivery Model for a European IT Services Provider"
+  },
+  {
+   "path": "/happy/online-replication-enables-real-time-dashboard",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Real-Time Analytics Platform for a Leading Retail Powerhouse"
+  },
+  {
+   "path": "/happy/portal-extends-erp-functionality",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Smart Portal to Extend ERP Functionality and Reduce Costs"
+  },
+  {
+   "path": "/happy/portal-solution-enhances-erp-functionality-saving-costs",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Smart Portal to Extend ERP Functionality and Reduce Costs"
+  },
+  {
+   "path": "/happy/powering-secure-compliant-growth",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Zero Trust Security & Compliance Framework for a Global Services Leader"
+  },
+  {
+   "path": "/happy/premier-healthcare-provider-collaboration",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure, Compliant Collaboration Platform for a Premier Healthcare Provider"
+  },
+  {
+   "path": "/happy/protecting-data-for-70000-users-bank",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Integrated Security Fabric for a Leading Private Sector Bank"
+  },
+  {
+   "path": "/happy/publishing-house-embraces-change",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern IT Backbone for a Historic Publishing House"
+  },
+  {
+   "path": "/happy/redefining-app-dev-for-bi-provider",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Global Delivery Platform for a Leading Analytics ISV"
+  },
+  {
+   "path": "/happy/reinventing-apparel-manufacturing-with-azure-analytics",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Data-First Strategy for a Global Apparel Manufacturer"
+  },
+  {
+   "path": "/happy/responsive-it-powers-transactions",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a High-Performance Infrastructure for a Leading Financial Services Firm"
+  },
+  {
+   "path": "/happy/revitalization-powers-growth",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Modern IT Backbone to Power a Manufacturing Leader's Growth"
+  },
+  {
+   "path": "/happy/revolutionizing-renewable-energy-management",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Cloud-Native IoT Platform for a Renewable Energy Leader"
+  },
+  {
+   "path": "/happy/revolutionizing-security-response",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an Intelligent Alert Management System for a Global R&D Leader"
+  },
+  {
+   "path": "/happy/revolutionizing-vlsi-application-development",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a High-Performance Cloud Environment for a VLSI Design Leader"
+  },
+  {
+   "path": "/happy/sankara-eye-care-enterprise-ai-adoption-claude",
+   "source": "live",
+   "id": null,
+   "title": "Sankara Eye Care Accelerates Enterprise AI Adoption with Claude"
+  },
+  {
+   "path": "/happy/seamless-cloud-migration-apparel-manufacturer",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Cloud Foundation for a Global Apparel Manufacturer"
+  },
+  {
+   "path": "/happy/secure-anytime-anywhere-it-access",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure 'Work from Anywhere' Platform for a Global Retail Leader"
+  },
+  {
+   "path": "/happy/secure-compliant-access-for-bank",
+   "source": "live",
+   "id": null,
+   "title": "Architecting Secure Remote Access for a Century-Old Bank"
+  },
+  {
+   "path": "/happy/secure-high-performance-app-delivery",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure, High-Performance Application Delivery Platform for a Global Energy Software Leader"
+  },
+  {
+   "path": "/happy/securing-data-for-healthcare-provider",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an AI-Powered Endpoint Security Strategy for a Global Healthcare Services Provider"
+  },
+  {
+   "path": "/happy/securing-global-tech-giant",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Cyber Resilience Framework for a Global Tech Giant"
+  },
+  {
+   "path": "/happy/service-desk-enhances-productivity",
+   "source": "live",
+   "id": null,
+   "title": "Architecting an ITIL-Based Service Desk for a Global Pharma Innovator"
+  },
+  {
+   "path": "/happy/streamlining-cloud-workflow-with-aws-systems-manager",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Cloud Management & Automation Framework"
+  },
+  {
+   "path": "/happy/training-ml-models-ai-solutions",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a High-Performance AI Training Platform for an AI Innovator"
+  },
+  {
+   "path": "/happy/transforming-collaboration-dairy-company",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Collaboration Platform for a Global Dairy Company"
+  },
+  {
+   "path": "/happy/transforming-data-management-biotech",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Secure Cloud Data Platform for a Clinical-Stage Biotech Firm"
+  },
+  {
+   "path": "/happy/transforming-desktop-application-delivery-startup",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Scalable Application Delivery Platform for a High-Growth Startup"
+  },
+  {
+   "path": "/happy/transforming-employee-experience-pharma",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Data-Driven Employee Experience for a Global Pharma Leader"
+  },
+  {
+   "path": "/happy/uc-redefines-productivity",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Communications Platform for a Multi-Billion Dollar Enterprise"
+  },
+  {
+   "path": "/happy/unified-cloud-security-architecture",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Unified Security Fabric for a Multi-Cloud Enterprise"
+  },
+  {
+   "path": "/happy/unleashing-real-time-face-swap-capabilities",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a High-Performance GPU Cloud Platform for a Real-Time Media Application"
+  },
+  {
+   "path": "/happy/virtualization-puts-it-in-top-gear",
+   "source": "live",
+   "id": null,
+   "title": "Architecting a Scalable Foundation for a Global ITES Leader"
+  },
+  {
+   "path": "/join-quadra",
+   "source": "live",
+   "id": null,
+   "title": "Careers at Quadra: Build What's Next in Cloud & AI"
+  },
+  {
+   "path": "/legacy-wall",
+   "source": "live",
+   "id": null,
+   "title": "Quadra Legacy Wal Celebrating Long-Tenured Team Excellence"
+  },
+  {
+   "path": "/llms-txt",
+   "source": "live",
+   "id": null,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business"
+  },
+  {
+   "path": "/logos",
+   "source": "live",
+   "id": null,
+   "title": "Brand Logo"
+  },
+  {
+   "path": "/newsroom/accessing-virtual-machines-in-google-cloud-using-iap-desktop",
+   "source": "live",
+   "id": null,
+   "title": "Accessing Virtual Machines in Google Cloud using IAP desktop"
+  },
+  {
+   "path": "/newsroom/achieve-data-security-and-scalability-with-google-cloud-storage-a-business-guide",
+   "source": "live",
+   "id": null,
+   "title": "Achieve Data Security and Scalability with Google Cloud Storage: A Business Guide"
+  },
+  {
+   "path": "/newsroom/achieving-more-with-less-explore-the-capabilities-of-microsoft-power-platform",
+   "source": "live",
+   "id": null,
+   "title": "Achieving More with Less: Explore the Capabilities of Microsoft Power Platform"
+  },
+  {
+   "path": "/newsroom/amazon-workspaces-offering-flexibility-and-scalability-for-your-business-needs",
+   "source": "live",
+   "id": null,
+   "title": "Amazon WorkSpaces: offering flexibility and scalability for your business needs"
+  },
+  {
+   "path": "/newsroom/beyond-firewalls-build-stronger-security-teams-with-quadra-soc-nxts-expertise",
+   "source": "live",
+   "id": null,
+   "title": "Beyond Firewalls: Build Stronger Security Teams with Quadra (SOC)NXT's Expertise."
+  },
+  {
+   "path": "/newsroom/building-a-vpn-from-on-premises-hybrid-to-gcp",
+   "source": "live",
+   "id": null,
+   "title": "Building a VPN from on-premises/hybrid to GCP"
+  },
+  {
+   "path": "/newsroom/citrix-secure-private-access-an-essential-tool-for-protecting-your-business-data",
+   "source": "live",
+   "id": null,
+   "title": "Citrix Secure Private Access: An Essential Tool for Protecting Your Business Data"
+  },
+  {
+   "path": "/newsroom/cloud-firewall-standard-protect-your-google-cloud-network-from-advanced-threats",
+   "source": "live",
+   "id": null,
+   "title": "Cloud Firewall Standard: Protect Your Google Cloud Network from Advanced Threats"
+  },
+  {
+   "path": "/newsroom/creating-accurate-cloud-architecture-diagrams-made-easy-with-google-cloud-tools",
+   "source": "live",
+   "id": null,
+   "title": "Creating Accurate Cloud Architecture Diagrams: Made easy with Google Cloud Tools"
+  },
+  {
+   "path": "/newsroom/cross-cloud-disaster-recovery",
+   "source": "live",
+   "id": null,
+   "title": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud"
+  },
+  {
+   "path": "/newsroom/cross-cloud-disaster-recovery-for-sap-hana",
+   "source": "live",
+   "id": null,
+   "title": "Cross-Cloud Disaster Recovery for SAP HANA: Building Resilience Beyond a Single Cloud"
+  },
+  {
+   "path": "/newsroom/deliver-applications-anywhere-anytime-using-adcs",
+   "source": "live",
+   "id": null,
+   "title": "Deliver applications anywhere, anytime using ADCs"
+  },
+  {
+   "path": "/newsroom/discover-unauthorised-ai-agents-with-microsoft-defender-for-endpoint",
+   "source": "live",
+   "id": null,
+   "title": "Discover Unauthorised AI agents with Microsoft Defender for Endpoint"
+  },
+  {
+   "path": "/newsroom/enable-secure-access-to-applications-and-resources-with-beyondcorp-enterprise",
+   "source": "live",
+   "id": null,
+   "title": "Enable secure access to applications and resources with BeyondCorp Enterprise"
+  },
+  {
+   "path": "/newsroom/essential-resources-to-secure-your-aws-infrastructure",
+   "source": "live",
+   "id": null,
+   "title": "Essential resources to secure your AWS infrastructure"
+  },
+  {
+   "path": "/newsroom/finding-sensitive-data-in-azure-cloud-storage",
+   "source": "live",
+   "id": null,
+   "title": "The Problem with Checking Files Manually The Solution: Microsoft Purview Data Map and Unified Catalog Benefits of Microsoft Purview Data Map Steps to Register and Scan Data from Azure Blob Storage"
+  },
+  {
+   "path": "/newsroom/finops-hub-the-smart-way-to-manage-your-google-cloud-costs",
+   "source": "live",
+   "id": null,
+   "title": "FinOps Hub: The Smart Way to Manage Your Google Cloud Costs."
+  },
+  {
+   "path": "/newsroom/from-legacy-vms-to-cloud-native-applications",
+   "source": "live",
+   "id": null,
+   "title": "Target Audience & Core Scope"
+  },
+  {
+   "path": "/newsroom/from-pixel-to-insight-in-just-minutes",
+   "source": "live",
+   "id": null,
+   "title": "From Pixel to Insight in Just Minutes!"
+  },
+  {
+   "path": "/newsroom/heres-how-you-can-maximize-your-google-cloud-platform-investment-with-a-landing-zone",
+   "source": "live",
+   "id": null,
+   "title": "Here's how you can maximize your Google Cloud Platform investment with a Landing Zone."
+  },
+  {
+   "path": "/newsroom/how-microsoft-viva-learning-is-transforming-corporate-training-and-development",
+   "source": "live",
+   "id": null,
+   "title": "How Microsoft Viva Learning is Transforming Corporate Training and Development"
+  },
+  {
+   "path": "/newsroom/how-to-use-terraform-for-effective-gcp-resource-management",
+   "source": "live",
+   "id": null,
+   "title": "How to Use Terraform for Effective GCP Resource Management"
+  },
+  {
+   "path": "/newsroom/increase-business-agility-by-up-to-45-percentage-with-google-cloud-vmware-engine",
+   "source": "live",
+   "id": null,
+   "title": "Increase business agility by up to 45% with Google Cloud VMware Engine"
+  },
+  {
+   "path": "/newsroom/learn-how-you-can-leverage-amazon-rds-and-aurora",
+   "source": "live",
+   "id": null,
+   "title": "Learn how you can leverage Amazon RDS and Aurora"
+  },
+  {
+   "path": "/newsroom/leveraging-beyondcorp-in-gcp-for-advanced-cloud-security",
+   "source": "live",
+   "id": null,
+   "title": "Leveraging BeyondCorp in GCP for Advanced Cloud Security"
+  },
+  {
+   "path": "/newsroom/maximizing-cost-savings-with-aws-server-migration-service",
+   "source": "live",
+   "id": null,
+   "title": "Maximizing cost savings with AWS Server Migration Service"
+  },
+  {
+   "path": "/newsroom/microsoft-entra-private-access",
+   "source": "live",
+   "id": null,
+   "title": "Microsoft Entra Private Access: Your VPN Replacement is Here"
+  },
+  {
+   "path": "/newsroom/microsoft-intune-endpoint-privilege-management-(epm)-eliminate-local-admin-rights-without-slowing-down-users",
+   "source": "live",
+   "id": null,
+   "title": "Microsoft Intune Endpoint Privilege Management (EPM): Eliminate Local Admin Rights Without Slowing Down Users"
+  },
+  {
+   "path": "/newsroom/modernise-your-enterprise-applications-using-amazon-ecs",
+   "source": "live",
+   "id": null,
+   "title": "Modernise your enterprise applications using Amazon ECS"
+  },
+  {
+   "path": "/newsroom/protect-your-business-against-modern-cyber-threats-using-azure-ad-multi-factor-authentication",
+   "source": "live",
+   "id": null,
+   "title": "Protect your business against modern cyber threats using Azure AD Multi-Factor Authentication."
+  },
+  {
+   "path": "/newsroom/purview-network-dlp",
+   "source": "live",
+   "id": null,
+   "title": "Purview Network DLP with Global Secure Access"
+  },
+  {
+   "path": "/newsroom/quadras-comprehensive-guide-to-microsoft-copilots",
+   "source": "live",
+   "id": null,
+   "title": "Quadra’s Comprehensive Guide to Microsoft Copilots"
+  },
+  {
+   "path": "/newsroom/seamless-file-sharing-and-low-latency-storage-with-google-cloud-filestore",
+   "source": "live",
+   "id": null,
+   "title": "Seamless File Sharing and Low-Latency Storage with Google Cloud Filestore"
+  },
+  {
+   "path": "/newsroom/setting-up-a-landing-zone-in-gcp-a-10-point-checklist-for-seamless-onboarding",
+   "source": "live",
+   "id": null,
+   "title": "Setting Up a Landing Zone in GCP: A 10-Point Checklist for Seamless Onboarding"
+  },
+  {
+   "path": "/newsroom/smart-tools-that-can-double-your-employee-productivity-instantly",
+   "source": "live",
+   "id": null,
+   "title": "Smart Tools that can double your employee productivity instantly."
+  },
+  {
+   "path": "/newsroom/stay-on-top-of-your-costs-with-detailed-tracking-from-looker-studio-at-no-cost",
+   "source": "live",
+   "id": null,
+   "title": "Stay on Top of Your Costs with Detailed Tracking from Looker Studio at No Cost"
+  },
+  {
+   "path": "/newsroom/streamline-your-business-with-containerized-applications-on-google-kubernetes-engine-gke",
+   "source": "live",
+   "id": null,
+   "title": "Streamline Your Business with Containerized Applications on Google Kubernetes Engine (GKE)"
+  },
+  {
+   "path": "/newsroom/strengthen-your-cloud-security-posture-with-google-cloud-armor",
+   "source": "live",
+   "id": null,
+   "title": "Strengthen Your Cloud Security Posture with Google Cloud Armor"
+  },
+  {
+   "path": "/newsroom/take-control-of-security-and-risk-management-with-google-cloud",
+   "source": "live",
+   "id": null,
+   "title": "Take control of Security and Risk Management with Google Cloud"
+  },
+  {
+   "path": "/newsroom/that-file-shared-for-one-project-is-still-open-three-years-later",
+   "source": "live",
+   "id": null,
+   "title": "That File Shared for One Project Is Still Open Three Years Later"
+  },
+  {
+   "path": "/newsroom/the-architect’s-view",
+   "source": "live",
+   "id": null,
+   "title": "AI is Not a Magic Wand. It is an Architectural Material."
+  },
+  {
+   "path": "/newsroom/the-autonomous-engineering-era-google-antigravity-gemini-enterprise",
+   "source": "live",
+   "id": null,
+   "title": "The Autonomous Engineering Era"
+  },
+  {
+   "path": "/newsroom/the-predictive-tool-thats-changing-ecommerce-forever",
+   "source": "live",
+   "id": null,
+   "title": "The Predictive Tool That’s Changing Ecommerce Forever"
+  },
+  {
+   "path": "/newsroom/transforming-healthcare-a-case-study-on-patient-flow-management",
+   "source": "live",
+   "id": null,
+   "title": "Transforming Healthcare: A Case Study on Patient Flow Management"
+  },
+  {
+   "path": "/newsroom/which-microsoft-365-copilot-experience-should-you-use",
+   "source": "live",
+   "id": null,
+   "title": "Which Microsoft 365 Copilot Experience Should You Use? A Practical Routing Guide for Work"
+  },
+  {
+   "path": "/newsroom/why-migrating-vms-from-aws-to-google-cloud-is-a-smart-move",
+   "source": "live",
+   "id": null,
+   "title": "Why migrating VMs from AWS to Google Cloud is a Smart Move"
+  },
+  {
+   "path": "/newsroom/why-use-traditional-desktops-when-you-have-citrix-daas",
+   "source": "live",
+   "id": null,
+   "title": "Why use traditional desktops when you have Citrix DaaS?"
+  },
+  {
+   "path": "/pressrelease",
+   "source": "live",
+   "id": null,
+   "title": "Press Releases"
+  },
+  {
+   "path": "/pressrelease/quadra-bridges-the-‘execution-gap’-in-ai",
+   "source": "live",
+   "id": null,
+   "title": "Quadra Bridges the ‘Execution Gap’ in AI: Achieves Dual Milestone with AWS Premier Tier Status and AI Services Competency"
+  },
+  {
+   "path": "/pressrelease/quadrasystems.net-among-the-first-in-india-to-achieve-iso-iec-42001-2023",
+   "source": "live",
+   "id": null,
+   "title": "Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001:2023, the World’s First International Standard for AI Management Systems"
+  },
+  {
+   "path": "/secure-the-future-power-it-with-ai",
+   "source": "live",
+   "id": null,
+   "title": "Power it with AI."
+  },
+  {
+   "path": "/social",
+   "source": "live",
+   "id": null,
+   "title": "Quadra | Enterprise Cloud & AI Solutions for Intelligent Business"
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge",
+   "source": "live",
+   "id": null,
+   "title": "BluForge: AI-Powered Managed SOC & Cybersecurity Platform"
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-assist",
+   "source": "live",
+   "id": null,
+   "title": "Retainer-Based Incident Response Service"
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-ops",
+   "source": "live",
+   "id": null,
+   "title": "24/7 Managed SOC & Security Operations"
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-pulse",
+   "source": "live",
+   "id": null,
+   "title": "Continuous Threat Intelligence & Monitoring"
+  },
+  {
+   "path": "/solutions/platforms-ip/bluforge/bluforge-shield",
+   "source": "live",
+   "id": null,
+   "title": "Enterprise Security Architecture & Hardening"
+  },
+  {
+   "path": "/solutions/platforms-ip/intellilink",
+   "source": "live",
+   "id": null,
+   "title": "Conversational AI for Enterprise System Integration"
+  },
+  {
+   "path": "/solutions/platforms-ip/max-it",
+   "source": "live",
+   "id": null,
+   "title": "MaxIT: Cloud Cost Clarity, Control & Cost-Efficiency Platform"
+  },
+  {
+   "path": "/solutions/platforms-ip/thankz",
+   "source": "live",
+   "id": null,
+   "title": "Enterprise Employee Recognition & Engagement Platform"
+  },
+  {
+   "path": "/technology/aws/aws-security-assessment-compliance",
+   "source": "live",
+   "id": null,
+   "title": "Assess. Fix. Prove It."
+  },
+  {
+   "path": "/technology/aws/aws-security-assessment-compliance/case-study-empowering-a-global-life-sciences",
+   "source": "live",
+   "id": null,
+   "title": "Empowering a Global Life Sciences Firm Through a Multi-Region AWS Security Overhaul"
+  },
+  {
+   "path": "/technology/aws/aws-security-assessment-compliance/case-study-securing-a-multi-account-aws-environment",
+   "source": "live",
+   "id": null,
+   "title": "Securing a Multi-Account AWS Environment for a Leading Financial Services Customer"
+  },
+  {
+   "path": "/technology/aws/managed-services/case-study-comprehensive-cloud",
+   "source": "live",
+   "id": null,
+   "title": "Comprehensive Cloud Managed Services for a Leading Manufacturer"
+  },
+  {
+   "path": "/technology/aws/managed-services/case-study-empowering-life-sciences",
+   "source": "live",
+   "id": null,
+   "title": "Empowering Life Sciences Through Secure AWS Infrastructure and Managed Services Partnership"
+  },
+  {
+   "path": "/technology/aws/microsite/control-tower",
+   "source": "live",
+   "id": null,
+   "title": "Architect a Well-Governed Cloud Landing Zone"
+  },
+  {
+   "path": "/technology/aws/microsite/generative-ai",
+   "source": "live",
+   "id": null,
+   "title": "From AI Potential to Profitable Enterprise Reality"
+  },
+  {
+   "path": "/technology/aws/microsite/glue",
+   "source": "live",
+   "id": null,
+   "title": "Architect the Intelligent Flow of Enterprise Data"
+  },
+  {
+   "path": "/technology/aws/microsite/migration",
+   "source": "live",
+   "id": null,
+   "title": "Architect Your Seamless Path to the Cloud"
+  },
+  {
+   "path": "/technology/aws/microsite/modern-analytics",
+   "source": "live",
+   "id": null,
+   "title": "Data-Driven Future"
+  },
+  {
+   "path": "/technology/aws/microsite/modernization",
+   "source": "live",
+   "id": null,
+   "title": "Build Cloud-Native, Scalable Apps"
+  },
+  {
+   "path": "/technology/aws/microsite/quadra-draas",
+   "source": "live",
+   "id": null,
+   "title": "Unshakeable Resilience"
+  },
+  {
+   "path": "/technology/aws/microsite/quicksight",
+   "source": "live",
+   "id": null,
+   "title": "Business Intelligence & Analytics at Scale"
+  },
+  {
+   "path": "/technology/aws/microsite/redshift",
+   "source": "live",
+   "id": null,
+   "title": "The Engine for Modern Enterprise Analytics"
+  },
+  {
+   "path": "/technology/aws/microsite/security-compliance",
+   "source": "live",
+   "id": null,
+   "title": "Architect a Confident Cloud Environment"
+  },
+  {
+   "path": "/technology/aws/microsite/systems-manager",
+   "source": "live",
+   "id": null,
+   "title": "Unified & Automated Cloud Operations"
+  },
+  {
+   "path": "/technology/aws/microsite/waf",
+   "source": "live",
+   "id": null,
+   "title": "Web Application Firewall & Front Line Defense"
+  },
+  {
+   "path": "/technology/intelligent_platform",
+   "source": "live",
+   "id": null,
+   "title": "Solutions for Enterprise Productivity Enterprise Productivity"
+  },
+  {
+   "path": "/thankyou",
+   "source": "live",
+   "id": null,
+   "title": "Thank you for your interest!"
+  },
+  {
+   "path": "/why-quadra/careers-recruit-test",
+   "source": "live",
+   "id": null,
+   "title": "Skills Assessment & Application Process"
+  },
+  {
+   "path": "/why-quadra/leadership",
+   "source": "live",
+   "id": null,
+   "title": "The Visionary Team Architecting Your Future"
+  },
+  {
+   "path": "/why-quadra/legacy-of-seeing-whats-next",
+   "source": "live",
+   "id": null,
+   "title": "Quadra's 25-Year Legacy A History of Seeing What's Next"
+  },
+  {
+   "path": "/why-quadra/our-story",
+   "source": "live",
+   "id": null,
+   "title": "Visionary Architect"
+  },
+  {
+   "path": "/zscaler-lunch-learn-genai-security",
+   "source": "live",
+   "id": null,
+   "title": "Securing the Era of GenAI"
+  }
+ ]
+}
