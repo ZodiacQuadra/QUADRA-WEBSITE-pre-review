@@ -80,6 +80,16 @@
     document.querySelectorAll("[data-q-hero]").forEach(function (hero) {
       if (!shown(hero)) return;
       var pick = function (sel) { return [].slice.call(hero.querySelectorAll(sel)).filter(shown)[0] || null; };
+      // the pack's label above the title, when only another breakpoint's copy of the hero has a slot for it, is
+      // repeated in the copy showing now (directly above the title, in its alignment)
+      [].slice.call(hero.querySelectorAll("[data-q-eyebrow][data-q-copy]")).forEach(function (x) { x.remove(); });
+      var ebSrc = hero.querySelector("[data-q-kicker]"), shownTitle = pick("[data-q-title]");
+      if (ebSrc && shownTitle && !pick("[data-q-eyebrow]")) {
+        var ec = ebSrc.cloneNode(true); ec.setAttribute("data-q-copy", "");
+        ec.style.setProperty("--framer-text-alignment", getComputedStyle(shownTitle).textAlign);
+        ec.style.textAlign = getComputedStyle(shownTitle).textAlign; ec.style.marginLeft = ""; ec.style.maxWidth = "";
+        shownTitle.parentNode.insertBefore(ec, shownTitle);
+      }
       // a product logo placed in one breakpoint's copy of the hero is repeated in the copy showing now
       [].slice.call(hero.querySelectorAll(".q-hero-logos[data-q-copy]")).forEach(function (x) { x.remove(); });
       var logoSrc = hero.querySelector(".q-hero-logos");
@@ -89,6 +99,11 @@
       }
       var eyebrow = pick("[data-q-eyebrow]"), title = pick("[data-q-title]"), intro = pick("[data-q-intro]"), logos = pick(".q-hero-logos");
       if (intro) intro.classList.remove("q-long");
+      // the pack's label lines up with the title (some live phone slots are left-aligned under a centred title)
+      if (eyebrow && title && eyebrow.hasAttribute("data-q-kicker")) {
+        var ta = getComputedStyle(title).textAlign;
+        if (getComputedStyle(eyebrow).textAlign !== ta) { setStyle(eyebrow, "--framer-text-alignment", ta); setStyle(eyebrow, "textAlign", ta); }
+      }
       // a product logo above the copy follows the title's alignment
       if (logos && title && getComputedStyle(title).textAlign !== "center") setStyle(logos, "justifyContent", "flex-start");
       var last = intro || title;

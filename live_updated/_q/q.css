@@ -26,6 +26,10 @@ html[data-q-theme] body { background: var(--q-bg); }
    nearly close ("ArchitectingAmbition", 5.7px at 36px). Open the tracking a little and give words a normal space. */
 [data-q-eyebrow], [data-q-eyebrow] * { --framer-letter-spacing: -0.01em !important; letter-spacing: -0.01em !important; word-spacing: 0.06em; }
 [data-q-title], [data-q-title] * { --framer-letter-spacing: -0.015em !important; letter-spacing: -0.015em !important; word-spacing: 0.04em; }
+/* the pack's eyebrow labels ("AZURE · APPLICATION ENGINEERING") are kickers: the small tracked caps of .q-kicker,
+   in the hero's own text colour, instead of the live slot's large serif line */
+[data-q-kicker], [data-q-kicker] * { --framer-font-family: var(--q-sans) !important; font-family: var(--q-sans) !important; --framer-font-size: 13px !important; font-size: 13px !important; --framer-font-weight: 600 !important; font-weight: 600 !important; --framer-letter-spacing: 0.16em !important; letter-spacing: 0.16em !important; --framer-line-height: 1.6 !important; line-height: 1.6 !important; text-transform: uppercase; word-spacing: normal; text-wrap: balance; }
+@media (max-width: 809.98px) { [data-q-kicker], [data-q-kicker] * { --framer-font-size: 12px !important; font-size: 12px !important; letter-spacing: 0.14em !important; } }
 /* the intro is short (2-5 lines): even lines, no word or two left hanging on the last one */
 [data-q-intro] { text-wrap: balance !important; }
 /* browsers balance up to 6 lines; a longer intro (a phone) keeps its last word company instead (q.js adds .q-long) */

@@ -366,7 +366,8 @@ function heroFor(p) {
     return { eyebrow: h.fields.eyebrow || "", title: h.fields.heading || p.title, intro: ps[0] || "", rest: ps.slice(1), actions: (h.actions || []).map((a) => ({ label: a.label, t: target(a) })) };
   }
   const parent = p.parent && byId[p.parent];
-  const eyebrow = norm(p.title) !== norm(p.heading) ? p.title : parent ? parent.title : "";
+  // the pack's eyebrow where it has one; otherwise the page's name (or its parent's, when the name is the heading)
+  const eyebrow = p.eyebrow || (norm(p.title) !== norm(p.heading) ? p.title : parent ? parent.title : "");
   const ip = paras(p.intro);
   let intro, rest;
   if (p.subheading) { intro = p.subheading; rest = (p.lead ? [p.lead] : []).concat(ip); }
@@ -375,7 +376,7 @@ function heroFor(p) {
   const actions = [];
   if (p.cta && p.id !== "contact") actions.push({ label: p.cta.label || "Talk to an Architect", t: { href: pagePath(p.cta.target || "contact") } });
   if (pages.some((q) => q.parent === p.id)) actions.push({ label: "Explore this area", t: { href: "#explore" } });
-  return { eyebrow, title: p.heading || p.title, intro, rest, actions };
+  return { eyebrow, kicker: !!p.eyebrow, title: p.heading || p.title, intro, rest, actions };
 }
 
 // Which texts in the live hero are the eyebrow, title, intro and buttons (from the desktop extraction).
@@ -429,7 +430,7 @@ function rewriteHero(heroNode, roles, hero) {
     const t = H.text(node);
     if (!t) continue;
     // roles are marked so q.js can fit the live boxes to the new (often longer) copy
-    if (t === roles.eyebrow[0]) { if (hero.eyebrow) { setText(node, hero.eyebrow); kept.add(node); eyebrowNodes.push(node); node.attrs["data-q-eyebrow"] = ""; } else drop.push(node); }
+    if (t === roles.eyebrow[0]) { if (hero.eyebrow) { setText(node, hero.eyebrow); kept.add(node); eyebrowNodes.push(node); node.attrs["data-q-eyebrow"] = ""; if (hero.kicker) node.attrs["data-q-kicker"] = ""; } else drop.push(node); }
     else if (t === roles.title[0]) { setText(node, hero.title); kept.add(node); titleNodes.push(node); node.attrs["data-q-title"] = ""; }
     else if (t === roles.intro[0]) { if (hero.intro) { setText(node, hero.intro); kept.add(node); introNodes.push(node); node.attrs["data-q-intro"] = ""; } else drop.push(node); }
     else if (roles.eyebrow.includes(t) || roles.title.includes(t) || roles.intro.includes(t)) drop.push(node);
