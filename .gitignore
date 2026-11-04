@@ -10,3 +10,5 @@ Desktop.ini
 *.log
 *.tmp
 *.part-*
+# static deploy output (node build_deploy.js)
+dist/

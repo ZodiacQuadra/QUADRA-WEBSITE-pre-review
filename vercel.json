@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "node build_deploy.js",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/_img/:file", "destination": "https://framerusercontent.com/images/:file" },
+    { "source": "/_mirror/framerusercontent.com/:path*", "destination": "https://framerusercontent.com/:path*" },
+    { "source": "/_mirror/fonts.gstatic.com/:path*", "destination": "https://fonts.gstatic.com/:path*" }
+  ]
+}

@@ -21,6 +21,15 @@ The untouched copy of the live site (before the new content) can be served next 
 node serve_site.js 8082 live_mirror
 ```
 
+## Deploy (Vercel or any static host)
+
+`vercel.json` tells Vercel to run `node build_deploy.js` and publish `dist/`. That script merges `live_updated/` over
+`live_mirror/` into `dist/` and turns every `http://localhost:8081` address into a root-relative one, so the same
+site works on any domain. Two things are left to Framer's public CDN through the rewrites in `vercel.json`, read-only
+as the local server does: image sizes that were never saved locally (`/_img/...`) and the CMS data that Framer reads
+in slices (`.framercms`). To try the static build locally: `node build_deploy.js`, then serve `dist/` with any
+static server.
+
 ## What is in here
 
 | Path | What it is |

@@ -27,10 +27,20 @@ const TYPES = {
 // Framer icon modules are named like "CaretDown.js@0.0.57"
 const typeOf = (file) => (/\.m?js@[\d.]+$/.test(file) ? TYPES[".js"] : TYPES[path.extname(file).toLowerCase()] || "application/octet-stream");
 
-function send(res, status, file) {
+// Byte ranges are honoured: Framer loads its CMS data (.framercms) in parts with Range requests, as a CDN allows.
+function send(res, status, file, range) {
   fs.stat(file, (err, st) => {
     if (err) { res.writeHead(500); return res.end("Server error"); }
-    res.writeHead(status, { "Content-Type": typeOf(file), "Content-Length": st.size, "Cache-Control": "no-cache", "Access-Control-Allow-Origin": "*" });
+    const head = { "Content-Type": typeOf(file), "Cache-Control": "no-cache", "Access-Control-Allow-Origin": "*", "Accept-Ranges": "bytes" };
+    const m = status === 200 && /^bytes=(\d*)-(\d*)$/.exec(range || "");
+    if (m && (m[1] || m[2])) {
+      let start = m[1] ? +m[1] : Math.max(0, st.size - +m[2]);
+      let end = m[1] && m[2] ? Math.min(+m[2], st.size - 1) : st.size - 1;
+      if (start > end || start >= st.size) { res.writeHead(416, { "Content-Range": `bytes */${st.size}` }); return res.end(); }
+      res.writeHead(206, { ...head, "Content-Range": `bytes ${start}-${end}/${st.size}`, "Content-Length": end - start + 1 });
+      return fs.createReadStream(file, { start, end }).pipe(res);
+    }
+    res.writeHead(status, { ...head, "Content-Length": st.size });
     fs.createReadStream(file).pipe(res);
   });
 }
@@ -55,6 +65,24 @@ function fetchOnce(file, url, transform) {
     inflight.set(file, job.finally(() => inflight.delete(file)));
   }
   return inflight.get(file);
+}
+
+// Framer's CMS data (.framercms) is read in slices: ?range=a-b,c-d asks for those byte ranges, joined, as Framer's
+// CDN answers it. Without this the CMS-driven parts of live pages fail ("Unexpected response length").
+function sendSlices(res, file, query) {
+  const spec = decodeURIComponent((query.split("&").find((q) => q.startsWith("range=")) || "").slice(6));
+  fs.readFile(file, (err, buf) => {
+    if (err) { res.writeHead(500); return res.end("Server error"); }
+    const parts = [];
+    for (const r of spec.split(",")) {
+      const m = /^(\d+)-(\d+)$/.exec(r.trim());
+      if (!m || +m[1] > +m[2] || +m[2] >= buf.length) { res.writeHead(416); return res.end("Bad range"); }
+      parts.push(buf.subarray(+m[1], +m[2] + 1));
+    }
+    const out = Buffer.concat(parts);
+    res.writeHead(200, { "Content-Type": "application/octet-stream", "Content-Length": out.length, "Cache-Control": "no-cache", "Access-Control-Allow-Origin": "*" });
+    res.end(out);
+  });
 }
 
 // Offline copy: fetch a missing file once from its public file server and keep it.
@@ -113,7 +141,8 @@ const server = http.createServer((req, res) => {
   if (urlPath.startsWith("/_mirror/framerusercontent.com/images/") && query.split("&").some((q) => SIZE_Q.test(q))) return sizedImage(urlPath, query, res);
   const found = resolve(urlPath);
   if (found.forbidden) { res.writeHead(403); return res.end("Forbidden"); }
-  if (found.file) return send(res, 200, found.file);
+  if (found.file && /\.framercms$/i.test(found.file) && /(^|&)range=/.test(query)) return sendSlices(res, found.file, query);
+  if (found.file) return send(res, 200, found.file, req.headers.range);
   if (urlPath.startsWith("/_mirror/")) return fillMissing(urlPath, path.join(MIRROR_ROOT, path.normalize(urlPath)), res);
   notFound(res);
 });
