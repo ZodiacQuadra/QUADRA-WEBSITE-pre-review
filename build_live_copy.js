@@ -176,12 +176,32 @@ function logoHtml(pr, { link, decorative, text } = {}) {
 }
 const logoRow = (prods, cls = "") => (prods.length ? `<div class="q-logos${cls ? " " + cls : ""}">${prods.map((pr) => logoHtml(pr, { link: true })).join("")}</div>` : "");
 
-function card({ title, body, href, external, image, num, question, foot, tag, logos }) {
+// art: a card with no photo in a row of photo cards gets a quiet branded tile instead, so the row stays aligned.
+// cover: the image is a 2:1 artwork with words in it (founder post covers), shown uncropped.
+function card({ title, body, href, external, image, num, question, foot, tag, logos, art, cover }) {
   // a card about one of Quadra's platforms carries its logo at its foot (linked unless the card itself is a link)
   const marks = (logos || []).map((pr) => logoHtml(pr, { link: !href, decorative: norm(title).startsWith(pr.name), text: title })).join("");
-  const inner = `${image ? imgTag(image, 1024) : ""}${tag ? `<span class="q-tag">${esc(tag)}</span>` : ""}${num && !marks ? `<span class="q-num">${esc(num)}</span>` : ""}<h3>${esc(title || "")}</h3>${question ? `<p class="q-question">${esc(question)}</p>` : ""}${pHtml(body)}${marks ? `<div class="q-logos q-card-logos">${marks}</div>` : ""}${foot ? `<span class="q-foot">${foot}</span>` : ""}`;
-  if (href) return `<a class="q-card q-reveal" href="${escA(href)}"${external ? ' target="_blank" rel="noopener noreferrer"' : ""}>${inner}</a>`;
-  return `<div class="q-card q-reveal">${inner}</div>`;
+  const media = image ? imgTag(image, 1024) : art ? '<span class="q-card-art" aria-hidden="true"></span>' : "";
+  const inner = `${media}${tag ? `<span class="q-tag">${esc(tag)}</span>` : ""}${num && !marks ? `<span class="q-num">${esc(num)}</span>` : ""}<h3>${esc(title || "")}</h3>${question ? `<p class="q-question">${esc(question)}</p>` : ""}${pHtml(body)}${marks ? `<div class="q-logos q-card-logos">${marks}</div>` : ""}${foot ? `<span class="q-foot">${foot}</span>` : ""}`;
+  const cls = `q-card${cover ? " q-cover" : ""} q-reveal`;
+  if (href) return `<a class="${cls}" href="${escA(href)}"${external ? ' target="_blank" rel="noopener noreferrer"' : ""}>${inner}</a>`;
+  return `<div class="${cls}">${inner}</div>`;
+}
+
+// The founder's latest published perspectives on the live site (title, date, cover artwork), newest first.
+function founderPosts(n) {
+  const posts = [];
+  for (const [p, lp] of LX) {
+    if (!/^\/foundersblog\/[^/]+$/.test(p) || !inMirror.has(p)) continue;
+    const flat = [];
+    const visit = (bs) => bs.forEach((b) => (b.t === "card" ? visit(b.blocks) : flat.push(b)));
+    lp.sections.forEach((s) => visit(s.blocks));
+    const title = flat.find((b) => b.t === "h1" || b.t === "h2");
+    const date = flat.find((b) => b.t === "p" && /^[A-Z][a-z]{2} \d{1,2}, \d{4}$/.test(b.text));
+    const cover = flat.filter((b) => b.t === "img")[1]; // the first image is the author's portrait
+    if (title && date && cover) posts.push({ path: p, title: title.text, date: date.text, when: Date.parse(date.text), cover });
+  }
+  return posts.sort((a, b) => b.when - a.when).slice(0, n);
 }
 
 // "Outcomes to work toward: A, B, C, and D." -> { label, items: [A, B, C, D] } (wording kept as written)
@@ -205,6 +225,7 @@ function renderSection(s, i, imgs, state) {
     const anyLogo = s.cards.some((c) => productsIn(c.title, c.body).length);
     const allLogo = s.cards.every((c) => productsIn(c.title, c.body).length);
     const withImgs = !allLogo && s.cards.every((c) => c.target && byId[c.target] && firstImage(c.target));
+    const anyLinked = s.cards.some((c) => c.target && byId[c.target]);
     const cards = s.cards
       .map((c, n) => {
         const linked = c.target && byId[c.target];
@@ -214,7 +235,7 @@ function renderSection(s, i, imgs, state) {
           href: linked ? pagePath(c.target) : null,
           image: withImgs ? firstImage(c.target) : null,
           num: withImgs || anyLogo ? null : String(n + 1).padStart(2, "0"),
-          foot: linked ? `<span class="q-link">Explore${ARROW}</span>` : "",
+          foot: linked ? `<span class="q-link">Explore${ARROW}</span>` : anyLinked ? `<span class="q-link q-foot-spacer" aria-hidden="true">Explore${ARROW}</span>` : "",
           logos: productsIn(c.title, c.body),
         });
       })
@@ -289,8 +310,15 @@ function renderModule(m, p) {
         })
         .join("")}</div>${actionsRow(m.actions)}`);
     case "proposition":
-    case "perspectives":
-      return section(`${head(f.heading, f.body)}${actionsRow(m.actions)}`, m.kind === "perspectives" ? "q-band" : "");
+      return section(`${head(f.heading, f.body)}${actionsRow(m.actions)}`);
+    case "perspectives": {
+      // the invitation to read the founder's perspectives shows the three latest ones from the live site
+      const posts = founderPosts(3);
+      const grid = posts.length
+        ? `<div class="q-grid q-cols-3">${posts.map((x) => card({ title: x.title, href: x.path, image: { src: x.cover.src, alt: "" }, tag: x.date, cover: true, foot: `<span class="q-link">Read${ARROW}</span>` })).join("")}</div>`
+        : "";
+      return section(`${head(f.heading, f.body)}${grid}${actionsRow(m.actions)}`, "q-band");
+    }
     case "expertise_strip":
       return section(`${head(f.heading)}<div class="q-chips q-reveal">${String(f.body || "").split(/\s+·\s+/).map((c) => `<span class="q-chip">${esc(c.trim())}</span>`).join("")}</div>${actionsRow(m.actions)}`);
     case "proof":
@@ -299,7 +327,7 @@ function renderModule(m, p) {
           const a = (i.actions || [])[0];
           const t = a ? target(a) : null;
           const ci = t && !t.external ? caseInfo(t.href) : null;
-          return card({ title: i.fields.heading, body: i.fields.body, href: t && t.href, external: t && t.external, image: ci && ci.pic, tag: ci && ci.industry, foot: a ? `<span class="q-link">${esc(a.label)}${ARROW}</span>` : "" });
+          return card({ title: i.fields.heading, body: i.fields.body, href: t && t.href, external: t && t.external, image: ci && ci.pic, art: !!ci && !ci.pic, tag: ci && ci.industry, foot: a ? `<span class="q-link">${esc(a.label)}${ARROW}</span>` : "" });
         })
         .join("")}</div>${actionsRow(m.actions)}`, "q-band");
     case "call_to_action":
@@ -313,13 +341,13 @@ function renderModule(m, p) {
       const samples = (p.existing_case_sample || []).map((c) => {
         const t = target({ url: c.url });
         const ci = t && !t.external ? caseInfo(t.href) : null;
-        return card({ title: c.title, body: c.body, href: t && t.href, external: t && t.external, image: ci && ci.pic, tag: ci && ci.industry, foot: `<span class="q-link">${esc(f.card_cta || "Read the Case Study")}${ARROW}</span>` });
+        return card({ title: c.title, body: c.body, href: t && t.href, external: t && t.external, image: ci && ci.pic, art: !(ci && ci.pic), tag: ci && ci.industry, foot: `<span class="q-link">${esc(f.card_cta || "Read the Case Study")}${ARROW}</span>` });
       });
       const all = mirrorPaths.filter((x) => /^\/happy\/[^/]+$/.test(x)).map(caseInfo).filter(Boolean).sort((a, b) => a.title.localeCompare(b.title));
       return (
         section(`<p class="q-note" style="justify-content:center">Representative existing cases · original titles and summaries retained</p><div class="q-grid q-cols-${colsFor(samples.length)}">${samples.join("")}</div>${actionsRow(m.actions)}`) +
         section(`${head((f.results_plural || "{count} case studies").replace("{count}", all.length))}<div class="q-grid q-cols-3">${all
-          .map((c) => card({ title: c.title, body: c.summary, href: c.path, image: c.pic, tag: c.industry, foot: `<span class="q-link">${esc(f.card_cta || "Read the Case Study")}${ARROW}</span>` }))
+          .map((c) => card({ title: c.title, body: c.summary, href: c.path, image: c.pic, art: !c.pic, tag: c.industry, foot: `<span class="q-link">${esc(f.card_cta || "Read the Case Study")}${ARROW}</span>` }))
           .join("")}</div>`, "q-band")
       );
     }
@@ -772,7 +800,7 @@ function buildRebuilt(p) {
   // Framer orders sections with CSS `order` (per breakpoint). New sections take the highest order among the visible
   // kept sections (+1 when such a section comes later in the page); restored sections follow, then the closing band.
   const ORDER_JS = `<script>(function(){function v(x){return parseInt(getComputedStyle(x).order)||0}function s(x){return getComputedStyle(x).display!=="none"}function o(){var a=document.querySelector(".q-wrap"),b=document.querySelector(".q-wrap-end");if(!a)return;var k=[].slice.call(document.querySelectorAll("[data-q-keep]")).filter(s);var m=0;k.forEach(function(x){m=Math.max(m,v(x))});var t=k.some(function(x){return v(x)===m&&(a.compareDocumentPosition(x)&4)});var qa=m+(t?1:0);a.style.order=qa;var ma=qa;[].slice.call(document.querySelectorAll("[data-q-after]")).filter(s).forEach(function(x){x.style.order="";if(v(x)<qa)x.style.order=qa;ma=Math.max(ma,v(x))});if(b)b.style.order=ma}o();document.addEventListener("DOMContentLoaded",o);addEventListener("resize",o)})()</script>`;
-  const seq = [H.htmlNode(`<div class="q-wrap">${body.main}</div>`), ...restored, H.htmlNode(`<div class="q-wrap q-wrap-end">${body.end}</div>${ORDER_JS}`)];
+  const seq = [H.htmlNode(`<div class="q-wrap">${body.main}</div>`), ...restored, H.htmlNode(`<div class="q-wrap q-wrap-end">${body.end}<p class="q-badge"><b>New content</b> · local copy</p></div>${ORDER_JS}`)];
   root.children.splice(insertAt < 0 ? root.children.length : insertAt, 0, ...seq);
 
   const seo = p.seo || {};
@@ -782,7 +810,7 @@ function buildRebuilt(p) {
   const bodyEl = H.find(doc, (n) => n.tag === "body");
   const globe = keptLive.length && GLOBE_MODULE ? `<script>window.Q_GLOBE=${JSON.stringify(GLOBE_MODULE)}</script>` : "";
   const compass = COMPASS ? `${launcherHtml()}<script>window.Q_COMPASS=${JSON.stringify(COMPASS).replace(/</g, "\\u003c")}</script><script src="/_q/compass.js" defer></script>` : "";
-  bodyEl.children.push(H.htmlNode(`${menusHtml(PATHS[p.id])}<span class="q-badge"><b>New content</b> · local copy</span>${globe}${compass}<script src="/_q/q.js" defer></script>`));
+  bodyEl.children.push(H.htmlNode(`${menusHtml(PATHS[p.id])}${globe}${compass}<script src="/_q/q.js" defer></script>`));
   return H.serialize(doc);
 }
 
